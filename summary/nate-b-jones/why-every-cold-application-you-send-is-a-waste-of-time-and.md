@@ -1,5 +1,7 @@
 # Why Every Cold Application You Send Is a Waste of Time — Summary
 
+**Date:** 2026-01-29 15:00
+
 Digital platforms have held informational asymmetry for 20 years —
 they analyze your data but only show you what serves their business
 model (engagement, premium conversions). That asymmetry is now

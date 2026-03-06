@@ -1,5 +1,7 @@
 # My 10-Year-Old Vibe Codes and Does Math by Hand — Summary
 
+**Date:** 2026-02-28 16:00
+
 *Nature* published a peer-reviewed argument that AGI has arrived. 86% of
 students globally use AI in learning. Someone built an entire medical school
 curriculum with Claude Code in two weeks (450 lectures, 16,000 figures,

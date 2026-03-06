@@ -24,8 +24,9 @@ index.md           — catalog: date/time, title, links
    convert to markdown as-is without refactoring
 4. Generate `summary/<author>/<slug>.md`: 30–50 lines, preserve
    data points, insights, and actionable takeaways
-5. Update `index.md`: date and local time, author, title,
-   links to article/summary/source; newest first
+5. Update `index.md`: added date/time, author, original
+   publication date/time, title, links to article/summary/source;
+   newest first
 
 ## Conventions
 
@@ -36,3 +37,5 @@ index.md           — catalog: date/time, title, links
 - Refactoring fixes: misspelled proper nouns, verbal artifacts,
   run-on paragraphs, missing structure
 - Raw files kept as-is for reference
+- Original publication date/time tracked in index (after author),
+  article metadata, and summary metadata

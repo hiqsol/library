@@ -1,5 +1,7 @@
 # The Skill That Separates AI Power Users From Everyone Else — Summary
 
+**Date:** 2026-01-21 15:01
+
 Cursor CEO Michael Truell ran GPT-5.2 for a week straight (Jan 2026),
 producing 3 million lines of Rust code — a functional browser rendering
 engine. This forces the question: is your AI colleague-shaped or

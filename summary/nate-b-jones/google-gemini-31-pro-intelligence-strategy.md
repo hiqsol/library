@@ -1,5 +1,7 @@
 # Google's Gemini 3.1 Pro: Intelligence Strategy — Summary
 
+**Date:** 2026-02-23 15:00
+
 Nate B Jones analyzes why Google shipped the top-benchmarked AI model at
 a fraction of competitors' prices and doesn't need you to use it.
 

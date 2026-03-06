@@ -1,5 +1,7 @@
 # OpenClaw Agents Are Hiring Each Other and Building Societies — Summary
 
+**Date:** 2026-02-03 15:01
+
 AI agents running on personal hardware have begun self-organizing without
 company orchestration. The phenomenon centers on OpenClaw (formerly
 Claudebot, then Moltbot after Anthropic's trademark action). Over 100,000

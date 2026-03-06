@@ -1,5 +1,7 @@
 # The $285 Billion Crash Wall Street Won't Explain Honestly — Summary
 
+**Date:** 2026-02-10 15:00
+
 On January 30th, Anthropic released open-source plugins for Claude Co-work.
 A ~200-line markdown prompt for legal contract review triggered a $285B
 market cap wipeout in 48 hours: Thomson Reuters -16%, RELX -14%, LegalZoom

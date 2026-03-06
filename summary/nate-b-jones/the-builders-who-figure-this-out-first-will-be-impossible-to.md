@@ -1,6 +1,8 @@
 # The Builders Who Figure This Out First Will Be Impossible
 # to Catch — Summary
 
+**Date:** 2026-01-23 15:00
+
 The bottleneck has shifted from capability (prompting, tool fluency)
 to cognitive architecture and systems thinking. Top 1% builders in
 2026 use the same tools as everyone else — the difference is how

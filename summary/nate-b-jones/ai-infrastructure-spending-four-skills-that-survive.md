@@ -1,5 +1,7 @@
 # Why $650B in AI Spending Isn't Enough — Summary
 
+**Date:** 2026-02-14 16:00
+
 Nate B Jones argues that the $650–700B in AI infrastructure spending
 by the five largest tech companies in 2026 is not a bubble — it's
 probably insufficient for the agentic era now arriving.

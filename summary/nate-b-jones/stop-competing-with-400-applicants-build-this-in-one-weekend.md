@@ -1,6 +1,8 @@
 # Stop Competing With 400 Applicants, Build This in One Weekend
 # — Summary
 
+**Date:** 2026-01-16 15:00
+
 Job application success rate has dropped to ~0.4%. 88% of employers
 admit their systems miss qualified people. Both sides escalate an AI
 arms race — candidates gaming filters, companies building filters.

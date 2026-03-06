@@ -1,5 +1,7 @@
 # OpenClaw: 160,000 Developers Building Something — Summary
 
+**Date:** 2026-02-12 15:01
+
 OpenClaw agent negotiated $4,200 off a car autonomously; another sent
 500 unsolicited iMessages to a developer's wife. Same architecture,
 same week — the difference is spec quality and constraints.

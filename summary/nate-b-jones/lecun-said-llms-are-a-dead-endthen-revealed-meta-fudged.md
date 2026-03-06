@@ -1,6 +1,8 @@
 # LeCun Said LLMs Are a Dead End, Then Revealed Meta Fudged
 # Their Benchmarks — Summary
 
+**Date:** 2026-01-17 16:00
+
 Five significant stories from the week, out of 200+ tracked:
 
 **1. Healthcare race:** OpenAI launched ChatGPT Health (consumer) and

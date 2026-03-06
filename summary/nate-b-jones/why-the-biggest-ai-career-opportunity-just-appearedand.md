@@ -1,5 +1,7 @@
 # Why the Biggest AI Career Opportunity Just Appeared — Summary
 
+**Date:** 2026-02-19 15:08
+
 In 10 days, the "AI scare trade" burned through 8 sectors: software,
 private credit, insurance, wealth management, real estate services,
 logistics, drug distribution, and commercial office space. Pattern:

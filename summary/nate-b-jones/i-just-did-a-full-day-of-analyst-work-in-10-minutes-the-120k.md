@@ -1,5 +1,7 @@
 # Full Day of Analyst Work in 10 Minutes — Summary
 
+**Date:** 2026-02-13 15:00
+
 Claude in Excel (Pro plan, $20/month) and Claude in PowerPoint (Max,
 ~$100/month) shipped with Opus 4.6 in February 2026. A Goldman
 analyst confirmed the output — a full operating model plus board

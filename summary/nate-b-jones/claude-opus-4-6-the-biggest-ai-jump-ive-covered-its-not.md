@@ -1,5 +1,7 @@
 # Claude Opus 4.6: The Biggest AI Jump I've Covered — Summary
 
+**Date:** 2026-02-11 15:31
+
 Opus 4.6 shipped February 5, 2026. Sixteen agents coded autonomously for
 two weeks and delivered a 100,000-line Rust C compiler for ~$20,000. A year
 ago, autonomous coding topped out at 30 minutes.

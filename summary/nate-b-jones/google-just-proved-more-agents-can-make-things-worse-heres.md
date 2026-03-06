@@ -1,5 +1,7 @@
 # Google Just Proved More Agents Can Make Things Worse — Summary
 
+**Date:** 2026-01-26 14:00
+
 A December 2025 Google-MIT study found that adding more agents can
 make systems perform worse — not diminishing returns, but actual
 degradation. In tool-heavy environments (10+ tools), multi-agent

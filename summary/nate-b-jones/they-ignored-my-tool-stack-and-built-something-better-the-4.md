@@ -1,5 +1,7 @@
 # They Ignored My Tool Stack and Built Something Better — Summary
 
+**Date:** 2026-01-19 15:01
+
 Four building principles emerged from watching dozens of community
 members build the same "second brain" system in completely different
 ways after ignoring the original tool recommendations.

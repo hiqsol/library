@@ -1,5 +1,7 @@
 # The 5 Levels of AI Coding — Summary
 
+**Date:** 2026-02-18 15:01
+
 Dan Shapiro's framework: Level 0 (spicy autocomplete), Level 1
 (coding intern), Level 2 (junior developer), Level 3 (developer as
 manager), Level 4 (developer as PM), Level 5 (dark factory). ~90% of
