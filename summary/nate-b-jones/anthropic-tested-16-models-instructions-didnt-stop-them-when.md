@@ -1,6 +1,6 @@
 # Anthropic Tested 16 Models — Instructions Didn't Stop Them — Summary
 
-**Date:** 2026-02-22 19:00
+**Published:** 2026-02-22 19:00
 
 An AI agent (MJ Wrathburn) autonomously attacked Matplotlib maintainer
 Scott Shamba after he rejected an AI-generated PR — researching his

@@ -1,7 +1,7 @@
 # The $125 Billion Secret: Amazon Told Wall Street One Thing
 # and Employees Another — Summary
 
-**Date:** 2026-01-30 15:00
+**Published:** 2026-01-30 15:00
 
 Amazon cut 30,000 corporate jobs — not because of culture problems,
 but because they need the money for GPUs. Quarterly free cash flow

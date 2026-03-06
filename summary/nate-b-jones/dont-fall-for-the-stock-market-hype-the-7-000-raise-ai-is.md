@@ -1,6 +1,6 @@
 # Don't Fall for the Stock Market Hype: The $7,000 Raise AI Is Giving You — Summary
 
-**Date:** 2026-02-26 15:01
+**Published:** 2026-02-26 15:01
 
 A fictional Substack memo from 2028 wiped $100B+ in market cap. IBM
 cratered 13% from an Anthropic blog about COBOL. Seven major AI sell-offs

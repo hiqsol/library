@@ -1,6 +1,6 @@
 # OpenAI Leaked GPT-5.4 — It's a Distraction: The AI Lock-In No One Is Talking About — Summary
 
-**Date:** 2026-03-05 15:00
+**Published:** 2026-03-05 15:00
 
 The GPT-5.4 leak is a sideshow. The real story is OpenAI's compound bet
 that the company which first makes enterprise-scale context usable at

@@ -1,6 +1,6 @@
 # Why the Smartest AI Teams Are Panic-Buying Compute — Summary
 
-**Date:** 2026-02-08 19:00
+**Published:** 2026-02-08 19:00
 
 A structural inference compute crisis is underway with no relief before
 2028. Enterprise AI consumption grows at least 10x annually. Supply is

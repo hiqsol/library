@@ -1,6 +1,6 @@
 # Shopify's AI Memo Changed Hiring Forever — Summary
 
-**Date:** 2026-01-13 15:01
+**Published:** 2026-01-13 15:01
 
 Tobi Lutke's April 2025 memo mandated: reflexive AI usage as baseline,
 AI dominating prototype phase, AI in performance reviews, prove AI

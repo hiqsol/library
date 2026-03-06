@@ -1,6 +1,6 @@
 # 90% of People Fail at Vibe Coding: You're Skipping the Hard Part — Summary
 
-**Date:** 2026-02-07 16:01
+**Published:** 2026-02-07 16:01
 
 Vibe coding crossed a threshold in early 2026: friction dropped enough
 that building software shifted from work to play. Models hold context

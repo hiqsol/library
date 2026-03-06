@@ -1,6 +1,6 @@
 # Why Your Best Employees Quit Using AI After 3 Weeks — Summary
 
-**Date:** 2026-01-25 19:00
+**Published:** 2026-01-25 19:00
 
 Microsoft tracked 300,000 employees using Copilot. Excitement peaked
 at week 3, then cratered. Most quietly stopped. Result: ~20% monthly

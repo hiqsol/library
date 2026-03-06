@@ -1,6 +1,6 @@
 # Why Every AI Skill You Learned 6 Months Ago Is Already Wrong — Summary
 
-**Date:** 2026-03-01 19:00
+**Published:** 2026-03-01 19:00
 
 The AI capability boundary is an expanding bubble. Tasks migrate inside as
 agents improve, but the surface area (the frontier) grows — more seams, more

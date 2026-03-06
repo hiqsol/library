@@ -1,6 +1,6 @@
 # Prompt Engineering Is Dead, Context Engineering Is Dying — Summary
 
-**Date:** 2026-02-24 15:00
+**Published:** 2026-02-24 15:00
 
 **Klarna case:** AI agent did the work of 853 FTEs, saved $60M, resolved
 2.3M conversations in month one across 23 markets/35 languages. Resolution

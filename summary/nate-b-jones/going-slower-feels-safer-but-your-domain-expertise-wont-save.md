@@ -1,6 +1,6 @@
 # Going Slower Feels Safer, But Your Domain Expertise Won't Save You — Summary
 
-**Date:** 2026-02-09 15:01
+**Published:** 2026-02-09 15:01
 
 Two collapses are happening simultaneously in knowledge work:
 

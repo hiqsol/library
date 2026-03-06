@@ -1,6 +1,6 @@
 # This Is Why You Are Still Slow Even With AI — Summary
 
-**Date:** 2026-01-15 15:01
+**Published:** 2026-01-15 15:01
 
 Anthropic shipped Co-work in 10 days with 4 people using Claude Code,
 releasing 60–100 times daily. Meanwhile most companies are writing

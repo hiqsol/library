@@ -2,7 +2,7 @@
 
 - **Source:** [YouTube — Nate B Jones / AI News & Strategy Daily](https://www.youtube.com/watch?v=dZxyeYBxPBA)
 - **Author:** Nate B Jones
-- **Date:** 2026-02-04 15:01
+- **Published:** 2026-02-04 15:01
 
 ---
 

@@ -1,6 +1,6 @@
 # Task Queues Are Replacing Chat Interfaces — Summary
 
-**Date:** 2026-01-14 15:01
+**Published:** 2026-01-14 15:01
 
 Anthropic built Claude Co-work in 10 days after observing developers
 using Claude Code (a coding tool) for expense receipts, photo

@@ -1,6 +1,6 @@
 # 90% of AI Users Are Getting Mediocre Output — Summary
 
-**Date:** 2026-02-05 15:00
+**Published:** 2026-02-05 15:00
 
 Default AI output is the statistical median — optimized for the typical
 user via RLHF (reinforcement learning from human feedback). Raters pick

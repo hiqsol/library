@@ -1,6 +1,6 @@
 # Stop Treating Image Generation Like a Design Tool — Summary
 
-**Date:** 2026-01-18 19:00
+**Published:** 2026-01-18 19:00
 
 Nano Banana Pro hit 1 billion images in 53 days. The media frames it
 as a creative tool. The real story: AI can now reliably interpret and

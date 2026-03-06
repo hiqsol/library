@@ -1,7 +1,7 @@
 # Index
 
-- 2026-03-06 16:27 - Dan Shapiro - 2025-09-22
-  THE 10 FOREVER RULES OF AI
+- 2026-03-06 16:27 - Dan Shapiro - 2025-09-22 12:00
+  The 10 Forever Rules of AI
   [article](articles/dan-shapiro/the-10-forever-rules-of-ai.md)
   | [summary](summary/dan-shapiro/the-10-forever-rules-of-ai.md)
   | [source](https://www.danshapiro.com/blog/2025/09/the-10-forever-rules-of-ai/)

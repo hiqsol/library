@@ -1,6 +1,6 @@
 # The Job Market Split Nobody's Talking About — Summary
 
-**Date:** 2026-02-15 19:00
+**Published:** 2026-02-15 19:00
 
 The marginal cost of producing software is collapsing to zero (90%
 of Claude Code self-written, 3-person teams replacing 10-person

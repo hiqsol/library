@@ -1,7 +1,7 @@
 # THE 10 FOREVER RULES OF AI
 
 **Author:** Dan Shapiro
-**Date:** 2025-09-22
+**Published:** 2025-09-22
 
 June 2023. ChatGPT was six months old. We’d launched our first AI feature, Magic Canvas, three
 months before. I was meeting with our friends at Joann Fabric (may they rest in polyester) to

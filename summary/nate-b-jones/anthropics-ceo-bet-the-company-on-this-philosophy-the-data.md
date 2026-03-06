@@ -1,6 +1,6 @@
 # Anthropic's CEO Bet the Company on This Philosophy — Summary
 
-**Date:** 2026-02-06 15:01
+**Published:** 2026-02-06 15:01
 
 Anthropic released an 80-page "constitution" for Claude. Core bet:
 teaching AI *why* to behave produces better results than telling it *what*

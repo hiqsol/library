@@ -1,7 +1,7 @@
 # The Ticking Time Bomb in Every Codebase Over 18 Months Old
 # — Summary
 
-**Date:** 2026-01-28 15:00
+**Published:** 2026-01-28 15:00
 
 AI may be structurally superior to humans at certain aspects of
 software architecture — not because it is smarter, but because humans

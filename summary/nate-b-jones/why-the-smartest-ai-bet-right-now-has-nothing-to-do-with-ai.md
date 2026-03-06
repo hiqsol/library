@@ -1,6 +1,6 @@
 # Why the Smartest AI Bet Right Now Has Nothing to Do With AI — Summary
 
-**Date:** 2026-02-01 19:00
+**Published:** 2026-02-01 19:00
 
 The Davos "abundance for all" narrative from Musk, Amodei, and others
 is the wrong frame. The practical frame is the **bottleneck economy**:

@@ -1,6 +1,6 @@
 # Prompting Just Split Into 4 Skills — Summary
 
-**Date:** 2026-02-27 15:00
+**Published:** 2026-02-27 15:00
 
 Models have stopped being chat partners and started being workers running
 for days/weeks. Opus 4.6, Gemini 3.1 Pro, GPT-5.3 Codex all shipped

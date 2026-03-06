@@ -23,5 +23,3 @@ Personal knowledge library from video transcripts and web articles.
 - Summaries preserve concrete numbers, names, and key arguments.
 - Raw files kept as-is — never modify them after download.
 - Use `date '+%Y-%m-%d %H:%M'` for index timestamps — never guess.
-- Track original publication date/time (YYYY-MM-DD HH:MM UTC) in index, article, and summary.
-- In index: after author on the same line. In article/summary: in metadata header.

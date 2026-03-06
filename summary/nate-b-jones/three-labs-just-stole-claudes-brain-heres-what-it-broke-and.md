@@ -1,6 +1,6 @@
 # Three Labs Just Stole Claude's Brain — Summary
 
-**Date:** 2026-02-25 15:00
+**Published:** 2026-02-25 15:00
 
 DeepSeek, Moonshot, and MiniMax ran 16 million automated conversations
 with Claude across 24,000 fake accounts. Not a Cold War — a Napster

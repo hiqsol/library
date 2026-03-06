@@ -1,6 +1,6 @@
 # The $285B Sell-Off Was Just the Beginning — Summary
 
-**Date:** 2026-02-21 16:00
+**Published:** 2026-02-21 16:00
 
 The web is forking into a human web and an agent web. In a single
 week, Coinbase launched Agentic Wallets, Cloudflare shipped Markdown
