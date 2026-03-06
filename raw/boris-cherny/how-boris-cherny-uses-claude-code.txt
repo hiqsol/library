@@ -1,0 +1,103 @@
+Source URL: https://x.com/bcherny/status/2007179832300581177
+Capture date: 2026-03-06 18:11
+
+Primary direct mirror:
+https://api.fxtwitter.com/status/2007179832300581177
+
+Author: Boris Cherny (@bcherny)
+Created at: Fri Jan 02 19:58:58 +0000 2026
+URL: https://x.com/bcherny/status/2007179832300581177
+Replies: 1287
+Retweets: 6921
+Likes: 53689
+Bookmarks: 102521
+Views: 7938469
+
+Root text:
+I'm Boris and I created Claude Code. Lots of people have asked how I use Claude Code, so I wanted
+to show off my setup a bit.
+
+My setup might be surprisingly vanilla! Claude Code works great out of the box, so I personally
+don't customize it much. There is no one correct way to use Claude Code: we intentionally build it
+in a way that you can use it, customize it, and hack it however you like. Each person on the
+Claude Code team uses it very differently.
+
+So, here goes.
+
+Mirror sources used for thread reconstruction:
+- https://twstalker.com/bcherny/status/2007179832300581177
+- search engine snippet for the thread page
+
+Recovered thread points from mirrors and screenshots:
+
+1/ I run 5 Claudes in parallel in my terminal. I number my tabs 1-5 and use system notifications
+to know when a Claude needs input.
+Image: https://pbs.twimg.com/media/G9rtc4EasAELEzh.jpg
+
+2/ I also run 5-10 Claudes on claude.ai/code in parallel with my local Claudes. As I code in the
+terminal, I often hand off local sessions to web using &, manually kick off sessions in Chrome,
+sometimes --teleport back and forth, and start a few sessions from my phone every morning.
+Image: https://pbs.twimg.com/media/G9reZjqaYAA9btU.jpg
+
+3/ Use Claude to write and refine CLAUDE.md. One screenshot shows:
+- Always use bun, not npm
+- Make changes
+- Typecheck fast
+- Run tests
+- Lint before committing
+- Before creating PR, run lint:claude and test
+Image: https://pbs.twimg.com/media/G9rfKYRbkAA6Q3w.jpg
+
+4/ Ask Claude to update CLAUDE.md after mistakes. One screenshot shows a rule change from:
+- Prefer type over interface; avoid enum
+to:
+- Prefer type over interface; never use enum; use string literal unions instead
+Image: https://pbs.twimg.com/media/G9rhsVFasAIUCYj.jpg
+
+5/ Use plan mode heavily. One screenshot shows a prompt asking Claude to improve progress
+notification rendering and explicitly entering plan mode.
+Image: https://pbs.twimg.com/media/G9rjZcwasAQpPN6.png
+
+6/ Use custom slash commands. One screenshot shows /commit-push-pr, described as "Commit, push,
+and open a PR."
+Image: https://pbs.twimg.com/media/G9rj3eFasAEK_8J.jpg
+
+7/ Use custom subagents in .claude/agents. Visible files:
+- build-validator.md
+- code-architect.md
+- code-simplifier.md
+- oncall-guide.md
+- verify-app.md
+Image: https://pbs.twimg.com/media/G9rnUzEasAElFcN.png
+
+8/ Use hooks. One screenshot shows a PostToolUse Write|Edit hook that runs:
+"bun run format || true"
+Image: https://pbs.twimg.com/media/G9rrnTxasAAMoZ_.jpg
+
+9/ Use /permissions aggressively for safe command allowlists. One screenshot shows:
+- Bash(bq query:*)
+- Bash(bun run build:*)
+- Bash(bun run lint:file:*)
+- Bash(bun run test:*)
+- Bash(bun run test:file:*)
+- Bash(bun run typecheck:*)
+- Bash(bun test:*)
+- Bash(cc:*)
+- Bash(comm:*)
+- Bash(find:*)
+Image: https://pbs.twimg.com/media/G9rlDa-asAAXlHx.jpg
+
+10/ Use MCPs. One screenshot shows .mcp.json with a Slack MCP server:
+https://slack.mcp.anthropic.com/mcp
+Image: https://pbs.twimg.com/media/G9rl_pQb0AAILz8.jpg
+
+11/ Let long-running sessions think. One screenshot shows:
+Reticulating... (1d 2h 47m · 2.4m tokens · thinking)
+Image: https://pbs.twimg.com/media/G9ro4W5bEAAQ3ug.jpg
+
+Related observations from mirrors and search snippets:
+- Cherny uses a standalone terminal rather than an IDE.
+- He uses /vim.
+- By default he prefers permissions to ask and uses dangerously-skip-permissions only in safer
+  isolated environments such as Docker.
+- He uses Claude.ai in browser windows in parallel with terminal sessions.

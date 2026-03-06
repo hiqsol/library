@@ -1,0 +1,89 @@
+Source URL: https://x.com/bcherny/status/2017742741636321619
+Capture date: 2026-03-06 18:11
+
+Primary direct mirror:
+https://api.fxtwitter.com/status/2017742741636321619
+
+Author: Boris Cherny (@bcherny)
+Created at: Sat Jan 31 23:32:12 +0000 2026
+URL: https://x.com/bcherny/status/2017742741636321619
+Replies: 903
+Retweets: 5824
+Likes: 50727
+Bookmarks: 104051
+Views: 8984837
+
+Root text:
+I'm Boris and I created Claude Code. I wanted to quickly share a few tips for using Claude Code,
+sourced directly from the Claude Code team. The way the team uses Claude is different than how I
+use it. Remember: there is no one right way to use Claude Code -- everyones' setup is different.
+You should experiment to see what works for you!
+
+Full thread mirror:
+https://threadreaderapp.com/thread/2017742741636321619.html
+
+Thread text recovered from Thread Reader:
+
+1. Do more in parallel
+Spin up 3-5 git worktrees at once, each running its own Claude session in parallel. Cherny says it
+is the single biggest productivity unlock and the top tip from the team. He personally uses
+multiple git checkouts, while much of the team prefers worktrees. Some name worktrees and set shell
+aliases like za, zb, zc. Others keep a dedicated analysis worktree for logs and BigQuery.
+Image: https://pbs.twimg.com/media/HABmmP6bwAAWgUM.jpg
+
+2. Start every complex task in plan mode
+Pour energy into the plan so Claude can one-shot the implementation. One person has one Claude
+write the plan and a second Claude review it like a staff engineer. Another switches back to plan
+mode the moment things go sideways and also uses plan mode for verification steps.
+Image: https://pbs.twimg.com/media/HABm-MtbEAAMlsS.png
+
+3. Invest in your CLAUDE.md
+After every correction, say: "Update your CLAUDE.md so you don't make that mistake again." Cherny
+says Claude is eerily good at writing rules for itself. Ruthlessly edit CLAUDE.md over time until
+mistake rates measurably drop. One engineer keeps a notes directory for every task or project and
+points CLAUDE.md at it.
+Image: https://pbs.twimg.com/media/HABoHn9bQAAE-S1.png
+
+4. Create your own skills and commit them to git
+Tips from the team:
+- If you do something more than once a day, turn it into a skill or command
+- Build a /techdebt slash command and run it at the end of every session to find duplicated code
+- Set up a slash command that syncs 7 days of Slack, GDrive, Asana, and GitHub into one dump
+- Build analytics-engineer-style agents that write dbt models, review code, and test changes
+
+5. Claude fixes most bugs by itself
+Enable the Slack MCP, paste a Slack bug thread into Claude, and say "fix." Or say "Go fix the
+failing CI tests." Point Claude at docker logs to troubleshoot distributed systems.
+Image: https://pbs.twimg.com/media/HABy6cObEAQ4Rep.png
+
+6. Level up your prompting
+a. Challenge Claude. Ask it to grill you, review your changes, or prove behavior differences.
+b. After a mediocre fix, say: "Knowing everything you know now, scrap this and implement the
+   elegant solution."
+c. Write detailed specs and reduce ambiguity before handing work off.
+
+7. Terminal and environment setup
+The team likes Ghostty for synchronized rendering, 24-bit color, and unicode support. Use
+/statusline to show context usage and git branch. Many color-code and name tabs, sometimes with
+tmux. Use voice dictation because you speak around 3x faster than you type.
+Image: https://pbs.twimg.com/media/HABpv-MbEAAIskz.jpg
+
+8. Use subagents
+a. Append "use subagents" to requests when you want Claude to spend more compute.
+b. Offload individual tasks to subagents to keep the main agent's context clean.
+c. Route permission requests to Opus 4.5 via a hook to scan for attacks and auto-approve safe ones.
+Image: https://pbs.twimg.com/media/HAB0KLmbEAEfDJ6.png
+
+9. Use Claude for data and analytics
+Ask Claude Code to use the bq CLI to pull and analyze metrics. The team has a BigQuery skill
+checked into the codebase. Cherny says he has not written SQL in 6+ months. He says the same
+pattern works for any database with a CLI, MCP, or API.
+
+10. Learning with Claude
+a. Enable the Explanatory or Learning output style in /config to expose the why behind changes.
+b. Have Claude generate a visual HTML presentation explaining unfamiliar code.
+c. Ask Claude to draw ASCII diagrams of protocols and codebases.
+d. Build a spaced-repetition learning skill where Claude asks follow-ups and stores the result.
+
+Closing:
+Hope these tips are helpful! What do you want to hear about next?

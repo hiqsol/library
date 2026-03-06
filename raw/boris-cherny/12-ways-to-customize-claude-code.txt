@@ -1,0 +1,139 @@
+Source URL: https://x.com/bcherny/status/2021699851499798911
+Capture date: 2026-03-06 17:57
+
+Primary mirror capture:
+https://api.fxtwitter.com/status/2021699851499798911
+
+Author: Boris Cherny (@bcherny)
+Created at: Wed Feb 11 21:36:20 +0000 2026
+URL: https://x.com/bcherny/status/2021699851499798911
+Replies: 166
+Retweets: 383
+Likes: 4427
+Bookmarks: 7093
+Views: 572756
+
+Text:
+Reflecting on what engineers love about Claude Code, one thing that jumps out is its
+customizability: hooks, plugins, LSPs, MCPs, skills, effort, custom agents, status lines, output
+styles, etc.
+
+Every engineer uses their tools differently. We built Claude Code from the ground up to not just
+have great defaults, but to also be incredibly customizable. This is a reason why developers fall
+in love with the product, and why Claude Code's growth continues to accelerate.
+
+I wanted to share a few ways we're seeing people and teams customize their Claudes.
+
+Directly recovered reply:
+https://api.fxtwitter.com/status/2021699859359883608
+
+Author: Boris Cherny (@bcherny)
+Created at: Wed Feb 11 21:36:22 +0000 2026
+URL: https://x.com/bcherny/status/2021699859359883608
+Replying to: 2021699851499798911
+Views: 68854
+
+Text:
+1/ Configure your terminal
+
+- Theme: Run /config to set light/dark mode
+- Notifs: Enable notifications for iTerm2, or use a custom notifs hook
+- Newlines: If you use Claude Code in an IDE terminal, Apple Terminal, Warp, or Alacritty, run
+  /terminal-setup to enable shift+enter for newlines (so you don't need to type \)
+- Vim mode: run /vim
+
+https://code.claude.com/docs/en/terminal-config
+
+Media:
+https://pbs.twimg.com/media/HA6EwD8bsAQnna5.jpg?name=orig
+
+Supplemental recap quoting the full thread:
+https://api.fxtwitter.com/status/2021732731894608126
+
+Author: lucas (@lucas_flatwhite)
+Created at: Wed Feb 11 23:46:59 +0000 2026
+URL: https://x.com/lucas_flatwhite/status/2021732731894608126
+Quoted source: https://x.com/bcherny/status/2021699851499798911
+Language: ko
+
+Text:
+Claude Code를 나만의 것으로 만드는 12가지 방법
+
+1/ 터미널 설정하기
+- /config 으로 라이트/다크 모드 설정
+- iTerm2 알림 또는 커스텀 알림 hook
+- IDE 터미널, Apple Terminal, Warp, Alacritty에서는 /terminal-setup 으로
+  Shift+Enter 줄바꿈
+- /vim 으로 Vim 모드
+
+2/ effort level 조절하기
+- /model 실행
+- Low: 토큰 절약 & 빠른 응답
+- Medium: 균형 잡힌 동작
+- High: 더 많은 토큰 사용 & 더 높은 지능
+- 보리스는 모든 작업에 High 사용
+
+3/ 플러그인, MCP, Skills 설치하기
+- 플러그인으로 LSP, MCP, Skills, 에이전트, 커스텀 훅 설치
+- Anthropic 공식 플러그인 마켓플레이스 또는 회사 전용 마켓플레이스
+- settings.json 을 코드베이스에 커밋해 팀원에게 자동 추가
+- /plugin
+
+4/ 커스텀 에이전트 만들기
+- .claude/agents 폴더에 .md 파일
+- 이름, 색상, 도구 세트, 허용/차단 도구, 권한 모드, 모델 지정 가능
+- settings.json 의 "agent" 필드 또는 --agent 플래그로 기본 에이전트 지정
+- /agents
+
+5/ 자주 쓰는 권한 사전 승인하기
+- 프롬프트 인젝션 감지, 정적 분석, 샌드박싱, 인간 감독을 결합한
+  권한 시스템
+- /permissions 로 allow/block 목록 추가
+- settings.json 에 커밋
+- 와일드카드 예시:
+  "Bash(bun run *)"
+  "Edit(/docs/)"
+
+6/ 샌드박싱 활성화하기
+- 오픈 소스 샌드박스 런타임
+- /sandbox
+- 파일 및 네트워크 격리 지원
+- Windows 지원은 곧 추가 예정
+
+7/ 상태 표시줄 추가하기
+- 입력창 아래 커스텀 상태 표시줄
+- 모델, 디렉토리, 남은 컨텍스트, 비용 등 표시
+- /statusline 으로 .bashrc 나 .zshrc 기반 생성
+
+8/ 키바인딩 커스텀하기
+- /keybindings
+- 모든 키 다시 매핑 가능
+- 실시간 적용
+
+9/ 훅(Hooks) 설정하기
+- Claude 라이프사이클에 결정론적으로 개입
+- 권한 요청을 Slack 이나 Opus 로 자동 라우팅
+- 턴 종료 시 계속 진행하도록 넛지
+- tool calls 전처리/후처리
+
+10/ 스피너 동사 커스텀하기
+- 로딩 중 표시되는 텍스트 동사 커스텀
+- settings.json 을 소스 제어에 커밋해 공유 가능
+
+11/ 출력 스타일 사용하기
+- /config 에서 출력 스타일 설정
+- Explanatory: 새 코드베이스 적응용
+- Learning: 코드 변경 과정을 코칭
+- 커스텀 출력 스타일 가능
+
+12/ 모든 것을 커스터마이징하세요
+- settings.json 을 git 에 커밋해 팀과 공유
+- 코드베이스 전체, 하위 폴더, 개인 전용, 전사 정책 등 범위 지원
+- 현재 37개 설정과 84개 환경 변수 지원
+- 래퍼 스크립트 대신 settings.json 의 "env" 필드 사용
+
+Recap media:
+https://pbs.twimg.com/media/HA6jDqpbsAIHXVE.jpg
+https://pbs.twimg.com/media/HA6jDqibsAIC3dq.png
+https://pbs.twimg.com/media/HA6jDqcbUAA42AD.jpg
+https://pbs.twimg.com/media/HA6jDqka8AAEBTX.jpg

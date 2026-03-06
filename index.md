@@ -1,5 +1,23 @@
 # Index
 
+- 2026-03-06 18:11 - Boris Cherny - 2026-01-31 23:32
+  10 Claude Code Tips from the Team
+  [article](articles/boris-cherny/10-claude-code-tips-from-the-team.md)
+  | [summary](summary/boris-cherny/10-claude-code-tips-from-the-team.md)
+  | [source](https://x.com/bcherny/status/2017742741636321619)
+
+- 2026-03-06 18:11 - Boris Cherny - 2026-01-02 19:58
+  How Boris Cherny Uses Claude Code
+  [article](articles/boris-cherny/how-boris-cherny-uses-claude-code.md)
+  | [summary](summary/boris-cherny/how-boris-cherny-uses-claude-code.md)
+  | [source](https://x.com/bcherny/status/2007179832300581177)
+
+- 2026-03-06 17:57 - Boris Cherny - 2026-02-11 21:36
+  12 Ways to Customize Claude Code
+  [article](articles/boris-cherny/12-ways-to-customize-claude-code.md)
+  | [summary](summary/boris-cherny/12-ways-to-customize-claude-code.md)
+  | [source](https://x.com/bcherny/status/2021699851499798911)
+
 - 2026-03-06 16:55 - Dan Shapiro - 2026-02-13 11:55
   You Don't Write the Code. You Don't Read the Code Either.
   [article](articles/dan-shapiro/you-dont-write-the-code.md)
