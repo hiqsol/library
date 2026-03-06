@@ -1,5 +1,119 @@
 # Index
 
+- 2026-03-06 16:55 - Dan Shapiro - 2026-02-13 11:55
+  You Don't Write the Code. You Don't Read the Code Either.
+  [article](articles/dan-shapiro/you-dont-write-the-code.md)
+  | [summary](summary/dan-shapiro/you-dont-write-the-code.md)
+  | [source](https://www.danshapiro.com/blog/2026/02/you-dont-write-the-code/)
+
+- 2026-03-06 16:55 - Dan Shapiro - 2026-01-23 12:12
+  The Five Levels: from Spicy Autocomplete to the Dark Factory
+  [article](articles/dan-shapiro/the-five-levels-from-spicy-autocomplete-to-the-software-factory.md)
+  | [summary](summary/dan-shapiro/the-five-levels-from-spicy-autocomplete-to-the-software-factory.md)
+  | [source](https://www.danshapiro.com/blog/2026/01/the-five-levels-from-spicy-autocomplete-to-the-software-factory/)
+
+- 2026-03-06 16:55 - Dan Shapiro - 2025-12-17 14:18
+  This is a Time of Technical Deflation
+  [article](articles/dan-shapiro/this-is-a-time-of-technical-deflation.md)
+  | [summary](summary/dan-shapiro/this-is-a-time-of-technical-deflation.md)
+  | [source](https://www.danshapiro.com/blog/2025/12/this-is-a-time-of-technical-deflation/)
+
+- 2026-03-06 16:55 - Dan Shapiro - 2025-12-16 09:22
+  I made the XKCD impossible app without any words
+  [article](articles/dan-shapiro/i-made-the-xkcd-impossible-app-without-any-words.md)
+  | [summary](summary/dan-shapiro/i-made-the-xkcd-impossible-app-without-any-words.md)
+  | [source](https://www.danshapiro.com/blog/2025/12/i-made-the-xkcd-impossible-app-without-any-words/)
+
+- 2026-03-06 16:55 - Dan Shapiro - 2025-10-29 12:47
+  Sora Dresses Me Funny: GenAI As Fashion Consultant
+  [article](articles/dan-shapiro/sora-dresses-me-funny-genai-as-fashion-consultant.md)
+  | [summary](summary/dan-shapiro/sora-dresses-me-funny-genai-as-fashion-consultant.md)
+  | [source](https://www.danshapiro.com/blog/2025/10/sora-dresses-me-funny-genai-as-fashion-consultant/)
+
+- 2026-03-06 16:55 - Dan Shapiro - 2025-10-21 14:30
+  I accidentally ported Steve Yegge's Beads to Windows
+  [article](articles/dan-shapiro/accidentally-ported-steve-yegge-beads-to-windows.md)
+  | [summary](summary/dan-shapiro/accidentally-ported-steve-yegge-beads-to-windows.md)
+  | [source](https://www.danshapiro.com/blog/2025/10/accidentally-ported-steve-yegge-beads-to-windows/)
+
+- 2026-03-06 16:55 - Dan Shapiro - 2025-10-14 10:13
+  Slot Machine Development
+  [article](articles/dan-shapiro/slot-machine-development.md)
+  | [summary](summary/dan-shapiro/slot-machine-development.md)
+  | [source](https://www.danshapiro.com/blog/2025/10/slot-machine-development/)
+
+- 2026-03-06 16:55 - Dan Shapiro - 2025-06-07 22:18
+  Who have I ever visited in...
+  [article](articles/dan-shapiro/who-have-i-ever-visited-in.md)
+  | [summary](summary/dan-shapiro/who-have-i-ever-visited-in.md)
+  | [source](https://www.danshapiro.com/blog/2025/06/who-have-i-ever-visited-in/)
+
+- 2026-03-06 16:55 - Dan Shapiro - 2025-06-07 22:13
+  My new side project at Wharton
+  [article](articles/dan-shapiro/my-new-side-project-at-wharton.md)
+  | [summary](summary/dan-shapiro/my-new-side-project-at-wharton.md)
+  | [source](https://www.danshapiro.com/blog/2025/06/my-new-side-project-at-wharton/)
+
+- 2026-03-06 16:55 - Dan Shapiro - 2019-02-05 14:17
+  Fellow White Dudes: Let's Roll a d20
+  [article](articles/dan-shapiro/fellow-white-dudes-lets-roll-a-d20.md)
+  | [summary](summary/dan-shapiro/fellow-white-dudes-lets-roll-a-d20.md)
+  | [source](https://www.danshapiro.com/blog/2019/02/fellow-white-dudes-lets-roll-a-d20/)
+
+- 2026-03-06 16:55 - Dan Shapiro - 2017-05-08 19:59
+  Second chance to save a life
+  [article](articles/dan-shapiro/second-chance-to-save-a-life.md)
+  | [summary](summary/dan-shapiro/second-chance-to-save-a-life.md)
+  | [source](https://www.danshapiro.com/blog/2017/05/second-chance-to-save-a-life/)
+
+- 2026-03-06 16:55 - Dan Shapiro - 2015-07-09 07:10
+  Angel Investor: I have become that which I loathed
+  [article](articles/dan-shapiro/angel-investor-i-have-become-that-which-i-loathed.md)
+  | [summary](summary/dan-shapiro/angel-investor-i-have-become-that-which-i-loathed.md)
+  | [source](https://www.danshapiro.com/blog/2015/07/angel-investor-i-have-become-that-which-i-loathed/)
+
+- 2026-03-06 16:55 - Dan Shapiro - 2015-05-11 11:40
+  The CTO Bro
+  [article](articles/dan-shapiro/the-cto-bro.md)
+  | [summary](summary/dan-shapiro/the-cto-bro.md)
+  | [source](https://www.danshapiro.com/blog/2015/05/the-cto-bro/)
+
+- 2026-03-06 16:55 - Dan Shapiro - 2015-01-12 10:17
+  Glowforge - my new company (join me?)
+  [article](articles/dan-shapiro/glowforge-new-company.md)
+  | [summary](summary/dan-shapiro/glowforge-new-company.md)
+  | [source](https://www.danshapiro.com/blog/2015/01/glowforge-new-company/)
+
+- 2026-03-06 16:55 - Dan Shapiro - 2014-09-15 23:25
+  How to succeed at Kickstarter
+  [article](articles/dan-shapiro/how-to-succeed-at-kickstarter.md)
+  | [summary](summary/dan-shapiro/how-to-succeed-at-kickstarter.md)
+  | [source](https://www.danshapiro.com/blog/2014/09/how-to-succeed-at-kickstarter/)
+
+- 2026-03-06 16:55 - Dan Shapiro - 2014-09-12 11:13
+  Microsoft Ventures calls Startup Weekend Women "pointless"
+  [article](articles/dan-shapiro/microsoft-ventures-calls-startup-weekend-women-pointless.md)
+  | [summary](summary/dan-shapiro/microsoft-ventures-calls-startup-weekend-women-pointless.md)
+  | [source](https://www.danshapiro.com/blog/2014/09/microsoft-ventures-calls-startup-weekend-women-pointless/)
+
+- 2026-03-06 16:55 - Dan Shapiro - 2014-07-16 07:00
+  Gweek 155: The cheap RC plane I talked about
+  [article](articles/dan-shapiro/gweek-155.md)
+  | [summary](summary/dan-shapiro/gweek-155.md)
+  | [source](https://www.danshapiro.com/blog/2014/07/gweek-155/)
+
+- 2026-03-06 16:55 - Dan Shapiro - 2014-03-29 17:06
+  Market first
+  [article](articles/dan-shapiro/market-first.md)
+  | [summary](summary/dan-shapiro/market-first.md)
+  | [source](https://www.danshapiro.com/blog/2014/03/market-first/)
+
+- 2026-03-06 16:55 - Dan Shapiro - 2013-12-19 03:37
+  Anatomy of a $631,230 Kickstarter Video
+  [article](articles/dan-shapiro/anatomy-of-a-631230-kickstarter-video.md)
+  | [summary](summary/dan-shapiro/anatomy-of-a-631230-kickstarter-video.md)
+  | [source](https://www.danshapiro.com/blog/2013/12/anatomy-of-a-631230-kickstarter-video/)
+
 - 2026-03-06 16:27 - Dan Shapiro - 2025-09-22 12:00
   The 10 Forever Rules of AI
   [article](articles/dan-shapiro/the-10-forever-rules-of-ai.md)
