@@ -1,0 +1,204 @@
+The most powerful digital platforms in our lives lost their edge in late 2025 and early 2026, and almost nobody has noticed it yet.
+For as long as we've used digital platforms, we've existed in a state offormational asymmetry.
+LinkedIn knows everything about your professional network, right?
+Every connection, every message, every endorsement, every job change, but they only show you what you will be inclined to scroll and click on.
+It's optimized for engagement.
+Spotify is the same way.
+It knows your listening patterns better than you do, but it only surfaces the playlists the algorithms decide to serve.
+Your bank has a complete picture of your financial behavior, but it only presents a chronological list of transactions, the least useful possible format.
+These platforms hold your data and show you their interpretation.
+And they optimize for their metrics, right?
+They optimize for engagement, for time on site, for premium conversions, whatever drives their business model.
+The questions their interfaces let you ask are only the questions that serve the platform's interests.
+The questions that would serve your interests, my interests, are the ones that might reveal you don't need the premium tier of LinkedIn, or that their recommendations aren't actually helping you.
+And those questions have no button, and they never get surfaced.
+The asymmetry has always felt permanent.
+baked into the architecture of how we relate to technology.
+You generate the data, they get to analyze it, and you accept the filtered view that they give you back.
+That arrangement is now optional, guys.
+It's optional.
+The unlock is deceptively simple.
+Just export your data from the platform of your choice, feed it to an AI, and ask your own questions.
+Not the questions the platform anticipated, not the questions they built the interface for, but whatever questions matter to you.
+The combination of legallymandated data exports and AI systems capable of analyzing unstructured data in response to natural language queries means that we have fundamentally changed the power dynamic.
+Because now with a simple plain English question, you can spin up a complicated Python function that will query deep deep banks of CSV data from LinkedIn and get profoundly useful job insights.
+And if you're wondering if I'm just making that up, I'm going to show you what this looks like in practice using LinkedIn and the job market as an example because that's where the stakes are highest right now and the asymmetry is most painful.
+But you need to understand that the principle applies everywhere.
+Once you see the pattern, you're going to recognize it in every platform relationship you have.
+Now, the job market in 2026 runs on relationships and the platforms that mediate those relationships have structured their interfaces to obscure the information that would make you most effective.
+So, let me give you a very specific example.
+Consider what LinkedIn actually knows about your network.
+They have your complete connection graph, right?
+Every message you've sent, the timestamps of every interaction, the reciprocity patterns and your endorsements and recommendations.
+They know the career trajectories of every single person, you know, and the overlapping company histories that create institutional bonds.
+They could tell you which relationships are decaying toward irrelevance, who would actually vouch for you if asked, which dormant conversations have natural re-engagement hooks, and what your warmest path is to any company you want to reach.
+But they don't tell you any of this.
+Instead, they show you a feed optimized to keep you scrolling and a premium tier that promises better access to the same data that you generated.
+The interface answers their questions.
+How do we increase engagement?
+How do we convert free users to paid?
+How do we keep people coming back?
+Your questions, like, who should I reach out to this week?
+Or what relationships need maintenance before they go cold?
+Or what's my realistic path to whatever company you want to work for?
+Those have no button.
+AI is what gives you the power back.
+You can feed your data to either Claude Co-work or Chat GPT.
+Both work.
+And suddenly you are empowered to ask anything.
+And if you're wondering like, I don't know what to ask.
+Don't worry, I'm getting to that.
+The platform's carefully constructed limitations vanish because you're no longer operating inside their interface.
+You're operating on the raw material, the data, and you can query it using your own natural language.
+You don't have to go through a bunch of clicks.
+You can get exactly what you want.
+This is the leverage that changes outcomes.
+Not better access to platforms, but independence from the constraints they impose because of their interests in their business models.
+Get your data back and you can do what you want with it and drive your own career trajectory.
+So, let me walk you through what I produced when I built a LinkedIn analysis.
+And I'm going to show it in a moment, but I'm going to go through each of the principles I use so you understand it first.
+So, you'll get that cool visual at the end.
+Each piece that I'm going to show depends on capabilities that only became accessible when AI reached its current level.
+It is actually pushing current AI systems to get this stuff done because you're using quite complex query logic on the back end.
+First, I'm calculating relationship half-life models.
+And that sounds really mathematical, but all we're doing is basically saying relationships we don't touch get colder.
+And so we've I created a very simple algorithm that basically says a relationship loses half its strength every 180 days if you don't touch the person and have a moment of connection and the model can adjust based on those signals.
+And obviously if you have a different model for halfife you can change it.
+But the key is this kind of analysis allows us to analyze connections in ways that LinkedIn never shows you because you can look and modify those half-life decay curves by institutional bonds which decay more slowly by how often you chat by whether something is a shallow interaction like congratulations or whether it's a deeper longer message.
+This requires AI because although the calculation is relatively straightforward mathematics, identifying which relationships are deep or shallow, requires parsing potentially thousands of messages and making very qualitative judgments about conversation substance.
+An AI can read through your entire message history, assess the depth and nature of every single thread, and apply that assessment to modify decay curves, something that no traditional software interface would attempt because the natural language understanding isn't there.
+Here's another idea that I'm going to show you.
+The reciprocity ledger tracks the social capital balance in each relationship you have.
+So, every recommendation you've written represents a particular investment.
+You can give it a point total.
+Say every endorsement represents another amount.
+And the same scoring can apply to endorsements you've received or any recommendation that you've received.
+Now you can go through and calculate your net balance.
+Where are you in an equal state with these people where you've both recommended each other, where you've both invested in each other through endorsements, and where are you in debt or have endorsed someone who hasn't responded?
+Again, the data exists, but it's scattered across multiple files.
+And so, we use AI to synthesize endorsement data, recommendation data, connection metadata into a unified relationship ledger, which means that we can ask the AI to figure out the relationships between files and compute the results.
+Now, you can technically hardcode this.
+It would just take you hours.
+The AI means this takes minutes.
+Vouch scores are really interesting because they predict who would actually advocate for you if asked.
+Combining message depth, reaction recency, recommendations received, endorsement patterns, shared institutional history.
+Someone scoring above 80 would probably write you a reference letter tomorrow.
+Someone below 30 might not remember you clearly enough to be effective.
+Right?
+Again, this requires AI because it's fundamentally a prediction problem requiring synthesis across multiple data types.
+The AI is going to read your message history.
+It's going to assess your relationship depth.
+It's going to incorporate recommendation and endorsement data and weight all of those factors into a combined score.
+Building this as a traditional software would require a lot of explicit feature engineering and I could just ask for it and get it in a couple of minutes with Chad GPT or co-work conversation resurrection.
+That one scans your message history for dormant threads with natural re-engagement hooks.
+Conversations where you promised to catch up and never did or someone asked for help and didn't follow through.
+It's a great way to triage your inbox.
+And again, LinkedIn never gives this to you.
+Pattern matching on conversational intent is something large language models excel at.
+They can easily find threads where someone requested help in a way that traditional query methods just can't get at.
+Here's another one.
+Network archetype classification.
+It sounds super fancy, but all it's doing is analyzing your individual connection fingerprint to look at your networking style.
+Are you a thought leader?
+Do you have high inbound connections?
+Are you a connector?
+Are you widespread across many organizations?
+You can use AI to develop a fingerprint of all of the ways that you connect on LinkedIn and get an overall archetype that gives you a unique strategy to move forward.
+Now, here's my favorite warm path discovery.
+So, this takes any target company you want to work at and ranks your connections by combined relevance and warmth to look for a bridge.
+Basically, if you asked the question, which person on LinkedIn do I need to message now today, in order to reach this other company that isn't in my network, who would I reach out to?
+It's one of the most popular questions people ask.
+It's a hard one.
+LinkedIn never really tells you and AI can tell you.
+AI can go through the network analysis, identify the qualities of the company.
+Is it a robotics company?
+They'll identify other robotics companies in your network, stuff like that.
+And then start to build a bridge based on a combination of your connection warmth and the relevance of that person to your search until you're able to have a high probability set of people to talk to to get into that particular company and have a conversation.
+The cumulative effect of these analyses is a view of your network that the platform never intended you to have.
+Each piece leverages something that AI does well.
+natural language understanding, pattern recognition across data sets, synthesis of information from multiple sources, flexible response to novel queries, and the combination produces insights that would have required either a dedicated engineering team or simply weren't possible before LLMs reached current capability levels.
+All right, let me show you what I built.
+This is the network intelligence dashboard.
+And if you're wondering, can I build this for myself with my data?
+The answer is absolutely yes.
+I'm putting all of the details into the Substack.
+I have a collection of prompts.
+There are different prompts depending on whether you're in chat, GPT or Claude.
+And I go through the different files you need to get and get you a complete guide of how to get it out of LinkedIn.
+So, a whole guide is there.
+But let's look at what we got.
+Network intelligence.
+It gives you a dashboard view.
+This is, by the way, real data for me.
+Uh, and I am going to use anonymized names.
+So, none of the names you're going to read are real names.
+Concept one, relationship half-life.
+I talked about this.
+Uh you can see my mass names where you actually can go through and look at messages.
+You can look at the halflife.
+The half-life can vary.
+It's not always 240 of course.
+And you get a sense of how this is calculated mathematically and also a sense of who you have the strongest bonds with.
+It's basically a leaderboard of the people you connect with the most.
+You could easily reverse engineer this and get the people who are perhaps strategic in a particular company and who you are least connected to but still connected to so you could wake them up.
+So there's a lot of ways to modify this and get really interesting and actionable stuff out of LinkedIn.
+Here's your reciprocity debt ledger, right?
+You can track social capital flows.
+Who owes you?
+Who who do you owe?
+And how can you start to reciprocate?
+How can you start to think about who you can ask and probably get a response from?
+It's not perfect.
+You could probably improve this further, but it's a really interesting start on looking at social capital at LinkedIn.
+Again, they'll never show you who would vouch for you.
+I love this one because we sometimes need that recommendation.
+And it is a combination of recency and deep conversation to figure out who would be most likely to be an advocate for you when it really matters.
+And yes, it's it's printing out the algorithm so that you can see it or the the formula so you can see it there.
+resurrection.
+You have unfinished business with people.
+I love this one.
+If your LinkedIn box is just overflowing, you can identify particular conversations that are worth picking up and you can figure out like, do I want to wake up a 743 day dormant thing and it gives you a suggestion of how to get started.
+And so this feels really actionable.
+You can easily filter this to just dormant conversations in the last two months if you wanted.
+Lot of really fun ideas here.
+network archetype classification.
+How do you think about your network fingerprint and what is your strategy?
+And I love that I get a different strategy depending on my particular network and yours is going to vary.
+And then warm path discovery.
+This is the one that I'm super excited about.
+You actually have I built a whole separate prompt for this.
+You can actually give a query to Claude or Chad GPT with a particular company you want to reach and have it look at your LinkedIn data and map a bridge to get there.
+And I think that's super super interesting.
+Have a little note here and I'm going to share this when I do the Substack so you don't have to memorize all of this.
+You can sort of go ahead and grab it.
+Analysis summary.
+It's everything you need to get started.
+And really the larger goal here is to free yourself from the default view that the platform is giving you.
+AI really enables that asymmetry.
+What I want you to take away from this ultimately is less about LinkedIn specifically and more about what's now possible in your relationship with any platform that holds your data.
+The exports exist often they're legally mandated and they're buried in settings menu, but they do exist and the analytical capability just now exists.
+AI systems can take messy real world data at scale and analyze with natural language questions meaningful insights that you would not otherwise be able to get to.
+You can ask the questions the platforms never wanted you to ask and get real answers that are actionable for you.
+This represents the first genuine shift in power for these platforms ever.
+It is not a marginal improvement.
+For 20 years, the data you generated has been analyzed by systems designed to serve someone else's interest, showing you only what kept you engaged in paying.
+The asymmetry has felt really structural.
+That's no longer true.
+The analytical capability here is not the property of the platforms anymore.
+It's in all of our pockets.
+You can continue accepting whatever filtered view the platform provides, but you have a choice now to take your data back and analyze it the way you want to.
+And for professional networking specifically, your network is not your list of connections.
+It's the actual strength of actual relationships with people who would actually help you.
+LinkedIn's interface treats every connection as equivalent, just a blue dot in an alphabetical list.
+The analysis I'm describing shows you more ground truth.
+Which relationships are warm?
+Which are cooling down?
+Which have decayed past usefulness?
+Who would vouch for you?
+And what your real path to any company is that you want to reach.
+Look, the tools are available.
+The data is exportable.
+The question is not whether it's possible.
+It definitely is.
+The question is whether you're going to spend I want to say it's going to be like half an hour getting this set up or whether you're going to continue to accept the filtered view the platform is giving you.
+It's up to you.
