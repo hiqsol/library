@@ -22,3 +22,4 @@ Personal knowledge library from video transcripts and web articles.
 - Markdown line length: hard limit 100 chars.
 - Summaries preserve concrete numbers, names, and key arguments.
 - Raw files kept as-is — never modify them after download.
+- Use `date '+%Y-%m-%d %H:%M'` for index timestamps — never guess.
