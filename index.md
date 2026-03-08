@@ -1,5 +1,17 @@
 # Index
 
+- 2026-03-08 15:18 - Nate B Jones - 2026-03-07 17:00
+  GPT-5.4 Let Mickey Mouse Into a Production Database — Nobody Noticed
+  [article](articles/nate-b-jones/gpt-5-4-let-mickey-mouse-into-a-production-database.md)
+  | [summary](summary/nate-b-jones/gpt-5-4-let-mickey-mouse-into-a-production-database.md)
+  | [source](https://www.youtube.com/watch?v=-_vL1KXd2rc)
+
+- 2026-03-08 15:18 - Nate B Jones - 2026-03-06 16:00
+  Claude Code vs Codex: The Harness Decision That Compounds Every Week
+  [article](articles/nate-b-jones/claude-code-vs-codex-the-harness-decision.md)
+  | [summary](summary/nate-b-jones/claude-code-vs-codex-the-harness-decision.md)
+  | [source](https://www.youtube.com/watch?v=09sFAO7pklo)
+
 - 2026-03-06 18:11 - Boris Cherny - 2026-01-31 23:32
   10 Claude Code Tips from the Team
   [article](articles/boris-cherny/10-claude-code-tips-from-the-team.md)
