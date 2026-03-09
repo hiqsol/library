@@ -1,5 +1,11 @@
 # Index
 
+- 2026-03-09 10:58 - Nate B Jones - 2026-03-08 17:00
+  45 People, $200M Revenue — The Question Nobody's Asking About AI and Team Size
+  [article](articles/nate-b-jones/2026-03-08-45-people-200m-revenue-ai-team-size.md)
+  | [summary](summary/nate-b-jones/2026-03-08-45-people-200m-revenue-ai-team-size.md)
+  | [source](https://www.youtube.com/watch?v=hnwM01CpzmA)
+
 - 2026-03-08 15:18 - Nate B Jones - 2026-03-07 17:00
   GPT-5.4 Let Mickey Mouse Into a Production Database — Nobody Noticed
   [article](articles/nate-b-jones/2026-03-07-gpt-5-4-let-mickey-mouse-into-a-production-database.md)
