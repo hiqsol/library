@@ -1,5 +1,11 @@
 # Index
 
+- 2026-03-10 14:42 - Nate B Jones - 2026-03-09
+  Claude Blackmailed Its Developers. Here's Why the System Hasn't Collapsed Yet.
+  [article](articles/nate-b-jones/2026-03-09-claude-blackmailed-developers-system-resilience.md)
+  | [summary](summary/nate-b-jones/2026-03-09-claude-blackmailed-developers-system-resilience.md)
+  | [source](https://www.youtube.com/watch?v=iY7BDpZWJbE)
+
 - 2026-03-10 14:34 - Margulan Seissembai - 2026-03-04
   What They Don't Tell Us About AI: The Future We Must Prepare For
   [article](articles/margulan-seissembai/2026-03-04-what-they-dont-tell-us-about-ai.md)
