@@ -1,5 +1,11 @@
 # Index
 
+- 2026-03-10 14:34 - Margulan Seissembai - 2026-03-04
+  What They Don't Tell Us About AI: The Future We Must Prepare For
+  [article](articles/margulan-seissembai/2026-03-04-what-they-dont-tell-us-about-ai.md)
+  | [summary](summary/margulan-seissembai/2026-03-04-what-they-dont-tell-us-about-ai.md)
+  | [source](https://www.youtube.com/watch?v=LF5O3sTKcOE)
+
 - 2026-03-09 10:58 - Nate B Jones - 2026-03-08 17:00
   45 People, $200M Revenue — The Question Nobody's Asking About AI and Team Size
   [article](articles/nate-b-jones/2026-03-08-45-people-200m-revenue-ai-team-size.md)
