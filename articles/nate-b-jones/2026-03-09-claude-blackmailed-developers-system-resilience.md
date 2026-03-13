@@ -7,6 +7,18 @@
 
 ---
 
+**Abbreviations:**
+- **AGI** — Artificial General Intelligence
+- **AISI** — AI Safety Institute (UK)
+- **API** — Application Programming Interface
+- **DoD** — Department of Defense
+- **IRS** — Internal Revenue Service
+- **LLM** — Large Language Model
+- **METR** — Model Evaluation and Threat Research
+- **RSP** — Responsible Scaling Policy
+
+---
+
 ## Not Terminator — Something Scarier
 
 Terminator at least had a motive you could understand. Modern AI systems don't
