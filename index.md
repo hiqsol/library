@@ -1,5 +1,11 @@
 # Index
 
+- 2026-03-13 15:38 - Overpass Apps - 2026-03-12
+  I Replaced My Dev Team with AI Agents (7 Months Later)
+  [article](articles/overpass-apps/2026-03-12-replaced-dev-team-with-ai-agents.md)
+  | [summary](summary/overpass-apps/2026-03-12-replaced-dev-team-with-ai-agents.md)
+  | [source](https://www.youtube.com/watch?v=tGZn0BGvg-g)
+
 - 2026-03-13 11:15 - Nate B Jones - 2026-03-11
   4 AI Labs Built the Same System Without Talking to Each Other
   [article](articles/nate-b-jones/2026-03-11-four-ai-labs-built-same-system.md)
