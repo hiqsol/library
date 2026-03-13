@@ -1,5 +1,17 @@
 # Index
 
+- 2026-03-13 11:15 - Nate B Jones - 2026-03-11
+  4 AI Labs Built the Same System Without Talking to Each Other
+  [article](articles/nate-b-jones/2026-03-11-four-ai-labs-built-same-system.md)
+  | [summary](summary/nate-b-jones/2026-03-11-four-ai-labs-built-same-system.md)
+  | [source](https://www.youtube.com/watch?v=LO0Ws-l6brg)
+
+- 2026-03-13 11:15 - Nate B Jones - 2026-03-10
+  Stop Accepting AI Output That "Looks Right"
+  [article](articles/nate-b-jones/2026-03-10-stop-accepting-ai-output-looks-right.md)
+  | [summary](summary/nate-b-jones/2026-03-10-stop-accepting-ai-output-looks-right.md)
+  | [source](https://www.youtube.com/watch?v=-FhtPUkXKO4)
+
 - 2026-03-10 14:42 - Nate B Jones - 2026-03-09
   Claude Blackmailed Its Developers. Here's Why the System Hasn't Collapsed Yet.
   [article](articles/nate-b-jones/2026-03-09-claude-blackmailed-developers-system-resilience.md)
