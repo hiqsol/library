@@ -1,5 +1,29 @@
 # Index
 
+- 2026-03-16 17:56 - Nate B Jones - 2026-03-16
+  Five Non-Coding Skills for the Agentic Era
+  [article](articles/nate-b-jones/2026-03-16-claude-code-wiped-data.md)
+  | [summary](summary/nate-b-jones/2026-03-16-claude-code-wiped-data.md)
+  | [source](https://www.youtube.com/watch?v=8lwnJZy4cO0)
+
+- 2026-03-16 17:56 - Nate B Jones - 2026-03-15
+  Unleashing Talent — Lessons from Solo Founders for the AI Era
+  [article](articles/nate-b-jones/2026-03-15-quit-picked-up-ai-shipped-in-30-days.md)
+  | [summary](summary/nate-b-jones/2026-03-15-quit-picked-up-ai-shipped-in-30-days.md)
+  | [source](https://www.youtube.com/watch?v=zCW-k5fFRgQ)
+
+- 2026-03-16 17:56 - Nate B Jones - 2026-03-14
+  AI 10x Productivity — Companies Cutting Headcount Are Wrong
+  [article](articles/nate-b-jones/2026-03-14-ai-10x-productive-cutting-headcount.md)
+  | [summary](summary/nate-b-jones/2026-03-14-ai-10x-productive-cutting-headcount.md)
+  | [source](https://www.youtube.com/watch?v=u-giatW9mYU)
+
+- 2026-03-16 17:56 - Nate B Jones - 2026-03-13
+  One Simple System Gave All My AI Tools a Memory
+  [article](articles/nate-b-jones/2026-03-13-one-simple-system-ai-tools-memory.md)
+  | [summary](summary/nate-b-jones/2026-03-13-one-simple-system-ai-tools-memory.md)
+  | [source](https://www.youtube.com/watch?v=japT66frdhM)
+
 - 2026-03-13 15:38 - Overpass Apps - 2026-03-12
   I Replaced My Dev Team with AI Agents (7 Months Later)
   [article](articles/overpass-apps/2026-03-12-replaced-dev-team-with-ai-agents.md)
