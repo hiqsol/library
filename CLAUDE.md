@@ -16,6 +16,8 @@ All three directories use identical `<author>/<YYYY-MM-DD>-<slug>` layout:
 - `summary/<author>/<slug>.md` — 30-50 line summary
 
 Author dir is kebab-case full name (e.g. `nate-b-jones`, `margulan-seissembai`).
+For videos: use the main featured person (interviewee, guest expert) as author, not the channel.
+If no specific person is featured, fall back to the channel name (kebab-case).
 
 ## Workflow
 

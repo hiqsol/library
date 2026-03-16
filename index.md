@@ -1,5 +1,11 @@
 # Index
 
+- 2026-03-16 21:09 - Petro Chernyk - 2026-03-13
+  Listen to Chernyk, Not Trump: How Everything Will End in the Middle East
+  [article](articles/petro-chernyk/2026-03-13-chernyk-middle-east-iran-us-endgame.md)
+  | [summary](summary/petro-chernyk/2026-03-13-chernyk-middle-east-iran-us-endgame.md)
+  | [source](https://youtu.be/bEFKtBCCiuo)
+
 - 2026-03-16 17:56 - Nate B Jones - 2026-03-16
   Five Non-Coding Skills for the Agentic Era
   [article](articles/nate-b-jones/2026-03-16-claude-code-wiped-data.md)
