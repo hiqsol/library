@@ -1,5 +1,11 @@
 # Index
 
+- 2026-03-17 22:40 - Nate B. Jones - 2026-03-17
+  Anthropic Didn't Build a New Browser. They Did Something Smarter.
+  [article](articles/nate-b-jones/2026-03-17-anthropic-didnt-build-new-browser-they-did-something-smarter.md)
+  | [summary](summary/nate-b-jones/2026-03-17-anthropic-didnt-build-new-browser-they-did-something-smarter.md)
+  | [source](https://www.youtube.com/watch?v=QT7W_uHjqWE)
+
 - 2026-03-17 18:27 - Steve Smith - 2026-03-11
   The Truth About Developer Productivity in the AI Age (It's a Trap)
   [article](articles/steve-smith/2026-03-11-developer-productivity-ai-trap-activity-metrics.md)
