@@ -1,5 +1,11 @@
 # Index
 
+- 2026-03-17 18:27 - Steve Smith - 2026-03-11
+  The Truth About Developer Productivity in the AI Age (It's a Trap)
+  [article](articles/steve-smith/2026-03-11-developer-productivity-ai-trap-activity-metrics.md)
+  | [summary](summary/steve-smith/2026-03-11-developer-productivity-ai-trap-activity-metrics.md)
+  | [source](https://youtu.be/kDBeFOscZpc)
+
 - 2026-03-16 21:09 - Petro Chernyk - 2026-03-13
   Listen to Chernyk, Not Trump: How Everything Will End in the Middle East
   [article](articles/petro-chernyk/2026-03-13-chernyk-middle-east-iran-us-endgame.md)

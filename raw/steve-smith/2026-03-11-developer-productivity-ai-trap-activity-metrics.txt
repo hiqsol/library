@@ -1,0 +1,434 @@
+stock market bubbles, technology hype
+trains, and exciting new innovations.
+These are the things that cause the very
+worst impulses in organizations.
+Organizations who want to triple down on
+tailorism like it never went away. Who
+want to measure every line of code same
+as it ever was and who want to site this
+order as some kind of productivity
+progress. Gen AI is a stock market
+bubble, a technology hype train and real
+genuinely exciting innovation all at the
+same time. And of course that means
+vendors are falling over themselves to
+measure developer productivity again
+even though activity is not connected to
+system level outcomes even though that's
+where success really lives. So why do we
+all need to remind ourselves about
+Goodart's law? And why is it that AI
+usage metrics are so much less valuable
+than the accelerate metrics of 2018?
+[music]
+Hello and welcome to the channel. If you
+haven't been here before or if you
+haven't subscribed yet, now's the time
+to do so. That way you can stay up to
+date with all of the cool stuff that's
+happening here. I'm Steve Smith. I'm
+Cornish and I'm the global head of
+modernization and platforms at Equal
+Experts. I'll be your host for today.
+I'm afraid Dave Farley isn't available.
+He's lost a bet to me again. Say he's
+gone outside to teach some rockabilly
+penguins how to do ballroom dancing just
+in time for a show I'm putting on. Great
+personal expense. Let's start with a
+quick lesson. An activity metric
+measures behaviors. It's easy to measure
+and it's low value. An output metric
+measures deliverables. It's easyish to
+measure and it's of some value. An
+outcome metric measures system changes.
+It's hard to measure and it has a very
+high information value. And a bit of
+history, measuring software development
+has been a tricky perennial topic for
+decades and it's played an integral part
+in my own career. I still remember
+Martin Fowler's article in 2003 saying
+we can't measure productivity. I
+remember sitting around in my team
+discussing and realizing Martin had put
+words to what we'd all felt for a long
+time. Martin's article was true for a
+very long time until Dr. Nicole Forsrren
+came along. Early on in my career, when
+I was a tech lead, I was often also the
+build script person as a leading
+indicator of my future career in
+continuous delivery. As the build script
+monkey, I would often work on metrics
+tools, something like sonar. Doesn't
+really matter which tool you're thinking
+of. They're all pretty much the same. A
+giant bucket of activity metrics, all of
+which will be kind of interesting. Some
+of which were a bit useful, most of
+which you would turn off. You could
+squeeze some value out of these kind of
+tools. For example, I introduced uh unit
+test ratcheting for Cobura into the
+Elmax CI/CD pipeline in 2008 where we
+gradually increased the minimum
+threshold for unit test coverage to
+nudge the developers to do more TDD over
+time and I failed foul of my own test
+more than once. And at some point I woke
+up and I realized that these activity
+metrics and output metrics weren't very
+useful at all. They weren't tied to
+value stream outcomes. They offered
+limited data and they could be easily
+gained. The state of DevOps reports in
+the 2010s were genuinely different. Dr.
+Nicole Forsgrren and her collaborators
+looked at technology outcomes in terms
+of deployment frequency, deployment lead
+time, rework rate, change failure rate,
+and time to restore. They didn't look at
+individual productivity or activity
+counters or story points or tool usage.
+They focused on teams sociotechnical
+behaviors and business success. While
+working for equal experts, I implemented
+the state of DevOps reports measures in
+an organization with 60 teams and around
+300 microservices. Jez Humble and Dave
+encouraged me to write a book about my
+experiences and that became my measuring
+continuous delivery book which is still
+on lean pub today. Meanwhile, the state
+of DevOps reports became Dora and Dr.
+Nicole Forsgrren published the
+accelerate book. This applied
+statistical validation, cluster
+analysis, causal modeling, and much more
+to years of survey data to build and
+validate a predictive model of
+organizational performance. It was a
+high watermark for measuring software
+delivery. In the forward, Martin Fowler
+said the door methodology had overcome
+his skepticism and accelerate provided
+rare rigorous scientific evidence for
+how to improve software delivery. I've
+seen and contributed to many
+implementations of the accelerate
+metrics over the years. I've not yet
+seen in the wild Dr. Forsgrren's
+subsequent work after accelerate and I
+hope to do so one day. Okay, now let's
+bring Gen AI into the mix. Gen AI has
+privacy risks, security vulnerabilities,
+environmental costs, and it increases
+the concentration of power amongst a few
+large technology companies. And it is
+reshaping the world in ways that are
+amazing and horrifying depending on how
+you look at it. Maybe it's both at the
+same time. This includes in software
+development where I have seen Gen AI
+achieve absolute marvels. Gen AI makes
+coding visibly faster and more
+automatable. So, organizations are
+naturally looking to measure developer
+productivity like never before. There's
+a backward slide in industry from
+outcome metrics back into activity and
+output metrics. That's because they're
+easier to implement and that means that
+they are easier to gain. It's important
+to remember Gutart's law. When a measure
+becomes a target, it ceases to be a good
+measure. Another way of thinking about
+that is people change how they behave
+based on how they're measured. If you
+measure AI prompting in teams, don't be
+surprised if AI prompt count increases.
+If you measure the percentage of AI
+generated code in a codebase, don't be
+surprised if the number of classes and
+methods in a codebase goes up. or if you
+measure AI costs, don't be surprised if
+AI prompt count goes down, but AI prompt
+size goes up. To illustrate the mad dash
+that Genai is causing towards developer
+productivity, I thought I'd look at the
+AI assisted engineering Q4 2025 report
+by DX. DX is a vendor that sells a
+developer intelligence platform that
+I've not personally used. I have heard
+good things about it. Please remember
+there are other vendors out there. This
+isn't some arbitrary takedown of DX out
+of the blue sky. It's a deliberate
+takedown of weak inference. This is just
+one example of a consistent pattern in
+industry over the past year. My beef
+isn't with DX. It's with software
+vendors in general selling AI usage as
+some kind of nirvana as if the last 20
+years of hard lessons learned had never
+really happened. The report itself from
+DX is really interesting. The sample
+size is good. It's at the level of the
+individual developer. They looked at
+135,000 developers from around 400
+companies of different sizes in
+different sectors in different regions
+over a three and a half month period.
+And there's a little bit of detail in
+the survey about methodologies used
+which is good to see. But I only see
+sample volume. I don't see if it's
+random sampling, if it's self- selected,
+if it's intentionally stratified, if
+it's weight adjusted. So, in the
+report's findings, there's no way I can
+know if this sample of developers is
+really representative of industry.
+>> Let me pause there and say thank you to
+our sponsors. We're extremely fortunate
+to be sponsored here by Equal Experts,
+Transfic, and Octopus Deploy. Equal
+Experts is a multinational consultancy
+built on applying the ideas and
+techniques that we talk about here to
+build great software for their clients.
+All of these companies offer products
+and services though that are very well
+aligned with the topics that we discuss
+on this channel every week. So if you're
+looking for excellence in continuous
+delivery and software engineering, do
+click on their links in the description
+below and check them out. We'll look at
+four headlines from the report. The
+first headline is industrywide AI
+adoption is now over 90% dot dot dot.
+It's a core part of engineering
+strategy. This is an activity metric. So
+that means it's easy to measure and it
+has a low information value. I have two
+problems with this headline. First of
+all, 90% of developers showing usage of
+AI coding assistance at some point over
+three and a half months is not the same
+thing as 90% of companies adopting AI.
+Come on now. Second, developer usage of
+a tool doesn't imply engineering
+strategy. Strategy is policy,
+governance, SDLC composition, and much
+more. Tool interaction is not strategic
+integration. Headline two is developers
+save an average of 3.6 hours per week
+with AI coding tools. This is an
+activity metric. Again, the measurement
+method is admirably documented as
+self-reported time savings, which is a
+very weak construct. It depends on
+memory, counterfactual reasoning, and
+subjective attribution, and it's easily
+gamed. Beware Goodart's law. I know a
+developer who's a good friend of mine
+who once received an award at a company
+because their software development
+estimates were so accurate. Once they'd
+received their prize, they confessed I
+just said what they wanted to hear. I
+can easily imagine what this developer's
+reported AI savings would be. At least 5
+minutes higher per week than everybody
+else. Without linking this measure of
+hours saved to an outcome like
+improvements in lead time, this is
+perception. It's not system performance.
+Headline three is 22% of code is AI
+authored. This is another activity
+metric. Again, it's easy to implement
+and there's a low information value. DX
+acknowledge it's hard to measure AI
+authored code accurately as of 2025 at
+least. That's a nice admission to see
+and I do think tooling will improve
+here. Their definition though of AI
+authored code is really problematic.
+code generated by AI that was merged
+without major human rewrites or
+modifications. That's subjective at
+least. What counts as a major change
+here? Refactoring, rewriting half a
+method, splitting a class in two. Two
+developers with identical behaviors
+could give two very different
+percentages here. And this data is
+self-reported. Again, Guttart's law
+strikes again. Developers have to
+remember which changes evolved AI, judge
+how much editing they did, and decide
+how good they want to look in terms of
+AI authored code. And the fourth
+headline is my absolute favorite. Daily
+AI users ship 60% more pull requests
+than nonusers of AI. This is an output
+metric, so it's a summish value and it's
+a bit hard to implement. Let's see some
+quotes. One of the most common questions
+we hear is whether AI adoption is
+actually helping developers to ship more
+code. H that is a common question, isn't
+it? My answer would be slightly
+different to DX. I would just say a
+better question would be whether AI
+adoption is actually helping teams to
+deliver outcomes faster and more
+reliably. Would you like to collaborate
+together on finding an answer to that
+question? The next quote here is there
+is a correlation between frequency of AI
+usage and pull request throughput. I
+have two complaints here. First, there's
+no mention of whether this is a
+statistically significant correlation.
+The Accelerate metrics carefully
+distinguish correlation from causation
+with validated constructs and modeled
+predictors. To me, at least, this report
+just looks like a descriptive analysis.
+Second, who cares about pull request
+throughput? Except for those people
+actually measured on it, don't get me
+wrong. Pull request throughput is not as
+important as you think. It's not a unit
+of delivery. It's not a unit of
+developer productivity. A developer
+could merge 100 pull requests in a day
+and there could still only be one deploy
+a month because there's a central end
+to-end testing team with lots of manual
+regression tests. Alternatively, a
+developer could merge zero pull requests
+a day and there might be 10 deploys to
+end users each day because the team is
+practicing trunkbased development and
+everyone makes very small mainline
+commits every 5 minutes and it all
+chunks up to 10 deploys a day. A quick
+reminder here if you really need it that
+trunkbased development is a much better
+fit for continuous delivery than pull
+requests. They can work with CD but it's
+easy to be led astray. The Accelerate
+book or any continuous delivery
+literature from the last 20 years will
+explain why that is. Pull request
+throughput will be very noisy. That's
+what code commits are. They're noisy.
+More pull requests could just mean the
+developers going too fast because they
+know they're being measured on pull
+request throughput and Gutart's law is
+struck again. That means they've
+abandoned unit testing. They're just
+coding, coding, coding. So there's more
+defect fixing when it goes wrong.
+There's more security patching when it
+goes wrong. There's more rework going
+into that code that never happened
+before. This is exactly why the
+Accelerate book looked at developer
+throughput and reliability together. The
+final quote on daily AI users tripping
+60% more pull requests is, "It's still
+possible this doesn't lead to better
+business results." Well, yes, obviously,
+because this is an output metric, not an
+outcome. Number of merged artifacts per
+developer per week is not speed. It
+tells you nothing about deployment
+throughput, nothing about service
+reliability. It's not causal. It's not
+system level. It's not predictive of
+technology performance. It's not
+predictive of business success, which
+the accelerate metrics do predict in a
+statistically significant way. The
+report also has an AI measurement
+framework with buckets of AI usage
+metrics and they look at lots of
+American technology companies, all of
+whom have their own giant buckets of AI
+usage metrics. To be fair, some do cram
+in some or all of the accelerate
+metrics, which is nice to see. But you
+don't measure technology success or
+business performance this way. You can
+try to understand AI adoption separately
+and follow a tried and tested path for
+measuring technology performance. Two
+things can be true at once. Okay, so
+what should you do instead of all of
+this madness? First of all, you need to
+recognize that the AI age is encouraging
+companies to triple down on tailorism
+and measure developer productivity like
+never before. You need to remember that
+a team is the unit of delivery, not an
+individual. Do your own critical
+thinking for yourself. Don't listen to
+vendors. Don't listen to me. Remember
+that tool accelerated activity does not
+equate to real business value. Read the
+Accelerate book and the modern software
+engineering book and implement them in
+your organization. That's all you need.
+I can wait.
+Okay, good. Now that's done. Look at
+your accelerate metrics. If your
+deployment throughput, service
+reliability, and technical quality
+numbers are all trending in the right
+direction, congratulations. Your
+technology outcomes are where they need
+to be. Next, ladder up those outcomes
+and calculate your time to value and
+your total cost of ownership across all
+teams. If both of those metrics are
+improving together, congratulations.
+That is awesome. Now, ladder up those
+metrics into contextual business
+outcomes that matter most for your
+organization. For a retailer, that might
+be customer lifetime value. It might be
+profitability. It really does depend on
+your company. If those business outcomes
+are improving, if profitability shows an
+uptick, then wow, you're really looking
+good. And you might want to know if AI
+usage is, has, or will play a part in
+all of this. So follow the advice in the
+Accelerate book. Measure your technology
+capabilities as your leading indicators
+of success. Look to see if test room
+development is increasing or if
+architectures are becoming more loosely
+coupled or if continuous integration is
+becoming more stable and implement a
+couple of AI usage activity metrics. See
+if there's a correlation between AI
+usage and capability improvement. But be
+very clear with yourself and with
+everyone else that these are activity
+metrics that mean little on their own
+and correlation is not causation. Next
+time I'm here, I'll cover another
+engineering topic. But Dave has to make
+those rockabilly penguins do some
+ballroom dancing first. If they can't do
+the fox trot in strict 44 time, I will
+be forced to mark them down. Thanks for
+watching.
+>> [music]
