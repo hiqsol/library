@@ -26,6 +26,7 @@ If no specific person is featured, fall back to the channel name (kebab-case).
 3. Refactor into `articles/<author>/<YYYY-MM-DD>-<slug>.md`
 4. Generate `summary/<author>/<YYYY-MM-DD>-<slug>.md` — 30-50 lines
 5. Update `index.md`
+6. Send user the GitHub link: `https://github.com/hiqsol/library/blob/master/articles/<author>/<slug>.md`
 
 ## Rules
 
