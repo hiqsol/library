@@ -1,5 +1,9 @@
 # Index
 
+- 2026-03-18 17:03 - Nate B. Jones - 2026-03-18
+  ChatGPT Health Identified Respiratory Failure. Then It Said Wait.
+  [article](articles/nate-b-jones/2026-03-18-chatgpt-health-respiratory-failure.md)
+
 - 2026-03-17 22:40 - Nate B. Jones - 2026-03-17
   Anthropic Didn't Build a New Browser. They Did Something Smarter.
   [article](articles/nate-b-jones/2026-03-17-anthropic-didnt-build-new-browser-they-did-something-smarter.md)
