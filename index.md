@@ -1,5 +1,11 @@
 # Index
 
+- 2026-03-19 18:35 - Vitaliy Portnikov - 2026-03-19
+  Gas Apocalypse: The Energy Crisis Trump Didn't Plan For
+  [article](articles/vitaly-portnikov/2026-03-19-gas-apocalypse-energy-crisis-trump-iran-qatar.md)
+  | [summary](summary/vitaly-portnikov/2026-03-19-gas-apocalypse-energy-crisis-trump-iran-qatar.md)
+  | [source](https://youtu.be/OkuqdCwBTJ4)
+
 - 2026-03-19 17:05 - Nate B. Jones - 2026-03-19
   $690 Billion Is Squeezing AI Companies From Both Sides. Most Don't See It Coming.
   [article](articles/nate-b-jones/2026-03-19-690-billion-squeezing-ai-companies-both-sides.md)
