@@ -1,5 +1,17 @@
 # Index
 
+- 2026-03-19 17:05 - Nate B. Jones - 2026-03-19
+  $690 Billion Is Squeezing AI Companies From Both Sides. Most Don't See It Coming.
+  [article](articles/nate-b-jones/2026-03-19-690-billion-squeezing-ai-companies-both-sides.md)
+  | [summary](summary/nate-b-jones/2026-03-19-690-billion-squeezing-ai-companies-both-sides.md)
+  | [source](https://www.youtube.com/watch?v=3FbqaD1MCUA)
+
+- 2026-03-19 17:05 - Nate B. Jones - 2026-03-12
+  4,000 People Lost Their Jobs At Block. Dorsey Blamed AI. Here's What Actually Happened.
+  [article](articles/nate-b-jones/2026-03-12-4000-people-lost-jobs-block-dorsey-blamed-ai.md)
+  | [summary](summary/nate-b-jones/2026-03-12-4000-people-lost-jobs-block-dorsey-blamed-ai.md)
+  | [source](https://www.youtube.com/watch?v=lbfoNxoHl2o)
+
 - 2026-03-18 17:03 - Nate B. Jones - 2026-03-18
   ChatGPT Health Identified Respiratory Failure. Then It Said Wait.
   [article](articles/nate-b-jones/2026-03-18-chatgpt-health-respiratory-failure.md)
