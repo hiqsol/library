@@ -1,5 +1,11 @@
 # Index
 
+- 2026-03-20 17:03 - Nate B. Jones - 2026-03-20
+  Anthropic Gave Your AI Agent the One Thing OpenClaw Has — Without the Risk
+  [article](articles/nate-b-jones/2026-03-20-anthropic-gave-agent-openclaw-without-risk.md)
+  | [summary](summary/nate-b-jones/2026-03-20-anthropic-gave-agent-openclaw-without-risk.md)
+  | [source](https://www.youtube.com/watch?v=vqnAOV8NMZ4)
+
 - 2026-03-19 18:35 - Vitaliy Portnikov - 2026-03-19
   Gas Apocalypse: The Energy Crisis Trump Didn't Plan For
   [article](articles/vitaly-portnikov/2026-03-19-gas-apocalypse-energy-crisis-trump-iran-qatar.md)
