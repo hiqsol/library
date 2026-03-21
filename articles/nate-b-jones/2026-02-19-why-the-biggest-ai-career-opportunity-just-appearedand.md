@@ -1,10 +1,13 @@
-# Why the Biggest AI Career Opportunity Just Appeared — And Almost Nobody Sees It
-
-- **Source:** [YouTube — Nate B Jones / AI News & Strategy Daily](https://www.youtube.com/watch?v=6r0UeMQE66I)
-- **Author:** Nate B Jones
-- **Published:** 2026-02-19 15:08
-
 ---
+title: Why the Biggest AI Career Opportunity Just Appeared — And Almost Nobody Sees It
+author: Nate B. Jones
+channel: Nate B. Jones
+url: https://www.youtube.com/watch?v=6r0UeMQE66I
+date: 2026-02-19 15:08
+tags: ai
+---
+
+# Why the Biggest AI Career Opportunity Just Appeared — And Almost Nobody Sees It
 
 ## The AI Scare Trade
 

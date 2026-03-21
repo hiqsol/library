@@ -1,12 +1,13 @@
-# 10 Claude Code Tips from the Team
-
-- **Source:** [X thread by Boris Cherny](https://x.com/bcherny/status/2017742741636321619)
-- **Mirror:**
-  [Thread Reader App unroll](https://threadreaderapp.com/thread/2017742741636321619.html)
-- **Author:** Boris Cherny
-- **Published:** 2026-01-31 23:32
-
 ---
+title: 10 Claude Code Tips from the Team
+author: Boris Cherny
+channel: Boris Cherny
+url: https://x.com/bcherny/status/2017742741636321619
+date: 2026-01-31 23:32
+tags: ai, development
+---
+
+# 10 Claude Code Tips from the Team
 
 Boris Cherny shared ten practices that the Claude Code team uses internally. His framing matters as
 much as the tips: there is no one "correct" way to use Claude Code. The point is to experiment

@@ -1,6 +1,13 @@
-# Why the Biggest AI Career Opportunity Just Appeared — Summary
+---
+title: Why the Biggest AI Career Opportunity Just Appeared
+author: Nate B. Jones
+channel: Nate B. Jones
+url: https://www.youtube.com/watch?v=6r0UeMQE66I
+date: 2026-02-19 15:08
+tags: ai
+---
 
-**Published:** 2026-02-19 15:08
+# Why the Biggest AI Career Opportunity Just Appeared — Summary
 
 In 10 days, the "AI scare trade" burned through 8 sectors: software,
 private credit, insurance, wealth management, real estate services,

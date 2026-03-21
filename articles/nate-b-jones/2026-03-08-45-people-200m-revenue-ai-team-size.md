@@ -1,11 +1,13 @@
-# 45 People, $200M Revenue — The Question Nobody's Asking About AI and Team Size
-
-- **Source:** [YouTube — Nate B Jones / AI News & Strategy
-  Daily](https://www.youtube.com/watch?v=hnwM01CpzmA)
-- **Author:** Nate B Jones
-- **Published:** 2026-03-08 17:00
-
 ---
+title: 45 People, $200M Revenue — The Question Nobody's Asking About AI and Team Size
+author: Nate B. Jones
+channel: Nate B. Jones
+url: https://www.youtube.com/watch?v=hnwM01CpzmA
+date: 2026-03-08 17:00
+tags: ai
+---
+
+# 45 People, $200M Revenue — The Question Nobody's Asking About AI and Team Size
 
 ## The Real Problem Isn't Meetings — It's Team Size
 

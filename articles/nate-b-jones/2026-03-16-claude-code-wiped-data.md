@@ -1,11 +1,13 @@
-# 5 Non-Coding Management Skills Vibe Coders Need for the Agentic Era
-
-- **Source:** [YouTube — Nate B Jones / AI News & Strategy
-  Daily](https://www.youtube.com/watch?v=8lwnJZy4cO0)
-- **Author:** Nate B Jones
-- **Published:** 2026-03-16
-
 ---
+title: 5 Non-Coding Management Skills Vibe Coders Need for the Agentic Era
+author: Nate B. Jones
+channel: Nate B. Jones
+url: https://www.youtube.com/watch?v=8lwnJZy4cO0
+date: 2026-03-16 00:00
+tags: ai
+---
+
+# 5 Non-Coding Management Skills Vibe Coders Need for the Agentic Era
 
 ## The Wall Vibe Coders Are Hitting
 

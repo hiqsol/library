@@ -1,11 +1,13 @@
-# The Builders Who Figure This Out First Will Be Impossible
-# to Catch: Why You Need an Identity Shift
-
-- **Source:** [YouTube — Nate B Jones / AI News & Strategy Daily](https://www.youtube.com/watch?v=5Di6o6zuMLc)
-- **Author:** Nate B Jones
-- **Published:** 2026-01-23 15:00
-
 ---
+title: The Builders Who Figure This Out First Will Be Impossible to Catch: Why You Need an Identity Shift
+author: Nate B. Jones
+channel: Nate B. Jones
+url: https://www.youtube.com/watch?v=5Di6o6zuMLc
+date: 2026-01-23 15:00
+tags: ai
+---
+
+# The Builders Who Figure This Out First Will Be Impossible to Catch: Why You Need an Identity Shift
 
 ## The Bottleneck Has Moved
 

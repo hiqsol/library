@@ -1,10 +1,13 @@
-# Summary: 45 People, $200M Revenue — AI and Team Size
-
-- **Source:** [YouTube — Nate B Jones](https://www.youtube.com/watch?v=hnwM01CpzmA)
-- **Author:** Nate B Jones
-- **Published:** 2026-03-08 17:00
-
 ---
+title: 45 People, $200M Revenue — AI and Team Size
+author: Nate B. Jones
+channel: Nate B. Jones
+url: https://www.youtube.com/watch?v=hnwM01CpzmA
+date: 2026-03-08 17:00
+tags: ai
+---
+
+# Summary: 45 People, $200M Revenue — AI and Team Size
 
 Nate argues the real problem behind meeting overload is team size — teams are
 3–10x too big and AI is making it worse by amplifying output through broken

@@ -1,11 +1,13 @@
-# Google's Gemini 3.1 Pro: Smartest Model, Lowest Price — Why Google Doesn't Care
-
-- **Source:** [YouTube — Nate B Jones / AI News & Strategy Daily](
-  https://www.youtube.com/watch?v=8jKAT8GNDE0)
-- **Author:** Nate B Jones
-- **Published:** 2026-02-23 15:00
-
 ---
+title: Google's Gemini 3.1 Pro: Smartest Model, Lowest Price — Why Google Doesn't Care
+author: Nate B. Jones
+channel: Nate B. Jones
+url: https://www.youtube.com/watch?v=8jKAT8GNDE0
+date: 2026-02-23 15:00
+tags: ai
+---
+
+# Google's Gemini 3.1 Pro: Smartest Model, Lowest Price — Why Google Doesn't Care
 
 ## The Strategic Signal
 

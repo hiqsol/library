@@ -1,3 +1,12 @@
+---
+title: She Quit, Picked Up AI, and Shipped in 30 Days What Her Team Planned for Q3
+author: Nate B. Jones
+channel: Nate B. Jones
+url: https://www.youtube.com/watch?v=zCW-k5fFRgQ
+date: 2026-03-15 00:00
+tags: ai
+---
+
 # She Quit, Picked Up AI, and Shipped in 30 Days What Her Team Planned for Q3
 
 - Source: [YouTube](https://www.youtube.com/watch?v=zCW-k5fFRgQ)

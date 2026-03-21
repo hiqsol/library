@@ -1,6 +1,13 @@
+---
+title: 12 Ways to Customize Claude Code
+author: Boris Cherny
+channel: Boris Cherny
+url: https://x.com/bcherny/status/2021699851499798911
+date: 2026-02-11 21:36
+tags: ai, development
+---
+
 # Summary: 12 Ways to Customize Claude Code
-**Author:** Boris Cherny
-**Published:** 2026-02-11 21:36
 Boris Cherny argues that Claude Code's standout trait is not just its defaults, but how deeply it
 can be customized to match individual and team workflows. The thread frames customization as a
 major reason developers adopt the tool and why usage is accelerating.

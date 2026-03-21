@@ -1,10 +1,13 @@
-# Summary: 4 AI Labs Built the Same System Without Talking to Each Other
-
-- **Source:** [YouTube — Nate B Jones](https://www.youtube.com/watch?v=LO0Ws-l6brg)
-- **Author:** Nate B Jones
-- **Published:** 2026-03-11
-
 ---
+title: 4 AI Labs Built the Same System Without Talking to Each Other
+author: Nate B. Jones
+channel: Nate B. Jones
+url: https://www.youtube.com/watch?v=LO0Ws-l6brg
+date: 2026-03-11 00:00
+tags: ai
+---
+
+# Summary: 4 AI Labs Built the Same System Without Talking to Each Other
 
 Nate argues the "jagged frontier" of AI capabilities was never a property of
 AI intelligence — it was an artifact of single-turn interaction that stripped

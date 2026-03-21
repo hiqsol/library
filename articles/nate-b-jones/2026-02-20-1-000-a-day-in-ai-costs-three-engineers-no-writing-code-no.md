@@ -1,10 +1,13 @@
-# $1,000 a Day in AI Costs, Three Engineers, No Writing Code, No Code Review
-
-- **Source:** [YouTube — Nate B Jones / AI News & Strategy Daily](https://www.youtube.com/watch?v=-bQcWs1Z9a0)
-- **Author:** Nate B Jones
-- **Published:** 2026-02-20 15:00
-
 ---
+title: $1,000 a Day in AI Costs, Three Engineers, No Writing Code, No Code Review
+author: Nate B. Jones
+channel: Nate B. Jones
+url: https://www.youtube.com/watch?v=-bQcWs1Z9a0
+date: 2026-02-20 15:00
+tags: ai
+---
+
+# $1,000 a Day in AI Costs, Three Engineers, No Writing Code, No Code Review
 
 ## The Token Is the New Unit of Work
 

@@ -1,7 +1,13 @@
-# Summary: Glowforge - my new company (join me?)
+---
+title: Glowforge - my new company (join me?)
+author: Dan Shapiro
+channel: Dan Shapiro's Blog
+url: https://www.danshapiro.com/blog/2015/01/glowforge-new-company/
+date: 2015-01-12 10:17
+tags: startups
+---
 
-**Author:** Dan Shapiro
-**Published:** 2015-01-12 10:17
+# Summary: Glowforge - my new company (join me?)
 
 I'm working on something new. I can't wait to tell you what it is.
 

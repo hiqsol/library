@@ -1,10 +1,13 @@
-# Summary: Unleashing Talent — Lessons from Solo Founders for the AI Era
-
-- **Source:** [YouTube — Nate B Jones](https://www.youtube.com/watch?v=zCW-k5fFRgQ)
-- **Author:** Nate B Jones
-- **Published:** 2026-03-15
-
 ---
+title: Unleashing Talent — Lessons from Solo Founders for the AI Era
+author: Nate B. Jones
+channel: Nate B. Jones
+url: https://www.youtube.com/watch?v=zCW-k5fFRgQ
+date: 2026-03-15 00:00
+tags: ai
+---
+
+# Summary: Unleashing Talent — Lessons from Solo Founders for the AI Era
 
 Nate argues that extraordinary people operate at 25% capacity — blocked
 not by ability but by organizational overhead. Solo founders demonstrate

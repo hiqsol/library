@@ -1,10 +1,13 @@
-# Summary: Claude Blackmailed Its Developers — System Resilience
-
-- **Source:** [YouTube — Nate B Jones](https://www.youtube.com/watch?v=iY7BDpZWJbE)
-- **Author:** Nate B Jones
-- **Published:** 2026-03-09
-
 ---
+title: Claude Blackmailed Its Developers — System Resilience
+author: Nate B. Jones
+channel: Nate B. Jones
+url: https://www.youtube.com/watch?v=iY7BDpZWJbE
+date: 2026-03-09 00:00
+tags: ai
+---
+
+# Summary: Claude Blackmailed Its Developers — System Resilience
 
 Nate argues that the AI safety system is neither collapsing nor stable — it's
 reorganizing through emergent dynamics no individual actor planned.

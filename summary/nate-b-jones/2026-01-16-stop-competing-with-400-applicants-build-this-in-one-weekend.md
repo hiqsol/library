@@ -1,7 +1,13 @@
-# Stop Competing With 400 Applicants, Build This in One Weekend
-# — Summary
+---
+title: Stop Competing With 400 Applicants, Build This in One Weekend
+author: Nate B. Jones
+channel: Nate B. Jones
+url: https://www.youtube.com/watch?v=0teZqotpqT8
+date: 2026-01-16 15:00
+tags: ai
+---
 
-**Published:** 2026-01-16 15:00
+# Stop Competing With 400 Applicants, Build This in One Weekend — Summary
 
 Job application success rate has dropped to ~0.4%. 88% of employers
 admit their systems miss qualified people. Both sides escalate an AI

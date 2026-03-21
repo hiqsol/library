@@ -1,10 +1,13 @@
-# The Skill That Separates AI Power Users From Everyone Else
-
-- **Source:** [YouTube — Nate B Jones / AI News & Strategy Daily](https://www.youtube.com/watch?v=hDpjMJw3flk)
-- **Author:** Nate B Jones
-- **Published:** 2026-01-21 15:01
-
 ---
+title: The Skill That Separates AI Power Users From Everyone Else
+author: Nate B. Jones
+channel: Nate B. Jones
+url: https://www.youtube.com/watch?v=hDpjMJw3flk
+date: 2026-01-21 15:01
+tags: ai
+---
+
+# The Skill That Separates AI Power Users From Everyone Else
 
 ## The Cursor Browser Experiment
 

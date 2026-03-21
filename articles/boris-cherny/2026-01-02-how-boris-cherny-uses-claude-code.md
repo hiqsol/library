@@ -1,11 +1,13 @@
-# How Boris Cherny Uses Claude Code
-
-- **Source:** [X thread by Boris Cherny](https://x.com/bcherny/status/2007179832300581177)
-- **Mirror:** [TwStalker thread page](https://twstalker.com/bcherny/status/2007179832300581177)
-- **Author:** Boris Cherny
-- **Published:** 2026-01-02 19:58
-
 ---
+title: How Boris Cherny Uses Claude Code
+author: Boris Cherny
+channel: Boris Cherny
+url: https://x.com/bcherny/status/2007179832300581177
+date: 2026-01-02 19:58
+tags: ai, development
+---
+
+# How Boris Cherny Uses Claude Code
 
 Boris Cherny described his personal Claude Code setup as "surprisingly vanilla," but the thread
 shows a workflow that is simple mainly because it has been systematized well. The setup is built

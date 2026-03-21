@@ -1,6 +1,13 @@
-# They Ignored My Tool Stack and Built Something Better — Summary
+---
+title: They Ignored My Tool Stack and Built Something Better
+author: Nate B. Jones
+channel: Nate B. Jones
+url: https://www.youtube.com/watch?v=_gPODg6br5w
+date: 2026-01-19 15:01
+tags: ai
+---
 
-**Published:** 2026-01-19 15:01
+# They Ignored My Tool Stack and Built Something Better — Summary
 
 Four building principles emerged from watching dozens of community
 members build the same "second brain" system in completely different

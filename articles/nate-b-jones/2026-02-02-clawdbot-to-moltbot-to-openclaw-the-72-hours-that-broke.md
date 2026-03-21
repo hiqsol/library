@@ -1,10 +1,13 @@
-# Clawdbot to Moltbot to OpenClaw: The 72 Hours That Broke Everything
-
-- **Source:** [YouTube — Nate B Jones / AI News & Strategy Daily](https://www.youtube.com/watch?v=p9acrso71KU)
-- **Author:** Nate B Jones
-- **Published:** 2026-02-02 15:01
-
 ---
+title: Clawdbot to Moltbot to OpenClaw: The 72 Hours That Broke Everything
+author: Nate B. Jones
+channel: Nate B. Jones
+url: https://www.youtube.com/watch?v=p9acrso71KU
+date: 2026-02-02 15:01
+tags: ai
+---
+
+# Clawdbot to Moltbot to OpenClaw: The 72 Hours That Broke Everything
 
 ## The Fastest-Growing Open-Source Project in GitHub History
 

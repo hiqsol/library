@@ -1,10 +1,13 @@
-# You Don't Need SaaS: The $0.10 System That Replaced My AI Workflow
-
-- **Source:** [YouTube — Nate B Jones / AI News & Strategy Daily](https://www.youtube.com/watch?v=2JiMmye2ezg)
-- **Author:** Nate B Jones
-- **Published:** 2026-03-02 15:00
-
 ---
+title: You Don't Need SaaS: The $0.10 System That Replaced My AI Workflow
+author: Nate B. Jones
+channel: Nate B. Jones
+url: https://www.youtube.com/watch?v=2JiMmye2ezg
+date: 2026-03-02 15:00
+tags: ai
+---
+
+# You Don't Need SaaS: The $0.10 System That Replaced My AI Workflow
 
 ## The Problem: Your AI Agent Doesn't Have a Brain
 

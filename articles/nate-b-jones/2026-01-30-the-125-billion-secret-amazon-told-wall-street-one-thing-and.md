@@ -1,11 +1,13 @@
-# The $125 Billion Secret: Amazon Told Wall Street One Thing
-# and Employees Another
-
-- **Source:** [YouTube — Nate B Jones / AI News & Strategy Daily](https://www.youtube.com/watch?v=7sk3qmIQZnI)
-- **Author:** Nate B Jones
-- **Published:** 2026-01-30 15:00
-
 ---
+title: The $125 Billion Secret: Amazon Told Wall Street One Thing and Employees Another
+author: Nate B. Jones
+channel: Nate B. Jones
+url: https://www.youtube.com/watch?v=7sk3qmIQZnI
+date: 2026-01-30 15:00
+tags: ai
+---
+
+# The $125 Billion Secret: Amazon Told Wall Street One Thing and Employees Another
 
 ## The Real Reason for 30,000 Layoffs
 

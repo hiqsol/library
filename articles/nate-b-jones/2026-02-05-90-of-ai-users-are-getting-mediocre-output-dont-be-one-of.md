@@ -1,10 +1,13 @@
-# 90% of AI Users Are Getting Mediocre Output: Stop Prompting, Do This
-
-- **Source:** [YouTube — Nate B Jones / AI News & Strategy Daily](https://www.youtube.com/watch?v=KX0GurmgAoo)
-- **Author:** Nate B Jones
-- **Published:** 2026-02-05 15:00
-
 ---
+title: 90% of AI Users Are Getting Mediocre Output: Stop Prompting, Do This
+author: Nate B. Jones
+channel: Nate B. Jones
+url: https://www.youtube.com/watch?v=KX0GurmgAoo
+date: 2026-02-05 15:00
+tags: ai
+---
+
+# 90% of AI Users Are Getting Mediocre Output: Stop Prompting, Do This
 
 ## How AI Averages You Out
 

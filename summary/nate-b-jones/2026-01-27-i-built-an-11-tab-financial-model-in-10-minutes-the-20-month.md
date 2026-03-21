@@ -1,6 +1,13 @@
-# I Built an 11-Tab Financial Model in 10 Minutes — Summary
+---
+title: I Built an 11-Tab Financial Model in 10 Minutes
+author: Nate B. Jones
+channel: Nate B. Jones
+url: https://www.youtube.com/watch?v=f-v0fJgBqhk
+date: 2026-01-27 15:01
+tags: ai
+---
 
-**Published:** 2026-01-27 15:01
+# I Built an 11-Tab Financial Model in 10 Minutes — Summary
 
 Anthropic launched Claude as a native Excel sidebar add-in, opening
 to all Pro tier users ($20/month) after enterprise beta. Built on

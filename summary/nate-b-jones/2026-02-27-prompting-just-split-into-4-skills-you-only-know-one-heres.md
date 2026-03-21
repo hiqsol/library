@@ -1,6 +1,13 @@
-# Prompting Just Split Into 4 Skills — Summary
+---
+title: Prompting Just Split Into 4 Skills
+author: Nate B. Jones
+channel: Nate B. Jones
+url: https://www.youtube.com/watch?v=BpibZSMGtdY
+date: 2026-02-27 15:00
+tags: ai
+---
 
-**Published:** 2026-02-27 15:00
+# Prompting Just Split Into 4 Skills — Summary
 
 Models have stopped being chat partners and started being workers running
 for days/weeks. Opus 4.6, Gemini 3.1 Pro, GPT-5.3 Codex all shipped

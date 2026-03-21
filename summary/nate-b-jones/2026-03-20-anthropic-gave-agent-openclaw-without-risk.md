@@ -1,9 +1,13 @@
-# Summary: Anthropic Gave Your AI Agent the One Thing OpenClaw Has — Without the Risk
-
-**Source:** Nate B. Jones · YouTube · 2026-03-20
-**Video:** https://www.youtube.com/watch?v=vqnAOV8NMZ4
-
 ---
+title: Anthropic Gave Your AI Agent the One Thing OpenClaw Has — Without the Risk
+author: Nate B. Jones
+channel: Nate B. Jones
+url: https://www.youtube.com/watch?v=vqnAOV8NMZ4
+date: 2026-03-20 00:00
+tags: ai
+---
+
+# Summary: Anthropic Gave Your AI Agent the One Thing OpenClaw Has — Without the Risk
 
 - Anthropic shipped `/loop` — a Claude Code command that runs an agent on a schedule without
   the user being present; most people missed it.

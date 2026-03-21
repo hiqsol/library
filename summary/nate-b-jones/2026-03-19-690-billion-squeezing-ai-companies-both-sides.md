@@ -1,7 +1,13 @@
-# Summary: $690 Billion Is Squeezing AI Companies From Both Sides.
+---
+title: $690 Billion Is Squeezing AI Companies From Both Sides.
+author: Nate B. Jones
+channel: Nate B. Jones
+url: https://www.youtube.com/watch?v=3FbqaD1MCUA
+date: 2026-03-19 00:00
+tags: ai
+---
 
-**Source:** Nate B. Jones, 2026-03-19
-**Video:** https://www.youtube.com/watch?v=3FbqaD1MCUA
+# Summary: $690 Billion Is Squeezing AI Companies From Both Sides.
 
 ## Core Claim
 

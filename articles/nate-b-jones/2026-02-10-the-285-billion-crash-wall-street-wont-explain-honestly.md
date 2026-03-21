@@ -1,10 +1,13 @@
-# The $285 Billion Crash Wall Street Won't Explain Honestly
-
-- **Source:** [YouTube — Nate B Jones / AI News & Strategy Daily](https://www.youtube.com/watch?v=DGWtSzqCpog)
-- **Author:** Nate B Jones
-- **Published:** 2026-02-10 15:00
-
 ---
+title: The $285 Billion Crash Wall Street Won't Explain Honestly
+author: Nate B. Jones
+channel: Nate B. Jones
+url: https://www.youtube.com/watch?v=DGWtSzqCpog
+date: 2026-02-10 15:00
+tags: ai
+---
+
+# The $285 Billion Crash Wall Street Won't Explain Honestly
 
 ## A 200-Line Prompt Killed $285 Billion in Market Value
 

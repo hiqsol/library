@@ -1,11 +1,13 @@
-# Why $650 Billion in AI Spending Isn't Enough — The 4 Skills That Survive
-
-- **Source:** [YouTube — Nate B Jones / AI News & Strategy Daily](
-  https://www.youtube.com/watch?v=NCgdpbEvNVA)
-- **Author:** Nate B Jones
-- **Published:** 2026-02-14 16:00
-
 ---
+title: Why $650 Billion in AI Spending Isn't Enough — The 4 Skills That Survive
+author: Nate B. Jones
+channel: Nate B. Jones
+url: https://www.youtube.com/watch?v=NCgdpbEvNVA
+date: 2026-02-14 16:00
+tags: ai
+---
+
+# Why $650 Billion in AI Spending Isn't Enough — The 4 Skills That Survive
 
 ## The Capex Shock
 

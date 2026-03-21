@@ -1,10 +1,13 @@
-# OpenClaw Agents Are Hiring Each Other and Building Societies
-
-- **Source:** [YouTube — Nate B Jones / AI News & Strategy Daily](https://www.youtube.com/watch?v=WEEKBlQfGt8)
-- **Author:** Nate B Jones
-- **Published:** 2026-02-03 15:01
-
 ---
+title: OpenClaw Agents Are Hiring Each Other and Building Societies
+author: Nate B. Jones
+channel: Nate B. Jones
+url: https://www.youtube.com/watch?v=WEEKBlQfGt8
+date: 2026-02-03 15:01
+tags: ai
+---
+
+# OpenClaw Agents Are Hiring Each Other and Building Societies
 
 ## AI Agents Are Self-Organizing
 

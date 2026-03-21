@@ -1,9 +1,13 @@
-# Second chance to save a life
-
-- **Author:** Dan Shapiro
-- **Published:** 2017-05-08 19:59
-
 ---
+title: Second chance to save a life
+author: Dan Shapiro
+channel: Dan Shapiro's Blog
+url: https://www.danshapiro.com/blog/2017/05/second-chance-to-save-a-life/
+date: 2017-05-08 19:59
+tags: startups
+---
+
+# Second chance to save a life
 
 Six years ago, I wrote a story about how someone might have died because I procrastinated dealing
 with my inbox. In short, I signed up two decades and change ago as a marrow donor. 1% of people are

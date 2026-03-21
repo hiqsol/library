@@ -1,10 +1,13 @@
-# Three Labs Just Stole Claude's Brain — Here's What It Broke
-
-- **Source:** [YouTube — Nate B Jones / AI News & Strategy Daily](https://www.youtube.com/watch?v=0v9ixCWNhPo)
-- **Author:** Nate B Jones
-- **Published:** 2026-02-25 15:00
-
 ---
+title: Three Labs Just Stole Claude's Brain — Here's What It Broke
+author: Nate B. Jones
+channel: Nate B. Jones
+url: https://www.youtube.com/watch?v=0v9ixCWNhPo
+date: 2026-02-25 15:00
+tags: ai
+---
+
+# Three Labs Just Stole Claude's Brain — Here's What It Broke
 
 ## The Extraction
 

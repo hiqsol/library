@@ -1,10 +1,13 @@
-# The OpenClaw Saga: Zuckerberg Begged This Developer to Join Meta
-
-- **Source:** [YouTube — Nate B Jones / AI News & Strategy Daily](https://www.youtube.com/watch?v=5IzPLjqkFaE)
-- **Author:** Nate B Jones
-- **Published:** 2026-02-17 15:00
-
 ---
+title: The OpenClaw Saga: Zuckerberg Begged This Developer to Join Meta
+author: Nate B. Jones
+channel: Nate B. Jones
+url: https://www.youtube.com/watch?v=5IzPLjqkFaE
+date: 2026-02-17 15:00
+tags: ai
+---
+
+# The OpenClaw Saga: Zuckerberg Begged This Developer to Join Meta
 
 ## Peter Steinberger Joins OpenAI
 

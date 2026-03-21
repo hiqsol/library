@@ -1,10 +1,13 @@
-# The Truth About Developer Productivity in the AI Age (It's a Trap)
-
-**Source:** [YouTube — Modern Software Engineering, Mar 11, 2026](https://youtu.be/kDBeFOscZpc)
-**Presenter:** Steve Smith, Global Head of Modernization and Platforms at Equal Experts
-**Channel:** Modern Software Engineering (Dave Farley)
-
 ---
+title: The Truth About Developer Productivity in the AI Age (It's a Trap)
+author: Steve Smith
+channel: Modern Software Engineering
+url: https://youtu.be/kDBeFOscZpc
+date: 2026-03-11 00:00
+tags: ai, development
+---
+
+# The Truth About Developer Productivity in the AI Age (It's a Trap)
 
 ## The Core Warning
 

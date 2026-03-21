@@ -1,10 +1,13 @@
-# Summary: The Truth About Developer Productivity in the AI Age (It's a Trap)
-
-**Source:** [YouTube — Modern Software Engineering, Mar 11, 2026](https://youtu.be/kDBeFOscZpc)
-**Presenter:** Steve Smith (Equal Experts), guest hosting Dave Farley's channel
-**Added:** 2026-03-17 18:27
-
 ---
+title: The Truth About Developer Productivity in the AI Age (It's a Trap)
+author: Steve Smith
+channel: Modern Software Engineering
+url: https://youtu.be/kDBeFOscZpc
+date: 2026-03-11 00:00
+tags: ai, development
+---
+
+# Summary: The Truth About Developer Productivity in the AI Age (It's a Trap)
 
 - Gen AI triggers the worst organisational impulses: tripling down on Taylorism, measuring every
   line of code, treating activity counts as productivity progress.

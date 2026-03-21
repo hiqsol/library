@@ -1,7 +1,13 @@
-# Summary: I made the XKCD impossible app without any words
+---
+title: I made the XKCD impossible app without any words
+author: Dan Shapiro
+channel: Dan Shapiro's Blog
+url: https://www.danshapiro.com/blog/2025/12/i-made-the-xkcd-impossible-app-without-any-words/
+date: 2025-12-16 09:22
+tags: ai, development
+---
 
-**Author:** Dan Shapiro
-**Published:** 2025-12-16 09:22
+# Summary: I made the XKCD impossible app without any words
 
 I've been impressed with AI Studio's Apps for prototyping. https://aistudio.google.com/apps
 

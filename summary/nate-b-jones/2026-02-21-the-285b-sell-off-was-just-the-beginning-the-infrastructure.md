@@ -1,6 +1,13 @@
-# The $285B Sell-Off Was Just the Beginning — Summary
+---
+title: The $285B Sell-Off Was Just the Beginning
+author: Nate B. Jones
+channel: Nate B. Jones
+url: https://www.youtube.com/watch?v=O-0poNv2jD4
+date: 2026-02-21 16:00
+tags: ai
+---
 
-**Published:** 2026-02-21 16:00
+# The $285B Sell-Off Was Just the Beginning — Summary
 
 The web is forking into a human web and an agent web. In a single
 week, Coinbase launched Agentic Wallets, Cloudflare shipped Markdown

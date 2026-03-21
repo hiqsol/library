@@ -1,9 +1,13 @@
-# Who have I ever visited in...
-
-- **Author:** Dan Shapiro
-- **Published:** 2025-06-07 22:18
-
 ---
+title: Who have I ever visited in...
+author: Dan Shapiro
+channel: Dan Shapiro's Blog
+url: https://www.danshapiro.com/blog/2025/06/who-have-i-ever-visited-in/
+date: 2025-06-07 22:18
+tags: ai
+---
+
+# Who have I ever visited in...
 
 Every time I travel to a city, I wrack my brain to try to remember who lives there so I can reach
 out to visit. And I'm terrible at it.

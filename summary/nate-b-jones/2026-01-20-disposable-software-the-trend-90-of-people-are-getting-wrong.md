@@ -1,6 +1,13 @@
-# Disposable Software: The Trend 90% of People Are Getting Wrong — Summary
+---
+title: Disposable Software: The Trend 90% of People Are Getting Wrong
+author: Nate B. Jones
+channel: Nate B. Jones
+url: https://www.youtube.com/watch?v=ra7nYJe86GI
+date: 2026-01-20 15:01
+tags: ai
+---
 
-**Published:** 2026-01-20 15:01
+# Disposable Software: The Trend 90% of People Are Getting Wrong — Summary
 
 The cost of software has collapsed toward zero. 65% of the last YC batch
 shipped 95%+ AI-generated codebases. Cursor went from $2.6B to $29B in

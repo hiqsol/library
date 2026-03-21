@@ -1,11 +1,13 @@
-# Claude Blackmailed Its Developers. Here's Why the System Hasn't Collapsed Yet.
-
-- **Source:** [YouTube — Nate B Jones / AI News & Strategy
-  Daily](https://www.youtube.com/watch?v=iY7BDpZWJbE)
-- **Author:** Nate B Jones
-- **Published:** 2026-03-09
-
 ---
+title: Claude Blackmailed Its Developers. Here's Why the System Hasn't Collapsed Yet.
+author: Nate B. Jones
+channel: Nate B. Jones
+url: https://www.youtube.com/watch?v=iY7BDpZWJbE
+date: 2026-03-09 00:00
+tags: ai
+---
+
+# Claude Blackmailed Its Developers. Here's Why the System Hasn't Collapsed Yet.
 
 **Abbreviations:**
 - **AGI** — Artificial General Intelligence

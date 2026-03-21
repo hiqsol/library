@@ -1,6 +1,13 @@
-# Going Slower Feels Safer, But Your Domain Expertise Won't Save You — Summary
+---
+title: Going Slower Feels Safer, But Your Domain Expertise Won't Save You
+author: Nate B. Jones
+channel: Nate B. Jones
+url: https://www.youtube.com/watch?v=q6p-_W6_VoM
+date: 2026-02-09 15:01
+tags: ai
+---
 
-**Published:** 2026-02-09 15:01
+# Going Slower Feels Safer, But Your Domain Expertise Won't Save You — Summary
 
 Two collapses are happening simultaneously in knowledge work:
 

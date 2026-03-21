@@ -1,12 +1,13 @@
-# 12 Ways to Customize Claude Code
-
-- **Source:** [X thread by Boris Cherny](https://x.com/bcherny/status/2021699851499798911)
-- **Supplemental mirror:**
-  [lucas recap quoting the thread](https://x.com/lucas_flatwhite/status/2021732731894608126)
-- **Author:** Boris Cherny
-- **Published:** 2026-02-11 21:36
-
 ---
+title: 12 Ways to Customize Claude Code
+author: Boris Cherny
+channel: Boris Cherny
+url: https://x.com/bcherny/status/2021699851499798911
+date: 2026-02-11 21:36
+tags: ai, development
+---
+
+# 12 Ways to Customize Claude Code
 
 Boris Cherny framed Claude Code's growth around one idea: developers adopt the tool not only
 because the defaults are good, but because the product is unusually easy to shape around personal

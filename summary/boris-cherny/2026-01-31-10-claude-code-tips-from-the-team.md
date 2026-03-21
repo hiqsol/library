@@ -1,6 +1,13 @@
+---
+title: 10 Claude Code Tips from the Team
+author: Boris Cherny
+channel: Boris Cherny
+url: https://x.com/bcherny/status/2017742741636321619
+date: 2026-01-31 23:32
+tags: ai, development
+---
+
 # Summary: 10 Claude Code Tips from the Team
-**Author:** Boris Cherny
-**Published:** 2026-01-31 23:32
 Boris Cherny shared ten usage patterns sourced from the Claude Code team and emphasized that there
 is no single right setup. The core message is to experiment until Claude Code matches your own
 workflow and to turn repeatable practices into reusable system behavior.

@@ -1,5 +1,5 @@
 ---
-title: "We're So Back": AI Solved Mitchell's 6-Month Ghosty Bug
+title: We're So Back - AI Solved Mitchell's 6-Month Ghosty Bug
 author: ThePrimeagen
 channel: The PrimeTime
 url: https://youtu.be/5DP0az1q_8M

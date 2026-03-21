@@ -1,10 +1,13 @@
-# What They Don't Tell Us About AI: The Future We Must Prepare For
-
-- **Source:** [YouTube — Gleb Solomin](https://www.youtube.com/watch?v=LF5O3sTKcOE)
-- **Author:** Margulan Seissembai
-- **Published:** 2026-03-04
-
 ---
+title: What They Don't Tell Us About AI: The Future We Must Prepare For
+author: Margulan Seissembai
+channel: Gleb Solomin
+url: https://www.youtube.com/watch?v=LF5O3sTKcOE
+date: 2026-03-04 00:00
+tags: ai
+---
+
+# What They Don't Tell Us About AI: The Future We Must Prepare For
 
 ## Introduction
 

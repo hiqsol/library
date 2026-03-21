@@ -1,6 +1,13 @@
-# 90% of AI Users Are Getting Mediocre Output — Summary
+---
+title: 90% of AI Users Are Getting Mediocre Output
+author: Nate B. Jones
+channel: Nate B. Jones
+url: https://www.youtube.com/watch?v=KX0GurmgAoo
+date: 2026-02-05 15:00
+tags: ai
+---
 
-**Published:** 2026-02-05 15:00
+# 90% of AI Users Are Getting Mediocre Output — Summary
 
 Default AI output is the statistical median — optimized for the typical
 user via RLHF (reinforcement learning from human feedback). Raters pick

@@ -1,10 +1,13 @@
-# The Ticking Time Bomb in Every Codebase Over 18 Months Old
-
-- **Source:** [YouTube — Nate B Jones / AI News & Strategy Daily](https://www.youtube.com/watch?v=NoRePxSrhpw)
-- **Author:** Nate B Jones
-- **Published:** 2026-01-28 15:00
-
 ---
+title: The Ticking Time Bomb in Every Codebase Over 18 Months Old
+author: Nate B. Jones
+channel: Nate B. Jones
+url: https://www.youtube.com/watch?v=NoRePxSrhpw
+date: 2026-01-28 15:00
+tags: ai
+---
+
+# The Ticking Time Bomb in Every Codebase Over 18 Months Old
 
 ## AI Might Be Better at Software Architecture Than Humans
 

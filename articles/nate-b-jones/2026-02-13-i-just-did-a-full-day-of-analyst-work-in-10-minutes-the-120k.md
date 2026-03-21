@@ -1,10 +1,13 @@
-# I Just Did a Full Day of Analyst Work in 10 Minutes
-
-- **Source:** [YouTube — Nate B Jones / AI News & Strategy Daily](https://www.youtube.com/watch?v=U1oHRqUkI1E)
-- **Author:** Nate B Jones
-- **Published:** 2026-02-13 15:00
-
 ---
+title: I Just Did a Full Day of Analyst Work in 10 Minutes
+author: Nate B. Jones
+channel: Nate B. Jones
+url: https://www.youtube.com/watch?v=U1oHRqUkI1E
+date: 2026-02-13 15:00
+tags: ai
+---
+
+# I Just Did a Full Day of Analyst Work in 10 Minutes
 
 ## General Intelligence Arrived in Excel and PowerPoint
 

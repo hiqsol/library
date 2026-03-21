@@ -1,10 +1,13 @@
-# Everyone You Know Is About to Try Claude — How to Help Them Get It Right
-
-- **Source:** [YouTube — Nate B Jones / AI News & Strategy Daily](https://www.youtube.com/watch?v=O7SSQfiPDXA)
-- **Author:** Nate B Jones
-- **Published:** 2026-03-04 15:00
-
 ---
+title: Everyone You Know Is About to Try Claude — How to Help Them Get It Right
+author: Nate B. Jones
+channel: Nate B. Jones
+url: https://www.youtube.com/watch?v=O7SSQfiPDXA
+date: 2026-03-04 15:00
+tags: ai
+---
+
+# Everyone You Know Is About to Try Claude — How to Help Them Get It Right
 
 ## Why This Guide Exists
 

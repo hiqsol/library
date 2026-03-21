@@ -1,6 +1,13 @@
-# Codex 5.3 vs Opus 4.6 — Summary
+---
+title: Codex 5.3 vs Opus 4.6
+author: Nate B. Jones
+channel: Nate B. Jones
+url: https://www.youtube.com/watch?v=41UDGsBEjoI
+date: 2026-02-16 15:00
+tags: ai
+---
 
-**Published:** 2026-02-16 15:00
+# Codex 5.3 vs Opus 4.6 — Summary
 
 OpenAI shipped Codex 5.3 and Anthropic shipped Opus 4.6 twenty
 minutes apart — two fundamentally different visions of AI agents.

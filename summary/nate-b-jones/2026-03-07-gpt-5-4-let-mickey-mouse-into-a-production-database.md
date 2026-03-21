@@ -1,10 +1,13 @@
-# Summary: GPT-5.4 Let Mickey Mouse Into a Production Database
-
-- **Source:** [YouTube — Nate B Jones](https://www.youtube.com/watch?v=-_vL1KXd2rc)
-- **Author:** Nate B Jones
-- **Published:** 2026-03-07 17:00
-
 ---
+title: GPT-5.4 Let Mickey Mouse Into a Production Database
+author: Nate B. Jones
+channel: Nate B. Jones
+url: https://www.youtube.com/watch?v=-_vL1KXd2rc
+date: 2026-03-07 17:00
+tags: ai
+---
+
+# Summary: GPT-5.4 Let Mickey Mouse Into a Production Database
 
 Nate ran blind evaluations of GPT-5.4 against Claude Opus 4.6 and Gemini 3.1
 with six structured tests and independent judging. GPT-5.4 is "the most

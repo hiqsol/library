@@ -1,10 +1,13 @@
-# Anthropic Didn't Build a New Browser. They Did Something Smarter.
-
-**Author:** Nate B. Jones
-**Date:** 2026-03-17
-**Source:** https://www.youtube.com/watch?v=QT7W_uHjqWE
-
 ---
+title: Anthropic Didn't Build a New Browser. They Did Something Smarter.
+author: Nate B. Jones
+channel: Nate B. Jones
+url: https://www.youtube.com/watch?v=QT7W_uHjqWE
+date: 2026-03-17 00:00
+tags: ai
+---
+
+# Anthropic Didn't Build a New Browser. They Did Something Smarter.
 
 ## The Core Idea
 

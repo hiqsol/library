@@ -1,9 +1,13 @@
-# Fellow White Dudes: Let's Roll a d20
-
-- **Author:** Dan Shapiro
-- **Published:** 2019-02-05 14:17
-
 ---
+title: Fellow White Dudes: Let's Roll a d20
+author: Dan Shapiro
+channel: Dan Shapiro's Blog
+url: https://www.danshapiro.com/blog/2019/02/fellow-white-dudes-lets-roll-a-d20/
+date: 2019-02-05 14:17
+tags: startups
+---
+
+# Fellow White Dudes: Let's Roll a d20
 
 > Last week, I attended an unconference called ORD Camp. At the event, attendees create sessions
 > together around their passions and expertise. Everyone is a "speaker"; there's no hierarchy of

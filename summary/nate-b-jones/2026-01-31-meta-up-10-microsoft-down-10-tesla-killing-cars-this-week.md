@@ -1,6 +1,13 @@
-# Meta Up 10%, Microsoft Down 10%, Tesla Killing Cars — Summary
+---
+title: Meta Up 10%, Microsoft Down 10%, Tesla Killing Cars
+author: Nate B. Jones
+channel: Nate B. Jones
+url: https://www.youtube.com/watch?v=kuGg0b2IrHQ
+date: 2026-01-31 16:01
+tags: ai
+---
 
-**Published:** 2026-01-31 16:01
+# Meta Up 10%, Microsoft Down 10%, Tesla Killing Cars — Summary
 
 Meta and Microsoft both beat earnings expectations and announced
 massive AI spending — but Meta jumped 10% while Microsoft dropped

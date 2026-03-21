@@ -1,10 +1,13 @@
-# Prompt Engineering Is Dead, Context Engineering Is Dying — What Comes Next
-
-- **Source:** [YouTube — Nate B Jones / AI News & Strategy Daily](https://www.youtube.com/watch?v=QWzLPn164w0)
-- **Author:** Nate B Jones
-- **Published:** 2026-02-24 15:00
-
 ---
+title: Prompt Engineering Is Dead, Context Engineering Is Dying — What Comes Next
+author: Nate B. Jones
+channel: Nate B. Jones
+url: https://www.youtube.com/watch?v=QWzLPn164w0
+date: 2026-02-24 15:00
+tags: ai
+---
+
+# Prompt Engineering Is Dead, Context Engineering Is Dying — What Comes Next
 
 ## The Klarna Case: When AI Succeeds at the Wrong Thing
 

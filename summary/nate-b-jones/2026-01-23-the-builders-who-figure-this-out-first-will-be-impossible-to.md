@@ -1,7 +1,13 @@
-# The Builders Who Figure This Out First Will Be Impossible
-# to Catch — Summary
+---
+title: The Builders Who Figure This Out First Will Be Impossible to Catch
+author: Nate B. Jones
+channel: Nate B. Jones
+url: https://www.youtube.com/watch?v=5Di6o6zuMLc
+date: 2026-01-23 15:00
+tags: ai
+---
 
-**Published:** 2026-01-23 15:00
+# The Builders Who Figure This Out First Will Be Impossible to Catch — Summary
 
 The bottleneck has shifted from capability (prompting, tool fluency)
 to cognitive architecture and systems thinking. Top 1% builders in

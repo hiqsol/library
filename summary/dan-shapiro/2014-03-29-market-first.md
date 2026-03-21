@@ -1,7 +1,13 @@
-# Summary: Market first
+---
+title: Market first
+author: Dan Shapiro
+channel: Dan Shapiro's Blog
+url: https://www.danshapiro.com/blog/2014/03/market-first/
+date: 2014-03-29 17:06
+tags: startups
+---
 
-**Author:** Dan Shapiro
-**Published:** 2014-03-29 17:06
+# Summary: Market first
 
 I'm told Amazon writes the press release for a product before beginning development. I don't know
 exactly how the process works, but this has been sloshing around in my head mixed in with a bunch of

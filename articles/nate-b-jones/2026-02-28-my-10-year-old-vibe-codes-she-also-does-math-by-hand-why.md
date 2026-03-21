@@ -1,10 +1,13 @@
-# My 10-Year-Old Vibe Codes and Does Math by Hand — Why That's the Only Strategy
-
-- **Source:** [YouTube — Nate B Jones / AI News & Strategy Daily](https://www.youtube.com/watch?v=2ghhiPLg-jg)
-- **Author:** Nate B Jones
-- **Published:** 2026-02-28 16:00
-
 ---
+title: My 10-Year-Old Vibe Codes and Does Math by Hand — Why That's the Only Strategy
+author: Nate B. Jones
+channel: Nate B. Jones
+url: https://www.youtube.com/watch?v=2ghhiPLg-jg
+date: 2026-02-28 16:00
+tags: ai
+---
+
+# My 10-Year-Old Vibe Codes and Does Math by Hand — Why That's the Only Strategy
 
 ## The World Our Kids Inherit
 

@@ -1,6 +1,13 @@
-# The $285 Billion Crash Wall Street Won't Explain Honestly — Summary
+---
+title: The $285 Billion Crash Wall Street Won't Explain Honestly
+author: Nate B. Jones
+channel: Nate B. Jones
+url: https://www.youtube.com/watch?v=DGWtSzqCpog
+date: 2026-02-10 15:00
+tags: ai
+---
 
-**Published:** 2026-02-10 15:00
+# The $285 Billion Crash Wall Street Won't Explain Honestly — Summary
 
 On January 30th, Anthropic released open-source plugins for Claude Co-work.
 A ~200-line markdown prompt for legal contract review triggered a $285B

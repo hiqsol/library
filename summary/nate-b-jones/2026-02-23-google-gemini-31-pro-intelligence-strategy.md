@@ -1,6 +1,13 @@
-# Google's Gemini 3.1 Pro: Intelligence Strategy — Summary
+---
+title: Google's Gemini 3.1 Pro: Intelligence Strategy
+author: Nate B. Jones
+channel: Nate B. Jones
+url: https://www.youtube.com/watch?v=8jKAT8GNDE0
+date: 2026-02-23 15:00
+tags: ai
+---
 
-**Published:** 2026-02-23 15:00
+# Google's Gemini 3.1 Pro: Intelligence Strategy — Summary
 
 Nate B Jones analyzes why Google shipped the top-benchmarked AI model at
 a fraction of competitors' prices and doesn't need you to use it.

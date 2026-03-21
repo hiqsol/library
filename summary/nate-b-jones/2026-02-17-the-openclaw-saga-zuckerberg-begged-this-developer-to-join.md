@@ -1,6 +1,13 @@
-# The OpenClaw Saga: Zuckerberg Begged This Developer — Summary
+---
+title: The OpenClaw Saga: Zuckerberg Begged This Developer
+author: Nate B. Jones
+channel: Nate B. Jones
+url: https://www.youtube.com/watch?v=5IzPLjqkFaE
+date: 2026-02-17 15:00
+tags: ai
+---
 
-**Published:** 2026-02-17 15:00
+# The OpenClaw Saga: Zuckerberg Begged This Developer — Summary
 
 Peter Steinberger, Austrian developer who sold his PDF company for
 $100M+, joined OpenAI on Valentine's Day 2026. He built OpenClaw

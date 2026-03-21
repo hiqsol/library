@@ -1,10 +1,13 @@
-# Why the Smartest AI Teams Are Panic-Buying Compute
-
-- **Source:** [YouTube — Nate B Jones / AI News & Strategy Daily](https://www.youtube.com/watch?v=pSgy2P2q790)
-- **Author:** Nate B Jones
-- **Published:** 2026-02-08 19:00
-
 ---
+title: Why the Smartest AI Teams Are Panic-Buying Compute
+author: Nate B. Jones
+channel: Nate B. Jones
+url: https://www.youtube.com/watch?v=pSgy2P2q790
+date: 2026-02-08 19:00
+tags: ai
+---
+
+# Why the Smartest AI Teams Are Panic-Buying Compute
 
 ## The 36-Month AI Infrastructure Crisis
 

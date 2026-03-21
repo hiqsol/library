@@ -1,11 +1,13 @@
-# Middle East Endgame: Iran's Defeat, Ukraine's Geopolitical Stake
-
-**Author:** Petro Chernyk (Colonel, Ukrainian Armed Forces, military expert)
-**Date:** 2026-03-20
-**Source:** https://youtu.be/Ke5KEl87A5o
-**Channel:** Ми - Україна
-
 ---
+title: Middle East Endgame: Iran's Defeat, Ukraine's Geopolitical Stake
+author: Petro Chernyk
+channel: Ми - Україна
+url: https://youtu.be/Ke5KEl87A5o
+date: 2026-03-20 00:00
+tags: politics, war, ukraine
+---
+
+# Middle East Endgame: Iran's Defeat, Ukraine's Geopolitical Stake
 
 ## Battlefield Status: Operation "Epic People 3"
 

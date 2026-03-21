@@ -1,10 +1,13 @@
-# OpenClaw: 160,000 Developers Are Building Something OpenAI and Google Can't Stop
-
-- **Source:** [YouTube — Nate B Jones / AI News & Strategy Daily](https://www.youtube.com/watch?v=q-sClVMYY4w)
-- **Author:** Nate B Jones
-- **Published:** 2026-02-12 15:01
-
 ---
+title: OpenClaw: 160,000 Developers Are Building Something OpenAI and Google Can't Stop
+author: Nate B. Jones
+channel: Nate B. Jones
+url: https://www.youtube.com/watch?v=q-sClVMYY4w
+date: 2026-02-12 15:01
+tags: ai
+---
+
+# OpenClaw: 160,000 Developers Are Building Something OpenAI and Google Can't Stop
 
 ## The Duality of Agents
 

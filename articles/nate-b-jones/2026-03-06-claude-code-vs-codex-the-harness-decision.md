@@ -1,11 +1,13 @@
-# Claude Code vs Codex: The Harness Decision That Compounds Every Week
-
-- **Source:** [YouTube — Nate B Jones / AI News & Strategy
-  Daily](https://www.youtube.com/watch?v=09sFAO7pklo)
-- **Author:** Nate B Jones
-- **Published:** 2026-03-06 16:00
-
 ---
+title: Claude Code vs Codex: The Harness Decision That Compounds Every Week
+author: Nate B. Jones
+channel: Nate B. Jones
+url: https://www.youtube.com/watch?v=09sFAO7pklo
+date: 2026-03-06 16:00
+tags: ai
+---
+
+# Claude Code vs Codex: The Harness Decision That Compounds Every Week
 
 ## The Model vs the Harness
 

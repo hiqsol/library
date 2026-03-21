@@ -1,10 +1,13 @@
-# The 5 Levels of AI Coding — Why Most Won't Make It Past Level 2
-
-- **Source:** [YouTube — Nate B Jones / AI News & Strategy Daily](https://www.youtube.com/watch?v=bDcgHzCBgmQ)
-- **Author:** Nate B Jones
-- **Published:** 2026-02-18 15:01
-
 ---
+title: The 5 Levels of AI Coding — Why Most Won't Make It Past Level 2
+author: Nate B. Jones
+channel: Nate B. Jones
+url: https://www.youtube.com/watch?v=bDcgHzCBgmQ
+date: 2026-02-18 15:01
+tags: ai
+---
+
+# The 5 Levels of AI Coding — Why Most Won't Make It Past Level 2
 
 ## The Paradox
 

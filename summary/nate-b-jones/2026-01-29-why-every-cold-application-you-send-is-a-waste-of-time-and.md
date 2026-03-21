@@ -1,6 +1,13 @@
-# Why Every Cold Application You Send Is a Waste of Time — Summary
+---
+title: Why Every Cold Application You Send Is a Waste of Time
+author: Nate B. Jones
+channel: Nate B. Jones
+url: https://www.youtube.com/watch?v=AoA9h3TjxE0
+date: 2026-01-29 15:00
+tags: ai
+---
 
-**Published:** 2026-01-29 15:00
+# Why Every Cold Application You Send Is a Waste of Time — Summary
 
 Digital platforms have held informational asymmetry for 20 years —
 they analyze your data but only show you what serves their business

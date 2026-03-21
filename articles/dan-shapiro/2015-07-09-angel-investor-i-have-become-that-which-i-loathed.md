@@ -1,9 +1,13 @@
-# Angel Investor: I have become that which I loathed
-
-- **Author:** Dan Shapiro
-- **Published:** 2015-07-09 07:10
-
 ---
+title: Angel Investor: I have become that which I loathed
+author: Dan Shapiro
+channel: Dan Shapiro's Blog
+url: https://www.danshapiro.com/blog/2015/07/angel-investor-i-have-become-that-which-i-loathed/
+date: 2015-07-09 07:10
+tags: startups
+---
+
+# Angel Investor: I have become that which I loathed
 
 In Chapter 16 of my book I talk a lot about angel investing. First up: "Angel investor" is a stupid
 and meaningless term, right up there with "stock market investor" or "bank account holder". It means

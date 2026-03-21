@@ -1,10 +1,13 @@
-# Why Every AI Skill You Learned 6 Months Ago Is Already Wrong
-
-- **Source:** [YouTube — Nate B Jones / AI News & Strategy Daily](https://www.youtube.com/watch?v=RnjgLlQTMf0)
-- **Author:** Nate B Jones
-- **Published:** 2026-03-01 19:00
-
 ---
+title: Why Every AI Skill You Learned 6 Months Ago Is Already Wrong
+author: Nate B. Jones
+channel: Nate B. Jones
+url: https://www.youtube.com/watch?v=RnjgLlQTMf0
+date: 2026-03-01 19:00
+tags: ai
+---
+
+# Why Every AI Skill You Learned 6 Months Ago Is Already Wrong
 
 ## The Expanding Bubble
 

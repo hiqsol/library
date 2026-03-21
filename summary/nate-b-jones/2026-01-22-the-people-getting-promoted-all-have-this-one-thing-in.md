@@ -1,6 +1,13 @@
-# The People Getting Promoted All Have This One Thing in Common — Summary
+---
+title: The People Getting Promoted All Have This One Thing in Common
+author: Nate B. Jones
+channel: Nate B. Jones
+url: https://www.youtube.com/watch?v=HZ9iL_lFYgQ
+date: 2026-01-22 15:00
+tags: ai
+---
 
-**Published:** 2026-01-22 15:00
+# The People Getting Promoted All Have This One Thing in Common — Summary
 
 Entry-level tech hiring has collapsed 50%+ since 2019. Entry-level
 postings across the US dropped 29 percentage points (Jan 2024–Jan 2026).

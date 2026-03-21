@@ -1,6 +1,13 @@
-# Everyone You Know Is About to Try Claude — Summary
+---
+title: Everyone You Know Is About to Try Claude
+author: Nate B. Jones
+channel: Nate B. Jones
+url: https://www.youtube.com/watch?v=O7SSQfiPDXA
+date: 2026-03-04 15:00
+tags: ai
+---
 
-**Published:** 2026-03-04 15:00
+# Everyone You Know Is About to Try Claude — Summary
 
 After Anthropic refused the Pentagon and the White House retaliated, Claude
 became the #1 app in America. Millions of new users are treating it as a

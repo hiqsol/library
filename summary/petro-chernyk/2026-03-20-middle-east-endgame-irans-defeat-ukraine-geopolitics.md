@@ -1,6 +1,13 @@
-# Summary: Middle East Endgame — Iran's Defeat, Ukraine's Geopolitical Stake
+---
+title: Middle East Endgame: Iran's Defeat, Ukraine's Geopolitical Stake
+author: Petro Chernyk
+channel: Ми - Україна
+url: https://youtu.be/Ke5KEl87A5o
+date: 2026-03-20 00:00
+tags: politics, war, ukraine
+---
 
-Petro Chernyk · 2026-03-20
+# Summary: Middle East Endgame — Iran's Defeat, Ukraine's Geopolitical Stake
 
 ## Battlefield Status
 

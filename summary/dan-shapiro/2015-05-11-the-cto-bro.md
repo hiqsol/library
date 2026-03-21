@@ -1,7 +1,13 @@
-# Summary: The CTO Bro
+---
+title: The CTO Bro
+author: Dan Shapiro
+channel: Dan Shapiro's Blog
+url: https://www.danshapiro.com/blog/2015/05/the-cto-bro/
+date: 2015-05-11 11:40
+tags: startups
+---
 
-**Author:** Dan Shapiro
-**Published:** 2015-05-11 11:40
+# Summary: The CTO Bro
 
 In my new book " Hot Seat: The Startup CEO Guidebook ", I got to retell some amazing stories from
 CEOs of companies large and small. One of them was from Elissa Shevinsky, CEO and founder of

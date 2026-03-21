@@ -1,10 +1,13 @@
-# Why the Smartest AI Bet Right Now Has Nothing to Do With AI
-
-- **Source:** [YouTube — Nate B Jones / AI News & Strategy Daily](https://www.youtube.com/watch?v=pxuXV3Q6tGY)
-- **Author:** Nate B Jones
-- **Published:** 2026-02-01 19:00
-
 ---
+title: Why the Smartest AI Bet Right Now Has Nothing to Do With AI
+author: Nate B. Jones
+channel: Nate B. Jones
+url: https://www.youtube.com/watch?v=pxuXV3Q6tGY
+date: 2026-02-01 19:00
+tags: ai
+---
+
+# Why the Smartest AI Bet Right Now Has Nothing to Do With AI
 
 ## The Abundance Narrative vs. Reality
 

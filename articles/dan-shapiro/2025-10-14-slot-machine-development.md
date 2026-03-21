@@ -1,9 +1,13 @@
-# Slot Machine Development
-
-- **Author:** Dan Shapiro
-- **Published:** 2025-10-14 10:13
-
 ---
+title: Slot Machine Development
+author: Dan Shapiro
+channel: Dan Shapiro's Blog
+url: https://www.danshapiro.com/blog/2025/10/slot-machine-development/
+date: 2025-10-14 10:13
+tags: ai, development
+---
+
+# Slot Machine Development
 
 Something new is possible.
 

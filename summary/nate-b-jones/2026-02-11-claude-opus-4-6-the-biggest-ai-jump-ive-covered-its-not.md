@@ -1,6 +1,13 @@
-# Claude Opus 4.6: The Biggest AI Jump I've Covered — Summary
+---
+title: Claude Opus 4.6: The Biggest AI Jump I've Covered
+author: Nate B. Jones
+channel: Nate B. Jones
+url: https://www.youtube.com/watch?v=JKk77rzOL34
+date: 2026-02-11 15:31
+tags: ai
+---
 
-**Published:** 2026-02-11 15:31
+# Claude Opus 4.6: The Biggest AI Jump I've Covered — Summary
 
 Opus 4.6 shipped February 5, 2026. Sixteen agents coded autonomously for
 two weeks and delivered a 100,000-line Rust C compiler for ~$20,000. A year

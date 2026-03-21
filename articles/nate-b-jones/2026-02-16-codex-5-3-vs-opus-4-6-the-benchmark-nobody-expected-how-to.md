@@ -1,10 +1,13 @@
-# Codex 5.3 vs Opus 4.6 — The Benchmark Nobody Expected
-
-- **Source:** [YouTube — Nate B Jones / AI News & Strategy Daily](https://www.youtube.com/watch?v=41UDGsBEjoI)
-- **Author:** Nate B Jones
-- **Published:** 2026-02-16 15:00
-
 ---
+title: Codex 5.3 vs Opus 4.6 — The Benchmark Nobody Expected
+author: Nate B. Jones
+channel: Nate B. Jones
+url: https://www.youtube.com/watch?v=41UDGsBEjoI
+date: 2026-02-16 15:00
+tags: ai
+---
+
+# Codex 5.3 vs Opus 4.6 — The Benchmark Nobody Expected
 
 ## Two Visions, Twenty Minutes Apart
 

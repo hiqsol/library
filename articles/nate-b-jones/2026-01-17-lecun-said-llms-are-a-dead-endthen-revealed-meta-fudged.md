@@ -1,10 +1,13 @@
-# LeCun Said LLMs Are a Dead End, Then Revealed Meta Fudged Their Benchmarks
-
-- **Source:** [YouTube — Nate B Jones / AI News & Strategy Daily](https://www.youtube.com/watch?v=RgQtTvneqPY)
-- **Author:** Nate B Jones
-- **Published:** 2026-01-17 16:00
-
 ---
+title: LeCun Said LLMs Are a Dead End, Then Revealed Meta Fudged Their Benchmarks
+author: Nate B. Jones
+channel: Nate B. Jones
+url: https://www.youtube.com/watch?v=RgQtTvneqPY
+date: 2026-01-17 16:00
+tags: ai
+---
+
+# LeCun Said LLMs Are a Dead End, Then Revealed Meta Fudged Their Benchmarks
 
 ## Five Stories That Actually Matter This Week
 

@@ -1,10 +1,13 @@
-# Summary: I Replaced My Dev Team with AI Agents (7 Months Later)
-
-- **Source:** [YouTube — Overpass Apps](https://www.youtube.com/watch?v=tGZn0BGvg-g)
-- **Author:** Eric (Overpass Apps)
-- **Published:** 2026-03-12
-
 ---
+title: I Replaced My Dev Team with AI Agents (7 Months Later)
+author: Overpass Apps
+channel: Overpass Apps
+url: https://www.youtube.com/watch?v=tGZn0BGvg-g
+date: 2026-03-12 00:00
+tags: ai, development
+---
+
+# Summary: I Replaced My Dev Team with AI Agents (7 Months Later)
 
 After 7 months away, app developer Eric shares how AI agents completely
 replaced his offshore development teams (Philippines, India, Vietnam).

@@ -1,9 +1,13 @@
-# Sora Dresses Me Funny: GenAI As Fashion Consultant
-
-- **Author:** Dan Shapiro
-- **Published:** 2025-10-29 12:47
-
 ---
+title: Sora Dresses Me Funny: GenAI As Fashion Consultant
+author: Dan Shapiro
+channel: Dan Shapiro's Blog
+url: https://www.danshapiro.com/blog/2025/10/sora-dresses-me-funny-genai-as-fashion-consultant/
+date: 2025-10-29 12:47
+tags: ai
+---
+
+# Sora Dresses Me Funny: GenAI As Fashion Consultant
 
 My wife pointed out that most of my shirts predate the pandemic, and it was time to shop for
 something new.

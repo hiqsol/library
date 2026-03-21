@@ -1,6 +1,13 @@
-# The Skill That Separates AI Power Users From Everyone Else — Summary
+---
+title: The Skill That Separates AI Power Users From Everyone Else
+author: Nate B. Jones
+channel: Nate B. Jones
+url: https://www.youtube.com/watch?v=hDpjMJw3flk
+date: 2026-01-21 15:01
+tags: ai
+---
 
-**Published:** 2026-01-21 15:01
+# The Skill That Separates AI Power Users From Everyone Else — Summary
 
 Cursor CEO Michael Truell ran GPT-5.2 for a week straight (Jan 2026),
 producing 3 million lines of Rust code — a functional browser rendering

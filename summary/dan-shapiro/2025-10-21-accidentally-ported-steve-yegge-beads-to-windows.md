@@ -1,7 +1,13 @@
-# Summary: I accidentally ported Steve Yegge's Beads to Windows
+---
+title: I accidentally ported Steve Yegge's Beads to Windows
+author: Dan Shapiro
+channel: Dan Shapiro's Blog
+url: https://www.danshapiro.com/blog/2025/10/accidentally-ported-steve-yegge-beads-to-windows/
+date: 2025-10-21 14:30
+tags: ai, development
+---
 
-**Author:** Dan Shapiro
-**Published:** 2025-10-21 14:30
+# Summary: I accidentally ported Steve Yegge's Beads to Windows
 
 Tuesday, 9:40am, Seattle. I opened Codex CLI* in Powershell and said, "Install Beads ".
 

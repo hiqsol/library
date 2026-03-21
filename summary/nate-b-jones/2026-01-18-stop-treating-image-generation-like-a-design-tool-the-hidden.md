@@ -1,6 +1,13 @@
-# Stop Treating Image Generation Like a Design Tool — Summary
+---
+title: Stop Treating Image Generation Like a Design Tool
+author: Nate B. Jones
+channel: Nate B. Jones
+url: https://www.youtube.com/watch?v=Nt7vzMiE0mY
+date: 2026-01-18 19:00
+tags: ai
+---
 
-**Published:** 2026-01-18 19:00
+# Stop Treating Image Generation Like a Design Tool — Summary
 
 Nano Banana Pro hit 1 billion images in 53 days. The media frames it
 as a creative tool. The real story: AI can now reliably interpret and

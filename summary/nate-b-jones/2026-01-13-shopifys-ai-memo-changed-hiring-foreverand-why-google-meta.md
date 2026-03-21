@@ -1,6 +1,13 @@
-# Shopify's AI Memo Changed Hiring Forever — Summary
+---
+title: Shopify's AI Memo Changed Hiring Forever
+author: Nate B. Jones
+channel: Nate B. Jones
+url: https://www.youtube.com/watch?v=dzp0OQbElpU
+date: 2026-01-13 15:01
+tags: ai
+---
 
-**Published:** 2026-01-13 15:01
+# Shopify's AI Memo Changed Hiring Forever — Summary
 
 Tobi Lutke's April 2025 memo mandated: reflexive AI usage as baseline,
 AI dominating prototype phase, AI in performance reviews, prove AI

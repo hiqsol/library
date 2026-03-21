@@ -1,11 +1,13 @@
-# One Simple System Gave All My AI Tools a Memory. Here's How.
-
-- **Source:** [YouTube — Nate B Jones / AI News & Strategy
-  Daily](https://www.youtube.com/watch?v=japT66frdhM)
-- **Author:** Nate B Jones
-- **Published:** 2026-03-13
-
 ---
+title: One Simple System Gave All My AI Tools a Memory. Here's How.
+author: Nate B. Jones
+channel: Nate B. Jones
+url: https://www.youtube.com/watch?v=japT66frdhM
+date: 2026-03-13 00:00
+tags: ai
+---
+
+# One Simple System Gave All My AI Tools a Memory. Here's How.
 
 **Abbreviations:**
 - **MCP** — Model Context Protocol

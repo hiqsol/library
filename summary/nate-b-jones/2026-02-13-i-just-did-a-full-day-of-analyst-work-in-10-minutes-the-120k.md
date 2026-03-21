@@ -1,6 +1,13 @@
-# Full Day of Analyst Work in 10 Minutes — Summary
+---
+title: Full Day of Analyst Work in 10 Minutes
+author: Nate B. Jones
+channel: Nate B. Jones
+url: https://www.youtube.com/watch?v=U1oHRqUkI1E
+date: 2026-02-13 15:00
+tags: ai
+---
 
-**Published:** 2026-02-13 15:00
+# Full Day of Analyst Work in 10 Minutes — Summary
 
 Claude in Excel (Pro plan, $20/month) and Claude in PowerPoint (Max,
 ~$100/month) shipped with Opus 4.6 in February 2026. A Goldman

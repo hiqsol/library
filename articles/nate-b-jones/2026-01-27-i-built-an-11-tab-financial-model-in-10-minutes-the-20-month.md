@@ -1,10 +1,13 @@
-# I Built an 11-Tab Financial Model in 10 Minutes
-
-- **Source:** [YouTube — Nate B Jones / AI News & Strategy Daily](https://www.youtube.com/watch?v=f-v0fJgBqhk)
-- **Author:** Nate B Jones
-- **Published:** 2026-01-27 15:01
-
 ---
+title: I Built an 11-Tab Financial Model in 10 Minutes
+author: Nate B. Jones
+channel: Nate B. Jones
+url: https://www.youtube.com/watch?v=f-v0fJgBqhk
+date: 2026-01-27 15:01
+tags: ai
+---
+
+# I Built an 11-Tab Financial Model in 10 Minutes
 
 ## Claude in Excel: A Phase Change in Knowledge Work
 

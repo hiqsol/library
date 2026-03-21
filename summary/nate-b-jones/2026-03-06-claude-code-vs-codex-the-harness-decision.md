@@ -1,10 +1,13 @@
-# Summary: Claude Code vs Codex — The Harness Decision
-
-- **Source:** [YouTube — Nate B Jones](https://www.youtube.com/watch?v=09sFAO7pklo)
-- **Author:** Nate B Jones
-- **Published:** 2026-03-06 16:00
-
 ---
+title: Claude Code vs Codex — The Harness Decision
+author: Nate B. Jones
+channel: Nate B. Jones
+url: https://www.youtube.com/watch?v=09sFAO7pklo
+date: 2026-03-06 16:00
+tags: ai
+---
+
+# Summary: Claude Code vs Codex — The Harness Decision
 
 The harness — everything surrounding the model (runtime environment, memory,
 tool access, task management) — matters more than the model itself. Same Claude

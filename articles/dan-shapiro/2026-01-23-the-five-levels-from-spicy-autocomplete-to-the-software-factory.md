@@ -1,9 +1,13 @@
-# The Five Levels: from Spicy Autocomplete to the Dark Factory
-
-- **Author:** Dan Shapiro
-- **Published:** 2026-01-23 12:12
-
 ---
+title: The Five Levels: from Spicy Autocomplete to the Dark Factory
+author: Dan Shapiro
+channel: Dan Shapiro's Blog
+url: https://www.danshapiro.com/blog/2026/01/the-five-levels-from-spicy-autocomplete-to-the-software-factory/
+date: 2026-01-23 12:12
+tags: ai, development
+---
+
+# The Five Levels: from Spicy Autocomplete to the Dark Factory
 
 In my last post, I wrote about technical deflation. We're seeing the cost of code is dropping so
 fast that we need to change our tech debt payment plans. The smart teams are deferring payment on

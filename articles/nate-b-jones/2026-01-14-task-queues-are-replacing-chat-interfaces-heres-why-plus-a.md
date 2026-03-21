@@ -1,10 +1,13 @@
-# Task Queues Are Replacing Chat Interfaces
-
-- **Source:** [YouTube — Nate B Jones / AI News & Strategy Daily](https://www.youtube.com/watch?v=h7dbkDcb3hA)
-- **Author:** Nate B Jones
-- **Published:** 2026-01-14 15:01
-
 ---
+title: Task Queues Are Replacing Chat Interfaces
+author: Nate B. Jones
+channel: Nate B. Jones
+url: https://www.youtube.com/watch?v=h7dbkDcb3hA
+date: 2026-01-14 15:01
+tags: ai
+---
+
+# Task Queues Are Replacing Chat Interfaces
 
 ## How Claude Co-work Was Born
 

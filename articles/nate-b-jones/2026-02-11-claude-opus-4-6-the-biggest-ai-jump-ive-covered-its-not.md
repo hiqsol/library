@@ -1,10 +1,13 @@
-# Claude Opus 4.6: The Biggest AI Jump I've Covered
-
-- **Source:** [YouTube — Nate B Jones / AI News & Strategy Daily](https://www.youtube.com/watch?v=JKk77rzOL34)
-- **Author:** Nate B Jones
-- **Published:** 2026-02-11 15:31
-
 ---
+title: Claude Opus 4.6: The Biggest AI Jump I've Covered
+author: Nate B. Jones
+channel: Nate B. Jones
+url: https://www.youtube.com/watch?v=JKk77rzOL34
+date: 2026-02-11 15:31
+tags: ai
+---
+
+# Claude Opus 4.6: The Biggest AI Jump I've Covered
 
 ## The Two-Week Autonomous Coding Record
 

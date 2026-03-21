@@ -1,6 +1,13 @@
+---
+title: How Boris Cherny Uses Claude Code
+author: Boris Cherny
+channel: Boris Cherny
+url: https://x.com/bcherny/status/2007179832300581177
+date: 2026-01-02 19:58
+tags: ai, development
+---
+
 # Summary: How Boris Cherny Uses Claude Code
-**Author:** Boris Cherny
-**Published:** 2026-01-02 19:58
 Boris Cherny described his own Claude Code setup as "surprisingly vanilla," but the thread shows a
 highly structured workflow based on parallel sessions, durable project memory, custom commands,
 subagents, hooks, permissions, and MCP integrations.

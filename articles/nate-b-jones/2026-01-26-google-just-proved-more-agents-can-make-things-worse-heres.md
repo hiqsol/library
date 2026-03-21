@@ -1,10 +1,13 @@
-# Google Just Proved More Agents Can Make Things Worse
-
-- **Source:** [YouTube — Nate B Jones / AI News & Strategy Daily](https://www.youtube.com/watch?v=2EXyj_fHU48)
-- **Author:** Nate B Jones
-- **Published:** 2026-01-26 14:00
-
 ---
+title: Google Just Proved More Agents Can Make Things Worse
+author: Nate B. Jones
+channel: Nate B. Jones
+url: https://www.youtube.com/watch?v=2EXyj_fHU48
+date: 2026-01-26 14:00
+tags: ai
+---
+
+# Google Just Proved More Agents Can Make Things Worse
 
 ## The Multi-Agent Scaling Problem
 

@@ -1,10 +1,13 @@
-# Going Slower Feels Safer, But Your Domain Expertise Won't Save You
-
-- **Source:** [YouTube — Nate B Jones / AI News & Strategy Daily](https://www.youtube.com/watch?v=q6p-_W6_VoM)
-- **Author:** Nate B Jones
-- **Published:** 2026-02-09 15:01
-
 ---
+title: Going Slower Feels Safer, But Your Domain Expertise Won't Save You
+author: Nate B. Jones
+channel: Nate B. Jones
+url: https://www.youtube.com/watch?v=q6p-_W6_VoM
+date: 2026-02-09 15:01
+tags: ai
+---
+
+# Going Slower Feels Safer, But Your Domain Expertise Won't Save You
 
 ## AI Is Collapsing Futures — Not Destroying, Compressing
 

@@ -1,6 +1,13 @@
-# Apple Took Years to Catch Up, Kilo Code Took 6 Weeks — Summary
+---
+title: Apple Took Years to Catch Up, Kilo Code Took 6 Weeks
+author: Nate B. Jones
+channel: Nate B. Jones
+url: https://www.youtube.com/watch?v=2sY7Pcm2j2g
+date: 2026-01-24 16:00
+tags: ai
+---
 
-**Published:** 2026-01-24 16:00
+# Apple Took Years to Catch Up, Kilo Code Took 6 Weeks — Summary
 
 **xAI Series E:** $20B round at $230B valuation. Colossus
 supercomputers in Memphis with 1M+ H100 GPU equivalents. Grok 5 in

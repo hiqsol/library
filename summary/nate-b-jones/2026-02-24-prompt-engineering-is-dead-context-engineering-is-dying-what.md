@@ -1,6 +1,13 @@
-# Prompt Engineering Is Dead, Context Engineering Is Dying — Summary
+---
+title: Prompt Engineering Is Dead, Context Engineering Is Dying
+author: Nate B. Jones
+channel: Nate B. Jones
+url: https://www.youtube.com/watch?v=QWzLPn164w0
+date: 2026-02-24 15:00
+tags: ai
+---
 
-**Published:** 2026-02-24 15:00
+# Prompt Engineering Is Dead, Context Engineering Is Dying — Summary
 
 **Klarna case:** AI agent did the work of 853 FTEs, saved $60M, resolved
 2.3M conversations in month one across 23 markets/35 languages. Resolution

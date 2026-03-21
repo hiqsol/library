@@ -1,7 +1,13 @@
-# THE 10 FOREVER RULES OF AI
+---
+title: THE 10 FOREVER RULES OF AI
+author: Dan Shapiro
+channel: Dan Shapiro's Blog
+url: https://www.danshapiro.com/blog/2025/09/the-10-forever-rules-of-ai/
+date: 2025-09-22 00:00
+tags: ai, startups
+---
 
-**Author:** Dan Shapiro
-**Published:** 2025-09-22
+# THE 10 FOREVER RULES OF AI
 
 June 2023. ChatGPT was six months old. We’d launched our first AI feature, Magic Canvas, three
 months before. I was meeting with our friends at Joann Fabric (may they rest in polyester) to

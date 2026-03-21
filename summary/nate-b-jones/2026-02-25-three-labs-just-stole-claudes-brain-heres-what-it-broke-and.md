@@ -1,6 +1,13 @@
-# Three Labs Just Stole Claude's Brain — Summary
+---
+title: Three Labs Just Stole Claude's Brain
+author: Nate B. Jones
+channel: Nate B. Jones
+url: https://www.youtube.com/watch?v=0v9ixCWNhPo
+date: 2026-02-25 15:00
+tags: ai
+---
 
-**Published:** 2026-02-25 15:00
+# Three Labs Just Stole Claude's Brain — Summary
 
 DeepSeek, Moonshot, and MiniMax ran 16 million automated conversations
 with Claude across 24,000 fake accounts. Not a Cold War — a Napster

@@ -1,7 +1,13 @@
-# The $125 Billion Secret: Amazon Told Wall Street One Thing
-# and Employees Another — Summary
+---
+title: The $125 Billion Secret: Amazon Told Wall Street One Thing and Employees Another
+author: Nate B. Jones
+channel: Nate B. Jones
+url: https://www.youtube.com/watch?v=7sk3qmIQZnI
+date: 2026-01-30 15:00
+tags: ai
+---
 
-**Published:** 2026-01-30 15:00
+# The $125 Billion Secret: Amazon Told Wall Street One Thing and Employees Another — Summary
 
 Amazon cut 30,000 corporate jobs — not because of culture problems,
 but because they need the money for GPUs. Quarterly free cash flow

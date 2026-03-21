@@ -1,10 +1,13 @@
-# Stop Competing With 400 Applicants, Build This in One Weekend
-
-- **Source:** [YouTube — Nate B Jones / AI News & Strategy Daily](https://www.youtube.com/watch?v=0teZqotpqT8)
-- **Author:** Nate B Jones
-- **Published:** 2026-01-16 15:00
-
 ---
+title: Stop Competing With 400 Applicants, Build This in One Weekend
+author: Nate B. Jones
+channel: Nate B. Jones
+url: https://www.youtube.com/watch?v=0teZqotpqT8
+date: 2026-01-16 15:00
+tags: ai
+---
+
+# Stop Competing With 400 Applicants, Build This in One Weekend
 
 ## The Broken Hiring System
 

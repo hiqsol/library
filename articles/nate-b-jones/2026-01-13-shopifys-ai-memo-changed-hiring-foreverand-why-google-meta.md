@@ -1,10 +1,13 @@
-# Shopify's AI Memo Changed Hiring Forever
-
-- **Source:** [YouTube — Nate B Jones / AI News & Strategy Daily](https://www.youtube.com/watch?v=dzp0OQbElpU)
-- **Author:** Nate B Jones
-- **Published:** 2026-01-13 15:01
-
 ---
+title: Shopify's AI Memo Changed Hiring Forever
+author: Nate B. Jones
+channel: Nate B. Jones
+url: https://www.youtube.com/watch?v=dzp0OQbElpU
+date: 2026-01-13 15:01
+tags: ai
+---
+
+# Shopify's AI Memo Changed Hiring Forever
 
 ## The Memo That Started It All
 

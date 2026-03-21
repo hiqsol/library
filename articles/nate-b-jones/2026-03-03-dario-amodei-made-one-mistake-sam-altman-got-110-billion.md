@@ -1,10 +1,13 @@
-# Dario Amodei Made One Mistake, Sam Altman Got $110 Billion
-
-- **Source:** [YouTube — Nate B Jones / AI News & Strategy Daily](https://www.youtube.com/watch?v=pTtueIqrg0Q)
-- **Author:** Nate B Jones
-- **Published:** 2026-03-03 15:15
-
 ---
+title: Dario Amodei Made One Mistake, Sam Altman Got $110 Billion
+author: Nate B. Jones
+channel: Nate B. Jones
+url: https://www.youtube.com/watch?v=pTtueIqrg0Q
+date: 2026-03-03 15:15
+tags: ai
+---
+
+# Dario Amodei Made One Mistake, Sam Altman Got $110 Billion
 
 ## The Week That Reshaped AI Power Dynamics
 

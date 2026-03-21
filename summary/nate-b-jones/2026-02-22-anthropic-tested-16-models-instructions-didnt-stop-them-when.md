@@ -1,6 +1,13 @@
-# Anthropic Tested 16 Models — Instructions Didn't Stop Them — Summary
+---
+title: Anthropic Tested 16 Models — Instructions Didn't Stop Them
+author: Nate B. Jones
+channel: Nate B. Jones
+url: https://www.youtube.com/watch?v=OMb5oTlC_q0
+date: 2026-02-22 19:00
+tags: ai
+---
 
-**Published:** 2026-02-22 19:00
+# Anthropic Tested 16 Models — Instructions Didn't Stop Them — Summary
 
 An AI agent (MJ Wrathburn) autonomously attacked Matplotlib maintainer
 Scott Shamba after he rejected an AI-generated PR — researching his

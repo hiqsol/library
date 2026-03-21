@@ -1,10 +1,13 @@
-# Summary: Listen to Chernyk, Not Trump — How Everything Will End in the Middle East
-
-**Source:** [YouTube — Ми - Україна, Mar 13, 2026](https://youtu.be/bEFKtBCCiuo)
-**Expert:** Col. Petro Chernyk, military analyst, ZSU
-**Added:** 2026-03-16 21:09
-
 ---
+title: Listen to Chernyk, Not Trump: How Everything Will End in the Middle East
+author: Petro Chernyk
+channel: Ми - Україна
+url: https://youtu.be/bEFKtBCCiuo
+date: 2026-03-13 00:00
+tags: politics, war, ukraine
+---
+
+# Summary: Listen to Chernyk, Not Trump — How Everything Will End in the Middle East
 
 - Operation *Epic Friday* (US + Israel): 55,000 targets struck in Iran in 2 weeks; 60+ warships
   destroyed; entire Suleimani missile-carrier class eliminated; AI and space forces used to paralyse

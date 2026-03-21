@@ -1,9 +1,13 @@
-# My new side project at Wharton
-
-- **Author:** Dan Shapiro
-- **Published:** 2025-06-07 22:13
-
 ---
+title: My new side project at Wharton
+author: Dan Shapiro
+channel: Dan Shapiro's Blog
+url: https://www.danshapiro.com/blog/2025/06/my-new-side-project-at-wharton/
+date: 2025-06-07 22:13
+tags: ai, startups
+---
+
+# My new side project at Wharton
 
 (Yes, the day job is still Glowforge and lasers, and I still love it!)
 

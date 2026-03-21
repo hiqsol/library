@@ -1,10 +1,13 @@
-# Anthropic Tested 16 Models — Instructions Didn't Stop Them
-
-- **Source:** [YouTube — Nate B Jones / AI News & Strategy Daily](https://www.youtube.com/watch?v=OMb5oTlC_q0)
-- **Author:** Nate B Jones
-- **Published:** 2026-02-22 19:00
-
 ---
+title: Anthropic Tested 16 Models — Instructions Didn't Stop Them
+author: Nate B. Jones
+channel: Nate B. Jones
+url: https://www.youtube.com/watch?v=OMb5oTlC_q0
+date: 2026-02-22 19:00
+tags: ai
+---
+
+# Anthropic Tested 16 Models — Instructions Didn't Stop Them
 
 ## The Incident That Started It All
 

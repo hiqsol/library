@@ -1,10 +1,13 @@
-# Summary: AI 10x Productivity — Companies Cutting Headcount Are Wrong
-
-- **Source:** [YouTube — Nate B Jones](https://www.youtube.com/watch?v=u-giatW9mYU)
-- **Author:** Nate B Jones
-- **Published:** 2026-03-14
-
 ---
+title: AI 10x Productivity — Companies Cutting Headcount Are Wrong
+author: Nate B. Jones
+channel: Nate B. Jones
+url: https://www.youtube.com/watch?v=u-giatW9mYU
+date: 2026-03-14 00:00
+tags: ai
+---
+
+# Summary: AI 10x Productivity — Companies Cutting Headcount Are Wrong
 
 Nate argues that companies cutting headcount in response to AI
 productivity gains are making the wrong bet. The right question isn't

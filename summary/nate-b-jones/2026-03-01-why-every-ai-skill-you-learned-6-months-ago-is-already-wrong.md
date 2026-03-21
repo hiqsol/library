@@ -1,6 +1,13 @@
-# Why Every AI Skill You Learned 6 Months Ago Is Already Wrong — Summary
+---
+title: Why Every AI Skill You Learned 6 Months Ago Is Already Wrong
+author: Nate B. Jones
+channel: Nate B. Jones
+url: https://www.youtube.com/watch?v=RnjgLlQTMf0
+date: 2026-03-01 19:00
+tags: ai
+---
 
-**Published:** 2026-03-01 19:00
+# Why Every AI Skill You Learned 6 Months Ago Is Already Wrong — Summary
 
 The AI capability boundary is an expanding bubble. Tasks migrate inside as
 agents improve, but the surface area (the frontier) grows — more seams, more

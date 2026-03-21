@@ -1,6 +1,13 @@
-# The Job Market Split Nobody's Talking About — Summary
+---
+title: The Job Market Split Nobody's Talking About
+author: Nate B. Jones
+channel: Nate B. Jones
+url: https://www.youtube.com/watch?v=RtMLnCMv3do
+date: 2026-02-15 19:00
+tags: ai
+---
 
-**Published:** 2026-02-15 19:00
+# The Job Market Split Nobody's Talking About — Summary
 
 The marginal cost of producing software is collapsing to zero (90%
 of Claude Code self-written, 3-person teams replacing 10-person

@@ -1,10 +1,13 @@
-# Listen to Chernyk, Not Trump: How Everything Will End in the Middle East
-
-**Source:** [YouTube — Ми - Україна, Mar 13, 2026](https://youtu.be/bEFKtBCCiuo)
-**Expert:** Colonel Petro Chernyk, military analyst, Armed Forces of Ukraine (ZSU)
-**Host:** Ми - Україна (We Are Ukraine)
-
 ---
+title: Listen to Chernyk, Not Trump: How Everything Will End in the Middle East
+author: Petro Chernyk
+channel: Ми - Україна
+url: https://youtu.be/bEFKtBCCiuo
+date: 2026-03-13 00:00
+tags: politics, war, ukraine
+---
+
+# Listen to Chernyk, Not Trump: How Everything Will End in the Middle East
 
 ## Operation Epic Friday: Results in Iran
 

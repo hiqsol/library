@@ -1,10 +1,13 @@
-# They Ignored My Tool Stack and Built Something Better
-
-- **Source:** [YouTube — Nate B Jones / AI News & Strategy Daily](https://www.youtube.com/watch?v=_gPODg6br5w)
-- **Author:** Nate B Jones
-- **Published:** 2026-01-19 15:01
-
 ---
+title: They Ignored My Tool Stack and Built Something Better
+author: Nate B. Jones
+channel: Nate B. Jones
+url: https://www.youtube.com/watch?v=_gPODg6br5w
+date: 2026-01-19 15:01
+tags: ai
+---
+
+# They Ignored My Tool Stack and Built Something Better
 
 ## Background
 

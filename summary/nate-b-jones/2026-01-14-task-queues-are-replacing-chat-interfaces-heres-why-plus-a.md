@@ -1,6 +1,13 @@
-# Task Queues Are Replacing Chat Interfaces — Summary
+---
+title: Task Queues Are Replacing Chat Interfaces
+author: Nate B. Jones
+channel: Nate B. Jones
+url: https://www.youtube.com/watch?v=h7dbkDcb3hA
+date: 2026-01-14 15:01
+tags: ai
+---
 
-**Published:** 2026-01-14 15:01
+# Task Queues Are Replacing Chat Interfaces — Summary
 
 Anthropic built Claude Co-work in 10 days after observing developers
 using Claude Code (a coding tool) for expense receipts, photo

@@ -1,6 +1,13 @@
-# Why the Smartest AI Teams Are Panic-Buying Compute — Summary
+---
+title: Why the Smartest AI Teams Are Panic-Buying Compute
+author: Nate B. Jones
+channel: Nate B. Jones
+url: https://www.youtube.com/watch?v=pSgy2P2q790
+date: 2026-02-08 19:00
+tags: ai
+---
 
-**Published:** 2026-02-08 19:00
+# Why the Smartest AI Teams Are Panic-Buying Compute — Summary
 
 A structural inference compute crisis is underway with no relief before
 2028. Enterprise AI consumption grows at least 10x annually. Supply is

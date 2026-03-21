@@ -1,10 +1,13 @@
-# Summary: Stop Accepting AI Output That "Looks Right"
-
-- **Source:** [YouTube — Nate B Jones](https://www.youtube.com/watch?v=-FhtPUkXKO4)
-- **Author:** Nate B Jones
-- **Published:** 2026-03-10
-
 ---
+title: Stop Accepting AI Output That "Looks Right"
+author: Nate B. Jones
+channel: Nate B. Jones
+url: https://www.youtube.com/watch?v=-FhtPUkXKO4
+date: 2026-03-10 00:00
+tags: ai
+---
+
+# Summary: Stop Accepting AI Output That "Looks Right"
 
 Nate argues that rejection — saying "no" to AI output — is the most
 undervalued AI skill and the largest structural gap in the AI tool ecosystem.

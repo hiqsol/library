@@ -1,9 +1,13 @@
-# Anatomy of a $631,230 Kickstarter Video
-
-- **Author:** Dan Shapiro
-- **Published:** 2013-12-19 03:37
-
 ---
+title: Anatomy of a $631,230 Kickstarter Video
+author: Dan Shapiro
+channel: Dan Shapiro's Blog
+url: https://www.danshapiro.com/blog/2013/12/anatomy-of-a-631230-kickstarter-video/
+date: 2013-12-19 03:37
+tags: startups
+---
+
+# Anatomy of a $631,230 Kickstarter Video
 
 First things first: the last of the Robot Turtles Kickstarter production run is **still available on
 Amazon** for $34.95 plus $9.95 US shipping, with international shipping available. If you order

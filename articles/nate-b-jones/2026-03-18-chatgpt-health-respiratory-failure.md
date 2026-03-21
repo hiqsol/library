@@ -1,10 +1,13 @@
-# ChatGPT Health Identified Respiratory Failure. Then It Said Wait.
-
-**Source:** [YouTube – Nate B. Jones](https://www.youtube.com/watch?v=4HeS_C02yAE)
-**Date:** 2026-03-18
-**Author:** Nate B. Jones
-
 ---
+title: ChatGPT Health Identified Respiratory Failure. Then It Said Wait.
+author: Nate B. Jones
+channel: Nate B. Jones
+url: https://www.youtube.com/watch?v=4HeS_C02yAE
+date: 2026-03-18 00:00
+tags: ai
+---
+
+# ChatGPT Health Identified Respiratory Failure. Then It Said Wait.
 
 ## The Mount Sinai Study
 

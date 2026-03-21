@@ -1,7 +1,13 @@
-# Summary: THE 10 FOREVER RULES OF AI
+---
+title: THE 10 FOREVER RULES OF AI
+author: Dan Shapiro
+channel: Dan Shapiro's Blog
+url: https://www.danshapiro.com/blog/2025/09/the-10-forever-rules-of-ai/
+date: 2025-09-22 00:00
+tags: ai, startups
+---
 
-**Author:** Dan Shapiro
-**Published:** 2025-09-22
+# Summary: THE 10 FOREVER RULES OF AI
 
 Dan Shapiro revisits ten AI principles originally drafted in June 2023, comparing them against the
 reality of late 2025. The core theme is that while the technology moves with blinding speed, the

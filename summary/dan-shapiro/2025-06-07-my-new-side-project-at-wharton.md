@@ -1,7 +1,13 @@
-# Summary: My new side project at Wharton
+---
+title: My new side project at Wharton
+author: Dan Shapiro
+channel: Dan Shapiro's Blog
+url: https://www.danshapiro.com/blog/2025/06/my-new-side-project-at-wharton/
+date: 2025-06-07 22:13
+tags: ai, startups
+---
 
-**Author:** Dan Shapiro
-**Published:** 2025-06-07 22:13
+# Summary: My new side project at Wharton
 
 (Yes, the day job is still Glowforge and lasers, and I still love it!) I've signed on as a research
 fellow at Wharton's Generative AI Lab with the incredible Drs Ethan and Lilach Mollick.

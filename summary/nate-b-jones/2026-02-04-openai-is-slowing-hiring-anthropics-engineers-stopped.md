@@ -1,6 +1,13 @@
-# OpenAI Is Slowing Hiring, Anthropic's Engineers Stopped Writing Code — Summary
+---
+title: OpenAI Is Slowing Hiring, Anthropic's Engineers Stopped Writing Code
+author: Nate B. Jones
+channel: Nate B. Jones
+url: https://www.youtube.com/watch?v=dZxyeYBxPBA
+date: 2026-02-04 15:01
+tags: ai
+---
 
-**Published:** 2026-02-04 15:01
+# OpenAI Is Slowing Hiring, Anthropic's Engineers Stopped Writing Code — Summary
 
 Sam Altman admitted he still has not changed his workflow despite knowing
 he should use AI more. Meanwhile Andrej Karpathy inverted from 80% manual

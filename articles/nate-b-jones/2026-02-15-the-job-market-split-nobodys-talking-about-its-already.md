@@ -1,10 +1,13 @@
-# The Job Market Split Nobody's Talking About — It's Already Started
-
-- **Source:** [YouTube — Nate B Jones / AI News & Strategy Daily](https://www.youtube.com/watch?v=RtMLnCMv3do)
-- **Author:** Nate B Jones
-- **Published:** 2026-02-15 19:00
-
 ---
+title: The Job Market Split Nobody's Talking About — It's Already Started
+author: Nate B. Jones
+channel: Nate B. Jones
+url: https://www.youtube.com/watch?v=RtMLnCMv3do
+date: 2026-02-15 19:00
+tags: ai
+---
+
+# The Job Market Split Nobody's Talking About — It's Already Started
 
 ## Code Is About to Cost Nothing
 

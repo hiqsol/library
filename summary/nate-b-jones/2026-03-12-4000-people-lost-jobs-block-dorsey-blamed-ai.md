@@ -1,7 +1,13 @@
-# Summary: 4,000 People Lost Their Jobs At Block. Dorsey Blamed AI. Here's What Happened.
+---
+title: 4,000 People Lost Their Jobs At Block. Dorsey Blamed AI. Here's What Happened.
+author: Nate B. Jones
+channel: Nate B. Jones
+url: https://www.youtube.com/watch?v=lbfoNxoHl2o
+date: 2026-03-12 00:00
+tags: ai
+---
 
-**Source:** Nate B. Jones, 2026-03-12
-**Video:** https://www.youtube.com/watch?v=lbfoNxoHl2o
+# Summary: 4,000 People Lost Their Jobs At Block. Dorsey Blamed AI. Here's What Happened.
 
 ## Core Claim
 

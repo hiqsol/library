@@ -1,6 +1,13 @@
-# You Don't Need SaaS: The $0.10 System That Replaced My AI Workflow — Summary
+---
+title: You Don't Need SaaS: The $0.10 System That Replaced My AI Workflow
+author: Nate B. Jones
+channel: Nate B. Jones
+url: https://www.youtube.com/watch?v=2JiMmye2ezg
+date: 2026-03-02 15:00
+tags: ai
+---
 
-**Published:** 2026-03-02 15:00
+# You Don't Need SaaS: The $0.10 System That Replaced My AI Workflow — Summary
 
 Platform memory is a lock-in trap. Claude's memory doesn't know what you told
 ChatGPT. ChatGPT's memory doesn't follow you into Cursor. Every platform

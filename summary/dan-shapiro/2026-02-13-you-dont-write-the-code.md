@@ -1,7 +1,13 @@
-# Summary: You Don't Write the Code. You Don't Read the Code Either.
+---
+title: You Don't Write the Code. You Don't Read the Code Either.
+author: Dan Shapiro
+channel: Dan Shapiro's Blog
+url: https://www.danshapiro.com/blog/2026/02/you-dont-write-the-code/
+date: 2026-02-13 11:55
+tags: ai, development
+---
 
-**Author:** Dan Shapiro
-**Published:** 2026-02-13 11:55
+# Summary: You Don't Write the Code. You Don't Read the Code Either.
 
 A few months ago, I walked into Justin McCarthy's office at StrongDM and noticed something wrong
 with his colleague Jay's monitor. He had a Google Spreadsheet open.

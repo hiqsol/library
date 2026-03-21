@@ -1,10 +1,13 @@
-# OpenAI Leaked GPT-5.4 — It's a Distraction: The AI Lock-In No One Is Talking About
-
-- **Source:** [YouTube — Nate B Jones / AI News & Strategy Daily](https://www.youtube.com/watch?v=JYcidOS9ozU)
-- **Author:** Nate B Jones
-- **Published:** 2026-03-05 15:00
-
 ---
+title: OpenAI Leaked GPT-5.4 — It's a Distraction: The AI Lock-In No One Is Talking About
+author: Nate B. Jones
+channel: Nate B. Jones
+url: https://www.youtube.com/watch?v=JYcidOS9ozU
+date: 2026-03-05 15:00
+tags: ai
+---
+
+# OpenAI Leaked GPT-5.4 — It's a Distraction: The AI Lock-In No One Is Talking About
 
 ## The Real Bet Behind the Hype
 

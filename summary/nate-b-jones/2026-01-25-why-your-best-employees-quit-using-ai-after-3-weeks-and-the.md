@@ -1,6 +1,13 @@
-# Why Your Best Employees Quit Using AI After 3 Weeks — Summary
+---
+title: Why Your Best Employees Quit Using AI After 3 Weeks
+author: Nate B. Jones
+channel: Nate B. Jones
+url: https://www.youtube.com/watch?v=EZ4EjJ0iDDQ
+date: 2026-01-25 19:00
+tags: ai
+---
 
-**Published:** 2026-01-25 19:00
+# Why Your Best Employees Quit Using AI After 3 Weeks — Summary
 
 Microsoft tracked 300,000 employees using Copilot. Excitement peaked
 at week 3, then cratered. Most quietly stopped. Result: ~20% monthly

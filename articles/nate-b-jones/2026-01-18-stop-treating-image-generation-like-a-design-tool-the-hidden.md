@@ -1,10 +1,13 @@
-# Stop Treating Image Generation Like a Design Tool
-
-- **Source:** [YouTube — Nate B Jones / AI News & Strategy Daily](https://www.youtube.com/watch?v=Nt7vzMiE0mY)
-- **Author:** Nate B Jones
-- **Published:** 2026-01-18 19:00
-
 ---
+title: Stop Treating Image Generation Like a Design Tool
+author: Nate B. Jones
+channel: Nate B. Jones
+url: https://www.youtube.com/watch?v=Nt7vzMiE0mY
+date: 2026-01-18 19:00
+tags: ai
+---
+
+# Stop Treating Image Generation Like a Design Tool
 
 ## The Wrong Framing
 

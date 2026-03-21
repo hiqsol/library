@@ -1,6 +1,13 @@
-# The 5 Levels of AI Coding — Summary
+---
+title: The 5 Levels of AI Coding
+author: Nate B. Jones
+channel: Nate B. Jones
+url: https://www.youtube.com/watch?v=bDcgHzCBgmQ
+date: 2026-02-18 15:01
+tags: ai
+---
 
-**Published:** 2026-02-18 15:01
+# The 5 Levels of AI Coding — Summary
 
 Dan Shapiro's framework: Level 0 (spicy autocomplete), Level 1
 (coding intern), Level 2 (junior developer), Level 3 (developer as

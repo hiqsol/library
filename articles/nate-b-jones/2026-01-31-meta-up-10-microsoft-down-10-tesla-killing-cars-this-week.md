@@ -1,10 +1,13 @@
-# Meta Up 10%, Microsoft Down 10%, Tesla Killing Cars
-
-- **Source:** [YouTube — Nate B Jones / AI News & Strategy Daily](https://www.youtube.com/watch?v=kuGg0b2IrHQ)
-- **Author:** Nate B Jones
-- **Published:** 2026-01-31 16:01
-
 ---
+title: Meta Up 10%, Microsoft Down 10%, Tesla Killing Cars
+author: Nate B. Jones
+channel: Nate B. Jones
+url: https://www.youtube.com/watch?v=kuGg0b2IrHQ
+date: 2026-01-31 16:01
+tags: ai
+---
+
+# Meta Up 10%, Microsoft Down 10%, Tesla Killing Cars
 
 ## The Market Cannot Decide What AI Spending Means
 

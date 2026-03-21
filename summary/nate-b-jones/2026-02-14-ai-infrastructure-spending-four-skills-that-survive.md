@@ -1,6 +1,13 @@
-# Why $650B in AI Spending Isn't Enough — Summary
+---
+title: Why $650B in AI Spending Isn't Enough
+author: Nate B. Jones
+channel: Nate B. Jones
+url: https://www.youtube.com/watch?v=NCgdpbEvNVA
+date: 2026-02-14 16:00
+tags: ai
+---
 
-**Published:** 2026-02-14 16:00
+# Why $650B in AI Spending Isn't Enough — Summary
 
 Nate B Jones argues that the $650–700B in AI infrastructure spending
 by the five largest tech companies in 2026 is not a bubble — it's

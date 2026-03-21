@@ -1,6 +1,13 @@
-# Dario Amodei Made One Mistake, Sam Altman Got $110 Billion — Summary
+---
+title: Dario Amodei Made One Mistake, Sam Altman Got $110 Billion
+author: Nate B. Jones
+channel: Nate B. Jones
+url: https://www.youtube.com/watch?v=pTtueIqrg0Q
+date: 2026-03-03 15:15
+tags: ai
+---
 
-**Published:** 2026-03-03 15:15
+# Dario Amodei Made One Mistake, Sam Altman Got $110 Billion — Summary
 
 Amodei went public with his principled stand against the Pentagon. Altman
 negotiated privately. The defense establishment rewards deference and

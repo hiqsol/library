@@ -1,10 +1,13 @@
-# Apple Took Years to Catch Up, Kilo Code Took 6 Weeks
-
-- **Source:** [YouTube — Nate B Jones / AI News & Strategy Daily](https://www.youtube.com/watch?v=2sY7Pcm2j2g)
-- **Author:** Nate B Jones
-- **Published:** 2026-01-24 16:00
-
 ---
+title: Apple Took Years to Catch Up, Kilo Code Took 6 Weeks
+author: Nate B. Jones
+channel: Nate B. Jones
+url: https://www.youtube.com/watch?v=2sY7Pcm2j2g
+date: 2026-01-24 16:00
+tags: ai
+---
+
+# Apple Took Years to Catch Up, Kilo Code Took 6 Weeks
 
 ## xAI Closes $20 Billion Series E
 

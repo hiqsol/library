@@ -1,10 +1,13 @@
-# Prompting Just Split Into 4 Skills — Here's Why You Need All of Them in 2026
-
-- **Source:** [YouTube — Nate B Jones / AI News & Strategy Daily](https://www.youtube.com/watch?v=BpibZSMGtdY)
-- **Author:** Nate B Jones
-- **Published:** 2026-02-27 15:00
-
 ---
+title: Prompting Just Split Into 4 Skills — Here's Why You Need All of Them in 2026
+author: Nate B. Jones
+channel: Nate B. Jones
+url: https://www.youtube.com/watch?v=BpibZSMGtdY
+date: 2026-02-27 15:00
+tags: ai
+---
+
+# Prompting Just Split Into 4 Skills — Here's Why You Need All of Them in 2026
 
 ## What Changed
 

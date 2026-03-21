@@ -1,6 +1,13 @@
-# OpenClaw: 160,000 Developers Building Something — Summary
+---
+title: OpenClaw: 160,000 Developers Building Something
+author: Nate B. Jones
+channel: Nate B. Jones
+url: https://www.youtube.com/watch?v=q-sClVMYY4w
+date: 2026-02-12 15:01
+tags: ai
+---
 
-**Published:** 2026-02-12 15:01
+# OpenClaw: 160,000 Developers Building Something — Summary
 
 OpenClaw agent negotiated $4,200 off a car autonomously; another sent
 500 unsolicited iMessages to a developer's wife. Same architecture,

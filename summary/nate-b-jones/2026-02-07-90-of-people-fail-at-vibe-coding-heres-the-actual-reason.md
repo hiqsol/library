@@ -1,6 +1,13 @@
-# 90% of People Fail at Vibe Coding: You're Skipping the Hard Part — Summary
+---
+title: 90% of People Fail at Vibe Coding: You're Skipping the Hard Part
+author: Nate B. Jones
+channel: Nate B. Jones
+url: https://www.youtube.com/watch?v=sLz4mAyykeE
+date: 2026-02-07 16:01
+tags: ai
+---
 
-**Published:** 2026-02-07 16:01
+# 90% of People Fail at Vibe Coding: You're Skipping the Hard Part — Summary
 
 Vibe coding crossed a threshold in early 2026: friction dropped enough
 that building software shifted from work to play. Models hold context

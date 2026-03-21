@@ -1,6 +1,13 @@
-# Clawdbot to Moltbot to OpenClaw: The 72 Hours That Broke Everything — Summary
+---
+title: Clawdbot to Moltbot to OpenClaw: The 72 Hours That Broke Everything
+author: Nate B. Jones
+channel: Nate B. Jones
+url: https://www.youtube.com/watch?v=p9acrso71KU
+date: 2026-02-02 15:01
+tags: ai
+---
 
-**Published:** 2026-02-02 15:01
+# Clawdbot to Moltbot to OpenClaw: The 72 Hours That Broke Everything — Summary
 
 OpenClaw (formerly Claudebot, then Moltbot) is a local-first AI assistant
 that runs on your hardware and actually does things — triages email, books

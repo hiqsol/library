@@ -1,6 +1,13 @@
-# Don't Fall for the Stock Market Hype: The $7,000 Raise AI Is Giving You — Summary
+---
+title: Don't Fall for the Stock Market Hype: The $7,000 Raise AI Is Giving You
+author: Nate B. Jones
+channel: Nate B. Jones
+url: https://www.youtube.com/watch?v=q6pbQ5li5Cg
+date: 2026-02-26 15:01
+tags: ai
+---
 
-**Published:** 2026-02-26 15:01
+# Don't Fall for the Stock Market Hype: The $7,000 Raise AI Is Giving You — Summary
 
 A fictional Substack memo from 2028 wiped $100B+ in market cap. IBM
 cratered 13% from an Anthropic blog about COBOL. Seven major AI sell-offs

@@ -1,6 +1,13 @@
-# My 10-Year-Old Vibe Codes and Does Math by Hand — Summary
+---
+title: My 10-Year-Old Vibe Codes and Does Math by Hand
+author: Nate B. Jones
+channel: Nate B. Jones
+url: https://www.youtube.com/watch?v=2ghhiPLg-jg
+date: 2026-02-28 16:00
+tags: ai
+---
 
-**Published:** 2026-02-28 16:00
+# My 10-Year-Old Vibe Codes and Does Math by Hand — Summary
 
 *Nature* published a peer-reviewed argument that AGI has arrived. 86% of
 students globally use AI in learning. Someone built an entire medical school

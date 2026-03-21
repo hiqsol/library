@@ -1,6 +1,13 @@
-# Google Just Proved More Agents Can Make Things Worse — Summary
+---
+title: Google Just Proved More Agents Can Make Things Worse
+author: Nate B. Jones
+channel: Nate B. Jones
+url: https://www.youtube.com/watch?v=2EXyj_fHU48
+date: 2026-01-26 14:00
+tags: ai
+---
 
-**Published:** 2026-01-26 14:00
+# Google Just Proved More Agents Can Make Things Worse — Summary
 
 A December 2025 Google-MIT study found that adding more agents can
 make systems perform worse — not diminishing returns, but actual

@@ -1,10 +1,13 @@
-# Summary: One Simple System Gave All My AI Tools a Memory
-
-- **Source:** [YouTube — Nate B Jones](https://www.youtube.com/watch?v=japT66frdhM)
-- **Author:** Nate B Jones
-- **Published:** 2026-03-13
-
 ---
+title: One Simple System Gave All My AI Tools a Memory
+author: Nate B. Jones
+channel: Nate B. Jones
+url: https://www.youtube.com/watch?v=japT66frdhM
+date: 2026-03-13 00:00
+tags: ai
+---
+
+# Summary: One Simple System Gave All My AI Tools a Memory
 
 Nate extends his Open Brain system (personal Supabase database + MCP
 server) with a visual "human door" — a web interface that lets both

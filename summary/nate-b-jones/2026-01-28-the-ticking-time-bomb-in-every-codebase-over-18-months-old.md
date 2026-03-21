@@ -1,7 +1,13 @@
-# The Ticking Time Bomb in Every Codebase Over 18 Months Old
-# — Summary
+---
+title: The Ticking Time Bomb in Every Codebase Over 18 Months Old
+author: Nate B. Jones
+channel: Nate B. Jones
+url: https://www.youtube.com/watch?v=NoRePxSrhpw
+date: 2026-01-28 15:00
+tags: ai
+---
 
-**Published:** 2026-01-28 15:00
+# The Ticking Time Bomb in Every Codebase Over 18 Months Old — Summary
 
 AI may be structurally superior to humans at certain aspects of
 software architecture — not because it is smarter, but because humans

@@ -1,6 +1,13 @@
-# Why the Smartest AI Bet Right Now Has Nothing to Do With AI — Summary
+---
+title: Why the Smartest AI Bet Right Now Has Nothing to Do With AI
+author: Nate B. Jones
+channel: Nate B. Jones
+url: https://www.youtube.com/watch?v=pxuXV3Q6tGY
+date: 2026-02-01 19:00
+tags: ai
+---
 
-**Published:** 2026-02-01 19:00
+# Why the Smartest AI Bet Right Now Has Nothing to Do With AI — Summary
 
 The Davos "abundance for all" narrative from Musk, Amodei, and others
 is the wrong frame. The practical frame is the **bottleneck economy**:

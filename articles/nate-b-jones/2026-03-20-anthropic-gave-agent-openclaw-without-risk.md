@@ -1,8 +1,13 @@
-# Anthropic Gave Your AI Agent the One Thing OpenClaw Has — Without the Risk
-
-**Source:** [YouTube](https://www.youtube.com/watch?v=vqnAOV8NMZ4) · Nate B. Jones · 2026-03-20
-
 ---
+title: Anthropic Gave Your AI Agent the One Thing OpenClaw Has — Without the Risk
+author: Nate B. Jones
+channel: Nate B. Jones
+url: https://www.youtube.com/watch?v=vqnAOV8NMZ4
+date: 2026-03-20 00:00
+tags: ai
+---
+
+# Anthropic Gave Your AI Agent the One Thing OpenClaw Has — Without the Risk
 
 ## The Gap That Just Closed
 

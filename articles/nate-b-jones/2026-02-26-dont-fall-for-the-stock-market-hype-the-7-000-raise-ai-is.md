@@ -1,10 +1,13 @@
-# Don't Fall for the Stock Market Hype: The $7,000 Raise AI Is Giving You
-
-- **Source:** [YouTube — Nate B Jones / AI News & Strategy Daily](https://www.youtube.com/watch?v=q6pbQ5li5Cg)
-- **Author:** Nate B Jones
-- **Published:** 2026-02-26 15:01
-
 ---
+title: Don't Fall for the Stock Market Hype: The $7,000 Raise AI Is Giving You
+author: Nate B. Jones
+channel: Nate B. Jones
+url: https://www.youtube.com/watch?v=q6pbQ5li5Cg
+date: 2026-02-26 15:01
+tags: ai
+---
+
+# Don't Fall for the Stock Market Hype: The $7,000 Raise AI Is Giving You
 
 ## A Fictional Recession Crashed the Stock Market
 

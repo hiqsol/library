@@ -1,6 +1,13 @@
-# $1,000 a Day in AI Costs — Summary
+---
+title: $1,000 a Day in AI Costs
+author: Nate B. Jones
+channel: Nate B. Jones
+url: https://www.youtube.com/watch?v=-bQcWs1Z9a0
+date: 2026-02-20 15:00
+tags: ai
+---
 
-**Published:** 2026-02-20 15:00
+# $1,000 a Day in AI Costs — Summary
 
 The fundamental unit of computing is shifting from instructions to
 tokens — units of purchased intelligence. This is not a tools upgrade;

@@ -1,6 +1,13 @@
-# Anthropic's CEO Bet the Company on This Philosophy — Summary
+---
+title: Anthropic's CEO Bet the Company on This Philosophy
+author: Nate B. Jones
+channel: Nate B. Jones
+url: https://www.youtube.com/watch?v=iL3uDrk-i_E
+date: 2026-02-06 15:01
+tags: ai
+---
 
-**Published:** 2026-02-06 15:01
+# Anthropic's CEO Bet the Company on This Philosophy — Summary
 
 Anthropic released an 80-page "constitution" for Claude. Core bet:
 teaching AI *why* to behave produces better results than telling it *what*

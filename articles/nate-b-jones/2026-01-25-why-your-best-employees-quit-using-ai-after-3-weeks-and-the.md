@@ -1,10 +1,13 @@
-# Why Your Best Employees Quit Using AI After 3 Weeks
-
-- **Source:** [YouTube — Nate B Jones / AI News & Strategy Daily](https://www.youtube.com/watch?v=EZ4EjJ0iDDQ)
-- **Author:** Nate B Jones
-- **Published:** 2026-01-25 19:00
-
 ---
+title: Why Your Best Employees Quit Using AI After 3 Weeks
+author: Nate B. Jones
+channel: Nate B. Jones
+url: https://www.youtube.com/watch?v=EZ4EjJ0iDDQ
+date: 2026-01-25 19:00
+tags: ai
+---
+
+# Why Your Best Employees Quit Using AI After 3 Weeks
 
 ## The Microsoft Study: 300,000 Employees
 

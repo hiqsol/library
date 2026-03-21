@@ -1,10 +1,13 @@
-# The People Getting Promoted All Have This One Thing in Common
-
-- **Source:** [YouTube — Nate B Jones / AI News & Strategy Daily](https://www.youtube.com/watch?v=HZ9iL_lFYgQ)
-- **Author:** Nate B Jones
-- **Published:** 2026-01-22 15:00
-
 ---
+title: The People Getting Promoted All Have This One Thing in Common
+author: Nate B. Jones
+channel: Nate B. Jones
+url: https://www.youtube.com/watch?v=HZ9iL_lFYgQ
+date: 2026-01-22 15:00
+tags: ai
+---
+
+# The People Getting Promoted All Have This One Thing in Common
 
 ## The Career Ladder Is Being Disassembled
 

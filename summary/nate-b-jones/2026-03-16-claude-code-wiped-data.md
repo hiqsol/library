@@ -1,10 +1,13 @@
-# Summary: Five Non-Coding Skills for the Agentic Era
-
-- **Source:** [YouTube — Nate B Jones](https://www.youtube.com/watch?v=8lwnJZy4cO0)
-- **Author:** Nate B Jones
-- **Published:** 2026-03-16
-
 ---
+title: Five Non-Coding Skills for the Agentic Era
+author: Nate B. Jones
+channel: Nate B. Jones
+url: https://www.youtube.com/watch?v=8lwnJZy4cO0
+date: 2026-03-16 00:00
+tags: ai
+---
+
+# Summary: Five Non-Coding Skills for the Agentic Era
 
 Nate addresses vibe coders hitting a wall in 2026: the shift from
 describing what you want to managing the agent that builds it. Agent

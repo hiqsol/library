@@ -1,10 +1,13 @@
-# The $285B Sell-Off Was Just the Beginning — The Infrastructure Story Is Bigger
-
-- **Source:** [YouTube — Nate B Jones / AI News & Strategy Daily](https://www.youtube.com/watch?v=O-0poNv2jD4)
-- **Author:** Nate B Jones
-- **Published:** 2026-02-21 16:00
-
 ---
+title: The $285B Sell-Off Was Just the Beginning — The Infrastructure Story Is Bigger
+author: Nate B. Jones
+channel: Nate B. Jones
+url: https://www.youtube.com/watch?v=O-0poNv2jD4
+date: 2026-02-21 16:00
+tags: ai
+---
+
+# The $285B Sell-Off Was Just the Beginning — The Infrastructure Story Is Bigger
 
 ## The Web Is Forking
 

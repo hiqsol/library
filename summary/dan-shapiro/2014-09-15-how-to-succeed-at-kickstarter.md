@@ -1,7 +1,13 @@
-# Summary: How to succeed at Kickstarter
+---
+title: How to succeed at Kickstarter
+author: Dan Shapiro
+channel: Dan Shapiro's Blog
+url: https://www.danshapiro.com/blog/2014/09/how-to-succeed-at-kickstarter/
+date: 2014-09-15 23:25
+tags: startups
+---
 
-**Author:** Dan Shapiro
-**Published:** 2014-09-15 23:25
+# Summary: How to succeed at Kickstarter
 
 I've been asked by a lot of folks for advice with their Kickstarter campaigns. I've thought long and
 hard about it.

@@ -1,10 +1,13 @@
-# Disposable Software: The Trend 90% of People Are Getting Wrong
-
-- **Source:** [YouTube — Nate B Jones / AI News & Strategy Daily](https://www.youtube.com/watch?v=ra7nYJe86GI)
-- **Author:** Nate B Jones
-- **Published:** 2026-01-20 15:01
-
 ---
+title: Disposable Software: The Trend 90% of People Are Getting Wrong
+author: Nate B. Jones
+channel: Nate B. Jones
+url: https://www.youtube.com/watch?v=ra7nYJe86GI
+date: 2026-01-20 15:01
+tags: ai
+---
+
+# Disposable Software: The Trend 90% of People Are Getting Wrong
 
 ## The Cost Inversion
 

@@ -1,10 +1,13 @@
-# This Is Why You Are Still Slow Even With AI
-
-- **Source:** [YouTube — Nate B Jones / AI News & Strategy Daily](https://www.youtube.com/watch?v=hpDC29JdgjI)
-- **Author:** Nate B Jones
-- **Published:** 2026-01-15 15:01
-
 ---
+title: This Is Why You Are Still Slow Even With AI
+author: Nate B. Jones
+channel: Nate B. Jones
+url: https://www.youtube.com/watch?v=hpDC29JdgjI
+date: 2026-01-15 15:01
+tags: ai
+---
+
+# This Is Why You Are Still Slow Even With AI
 
 ## The Bottleneck Has Moved
 

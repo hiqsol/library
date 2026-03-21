@@ -1,11 +1,13 @@
-# GPT-5.4 Let Mickey Mouse Into a Production Database — Nobody Noticed
-
-- **Source:** [YouTube — Nate B Jones / AI News & Strategy
-  Daily](https://www.youtube.com/watch?v=-_vL1KXd2rc)
-- **Author:** Nate B Jones
-- **Published:** 2026-03-07 17:00
-
 ---
+title: GPT-5.4 Let Mickey Mouse Into a Production Database — Nobody Noticed
+author: Nate B. Jones
+channel: Nate B. Jones
+url: https://www.youtube.com/watch?v=-_vL1KXd2rc
+date: 2026-03-07 17:00
+tags: ai
+---
+
+# GPT-5.4 Let Mickey Mouse Into a Production Database — Nobody Noticed
 
 ## The Carwash Test
 
