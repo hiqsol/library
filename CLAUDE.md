@@ -17,12 +17,10 @@ summary/<author>/<YYYY-MM-DD>-<slug>.md  — 30-60 line summary
 ```
 
 - Author dir: kebab-case full name (e.g. `nate-b-jones`, `margulan-seissembai`)
-- For videos: use the featured person (interviewee/guest), not the channel name
-- No featured person → fall back to channel name (kebab-case)
+- For videos: use the featured person (interviewee/guest)
+- No featured person → fall back to channel name
 
 ## Front matter
-
-Every article and summary opens with:
 
 ```yaml
 ---
@@ -36,8 +34,7 @@ tags: [tag1, tag2]
 ```
 
 - `channel` is always required — use the blog name for blog posts.
-- `date` — original publication date and time; use `00:00` if exact time
-  is unavailable
+- `date` — original publication date+time; `00:00` if time unknown
 - `tags` — controlled vocabulary (lowercase), pick all that apply:
   `ai`, `politics`, `war`, `ukraine`, `development`, `startups`
   If no existing tag fits, propose a new one to the user before adding it.
@@ -62,16 +59,15 @@ tags: [tag1, tag2]
 
 ## Rules
 
-- All articles and summaries must be in English, regardless of source language
-- Same slug across raw/, articles/, summary/ for a given entry
-- Slug: derive from title — lowercase, dashes, drop articles (a/the), max 10 words
-- Directory and file names must use only dashes, English letters and numbers
-- For videos original content is text transcript
-- If original content is article don't change text just format to markdown
+- Articles and summaries: always English
+- Same slug across raw/, articles/, summary/: lowercase, dashes, max 10 words
+- File/dir names: only dashes, English letters, digits
+- Videos: raw content is text transcript
+- Web articles: don't change text, just format as markdown
 - Markdown line length: hard limit 100 chars
 - Summaries: preserve concrete numbers, insights, and key arguments
 - Raw files: never modify after download
 - Index entries: newest first, ordered by added time
 - Index timestamps: run `date '+%Y-%m-%d %H:%M'` — never guess
-- Use system timezone for all the dates
+- All timestamps: system timezone
 - Clean up temp/intermediate files before committing
