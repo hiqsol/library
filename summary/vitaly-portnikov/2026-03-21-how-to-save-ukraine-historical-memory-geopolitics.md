@@ -1,10 +1,10 @@
 ---
-title: "How to Save Ukraine: Historical Memory and Geopolitics"
+title: How to Save Ukraine: Historical Memory and Geopolitics
 author: Vitaliy Portnikov
 channel: Vitaliy Portnikov
 url: https://youtu.be/u8xkKU0O98s
-date: 2026-03-21
-tags: [politics, ukraine, war]
+date: 2026-03-21 00:00
+tags: politics, ukraine, war
 ---
 
 Public lecture and Q&A by Vitaliy Portnikov at an OpenCode.IF event, March 21, 2026 (the
