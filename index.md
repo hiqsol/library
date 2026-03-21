@@ -1,5 +1,11 @@
 # Index
 
+- 2026-03-21 12:25 - ThePrimeagen - 2026-03-19
+  "We're So Back": AI Solved Mitchell's 6-Month Ghosty Bug
+  [article](articles/the-primeagen/2026-03-19-were-so-back-ai-solved-mitchells-6-month-ghosty-bug.md)
+  | [summary](summary/the-primeagen/2026-03-19-were-so-back-ai-solved-mitchells-6-month-ghosty-bug.md)
+  | [source](https://youtu.be/5DP0az1q_8M)
+
 - 2026-03-21 08:10 - Vitaliy Portnikov - 2026-03-20
   World One Step from Catastrophe: Iran Ground Operation, NATO Crisis, Orbán's Blockade
   [article](articles/vitaly-portnikov/2026-03-20-world-step-from-catastrophe-iran-ground-op-nato-orbán.md)

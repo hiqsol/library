@@ -1,0 +1,334 @@
+software engineering and development for
+the last few years has just been on this
+we're so back and oh my gosh it's so
+over just kind of hype cycle every
+single model that's come out the
+headlines do not stop it's over software
+engineering is so over people who've
+never written a line of software trying
+to flex on you about their to-do
+application telling you that your job is
+over and you're just a whiny little baby
+and then inevitably the highs come back
+right we start seeing posts like this
+such as AI actually reporting fake
+figures for multiple months and just
+completely bamboozling a company. And
+us, we all laugh by ourselves.
+Those peasants, they don't even know the
+power that I have, let alone the power
+that they think they can wield. But
+unfortunately, today, this story that
+I'm going to be making on this old
+YouTube video is an it's an it's over
+kind of moment, okay? And it comes
+courtesy of Mitchell Hashimoto. If you
+do not know Mitchell Hashimoto, his most
+recent and popular work, of course, is
+Ghosty. I'm using Ghosty right here.
+This is actually how I edit the old Vim
+right here is inside of a ghosty
+terminal. I find the uh terminal to be
+quite nice. And if you do not know
+anything about Mitchell, he tends to
+tweet things that are very insightful
+and he takes his time, it appears at
+least to kind of communicate through his
+thoughts. And every single time I see a
+longer post by him, I always go, "Oh,
+I'm excited. This is something I just
+want to go and watch and read through
+because whatever he's talking about
+likely, I'm going to find to be very,
+very interesting." And in this case,
+this was very, very interesting. It was
+about a very difficult bug that he and
+his team had quite some time to try to
+figure out and could not figure it out.
+And then in a very short period of time,
+the AIS it figured it out. Ah, codeex 53
+extra high with a vague prompt just
+solved a bug that I and others have been
+struggling to fix for over 6 months. So
+obviously when he says 6 months, he does
+not mean 6 months fulltime heads down
+and couldn't do it. other full reasoning
+levels with codeex failed. Opus 46
+failed cost $4.14
+minutes full trace plus includes
+original issue right here. So here we
+go. So we're going to walk through a bit
+of what he did and then we're going to
+kind of come to some conclusions because
+I I guess I drew slightly different
+conclusions than he did, but I do think
+that this is a very interesting thing to
+kind of watch through. Use GitHub to
+look up this specific issue and
+determine a fix. And so the AI of course
+went through and used GitHub and kind of
+walked through all the different
+talking. The issue of course was this
+right here. Every single time they made
+a split, the screen would flash a little
+bit. Flash. You see that how there's
+something behind it and then it goes and
+it flashed for a quick second. One more
+time for the you know, you can see that.
+Okay. So that's bad. That's not good. We
+don't want that. So right away the AI
+obviously went, "Okay, this is a GTK
+split update. I'm going to go take a
+look at this." All right. Right. It
+found kind of the exact commit that was
+touching uh this exact kind of area in
+which it's looking into. It then starts
+going through all the patches just going
+all the way through every last piece of
+code and how it's been changed. Then it
+starts looking at each one of the
+commits, you know, according to this one
+specific issue that's been associated
+with the issue. It starts narrowing down
+on a specific operation, this split tree
+split. But then it takes an odd turn
+about partway through it just goes off
+and starts looking at some Gnome GTKC.
+Now, if you didn't catch any of this,
+this right here is Zigg. This is a
+fantastic language. If you've never used
+Zigg, Zigg has to be probably one of my
+personal favorite languages to tool
+around in. Though I haven't written it
+in quite some time, it still is
+something that I just I draw a lot of
+just I have a lot of warm feelings
+about. Now, if you go back to the tweet,
+you'll see that Mitchell says, "The best
+thing that Codeex did was eventually
+start reading the GTK4 source code."
+That's where I ended up seeing my GitHub
+issue, and I knew the answer was
+somewhere in there, but I didn't have
+the time or the motivation to do it
+myself. The other models never went
+there. The lower reasoning efforts with
+53 didn't go there either. Only extra
+high went there. I think it was the
+critical difference. And yes, it
+actually did make the difference. It
+started making these kind of code
+changes saying, "Hey, this is actually
+what's happening. I'm going to delete a
+lot of the comments, delete a lot of the
+stuff happening. This is actually what
+it should look like. And then Mitchell
+went, "Okay, hey, don't run the full
+test, by the way. Super Chad move."
+Absolutely what I wanted to see. And
+then just says, "Hey yo, just explain to
+me what you fixed in a lot of detail."
+And it goes through and it actually
+talks exactly about what exact happened.
+And the general thing was that the the
+little leaf nodes inside these uh kind
+of surfaces that are created in GTK were
+being completely destroyed and new ones
+were being created. Hence like the blah.
+Instead, it's going to try to reuse the
+ones that aren't changing. Gives a nice
+little ex, you know, answer about why
+this reduces flicker. But here's the
+thing that kind of makes a big
+difference. Now, the average vibe coder,
+shall we call him, the average AI Andy
+from San Francisco, typically at this
+point, they put the code in the bag.
+Okay, just put the code in the bag. And
+you see this a lot. You see a lot of
+people that when something starts
+working, they just kind of move on. They
+kind of call it a day and they go,
+"Okay, there we go." And I especially
+have seen this a lot with the younger
+the younger folks. There just seems to
+be a lot less rigor because there's a
+lot more idea that hey, the AI is super
+correct. It's super fast. It can code
+much faster than me. And I have a whole
+bunch of tests, so it's probably just
+okay. It just feels so much different
+than how I would operate. And this has
+honestly been one of my big sticking
+points about diving headirst into this
+Daario take the wheel style of
+programming where you just let all the
+code be written by AI is that I don't
+really like how it does things. I have
+to like constantly correct and say,
+"Hey, I just don't think these things
+are right." And of course, you see the
+same thing with Mitchell right here as
+he goes in, he does a thorough code
+review and asks why this some specific
+thing was created and then asks even
+more questions about, "Hey, we need to
+change how we're doing these failure
+modes." This led to even more changes
+going on that this almost represents
+what happens in the PR. Then he ends up
+doing some manual changes, some manual
+cleanups, and boom, it's over. an issue
+that would have taken so much time for
+an individual to kind of comb through
+all the GTK source code and all the
+source code inside the Zigg and try to
+marry what is exactly happening was able
+to just be quickly identified by the AI
+and I think this is where a lot of
+people just see that it's so over moment
+but I kind of I guess I I I don't know I
+take a lot of encouragement from it from
+for multiple reasons not and it's not
+just the fact that he did some manual
+changes which if you have an opinion
+about software it's really hard to make
+an AI code exactly the way you would
+code it. I have been trying a lot and
+I've been really trying to get it to
+generate code mostly the way I do it. It
+hasn't quite got there. But more so,
+you'll notice just this like really
+intense reviewing process. Obviously,
+that took some time. You couldn't just
+flick through the file and go, "Okay, I
+get what happening. Whatever." That that
+mostly looks okay. No, there had to be a
+lot of thought and a lot of time that
+went into it. And so the reviewing and
+manual cleanup phase took a decent
+amount of time, but it took so little
+time in comparison to figuring out what
+the actual root bug was. And once that
+was figured out, the next step was well,
+it was relatively easy. And so on one
+hand, I can totally see why Mitchell
+says it's so over moment, right? It's
+because it synthesized so much data and
+was able to kind of just produce a, you
+know, 50 60 lines and you went, "Oh,
+that's the reason why." And at the exact
+same time when you see that it does feel
+amazing. He just made his product much
+better. He saved a whole bunch of time
+and that's really really good. And so
+this whole thing just kind of got me
+thinking and realizing that I kind of
+operate in one of two ways which is I
+mostly write code by hand or I pretty
+much just Sam Alman take the wheel and I
+will just put in a bunch of testing and
+I just hope that everything works out. I
+don't often use it this way enough,
+which is like, okay, here's something
+that I know can take a lot of time. It's
+going to take a lot of research. You go
+get me 80% way there. I will do the
+other 20%. And for those that are
+feeling that it's so over and feeling
+really weighed down about it, I just
+love this little interaction right here.
+By the way, I like Ryan Florence. I'm
+not trying to dunk on him. 53 is so
+good. I finally don't even care to look
+at most the code it produces. The next
+models are likely going to be the nail
+in the coffin for writing code by hand
+at all. In this case, it produced two
+bugs, though. And before people jump on
+and be like, "Oh yeah, see but it
+produced bugs." It's like, "Yeah, it
+fixed a really, really difficult one and
+then produced two simple ones." And the
+two simple ones were pretty quickly kind
+of smoothed over and called it a day.
+Anyways, I just wanted to talk about
+this because I just think this stuff is
+so interesting because I've had these
+exact same kind of bugs in my life
+fixing things that just take so much
+time. These are the ones that just make
+me more want to give up is on a very
+large project that just has so much
+momentum behind it. There's these little
+small bugs that end up cropping up that
+are just some deep difference
+undocumented thing that you just have to
+comb through source code to try to
+figure out what is the underlying root
+cause and to be able to have something
+like AI kind of solve that part.
+Honestly, it feels amazing. I did a
+video on Honey and kind of confirming
+their behavior. I went through what
+Megalag did and kind of went, okay, can
+I see this in the code? And more
+importantly, can I see it over time?
+Have they made engineering decisions on
+the code to actually make it better,
+more resilient, and kind of prove the
+point that they know about the code,
+they know about the behavior, and
+they're trying to make it more robust.
+And of course, me going through minified
+JavaScript code that would take months
+of effort. Instead, I'm just like, yo,
+AI, here's a file. This is approximately
+what I'm looking for. Can you like
+return to me some results that could be
+it? And it's just like, here, I found
+three things that are likely it. And you
+just go through like, yep, no. Yep.
+Okay. Yep. This is the one right here.
+It's just like, wow, that just saved me
+hours of time. I love this stuff. I
+think that, you know, these are the
+things that make me so excited about AI
+because this is truly stripping away the
+things in programming that I find to be
+the least pleasurable parts of it. It's
+no longer problem solving, right? You're
+just actually just trying to swim
+through just a just a river of
+you're just like, "Oh my gosh, this is
+just, you know, you're just like just so
+fine grain going into something just to
+find the one hidden answer." Which can
+be summed up best as Hyram's law, right?
+The observation on software engineering
+to put it succinctly, with sufficient
+number of users of an API, it does not
+matter what you promise in the contract.
+All observable behaviors of your system
+will be depended on by somebody. Always
+just never loved that much. Anywh who, I
+hope you like this. I hope you enjoyed
+this. I I don't really know what the
+purpose was of it other than just yap
+for a while. You know what I mean? Hey,
+the name the name is the primogen. Hey,
+do you want to learn how to code? Do you
+want to become a better backend
+engineer? Well, you got to check out
+boot.dev. Now, I personally have made a
+couple courses from them. I have live
+walkthroughs free available on YouTube
+of the whole course. Everything on
+boot.dev you can go through for free.
+But if you want the gamified experience,
+the tracking of your learning and all
+that, then you got to pay up the money.
+But hey, go check them out. It's
+awesome. Many content creators you know
+and you like make courses there.
+boot.dev/prime for 25% off.
