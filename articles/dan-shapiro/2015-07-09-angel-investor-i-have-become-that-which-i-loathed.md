@@ -1,5 +1,5 @@
 ---
-title: Angel Investor: I have become that which I loathed
+title: "Angel Investor: I have become that which I loathed"
 author: Dan Shapiro
 channel: Dan Shapiro's Blog
 url: https://www.danshapiro.com/blog/2015/07/angel-investor-i-have-become-that-which-i-loathed/

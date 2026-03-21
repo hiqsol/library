@@ -1,5 +1,5 @@
 ---
-title: Disposable Software: The Trend 90% of People Are Getting Wrong
+title: "Disposable Software: The Trend 90% of People Are Getting Wrong"
 author: Nate B. Jones
 channel: Nate B. Jones
 url: https://www.youtube.com/watch?v=ra7nYJe86GI

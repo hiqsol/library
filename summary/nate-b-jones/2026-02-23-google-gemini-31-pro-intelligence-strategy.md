@@ -1,5 +1,5 @@
 ---
-title: Google's Gemini 3.1 Pro: Intelligence Strategy
+title: "Google's Gemini 3.1 Pro: Intelligence Strategy"
 author: Nate B. Jones
 channel: Nate B. Jones
 url: https://www.youtube.com/watch?v=8jKAT8GNDE0

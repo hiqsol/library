@@ -1,5 +1,5 @@
 ---
-title: The Builders Who Figure This Out First Will Be Impossible to Catch: Why You Need an Identity Shift
+title: "The Builders Who Figure This Out First Will Be Impossible to Catch"
 author: Nate B. Jones
 channel: Nate B. Jones
 url: https://www.youtube.com/watch?v=5Di6o6zuMLc

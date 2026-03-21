@@ -1,5 +1,5 @@
 ---
-title: 90% of AI Users Are Getting Mediocre Output: Stop Prompting, Do This
+title: "90% of AI Users Are Getting Mediocre Output: Stop Prompting, Do This"
 author: Nate B. Jones
 channel: Nate B. Jones
 url: https://www.youtube.com/watch?v=KX0GurmgAoo

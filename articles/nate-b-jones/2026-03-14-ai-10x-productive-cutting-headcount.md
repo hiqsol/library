@@ -1,5 +1,5 @@
 ---
-title: AI Made Every Company 10x More Productive — The Ones Cutting Headcount Are Telling on Themselves
+title: AI Made Every Company 10x More Productive — The Ones Cutting Headcount
 author: Nate B. Jones
 channel: Nate B. Jones
 url: https://www.youtube.com/watch?v=u-giatW9mYU

@@ -1,5 +1,5 @@
 ---
-title: OpenClaw: 160,000 Developers Building Something
+title: "OpenClaw: 160,000 Developers Building Something"
 author: Nate B. Jones
 channel: Nate B. Jones
 url: https://www.youtube.com/watch?v=q-sClVMYY4w

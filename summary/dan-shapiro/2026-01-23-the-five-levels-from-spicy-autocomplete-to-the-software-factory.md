@@ -1,5 +1,5 @@
 ---
-title: The Five Levels: from Spicy Autocomplete to the Dark Factory
+title: "The Five Levels: from Spicy Autocomplete to the Dark Factory"
 author: Dan Shapiro
 channel: Dan Shapiro's Blog
 url: https://www.danshapiro.com/blog/2026/01/the-five-levels-from-spicy-autocomplete-to-the-software-factory/

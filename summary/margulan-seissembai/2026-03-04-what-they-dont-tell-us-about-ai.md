@@ -1,5 +1,5 @@
 ---
-title: What They Don't Tell Us About AI: The Future We Must Prepare For
+title: "What They Don't Tell Us About AI: The Future We Must Prepare For"
 author: Margulan Seissembai
 channel: Gleb Solomin
 url: https://www.youtube.com/watch?v=LF5O3sTKcOE

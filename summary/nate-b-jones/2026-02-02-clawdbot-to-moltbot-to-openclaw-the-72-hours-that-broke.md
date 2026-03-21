@@ -1,5 +1,5 @@
 ---
-title: Clawdbot to Moltbot to OpenClaw: The 72 Hours That Broke Everything
+title: "Clawdbot to Moltbot to OpenClaw: The 72 Hours That Broke Everything"
 author: Nate B. Jones
 channel: Nate B. Jones
 url: https://www.youtube.com/watch?v=p9acrso71KU

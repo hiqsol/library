@@ -41,7 +41,8 @@ Holodomor, Polish-Ukrainian relations, the ongoing war, occupied territories, an
   about "the terrible shadows of Ukraine and Kuban." He saw it; official Russia still claims not to.
 - Personal account: Portnikov's great-grandparents in Kamianka (Cherkasy region) refused to
   evacuate before the German advance because the Holodomor had taught them that Soviet propaganda
-  lied. They concluded Nazi atrocity reports were also propaganda. They were killed in the Holocaust.
+  lied. They concluded Nazi atrocity reports were also propaganda. They were killed
+  in the Holocaust.
 - The Holodomor recognition problem: communities in eastern and southern Ukraine lived in houses
   taken from famine victims, or descended from those who enforced the famine. Reassessing the
   Holodomor meant reassessing family history.

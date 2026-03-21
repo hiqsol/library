@@ -1,5 +1,5 @@
 ---
-title: Fellow White Dudes: Let's Roll a d20
+title: "Fellow White Dudes: Let's Roll a d20"
 author: Dan Shapiro
 channel: Dan Shapiro's Blog
 url: https://www.danshapiro.com/blog/2019/02/fellow-white-dudes-lets-roll-a-d20/

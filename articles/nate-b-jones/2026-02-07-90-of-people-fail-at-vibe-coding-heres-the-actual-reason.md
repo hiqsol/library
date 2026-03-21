@@ -1,5 +1,5 @@
 ---
-title: 90% of People Fail at Vibe Coding: You're Skipping the Hard Part
+title: "90% of People Fail at Vibe Coding: You're Skipping the Hard Part"
 author: Nate B. Jones
 channel: Nate B. Jones
 url: https://www.youtube.com/watch?v=sLz4mAyykeE

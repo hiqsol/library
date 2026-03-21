@@ -1,5 +1,5 @@
 ---
-title: Claude Opus 4.6: The Biggest AI Jump I've Covered
+title: "Claude Opus 4.6: The Biggest AI Jump I've Covered"
 author: Nate B. Jones
 channel: Nate B. Jones
 url: https://www.youtube.com/watch?v=JKk77rzOL34

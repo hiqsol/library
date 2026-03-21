@@ -1,5 +1,5 @@
 ---
-title: The $125 Billion Secret: Amazon Told Wall Street One Thing and Employees Another
+title: "The $125 Billion Secret: Amazon Told Wall Street One Thing and Employees Another"
 author: Nate B. Jones
 channel: Nate B. Jones
 url: https://www.youtube.com/watch?v=7sk3qmIQZnI

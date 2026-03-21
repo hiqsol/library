@@ -1,5 +1,5 @@
 ---
-title: The OpenClaw Saga: Zuckerberg Begged This Developer
+title: "The OpenClaw Saga: Zuckerberg Begged This Developer"
 author: Nate B. Jones
 channel: Nate B. Jones
 url: https://www.youtube.com/watch?v=5IzPLjqkFaE

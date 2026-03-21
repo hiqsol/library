@@ -1,5 +1,5 @@
 ---
-title: You Don't Need SaaS: The $0.10 System That Replaced My AI Workflow
+title: "You Don't Need SaaS: The $0.10 System That Replaced My AI Workflow"
 author: Nate B. Jones
 channel: Nate B. Jones
 url: https://www.youtube.com/watch?v=2JiMmye2ezg

@@ -1,5 +1,5 @@
 ---
-title: Don't Fall for the Stock Market Hype: The $7,000 Raise AI Is Giving You
+title: "Don't Fall for the Stock Market Hype: The $7,000 Raise AI Is Giving You"
 author: Nate B. Jones
 channel: Nate B. Jones
 url: https://www.youtube.com/watch?v=q6pbQ5li5Cg

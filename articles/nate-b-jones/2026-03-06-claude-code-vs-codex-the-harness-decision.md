@@ -1,5 +1,5 @@
 ---
-title: Claude Code vs Codex: The Harness Decision That Compounds Every Week
+title: "Claude Code vs Codex: The Harness Decision That Compounds Every Week"
 author: Nate B. Jones
 channel: Nate B. Jones
 url: https://www.youtube.com/watch?v=09sFAO7pklo

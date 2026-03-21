@@ -1,5 +1,5 @@
 ---
-title: Google's Gemini 3.1 Pro: Smartest Model, Lowest Price — Why Google Doesn't Care
+title: "Google's Gemini 3.1 Pro: Smartest Model, Lowest Price — Why Google Doesn't Care"
 author: Nate B. Jones
 channel: Nate B. Jones
 url: https://www.youtube.com/watch?v=8jKAT8GNDE0
