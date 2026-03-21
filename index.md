@@ -1,5 +1,12 @@
 # Index
 
+- 2026-03-21 20:37 - Vitaliy Portnikov - 2026-03-21
+  How to Save Ukraine: Historical Memory and Geopolitics
+  tags: politics, ukraine, war
+  [article](articles/vitaly-portnikov/2026-03-21-yak-vryatuvaty-ukrainu-istorychna-pamyat-i-geopolityka.md)
+  | [summary](summary/vitaly-portnikov/2026-03-21-yak-vryatuvaty-ukrainu-istorychna-pamyat-i-geopolityka.md)
+  | [source](https://youtu.be/u8xkKU0O98s)
+
 - 2026-03-21 13:30 - Andrej Karpathy - 2026-03-20 00:00
   Code Agents, AutoResearch, and the Loopy Era of AI
   tags: ai
