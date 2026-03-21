@@ -1,5 +1,17 @@
 # Index
 
+- 2026-03-21 08:10 - Vitaliy Portnikov - 2026-03-20
+  World One Step from Catastrophe: Iran Ground Operation, NATO Crisis, Orbán's Blockade
+  [article](articles/vitaly-portnikov/2026-03-20-world-step-from-catastrophe-iran-ground-op-nato-orbán.md)
+  | [summary](summary/vitaly-portnikov/2026-03-20-world-step-from-catastrophe-iran-ground-op-nato-orbán.md)
+  | [source](https://youtu.be/xSJQTHCxRsw)
+
+- 2026-03-21 08:00 - Petro Chernyk - 2026-03-20
+  Middle East Endgame: Iran's Defeat, Ukraine's Geopolitical Stake
+  [article](articles/petro-chernyk/2026-03-20-middle-east-endgame-irans-defeat-ukraine-geopolitics.md)
+  | [summary](summary/petro-chernyk/2026-03-20-middle-east-endgame-irans-defeat-ukraine-geopolitics.md)
+  | [source](https://youtu.be/Ke5KEl87A5o)
+
 - 2026-03-20 17:03 - Nate B. Jones - 2026-03-20
   Anthropic Gave Your AI Agent the One Thing OpenClaw Has — Without the Risk
   [article](articles/nate-b-jones/2026-03-20-anthropic-gave-agent-openclaw-without-risk.md)
