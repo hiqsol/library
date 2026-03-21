@@ -1,31 +1,36 @@
 # Index
 
-- 2026-03-21 13:30 - Andrej Karpathy - 2026-03-20
+- 2026-03-21 13:30 - Andrej Karpathy - 2026-03-20 00:00
   Code Agents, AutoResearch, and the Loopy Era of AI
+  tags: ai
   [article](articles/andrej-karpathy/2026-03-20-code-agents-autoresearch-loopy-era-of-ai.md)
   | [summary](summary/andrej-karpathy/2026-03-20-code-agents-autoresearch-loopy-era-of-ai.md)
   | [source](https://youtu.be/kwSVtQ7dziU)
 
-- 2026-03-21 13:30 - Connor Leahy - 2026-03-10
+- 2026-03-21 13:30 - Connor Leahy - 2026-03-10 00:00
   AI is MUTATING: And We Don't Know What It is Doing
+  tags: ai
   [article](articles/connor-leahy/2026-03-10-ai-is-mutating-we-dont-know-what-it-is-doing.md)
   | [summary](summary/connor-leahy/2026-03-10-ai-is-mutating-we-dont-know-what-it-is-doing.md)
   | [source](https://youtu.be/rf2KFVcKQdQ)
 
-- 2026-03-21 13:30 - Emad Mostaque - 2026-03-16
+- 2026-03-21 13:30 - Emad Mostaque - 2026-03-16 00:00
   How AI Will Change Everything in the Next 1,000 Days
+  tags: ai
   [article](articles/emad-mostaque/2026-03-16-how-ai-will-change-everything-next-1000-days.md)
   | [summary](summary/emad-mostaque/2026-03-16-how-ai-will-change-everything-next-1000-days.md)
   | [source](https://youtu.be/1CEXVcVEBAc)
 
-- 2026-03-21 12:25 - ThePrimeagen - 2026-03-19
+- 2026-03-21 12:25 - ThePrimeagen - 2026-03-19 00:00
   "We're So Back": AI Solved Mitchell's 6-Month Ghosty Bug
+  tags: ai, development
   [article](articles/the-primeagen/2026-03-19-were-so-back-ai-solved-mitchells-6-month-ghosty-bug.md)
   | [summary](summary/the-primeagen/2026-03-19-were-so-back-ai-solved-mitchells-6-month-ghosty-bug.md)
   | [source](https://youtu.be/5DP0az1q_8M)
 
-- 2026-03-21 08:10 - Vitaliy Portnikov - 2026-03-20
+- 2026-03-21 08:10 - Vitaliy Portnikov - 2026-03-20 00:00
   World One Step from Catastrophe: Iran Ground Operation, NATO Crisis, Orbán's Blockade
+  tags: politics, war, ukraine
   [article](articles/vitaly-portnikov/2026-03-20-world-step-from-catastrophe-iran-ground-op-nato-orbán.md)
   | [summary](summary/vitaly-portnikov/2026-03-20-world-step-from-catastrophe-iran-ground-op-nato-orbán.md)
   | [source](https://youtu.be/xSJQTHCxRsw)

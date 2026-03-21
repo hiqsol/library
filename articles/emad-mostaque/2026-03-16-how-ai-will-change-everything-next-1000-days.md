@@ -1,10 +1,10 @@
 ---
-title: "How AI Will Change Everything in the Next 1,000 Days"
-source: "The Next Big Idea Podcast"
-url: "https://youtu.be/1CEXVcVEBAc"
-date: 2026-03-16
+title: How AI Will Change Everything in the Next 1,000 Days
 author: Emad Mostaque
-tags: [ai, economics, ubi, open-source, intelligent-internet, stability-ai, aci, singularity, robots, alignment]
+channel: The Next Big Idea
+url: https://youtu.be/1CEXVcVEBAc
+date: 2026-03-16 00:00
+tags: ai
 ---
 
 # How AI Will Change Everything in the Next 1,000 Days

@@ -1,11 +1,13 @@
-# AI is Mutating: And We Don't Know What It is Doing
-
-**Author:** Connor Leahy
-**Date:** 2026-03-10
-**Source:** https://youtu.be/rf2KFVcKQdQ
-**Channel:** Peter McCormack (What Bitcoin Did)
-
 ---
+title: AI is MUTATING: And We Don't Know What It is Doing
+author: Connor Leahy
+channel: What Bitcoin Did
+url: https://youtu.be/rf2KFVcKQdQ
+date: 2026-03-10 00:00
+tags: ai
+---
+
+# AI is Mutating: And We Don't Know What It is Doing
 
 ## Introduction
 

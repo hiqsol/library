@@ -1,11 +1,13 @@
-# Summary: AI is Mutating — And We Don't Know What It is Doing
-
-**Author:** Connor Leahy
-**Date:** 2026-03-10
-**Source:** https://youtu.be/rf2KFVcKQdQ
-**Channel:** Peter McCormack (What Bitcoin Did)
-
 ---
+title: AI is MUTATING: And We Don't Know What It is Doing
+author: Connor Leahy
+channel: What Bitcoin Did
+url: https://youtu.be/rf2KFVcKQdQ
+date: 2026-03-10 00:00
+tags: ai
+---
+
+# Summary: AI is Mutating — And We Don't Know What It is Doing
 
 Connor Leahy — formerly of EleutherAI, where he helped build some of the earliest open-source large language models, and co-founder of AI safety organization Conjecture — sat down with Peter McCormack to explain how neural networks actually work and why he believes the situation is far more dangerous than the public understands.
 

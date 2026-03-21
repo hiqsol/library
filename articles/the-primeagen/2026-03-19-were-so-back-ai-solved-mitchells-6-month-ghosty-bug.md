@@ -1,11 +1,13 @@
-# "We're So Back": AI Solved Mitchell's 6-Month Ghosty Bug
-
-**Author:** ThePrimeagen (The PrimeTime)
-**Date:** 2026-03-19
-**Source:** https://youtu.be/5DP0az1q_8M
-**Channel:** The PrimeTime
-
 ---
+title: "We're So Back": AI Solved Mitchell's 6-Month Ghosty Bug
+author: ThePrimeagen
+channel: The PrimeTime
+url: https://youtu.be/5DP0az1q_8M
+date: 2026-03-19 00:00
+tags: ai, development
+---
+
+# "We're So Back": AI Solved Mitchell's 6-Month Ghosty Bug
 
 ## The Hype Cycle
 

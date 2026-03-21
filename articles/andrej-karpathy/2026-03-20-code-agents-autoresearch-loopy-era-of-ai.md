@@ -1,10 +1,13 @@
-# Andrej Karpathy on Code Agents, AutoResearch, and the Loopy Era of AI
-
-**Source:** [No Priors: AI, Machine Learning, Tech, & Startups](https://youtu.be/kwSVtQ7dziU)
-**Date:** 2026-03-20
-**Author folder:** andrej-karpathy
-
 ---
+title: Code Agents, AutoResearch, and the Loopy Era of AI
+author: Andrej Karpathy
+channel: No Priors
+url: https://youtu.be/kwSVtQ7dziU
+date: 2026-03-20 00:00
+tags: ai
+---
+
+# Andrej Karpathy on Code Agents, AutoResearch, and the Loopy Era of AI
 
 ## The "AI Psychosis" State
 

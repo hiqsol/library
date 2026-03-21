@@ -24,12 +24,12 @@ summary/<author>/<YYYY-MM-DD>-<slug>.md  — 30-60 line summary
 
 ```yaml
 ---
-title: "Full title"
+title: Full title
 author: Author Name
 channel: Channel or blog name
 url: https://...
 date: YYYY-MM-DD HH:MM
-tags: [tag1, tag2]
+tags: tag1, tag2
 ---
 ```
 
@@ -51,8 +51,8 @@ tags: [tag1, tag2]
 ## Index format
 
 ```
-- 2026-03-21 13:30 - Andrej Karpathy - 2026-03-20 15:00
-  Code Agents, AutoResearch, and the Loopy Era of AI
+- 2026-03-21 12:25 - ThePrimeagen - 2026-03-19 00:00
+  "We're So Back": AI Solved Mitchell's 6-Month Ghosty Bug
   tags: ai, development
   [article](...) | [summary](...) | [source](...)
 ```

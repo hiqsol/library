@@ -1,6 +1,13 @@
-# Summary: World One Step from Catastrophe — Iran Ground Op, NATO Crisis, Orbán's Blockade
+---
+title: World One Step from Catastrophe: Iran Ground Operation, NATO Crisis, Orbán's Blockade
+author: Vitaliy Portnikov
+channel: SLAWA TV
+url: https://youtu.be/xSJQTHCxRsw
+date: 2026-03-20 00:00
+tags: politics, war, ukraine
+---
 
-Vitaliy Portnikov · 2026-03-20 (Centre of Europe, SLAWA TV)
+# Summary: World One Step from Catastrophe — Iran Ground Op, NATO Crisis, Orbán's Blockade
 
 ## Opening: Patriarch Filaret
 
