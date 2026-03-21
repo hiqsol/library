@@ -4,7 +4,7 @@ author: Andrej Karpathy
 channel: No Priors
 url: https://youtu.be/kwSVtQ7dziU
 date: 2026-03-20 00:00
-tags: ai
+tags: ai, development
 ---
 
 # Andrej Karpathy on Code Agents, AutoResearch, and the Loopy Era of AI
@@ -22,8 +22,9 @@ the time of this recording the gap had widened further. His words:
 > "I don't think I've typed like a line of code probably since December basically. Which is like an
 > extremely large change."
 
-He describes walking around telling people — including his parents — about this shift, and finding
-that most people, including random software engineers at their desks, have not yet internalized how
+He describes walking around telling people — including his parents — about this shift, and
+finding that most people, including random software engineers at their desks, have not yet
+internalized how
 completely the default workflow for building software changed in that single month.
 
 The psychosis, in his description, comes from the feeling that the space of what is possible is
@@ -176,8 +177,8 @@ The structural implication he names directly:
 He introduces the phrase "ephemeral software" for code that is generated as needed for a specific
 task, used, and discarded, rather than built once and maintained indefinitely. Today this requires
 "vibe coding" and technical involvement. His prediction: within one to three years, the barrier
-comes down to near zero, and any AI — including open source models — will be able to stand up this
-kind of integration trivially.
+comes down to near zero, and any AI — including open source models — will be able to
+stand up this kind of integration trivially.
 
 ---
 

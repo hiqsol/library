@@ -1,5 +1,5 @@
 ---
-title: AI is MUTATING: And We Don't Know What It is Doing
+title: "AI is MUTATING: And We Don't Know What It is Doing"
 author: Connor Leahy
 channel: What Bitcoin Did
 url: https://youtu.be/rf2KFVcKQdQ

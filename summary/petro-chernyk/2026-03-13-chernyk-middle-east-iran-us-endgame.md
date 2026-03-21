@@ -1,5 +1,5 @@
 ---
-title: Listen to Chernyk, Not Trump: How Everything Will End in the Middle East
+title: "Listen to Chernyk, Not Trump: How Everything Will End in the Middle East"
 author: Petro Chernyk
 channel: Ми - Україна
 url: https://youtu.be/bEFKtBCCiuo

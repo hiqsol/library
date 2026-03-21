@@ -1,5 +1,5 @@
 ---
-title: Middle East Endgame: Iran's Defeat, Ukraine's Geopolitical Stake
+title: "Middle East Endgame: Iran's Defeat, Ukraine's Geopolitical Stake"
 author: Petro Chernyk
 channel: Ми - Україна
 url: https://youtu.be/Ke5KEl87A5o

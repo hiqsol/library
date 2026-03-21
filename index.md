@@ -38,8 +38,8 @@
 - 2026-03-21 08:10 - Vitaliy Portnikov - 2026-03-20 00:00
   World One Step from Catastrophe: Iran Ground Operation, NATO Crisis, Orbán's Blockade
   tags: politics, war, ukraine
-  [article](articles/vitaly-portnikov/2026-03-20-world-step-from-catastrophe-iran-ground-op-nato-orbán.md)
-  | [summary](summary/vitaly-portnikov/2026-03-20-world-step-from-catastrophe-iran-ground-op-nato-orbán.md)
+  [article](articles/vitaly-portnikov/2026-03-20-world-step-from-catastrophe-iran-nato-orban.md)
+  | [summary](summary/vitaly-portnikov/2026-03-20-world-step-from-catastrophe-iran-nato-orban.md)
   | [source](https://youtu.be/xSJQTHCxRsw)
 
 - 2026-03-21 08:00 - Petro Chernyk - 2026-03-20 00:00

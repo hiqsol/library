@@ -1,5 +1,5 @@
 ---
-title: How to Save Ukraine: Historical Memory and Geopolitics
+title: "How to Save Ukraine: Historical Memory and Geopolitics"
 author: Vitaliy Portnikov
 channel: Vitaliy Portnikov
 url: https://youtu.be/u8xkKU0O98s
@@ -10,7 +10,7 @@ tags: politics, ukraine, war
 # How to Save Ukraine: Historical Memory and Geopolitics
 
 This is a transcript-based synthesis of a public lecture and Q&A given by journalist and political
-analyst Vitaliy Portnikov at an OpenCode.IF (@opencodeif) event on March 21, 2026 — the anniversary
+analyst Vitaliy Portnikov at an OpenCode.IF event on March 21, 2026 — the anniversary
 of Taras Shevchenko's death. The talk covered historical memory, Ukrainian statehood, geopolitics,
 the Holodomor, Polish-Ukrainian relations, the ongoing war, and the future of democracy.
 
@@ -84,8 +84,8 @@ international memory were not fully successful — why does the debate continue?
 Portnikov's assessment of Yushchenko: he was a brilliant economic manager and central banker, a
 mediocre politician, but an outstanding statesman. He understood the politics of memory at a time
 when almost no one else did. Before Yushchenko, the Holodomor was a marginal topic. The Party of
-Regions voted against recognizing it as genocide — all but two deputies from Galicia — because they
-feared offending Russia.
+Regions voted against recognizing it as genocide — all but two deputies from Galicia —
+because they feared offending Russia.
 
 Why the Holodomor recognition remains contested:
 
@@ -188,8 +188,9 @@ Portnikov's assessment:
 - The underlying dynamic: whenever Ukrainians and Poles quarrel, Russians come and take everything.
   This historical pattern is observable and its consequences well-documented.
 - He recalled buying a beautifully illustrated book about Galicia in Warsaw — meticulously
-  researched, covering the Kingdom of Galicia-Lodomeria — and finding Ukrainians and Jews mentioned
-  in a three-page section near the end. Yet Ukrainians were a majority of the population in most
+  researched, covering the Kingdom of Galicia-Lodomeria — and finding Ukrainians and Jews
+  mentioned in a three-page section near the end. Yet Ukrainians were a majority of the
+  population in most
   of Eastern Galicia, and Jews were a major cultural and national substrate.
 - Poland went the ethnic route in building its postwar identity: Operation Vistula (deportation of
   Ukrainians from southeastern Poland), the final expulsion of Jews in the 1960s. These were acts
@@ -252,8 +253,8 @@ Portnikov's response on Crimea:
 On the occupied southern territories:
 
 - The Baltic states were occupied for 50 years; Latvians, Lithuanians, and Estonians were not
-  "lost." Soviet nationalities policy did allow national schools and culture there — different from
-  the current Russian approach.
+  "lost." Soviet nationalities policy did allow national schools and culture there —
+  different from the current Russian approach.
 - The Finnish precedent: Finland ceded territory but not a single person. Every Finnish resident
   of Vyborg (now Vyborg in Leningrad Oblast) left — twice, after the Winter War and the
   Continuation War. Zero people remained on what became Soviet/Russian Karelia.

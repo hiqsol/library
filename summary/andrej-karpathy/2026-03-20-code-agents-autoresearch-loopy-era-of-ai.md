@@ -4,7 +4,7 @@ author: Andrej Karpathy
 channel: No Priors
 url: https://youtu.be/kwSVtQ7dziU
 date: 2026-03-20 00:00
-tags: ai
+tags: ai, development
 ---
 
 # Andrej Karpathy on Code Agents, AutoResearch, and the Loopy Era of AI

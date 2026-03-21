@@ -1,5 +1,5 @@
 ---
-title: How to Save Ukraine: Historical Memory and Geopolitics
+title: "How to Save Ukraine: Historical Memory and Geopolitics"
 author: Vitaliy Portnikov
 channel: Vitaliy Portnikov
 url: https://youtu.be/u8xkKU0O98s

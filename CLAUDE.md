@@ -33,6 +33,7 @@ tags: tag1, tag2
 ---
 ```
 
+- `title` — quote if it contains a colon: `title: "Foo: Bar"`
 - `channel` is always required — use the blog name for blog posts.
 - `date` — original publication date+time; `00:00` if time unknown
 - `tags` — controlled vocabulary (lowercase), pick all that apply:

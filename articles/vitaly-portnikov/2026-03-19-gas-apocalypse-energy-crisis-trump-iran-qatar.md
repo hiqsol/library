@@ -1,5 +1,5 @@
 ---
-title: Gas Apocalypse: The Energy Crisis Trump Didn't Plan For
+title: "Gas Apocalypse: The Energy Crisis Trump Didn't Plan For"
 author: Vitaliy Portnikov
 channel: SLAWA TV
 url: https://youtu.be/OkuqdCwBTJ4

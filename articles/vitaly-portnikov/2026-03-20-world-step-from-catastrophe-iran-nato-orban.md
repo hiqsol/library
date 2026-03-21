@@ -1,5 +1,5 @@
 ---
-title: World One Step from Catastrophe: Iran Ground Operation, NATO Crisis, Orbán's Blockade
+title: "World One Step from Catastrophe: Iran Ground Operation, NATO Crisis, Orbán's Blockade"
 author: Vitaliy Portnikov
 channel: SLAWA TV
 url: https://youtu.be/xSJQTHCxRsw
@@ -108,8 +108,8 @@ of US pressure on European defense autonomy.
 
 ## Orbán's Blockade: The Real Mechanics
 
-Orbán is blocking Ukraine's €90 billion EU credit and EU membership path — demanding restoration
-of Russian oil transit through the Druzhba pipeline.
+Orbán is blocking Ukraine's €90 billion EU credit and EU membership path —
+demanding restoration of Russian oil transit through the Druzhba pipeline.
 
 Portnikov's reading: *Orbán does not want the pipeline fixed.* He needs it broken until the
 April 12 Hungarian elections as a campaign tool — "Ukrainian threat" narrative. If anyone

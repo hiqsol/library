@@ -1,5 +1,5 @@
 ---
-title: World One Step from Catastrophe: Iran Ground Operation, NATO Crisis, Orbán's Blockade
+title: "World One Step from Catastrophe: Iran Ground Operation, NATO Crisis, Orbán's Blockade"
 author: Vitaliy Portnikov
 channel: SLAWA TV
 url: https://youtu.be/xSJQTHCxRsw

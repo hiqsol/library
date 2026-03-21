@@ -1,5 +1,5 @@
 ---
-title: Listen to Chernyk, Not Trump: How Everything Will End in the Middle East
+title: "Listen to Chernyk, Not Trump: How Everything Will End in the Middle East"
 author: Petro Chernyk
 channel: Ми - Україна
 url: https://youtu.be/bEFKtBCCiuo
@@ -11,8 +11,9 @@ tags: politics, war, ukraine
 
 ## Operation Epic Friday: Results in Iran
 
-In just two weeks, the US–Israel operation codenamed *Epic Friday* has struck 55,000 targets inside
-Iran, including over 60 warships. The entire Suleimani-class missile carrier fleet has been put out
+In just two weeks, the US–Israel operation codenamed *Epic Friday* has struck 55,000 targets
+inside Iran, including over 60 warships. The entire Suleimani-class missile carrier fleet
+has been put out
 of action. CENTCOM reports that each wave of strikes methodically destroys Tehran's defence
 industry. The Pentagon deployed AI and space forces to paralyse Iranian navigation before missiles
 are even launched. Night strikes against ballistic missile factories have effectively collapsed
@@ -24,14 +25,15 @@ Iran's defence complex.
 
 Trump spoke of finding "someone who knows what they're doing" to rebuild Iran. Chernyk's assessment:
 regime change via air strikes alone is **practically impossible**. Historical parallel: NATO's 1999
-*Allied Force* campaign in Serbia did not topple Slobodan Milošević immediately — he lost power only
-in 2003, despite no ground operation. Air strikes can prepare the ground for a political transition
+*Allied Force* campaign in Serbia did not topple Slobodan Milošević immediately —
+he lost power only in 2003, despite no ground operation. Air strikes can prepare the
+ground for a political transition
 over time, but Chernyk believes the US ultimately wants to **keep the Ayatollah regime weakened, not
 eliminated** — to maintain pressure on Gulf Arab monarchies and contain Turkish imperialism.
 
 Breaking news on the day of broadcast: Khamenei's son reportedly suffered injuries and had a leg
-amputated — suggesting targeted pressure on the leadership is active, but full regime removal is not
-the goal.
+amputated — suggesting targeted pressure on the leadership is active, but full regime
+removal is not the goal.
 
 ---
 
@@ -54,8 +56,9 @@ Key points:
 The US Treasury issued a special licence allowing India to buy Russian oil — but only for 30 days.
 Chernyk:
 
-- This is a strategic move to **peel India away** from a potential China–India bloc in the Shanghai
-  Cooperation Organisation. India is now the world's most populous country and a massive energy
+- This is a strategic move to **peel India away** from a potential China–India bloc in
+  the Shanghai Cooperation Organisation. India is now the world's most populous country
+  and a massive energy
   consumer.
 - Russia's oil sales are already a zero-sum game: they are at peak extraction, cannot develop new
   fields, and depend on pipelines that Ukraine is destroying (the Druzhba pipeline pumping station
@@ -70,11 +73,11 @@ Chernyk:
 
 ## The Hormuz Strait: Why Isn't It Unblocked?
 
-Iran is striking tankers in the Strait of Hormuz. The US has full capability to unblock it — but is
-**deliberately delaying**. Chernyk's analysis:
+Iran is striking tankers in the Strait of Hormuz. The US has full capability to unblock it —
+but is **deliberately delaying**. Chernyk's analysis:
 
-1. **The US is now energy-independent** — producing 14 million barrels/day (shale), it does not need
-   Persian Gulf oil. It wants to sell its own oil and LNG to Europe.
+1. **The US is now energy-independent** — producing 14 million barrels/day (shale), it
+   does not need Persian Gulf oil. It wants to sell its own oil and LNG to Europe.
 2. **China's tankers pass freely** — verified Chinese ships are not stopped. Other tankers hide
    behind Chinese radio signals to slip through. This is a tool of economic pressure on China.
 3. **Historical precedent:** In 1987–88, the US ran *Operation Ernest Will* for over a year with
@@ -118,8 +121,9 @@ programmes planned 70 years ahead with $1.5 trillion allocated).
 ## Iran's 450 kg of Enriched Uranium
 
 Iran enriched uranium to 60% (above the 20% weapons-grade threshold). The stockpile has been
-dispersed and hidden in the Zagros Mountains (northeastern Iran — 1,500 km wide, 300–400 km deep,
-filled with caves and gorges). Chernyk expects a **special operations hunt** rather than airstrikes
+dispersed and hidden in the Zagros Mountains (northeastern Iran — 1,500 km wide, 300–400 km
+deep, filled with caves and gorges). Chernyk expects a **special operations hunt** rather
+than airstrikes
 — similar to the decade-long hunt for Osama bin Laden, concluded in 2011. US special forces have
 demonstrated the capability to insert 800 km deep by helicopter (Super Stallion). Tomahawks were
 also used in the bin Laden hunt before the precise location was established.
@@ -133,8 +137,9 @@ destruction of an aggressor's military-technological potential**. What was lost:
 
 - Microelectronics production for Russian missiles (primarily the X-35 series).
 - Specifically: the upgraded *Izdeliye-30* variant of the X-35 — enhanced to 1,500 km range and up
-  to 500–800 kg warhead — was being developed for the Su-34. With ~80–90 operational Su-34s each
-  capable of carrying multiple missiles, this would have been a mass-scale, strategically dangerous
+  to 500–800 kg warhead — was being developed for the Su-34. With ~80–90 operational
+  Su-34s each capable of carrying multiple missiles, this would have been a mass-scale,
+  strategically dangerous
   weapon.
 - The strike used **Storm Shadow** missiles — 5 of them penetrated Russia's vaunted air defence
   (which Chernyk believes barely exists around the Bryansk region).
