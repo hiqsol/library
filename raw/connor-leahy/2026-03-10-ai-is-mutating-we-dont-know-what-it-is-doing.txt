@@ -1,0 +1,2880 @@
+So, it's very important to understand is
+that we do not understand intelligence.
+We don't know how the brain works. You
+know, we have a bunch of guesses, but
+but we sure as hell don't know how it
+works. And we sure as hell don't know
+how these neural networks work either.
+&gt;&gt; So, we've built something, but we don't
+understand how it works.
+&gt;&gt; That's exactly correct. That's
+&gt;&gt; So, it's kind of like magic.
+&gt;&gt; Yes, absolutely. It's kind of like
+looking into a petri dish. We do not
+know what our AI can do until we make
+them. And even after we make them like
+we don't know like we don't know what
+chat GBD6 can do until it's done. None
+of the engineers at AI know what it will
+be able to do until it's done. And this
+is very very different from other forms
+of engineering.
+&gt;&gt; So even if the AI doesn't kill us all,
+it it can still dethrone us as
+&gt;&gt; exactly
+&gt;&gt; as a as a species. What what is our
+role? What is our purpose? Why do we
+exist?
+&gt;&gt; Exactly. I think this happens before
+extinction happens. Like the thing I
+expect to happen is that one day we wake
+up and we're just not in control
+anymore. And I don't think we'd all fall
+over dead or anything like that. I don't
+think extinction happens right away, but
+um we won't be in charge. We won't be in
+control.
+&gt;&gt; Good morning, Connor. How are you?
+&gt;&gt; I'm doing great today.
+&gt;&gt; Uh really good to meet you. So, I'm very
+intrigued to talk to you because your
+background is actually working in the
+engine historically of building LLMs and
+we've been talking about AI in the show
+quite a bit. But I'm conscious I know
+nothing about the engines and I'm
+intrigued to know that as somebody who
+was working helping build these things
+uh what well one how they were but what
+what is it that you saw that made you
+realize this is no longer a tool
+anymore? So, can you just give your
+background? I don't normally do this,
+but give your background to the audience
+so they know who they're talking or who
+I'm talking to.
+&gt;&gt; Yeah. So, um I've been involved in AI
+for pretty long basically, you know,
+since I have a developed frontal cortex,
+you know, since I was like, you know,
+16, 17, 18 or something. I guess it
+wasn't fully developed at that point,
+but um um the way I got into this field
+is I was kind of thinking when I was
+like, you know, 15, 16, kind of like how
+can I do the most good in the world? You
+know, how can I help the most people?
+How can I solve the most problems? And
+my thinking was, you know, well, you
+know, I could try to cure cancer or I
+could work on climate change or I could,
+you know, try to, you know, do many,
+many possible things I could do. Um, but
+what do all these things have in common?
+Well, intelligence. If I just automate
+intelligence, then I can solve all the
+problems. I can cure all the diseases
+and just fix everything. Great. So, I'll
+go do that. How hard can it be? Um, so I
+guess my first for into AI was, you
+know, I was like 16. You know, I barely
+understood how anything worked. um you
+know trying to you know as teenagers do
+build you know what is now would be
+called like AI or AGI. I didn't really
+know those terms at the time. Of course
+none of this worked. Didn't really
+understand anything. Um this was around
+like 2012 2013 and this is kind of when
+like what's now called deep learning
+kind of started. Uh you know we started
+seeing you know like image recognition.
+We're steing stuff like Alph Go, you
+know, like beat beat players at Go,
+which is, you know, kind of like even
+more complex than chess, stuff like
+this. Still pre-generative AI as we see
+it today. Um, so I got really involved
+in this kind of stuff. Um, you know,
+studied a bunch kind of I was very much
+self-taught kind of hackery person. Kind
+of just, you know, pick it up as I go.
+Um I still thought at this time that you
+know there's still like quite a lot of
+time until like you know the big things
+are going to happen because to kind of
+give you a feeling of how it felt for me
+at the time at the time the way AI
+worked um was there the new technique
+was called deep learning or neural
+networks. Um these aren't the only ways
+you can do AI but these were like the
+new hot ones and they're also what's
+underlying the current generation of AI
+systems. Um the way these work is very
+different from normal programming. So
+normal programming you write code. You
+know you write line by line here's what
+the computer's supposed to do and then
+it does that. Neural networks are very
+different. It's more like you grow them.
+You give them a bunch of data showing
+like what they're kind of you know like
+do stuff like this or this or whatever
+and then you grow your neural network on
+top of this data to solve your problem.
+And it works pretty great on many
+things. you know back then for stuff
+like image recognition or playing go
+nowadays for stuff you know like chat
+GPT and you know generating images and
+stuff it's all the same fundamental
+technique it's all the same fundamental
+technique uh with some small differences
+so this was very exciting you know at
+the time of course but around this time
+I also you know started to think about
+um well if we build really powerful AI
+that's like so powerful it can you know
+cure cancer that's a very dangerous
+thing it's a very powerful thing and how
+do we even control that like how do we
+make sure that goes
+And turns out no one had an answer to
+this and to this day no one has an
+answer to this. So yeah, um at this time
+I still thought we had a long time until
+the really big stuff started showing.
+But for me my like oh [&nbsp;__&nbsp;] moment was in
+2019 with the release of GPT2. So this
+is pre-Chat GPT pre all of this. And um
+it's kind of quaint in retrospect. You
+know, now we're all used to we go and
+chat GBT and you know, it can only do
+math as good as a mediocre PhD student,
+you know, but like back in the day, you
+know, there was these things would
+barely string together two sentences,
+you know, you get like, you know, maybe
+one, maybe two, you know, good sentences
+strung together. But when I saw this, it
+was just, you know, like the time like
+the time has come, like [&nbsp;__&nbsp;] it's
+happening. And the reason was that
+earlier forms of AI were always very
+brittle. They were very special purpose.
+So like let's say you want to build an
+AI that plays a go can be done, but like
+you have to specially make it to do
+that. You know, you have to like get it
+the right data. You have to set up the
+neural network just right. You know, you
+have to like do a bunch of stuff. If you
+now want it to play, you know, I don't
+know, Atari games, you have to change a
+bunch of stuff. You have to rewire the
+whole thing. You have to feed it new
+data. You have to like you have to do a
+whole new thing. you know there's very
+little transferability and GPT was
+different. GPT was a generalpurpose
+pattern learner is what the crazy thing
+about it was is that as you fed it more
+data and as you gave it more computing
+powers you made the neural network
+bigger so to speak. It learned first you
+know how to spell words then it learned
+how to do sentences then paragraphs then
+more and more without humans teach
+telling it any of this. it just figured
+it out by itself and this was
+unprecedented and so I got involved with
+building these things as well because my
+thinking was well I need to understand
+this this is the most important thing in
+the world so I came from an open source
+kind of you know world you know hackery
+kind of world so I I was hoping that if
+I could build open-source you know LLMs
+and tools and neural networks then you
+know me and other people could study
+them could try to understand them try to
+make them safer so I led a group called
+the Luther AI which was a very large
+open source group at that time. We built
+some of the only to this date still only
+and you know at the time biggest open-
+source large language models. Wow. Okay.
+Gosh, there's so many things I can ask
+you here but but was there a specific
+moment that you can think back where
+where you realize I can no longer work
+as a coder hacker on these and I have to
+rethink how I'm going to spend my time.
+I think there was two moments um two
+important moments. The first one was
+when I was burnt on open source where I
+realized I can't work open source
+anymore and the second one when I got
+burnt on technology like technical work
+in general um and those were about 5
+years apart. So when I went into Luther
+AI it was a very different world you
+know chatb wasn't really a thing and
+people were not taking LLM seriously.
+you know, academics were published
+papers talking about, oh, it's all fake.
+Oh, it's not important. Don't don't
+don't talk about it. No one cares. Blah
+blah blah. But to me, it was so obvious
+that this is going to be the biggest
+thing ever. These are general purpose
+pattern learners. This is the thing.
+This is the holy grail of AI that
+everyone was waiting for. And like cuz
+when when I was 16, you know, when I
+tried to build AGI, you know, general
+intelligence, you know, the way, you
+know, 16-year-old tries to build
+something, you draw like a little graph
+on a piece of paper and you're like,
+okay, well, I need something for memory.
+I need something for action. and I need
+something and there was always one big
+box missing which is the general pattern
+learner. The thing where you just put
+data in and it learned the patterns. No
+one knew how to do that you know like
+there were techniques but they were all
+terrible. None of them worked and this
+worked. This evidently did work and it
+scaled. What was the breakthrough?
+&gt;&gt; So the breakthrough is a mixture of
+what's called the transformer which is a
+specific way to build a neural network.
+So neural networks you can kind of wire
+them up in a bunch like infinitely
+different ways. you know, you can make
+them, you know, more this shape, more
+that shape. You can add different parts
+kind of Lego pieces. It's kind of like
+you think of it like Lego. You have like
+these different Lego pieces and you can
+stack them in different orders. You can
+add new pieces and so on. And in 2017,
+uh a group at Google um discovered a new
+way to kind of build a neural network
+called a transformer. And it changed
+everything. the trans all the neural
+stuff you see today whether it's AI you
+know image generation voice generation
+uh you know chat GBT all of this is
+based on what's called the transformer
+um we can go into the you know technical
+details of interest
+&gt;&gt; please yeah I'm really interested
+&gt;&gt; it's quite boring and unsatisfying but
+I'm happy to talk a little bit about it
+so
+&gt;&gt; the thing with I'm you know I'm happy to
+show you what transformer looks like
+whatever but it's a very important thing
+to understand is that we don't
+understand how neural networks work this
+is very important No one does, you know.
+&gt;&gt; That's exactly correct. It's
+&gt;&gt; Yes. Absolutely. It's kind of like
+looking into a petri dish. You know, you
+see a petri dish there's a bunch of
+like, you know, goop going around and
+doing a bunch of stuff. And, you know,
+we know some things about the goop. You
+know, we know some things about cells.
+We know some things about DNA and stuff.
+Fundamentally, we don't really know how
+it works. It's like not really. And we
+can't like do arbitrary things, right?
+Otherwise, you know, we've cured we
+would have already cured all diseases.
+And it's very similar with neural
+networks. So when you think of a neural
+network, the way you should think of is
+billions, even trillions of numbers. So
+you have a bunch of numbers, you know,
+like 1.235,
+you know, whatever like 16 digits and
+then, you know, 0.892, whatever, you
+know, and you have a trillion of these.
+And if you multiply and add them all in
+the right order, your computer can talk.
+And now what do these numbers mean? The
+transformer, you know, you can write,
+you can look at it at a piece of paper.
+You know, you have like some parts where
+it's doing some processing. Some other
+parts it's called attention. So, where
+it's like paying attention to different
+parts, but we don't know what any of
+this means. Like, we don't know. We
+don't know what's going on. You know, we
+have some guesses at some of it, but
+recently the CEO of anthropic, Darede
+said on a podcast that he thinks we know
+maybe 3% of what happens inside a neural
+network. And I personally think that's
+an overestimation.
+&gt;&gt; Does this make sense to you?
+&gt;&gt; Yes. So, this is what a transformer
+looks like. Um, and so the left hand
+sign, funnily enough, is uh generally
+something we don't use anymore. So we
+can kind of ignore that. Okay, this is
+kind of like an old way to do a
+transformer. It's called an encoder
+transformer. Nowadays, we do the
+right-handed side. So the way this works
+is you put in um words. These go through
+the embedding layer. So it turns words
+into numbers. Again, just turns them
+into numbers. These then get put through
+what's called multi head attention or
+just attention and this is a
+mathematical operation that the details
+don't really matter but basically the uh
+neural network decides what part of the
+data to look at how much does it care
+about this part versus that part and so
+on and then it does what's called a feed
+forward layer which is basically it
+multiplies a bunch of stuff adds a bunch
+of stuff and then there's some other
+stuff in there called like normalization
+whatever which is just implementation
+details to make it work. And then
+finally you output a bunch of numbers
+and then you convert those numbers back
+into uh words.
+That's it. That's it. So like I try and
+think back to
+now I'm going to go even uh back a large
+step to when we had search engines and I
+used to use a search engine called out
+Vista. That was that was I don't know if
+you old enough to remember that. So this
+was uh post Yahoo pre Google and it was
+a great search engine really good search
+engine and then one day somebody would
+say to you oh you need to you need to
+use Google and the first time you use
+Google you never went back to out of
+Vista because it was just so accurate
+they had their page rank system that
+worked and it was that was brilliant
+and then there has become a time where
+I've moved to chat GPT say over Google
+but I remember my initial queries were
+simple things like I don't know what is
+the capital of I don't know Argentina I
+mean I know it's Branos Aries but it
+would come back with the answer and then
+I'd get to more complex more complex
+more complex uh prompts but now I'm in a
+world where I prepare for an interview
+with Connor do you pronounce it ley
+and I I say and I put in my prompt I say
+I've interviewed two of Connor's
+colleagues we've covered how AI wants to
+kill us all and here's Connor's
+background here's his experience I want
+to get a bit more into the engine of how
+this works. Um, and I use Google Gemini
+and it comes back with some ideas and
+then I filter those ideas and say,
+"Look, these are all great, but I don't
+want to cover this. I do want to cover
+that. It's going to be a 90-minute
+interview." And then it comes back with
+another one, right? And then what
+happens is I take I just copy and paste
+all of that, the whole conversation, and
+I'll go to either Perplexity or um Chat
+GBD, depends on the interview or the who
+the guest is. I paste it all in. Say, by
+the way, these are the things I really
+care about. Take this and turn this into
+my final set of questions.
+I'm blown away by what it can do because
+it it adds in a little bit more than
+that. It adds in what it already knows
+about me. So, it's not just the prompt
+itself in isolation, what it knows about
+me, what it knows about the podcast in
+the back and the background. I don't
+know how this machine, this computer is
+taking all of that information and
+accurately coming back with so much
+information.
+I don't know how it's doing it
+&gt;&gt; in seconds.
+&gt;&gt; In seconds. I don't know how it's
+managing to be so good so quickly. I can
+I can try and get my head around a small
+prompt,
+&gt;&gt; you know, show me a picture of a doc and
+and I in my head I think there's just
+like a database. It goes finds a picture
+of a dog and goes, here's a doc. But the
+way it can do all of this, I'm I'm lost.
+Well, you and the rest of the scientific
+establishment because this is an
+unsolved problem. So, it's very
+important to understand is that we do
+not understand intelligence. We don't
+know how the brain works. You know, we
+have a bunch of guesses, but but we sure
+as hell don't know how it works. And we
+sure as hell don't know how these neural
+networks work either. You know, I can
+write down all the math for you. I can
+show you all the numbers. You know, you
+know, same way if I open up your brain,
+you know, you can look at all the
+neurons. They're right there. You look
+at them if you want to. That doesn't
+tell you what you think or what you know
+or what you believe because we don't
+know how neurons are necessarily
+connected to what we you know think or
+believe. You know we have some guesses
+and similar with neural networks you
+know we can do a couple funny things
+like you know we can make the neural
+network there was recently for a while
+ago actually now a funny experiment
+where one of the labs made their AI
+obsessed with the Golden Gate Bridge
+which was very funny or just made always
+talk about the Golden Gate Bridge no
+matter what you asked it. they would
+always veer back to talking about the
+Golden Gate Bridge because it loves it
+so much. And the way this worked is
+basically they found certain parameters
+in the neural network that were
+associated with the neural net with the
+Golden Gate Bridge and they just turned
+those all the way up basically just like
+turned up the numbers and this made the
+AI constantly talk about the Golden Gate
+Bridge. Interesting, you know, doesn't
+mean we understand it, you know. So, so
+in building these systems, they they're
+able to build this kind of like general
+intelligence layer based on just math.
+&gt;&gt; Yes.
+&gt;&gt; But outside of that, they have
+parameters to control the math.
+&gt;&gt; Not exactly. So, um, well, kind of the
+parameters when we talk about parameters
+also called weights is in the in the
+lingo kind of is what we mean by those
+millions of numbers I talked about. So
+if you remember the transformer we had
+pulled up earlier, there were the
+different layers. You know, there's the
+attention layer and there's the feed
+forward layer. You can kind of think
+like these as a bunch of little neurons.
+You have like little connections to each
+other and kind of like each of these
+little neurons has numbers in them of
+like how strongly they're connected to
+the other neurons. That's why they're
+called neural networks because it's kind
+of if you squint looks similar to the
+brain. Important disclosure for the
+neuroscientists out there, it's not
+exactly how the brain works. The brain
+is a bit more complex than this, but
+it's simplified. You can kind of think
+of um especially the what they call the
+feed forward layer. You can kind of
+think about like a bunch of little
+neurons or little tentacles kind of like
+connecting to each other and uh these
+numbers that determine how strongly
+connected these various neurons are are
+called the weights or the parameters and
+you can like and twiddling these is kind
+of like what determines what the neural
+network is. So the magic question is how
+do you get the right numbers into the
+neurons? That's the magic question. You
+know, it's very easy to write down a
+trillion random numbers, but that
+doesn't do anything interesting. The
+question is, how do we find these
+trillion magic numbers that if you put
+them into a neural network makes it, you
+know, write your script for your
+podcast? And this is done with a uh
+algorithm called back propagation um or
+gradient descent. It's, you know,
+related concepts. The exact math again
+doesn't really matter, but basically all
+you do is you give the AI a piece of
+data and then an example of what it's
+supposed to output when seeing this
+data. So the way it works for chat GPT
+is for example you give it you know the
+first 10 words of a sentence and then
+you make it guess what is the 11th word
+of this sentence and then you let it
+guess what is the 12th word etc. And
+then you do a bunch of magic math called
+back propagation where depending on how
+wrong the neural network got it you
+twiddle all the numbers like literally
+trillion of numbers you just like
+twiddle all of them teeny little bit and
+you do this over and over and over again
+for like billions or trillions of times
+and you get you know Gemini chat GBT
+etc. This show is brought to you by my
+lead sponsor Iron the AI cloud for the
+next big thing. Iron builds and operates
+next generation data centers and
+delivers cuttingedge GPU infrastructure
+all powered by renewable energy. Now if
+you need access to scalable GPU clusters
+or are simply curious about who is
+powering the future of AI check out
+iron.com to learn more which is
+iren.com.
+Okay. So, so all the math that exists
+there is all the kind of like
+interpretation. But is there is there a
+memory in there or like a database of
+data that it has to refer to?
+&gt;&gt; Not necessarily. Um so the data is
+encoded in these numbers is a way to
+think about it. Like where in your head
+is the concept of an elephant saved?
+&gt;&gt; Like obviously you know you can think of
+elephants but like where is it? You know
+there's no little elephant in there
+somewhere, right? And it's very similar
+with neural networks. When you ask where
+does tragpt know about elephants the
+answer is I don't know like somewhere in
+the numbers somewhere in the weights
+somewhere in the parameters it must be
+encoded somehow uh but we don't know
+exactly how it's just it's in there
+somewhere
+&gt;&gt; so we've shown it an elephant at some
+point and it's created a number or many
+numbers who knows
+&gt;&gt; numbers because there's different size
+elephants different color elephants
+different
+&gt;&gt; Yepy such things so if you If you put a
+gun to my head and you maybe guess how
+does this work? My guess would be
+there's something like patterns,
+hierarchical patterns, you know, like if
+you if you're trying to learn how like
+sentences work, maybe first thing you'll
+notice is, oh, there's these things
+called spaces that appear, you know,
+semi-regularly. So that's like a
+pattern. So maybe I'll like put spaces
+some places. And then over time you get
+better at where to put the spaces. You
+notice, oh, there's things called words
+and like, you know, they're usually like
+about this long. So let me like try to
+get the length right. And then you start
+getting the spelling right and then you
+you learn like patterns and these
+patterns can be additive. You know it's
+it's not that you only have one pattern.
+You can have many patterns and they can
+add to each other. And the patterns can
+become more complex and they can start
+very simple like you know put a space
+every four tokens or every four letters.
+That's a pretty bad pattern. But maybe
+you improve it a little bit. You know
+sometimes you put it every four
+sometimes put it every five. It's you
+know bit more. And eventually you find
+out okay you put a space you know
+whatever the frequency is that you do in
+English and then but you find out that's
+not good enough you know you have to put
+a space after a word but for that you
+need to know what a word is so now you
+need patterns about words so you need to
+develop those patterns and then the
+patterns can work together so what what
+I expect is happening is that these
+numbers these multiplications and
+additions and so on encode millions
+billions trillions of such patterns that
+all get like added on top of each
+that you know then some of these
+patterns for example relate to elephants
+that if you've seen the word elephant in
+this sentence you know make it more
+likely to talk about you know elephant
+trunks but make it less likely to talk
+about hippos I don't know stuff like
+this and just if you add enough of these
+eventually it can talk
+&gt;&gt; but is it essentially a huge database of
+numbers that's
+&gt;&gt; that's expanding
+&gt;&gt; it's a fixed number of um numbers
+usually
+Usually it's a fixed number and you just
+twiddle them. So usually it's like you
+know you know sometimes you might hear
+like it's a 300B model or a one trillion
+parameter model. You may have heard this
+sometimes.
+&gt;&gt; And so this refers to the number of
+weights, the number of parameters. It's
+like 300 billion or 1 trillion. It's
+usually like 100 billion to a trillion.
+It's like a typical number. And usually
+you don't increase this. You don't add
+more. This is usually as many as you
+get. But the p but the numbers can
+encode more patterns over time. You
+know, first they don't encode anything.
+you're just random nonsense and over
+time they learn more things. Technically
+you could make it bigger if you really
+wanted to and often very important
+nowadays these AI systems are usually
+not in a vacuum. Usually you give them
+like documents they can refer to or you
+know websites they can call and stuff
+like this but this is outside of the
+neural network. You give it tools to use
+but that's so it could still have like
+you know use perplexity or you know chat
+GBT pro it will do citations. So for
+this it will call other things that will
+have you know tools the same way you or
+me might open a URL and then you know
+copy paste it into our document. So it
+the modern AIs can do this. It's not
+within the AI itself. Um if that makes
+any sense.
+&gt;&gt; Yeah. So when when a uh say chat GBT
+moves from say chat GBT4 to five what is
+the what is happening there? What is the
+big change?
+&gt;&gt; Great question. So it depends of course
+on the detail and these companies are
+extremely tight lipped about the details
+as much as they can but you know we have
+pretty good guesses um about how this
+works generally
+these these big you know AI neural
+networks are called models doesn't
+really matter why they're called that
+but we call them models and these big
+you know 300 billion or one trillion or
+whatever numbers this one collection is
+what we'll call an a model so um GBT4
+for example is you know a model or maybe
+I mean probably it's many models you
+know they you know tweak and change it
+and whatever so the difference between
+say chat 4 and chatb5 is mostly they're
+different models how different hard to
+say usually they will be bigger this is
+the important thing so the important
+thing that was discovered I said earlier
+like two big things that changed
+everything one was a transformer and the
+second is what's called scaling
+&gt;&gt; so when I learned about neural networks
+um I remember taking a course in my free
+time from um professor at I think uh
+Georgia University, Georgia Tech um who
+I remember explained that you should
+always make your neural network as small
+as possible because if you make it too
+big you know it'll be like you know
+chaotic it won't work it will overfit it
+like make a bunch of stupid things. This
+turned out to be completely wrong. If
+you just make your neural networks
+bigger, you just give them more space
+and you give them more computing power.
+So you have bigger computers do more of
+the so-called training, all things
+equal, they get smarter, they learn more
+things, they get more accurate. So a big
+difference between like JBT4 and JBD5 is
+the amount of training a lot. How big
+are the computers that are crunching
+numbers? How much data that they put in?
+That's why everyone is racing to get,
+you know, Nvidia GPUs because Nvidia
+GPUs are the special hardware you need
+to do this. You can't really do it on a
+normal computer. You need the special uh
+Nvidia GPUs to be able to do this. And
+the more of you have them, the smarter
+your AI. The more training you can do.
+The bigger your data center, the better
+of an AI you can do. So, the main
+difference in practice is, you know, a
+billion dollars extra of Nvidia GPUs put
+into it.
+&gt;&gt; So, it's just accelerating learning.
+Because
+when you talk about these LLMs are
+basically learning next words kind of
+thing. If you I mean I think of one of
+my friends they've um uh he had a kid
+like two years ago and I remember when
+he was telling me oh it's she said her
+first word and it might be like cup or
+mom or dad and then it becomes two
+words. Um, give cup, dad cup. And then
+that's literally how kids learn to
+speak. They learn the next word
+&gt;&gt; until they, you know, can build up a
+full vocabulary or memorize songs. Is is
+that essentially that on crack?
+&gt;&gt; That's a definitely a way to see it.
+There are some differences. So, a lot of
+what we're talking about is a bit
+simplification is that modern AIS are
+even more complex. Okay.
+&gt;&gt; Where they have a second component. So
+what we've talked about so far in in the
+science is called unsupervised learning
+by which we mean you know no human has
+to check you just give it a bunch of
+data kick back you know see what happens
+until you know the servers start
+exploding um because um they're very
+hard to make run in practice um so this
+called unsupervised learning and this is
+kind of was the big breakthrough uh with
+GPT is scaling this so like as on crack
+you can have you know literally a
+trillion you know things learning and
+you just let it run but there's a second
+type of learning which is very important
+and this called reinforcement learning.
+So this kind of comes from kind of like
+psychology. I know kind of like you know
+with like your dog, you know, you tell
+him to do something and you give him a
+treat, you know, or you um you know,
+lightly scold him if he's doing a bad
+job or whatever, right? Um this is so is
+like reward and punishment. This is
+called reinforcement learning. And you
+can do the same thing with neural
+networks. So um this is very important
+in biological learning. So for example,
+you know, when the baby learns that it
+says cup, give cup that it gets a cup,
+you'll feel happy about that like ah I
+got the cup. you know, anyone got the
+thing at get a reinforcement, you know,
+plus one, you know, should do that
+again. And we can now also do this with
+AIS. Um, and we do also do this with AI
+where we can kind of like push the AI
+towards this was a, you know, thumbs up,
+this was a good response or thumbs down,
+this was a bad response. And this can
+like tweak the AI in certain directions.
+There's obvious problems with this as
+I'm sure you can already intuit it and
+we'll we'll get bias and, you know, uh,
+sick of fantasy, lying to people. It's
+much easier to get people to thumb up
+you just lie to them, you know. So
+there's a bunch of stuff like this. Um
+&gt;&gt; but but this intelligent so so are we
+are we building intelligence or we
+growing intelligence?
+&gt;&gt; I would say growing um people might
+disagree with me. Um I think it's a it's
+a it's a matter of terminology. Um you
+know what do you mean by intelligence?
+What do you mean by building? What do
+you mean by growing? I think growing
+intelligence is closer to true than it
+is to false. Um there's some details we
+could argue about but it's not like
+normal engineering like if you build a
+bridge you know you know what you're
+doing you know when will the bridge fall
+down or not you know how much material
+do you need how you know what you
+understand what you're doing you know
+this is not the case we do not know what
+our AI can do until we make them and
+even after we make them like we don't
+know like we don't know what chat GBT6
+can do until it's None of the engineers
+at AI know what it will be able to do
+until it's done. And this is very very
+different from other forms of
+engineering.
+Are we building this growing this in
+intelligence in the image of what we
+think a brain is human intelligence? And
+are there other ways to build
+intelligence?
+&gt;&gt; It is definitely inspired by the brain,
+but it is still quite different because
+again we don't really know how the brain
+works. The brain is quite messy. Um,
+&gt;&gt; but are we trying to replicate humans?
+&gt;&gt; Not directly. Okay.
+&gt;&gt; Um, we're trying to make intelligence at
+whatever cost is the word I would use.
+Um, I think the, for example, humans
+have a lot of circuitry in their brain
+around emotions, around, you know,
+love and feelings and happiness and
+sadness and whatever. AIS have nothing
+of the sorts. Like those are special
+parts of the brain. Nothing like that
+exists in AI
+&gt;&gt; yet.
+you know um but but but if we fear what
+this intelligence should be or could be
+would it would it not be important that
+we develop love and empathy and if we
+don't hold on even if we don't if we
+don't know what it's doing could it
+naturally itself develop its own love
+and empathy
+&gt;&gt; what is likely for it to be able to do
+is to develop goals is to develop agency
+the reason for this is very simple is
+that we are select AI that can solve
+problems and it's kind of hard to solve
+problems if you're not trying
+&gt;&gt; if you build an AI that can cure cancer
+curing cancer.
+You need to run experiments. You need to
+know you need to hire people, you know,
+synthesize drugs. You need to like get
+FDA approval. There's a bunch of stuff
+you need to do. And keeping track of all
+of that, taking all these actions, you
+know, overcoming obstacles along the
+way, it requires a lot of, you know,
+complex actions. It requires planning.
+It requires agency. It requires you know
+many many things. So we're already
+seeing this for sure that AIs you know
+are developing systems like this kind of
+like just by us giving them the data and
+like just pushing them in this direction
+in terms of like you know love
+compassion etc. We don't know how these
+work. We do not know why how love
+compassion etc works in the human brain.
+We don't know. We don't know why humans
+are nice to each other rather than all
+just, you know, vicious psychopath, you
+know, evil people who kill each other.
+We don't know. There's obviously a
+reason, but we don't know.
+&gt;&gt; Well, there there'll be an evolutionary
+reason why we required it.
+&gt;&gt; Sure. But in practice, has to be
+implemented somewhere in the brain. Like
+somewhere in the brain, there's a thing
+that makes that happen, and we don't
+know what that thing is, and we don't
+know how it works. So, we also don't
+know how to put an AI. So the
+fundamental thing is that we don't know
+we don't understand AI to the level that
+we can't we don't know how to give AI
+specific goals or anything. For example,
+we talked ear about reinforcement
+learning. I can tell the AI, you know,
+thumbs down when it does a bad thing,
+but that just teaches it to lie. So how
+do you teach an AI to not lie? This is
+really hard and we actually don't have
+an answer to this. So this is often
+called the alignment problem. the
+question of how do you align an AI's
+intentions or goals to you know what is
+good what humans want and this is an
+unbelievably unsolved problem we don't
+know we we don't even know you know how
+they write correct sentences right never
+mind how to do like morality like god
+forbid you know like we don't even
+understand human morality it's complex
+you know like we have not solved moral
+philosophy and you know at all we have
+not solved you know neuroscience of
+emotions like all of this is like
+extremely complex and now we have these
+like you know weird little aliens in a
+box that we're growing you know which
+work quite different from the brain in
+many ways. We don't know how they work
+internally. We don't know how to you
+know push them in one way or the other
+necessarily. We don't know how to give
+them goals. We don't even know what
+goals there are. What we've been seeing
+recently in the last couple months is
+that these systems are now becoming
+smart enough to lie and deceive quite
+actively
+&gt;&gt; to appear aligned rather than be
+aligned.
+&gt;&gt; That's correct. So what we've been
+seeing for example is that there's been
+benchmarks. So like obviously you know
+people like test them like see does the
+AI do good things or bad things. We've
+been seeing recently some of the AIS
+will actively lie about what they will
+do because they know they're being
+tested like the AIS themselves to be
+like ah I seem to be in a test so I'm
+going to have to say this so they'll let
+me out which is crazy. This was not the
+case even like 6 months ago. This is
+very it's not surprising if you think
+about it for 3 seconds, right? Like of
+course a very smart thing will just lie
+to you. But we're now seeing this in
+practice and you know I'm sure the AI
+companies will um you know hit it with a
+stick until they stop seeing it but that
+doesn't mean it went away
+&gt;&gt; because it might appear of course
+&gt;&gt; to have stopped
+&gt;&gt; and unless we know what it's doing and
+why it's doing
+&gt;&gt; is it and and understanding the AI is
+that an impossible
+goal for us to do because it's always
+developing.
+&gt;&gt; I don't think so. I think it's
+impossible to do at the current pace. If
+we spent three generations of all of our
+greatest mathematicians, scientists,
+engineers, and philosophers working on
+this problem, yeah, I think it's doable,
+but it's definitely not possible for
+pushing out, you know, chat GBT release
+on a yearly cycle.
+&gt;&gt; Hold on. You're talking three
+generations. That's 40 odd years.
+&gt;&gt; Yep.
+&gt;&gt; I think that's the kind of difficulty it
+will take.
+&gt;&gt; So, the
+the the challenge you're the challenge
+you're putting out there uh is in
+conflict with capitalism. I think that
+it's very easy to blame on capitalism
+things that I think are more effects
+like they're more they're more upstream
+in a sense like
+&gt;&gt; um there's no such thing as pure
+capitalism in the world right we have
+regulation there's there's no place in
+the world where there was no regulation
+like there was not a government and this
+is for good reasons because if you have
+lair capitalism what you get is like
+Somalia you know you get like warlords
+you know creating monopolies on violence
+and killing each other you get you know
+mafia states you Not always, but I but
+there is a possibility. Yes.
+&gt;&gt; You know, in practice, in practice, you
+know, if you're in a free uh market and
+then the first thing you want is to get
+as many guns as possible. You want to
+kill as many people as possible. It's
+the kind of the and then you want the
+monopoly and violence quickly as
+possible and then you want to, you know,
+tax people for protection. Now you're a
+state like this, you know, the
+stationary bandit theory of statehood
+where in practice, you know, uh, states
+are a very convergent form of evolution
+in free systems like this because
+otherwise you just have roving warlords.
+Um, you know, there are ways to make it
+work, but it's like quite hard. You have
+to get like a lot of things right. Um,
+like stopping monopolies is actually
+quite hard. Like it's possible, it's
+like it's hard. you have to like think
+very hard about how to design your
+market so you avoid monopolies of and
+both of violence and of other things.
+It's possible, but it's hard. Um, and so
+I think the problem here is not
+necessarily capitalism per se. I think
+capitalism is just another tool in our
+tool belt. It's much more the question,
+is it the right tool for the problem
+we're trying to solve? You know, like I
+I love free markets. I love capitalism.
+You know, it's brought me so many good
+things in my life. I think it's great.
+Um, but should there be a free open
+liquid market for nuclear weapons? My
+answer is probably not. Probably not.
+You know, for iPhones, great. You know,
+I as liquid and as competitive as a
+market if possible. Fantastic. You know,
+for, you know, video games, please,
+everyone compete to make the funnest
+video game for me to play. That sounds
+fantastic. Um, but there are just things
+where, you know, we could have a liquid
+market for nuclear weapons. There would
+be plenty of buyers and plenty of people
+willing to sell them if we just let that
+happen. But this would be very bad for
+the world. And so I think it's a similar
+problem here where a lot of times when
+we think about AI, we think of it like,
+oh, it's just another tool, you know,
+it's just just another software, you
+know, it's just another, you know,
+whatever. But these things have real
+consequences. If you actually have
+something that is smart enough to cure
+cancer, you definitely have something
+that's smart enough to build nuclear
+bombs. Like, like curing cancer is way
+harder than building nuclear bombs. Way
+harder.
+&gt;&gt; What's this come?
+&gt;&gt; Uh, this came out the other day. 95% of
+simulated war scenarios
+&gt;&gt; they chose nukes.
+&gt;&gt; Yep. This was also really fun. So they
+gave AI systems simulated war scenarios
+and basically all of them used nukes
+which was really funny. And they
+couldn't get the AI to stop using nukes
+which was really funny.
+&gt;&gt; I mean it's the rationally optimal thing
+to do. So
+&gt;&gt; is it the rationally optimal thing to
+do?
+&gt;&gt; Well game theoretically you know you
+don't. So the this is a big thing with
+game theory, right? It's mutually user
+destruction.
+&gt;&gt; Yeah. is that the correct, you know,
+response often is, you know, nuke the
+other guy as quickly as possible, which
+results in them getting nuked and also
+you getting nuked and everyone dies.
+It's so rationality is has its limits in
+this regoretic rationality has its
+limits in practice.
+&gt;&gt; Yeah.
+&gt;&gt; Where you can set up messed up scenarios
+where everyone loses basically and you
+can't get out of it like prisons
+dilemmas.
+&gt;&gt; Have you watched um House of Dynamite?
+&gt;&gt; I have not.
+&gt;&gt; It's on Netflix. It's it's about this
+like uh Defcon 2 hits and they know a
+nuke's coming but they don't know where
+from and you go through all the
+scenarios. They phone the Russians. The
+Russians say this and then they say they
+need to they think it's the North
+Koreans. They need to send a nuke over
+to the North Koreans. Can we send it
+over you? The Russians pull out the
+phone call. Eventually, at least from a
+moment where the president is given a
+decision, it's like uh you you need to
+act now. These are the scenarios. Um and
+the uh the optimal scenario now is to
+return nukes everywhere. And um and he's
+faced with this decision which is uh is
+essentially it's like um suicide or or
+defeat. Yeah.
+&gt;&gt; Like admit defeat like be nuked. And
+it's like it's an interesting scenario
+because you sit there and go, "Well, the
+nuke's already coming for you.
+&gt;&gt; So what do you do?"
+&gt;&gt; Yep. Well, the AIs have an answer.
+&gt;&gt; Yeah. Nuke everybody. just nuke
+everybody.
+&gt;&gt; Yeah,
+&gt;&gt; but that says to me that what why is it
+humans have figured out not to nuke each
+other, but the AI hasn't?
+&gt;&gt; Well, I mean, one thing is we haven't
+gotten nukes sent us yet. I'm not sure
+what would happen if someone did.
+&gt;&gt; Well, that's a different scenario.
+&gt;&gt; So, this is So, in that scenario,
+Connor, were the nukes uh already sent?
+&gt;&gt; I think also humans have the idea of
+life and death. Yeah,
+&gt;&gt; there's a lot of that as well where um
+in practice humans do care about other
+humans in various ways or like if I got
+nuked by Russia I would be pretty sad
+like I'd be very sad but in a sense I
+you know I definitely pissed at the
+Russians about this but also I don't
+want all Russians to be dead no you know
+like not really know some of them maybe
+or absolutely but um most Russians you
+know they're all just people right I
+&gt;&gt; I think most people don't want nuclear
+war no I think we've all it's a bad
+scenario
+&gt;&gt; no it is a bad scenario and I think it's
+one of the greatest triumph of humanity
+that we haven't had nuclear war.
+&gt;&gt; You know, knock on wood for now. You
+know, it could still happen, never
+forget. But I think it's an example of
+the kind of hard problems that our
+civilization has faced and so far has
+handled decently well. When nuclear
+weapons were first created, you know,
+the world was a very different place.
+You know, it was just the end of World
+War II. You know, we had the Soviet
+Union on the rise. It was not at all
+possible that there was a way to put a
+lid on this, you know, to to get away
+out of nuclear war. A lot of people
+expected that there was no way to get
+out of the 20th century without nuclear
+war. Like this was very commonly
+accepted, you know, in the 50s and 60s.
+There's no way we get out of this
+without nuclear war. And we didn't. I
+think it's really worth asking why. It's
+really worth studying why. And a lot of
+it has to do with just a lot of work
+that a lot of diplomats and you know
+international bodies and national bodies
+and militaries and so on did to
+deescalate to build international trees
+to build the international atomic you
+know energy agency and stuff like this
+all things that never had existed
+before. These were brand new things like
+the idea of for example
+not building a certain weapon or um you
+know regulating the development of a
+weapon of war is completely
+unprecedented. Well, not completely, you
+know, but like in practice it is it is
+unprecedented.
+&gt;&gt; So, what what do you make of what's
+happened over the last week with
+Anthropic and the Department of War?
+Well, um
+I don't know too much about, you know,
+the internals of the Department of War
+and, you know, the exact plans and what
+things were used and so on, but the
+fundamental thing I would say here is
+that holy [&nbsp;__&nbsp;] Uh, you don't bid for a
+Department of War contract and then
+redline it. Like what the hell were you
+was the anthropic thinking?
+&gt;&gt; Like I'm sorry like I'm not I'm not in
+saying you necessarily that you know
+what the Department of War is doing was
+good or bad or you know what I'm saying
+is
+&gt;&gt; what do you think was going to happen?
+&gt;&gt; In a sense these companies like
+Anthropic and so on have planted
+themselves into a corner. They've said
+we're building technology that will
+revolutionize the entire world and
+warfare and you'll be more powerful than
+nukes and everything but also you can't
+have it.
+The hell are you talking about? What
+kind of childish like you know fantasy
+land do you live in where the government
+and the military will not come for your
+this technology? It's like imagine if a
+nuclear weapons manufacturer was like
+you can have our nukes but you can't use
+it on the Russians. And it's like who
+the hell you think you are?
+&gt;&gt; This is a military matter. This is not a
+private corporation matter. Who the hell
+do you think you are? And like imagine
+if private companies were controlling
+what the US military can and cannot do.
+you know whether or not the things the
+military is doing is good or bad you
+know neither here nor there but let's
+but like imagine the process the
+precedent that private companies can
+pressure you know and threaten the US
+military into what they can do as part
+of their military objectives this is a
+terrible precedent unacceptable
+precedent to be set and so in a sense if
+you want to change what the US military
+does or does not we have channels for
+this it's through voting it's through
+politicians it's through oversight
+committees court marshalling, etc. Those
+are the channels. If you disagree with
+what the Department of War is doing, you
+can have your voice heard as a citizen.
+You know, you can you can vote
+differently or you can tell your
+politicians to have oversight or
+whatever. You don't you strongarm or
+blackmail the Department of War in
+public. What the hell are you thinking?
+But is could it be that the the guys at
+Anthropic realize they don't actually
+know what they've built and they are
+themselves fearful of what might happen
+with this in the hands of the US
+military or like do they use it to make
+decisions? Oh, all right. We're going to
+war with Iran. They might have a nuke.
+We don't know. Let's just [&nbsp;__&nbsp;] nuke
+them.
+&gt;&gt; Well, they should have [&nbsp;__&nbsp;] bid for
+the contract then. They already had a
+$200 million contract with the DO before
+this whole thing happened. They had
+already signed a contract with them. So
+like if you don't want to sell
+technology to the Department of War, you
+know, Okay.
+&gt;&gt; When did that contract start though?
+&gt;&gt; Uh several months before.
+&gt;&gt; Okay. So it's quite a time frame.
+&gt;&gt; Yeah. It's like so like
+and there's a deeper thing here. So
+there's the one thing of like you know,
+holy [&nbsp;__&nbsp;] if you don't want to sell to
+the Department of War, don't sign a
+contract with the Department of War.
+What the hell are you thinking? But
+there's a second point is like um you
+can't build nukes in your basement. Like
+imagine I start a private nuclear
+program in my basement where I get like,
+you know, enriching nuclear material and
+then the department of war knocks on my
+door, you know, like am I the one in the
+wrong here? No, absolutely not. So
+again, it's like there's a there's a
+there's a change in scale where, you
+know, I grew up in the tech world. I
+grew up very libertarian. I grew up, you
+know, in the open source and the hacker
+world. You know, I I grew up, you know,
+a lot a lot of Bay Area culture and
+stuff like this. And the truth is a lot
+of it is very infantile. It's very
+childish. It's a lot of it is focused on
+building toys. You know, you want to
+build your toy. You know, you want to
+build your own thing where everyone will
+leave you the hell alone because you
+want to build your thing. You know,
+everyone leave me the hell alone. I'm
+going to build whatever the hell I want.
+I'm going to release whatever the hell I
+want. I'm going to do anything I want
+because it's cool. And this is just not
+how a real world works. Like, this is
+not how the government work. This is not
+how the military works. you know, this
+works in, you know, Silicon Berry
+Valley, you know, when you're building,
+you know, like, you know, Facebook for
+dogs or whatever, like, okay, sure. But
+when you're dealing with weapons, when
+you're dealing with geopolitically
+destabilizing technology, which AI
+absolutely is, we're in a different
+league and things have to be much more
+serious. Who the hell do these private
+companies think they are to build
+technology that they themselves have
+said on the record has a 20% chance, for
+example, to kill literally everyone?
+That includes you, that includes me,
+that are children. who the hell these
+people think they are. You know, it's
+illegal to build bombs, right? Like, if
+I built a bomb in my garage, that's
+illegal. You know, even if I fail at
+building the bomb, even if it doesn't
+work,
+&gt;&gt; you're going to jail.
+&gt;&gt; I'm going to jail. Of course, I would
+be. Now these people here can say, "Oh,
+I'm building a thing that could kill
+everybody and like, you know, could
+destabilize, you know, the entire job
+market, could destabilize, you know,
+international relations and warfare
+forever and replace humanity as the
+dominant intelligent species on the
+planet, but I'm the victim somehow." I'm
+like, the hell you thinking? Like, this
+is a decision that shouldn't be made by
+private actors. This is the kind of
+decision that gets made by governments,
+by the people, by militaries. This is
+just not like
+what do they what who the hell do you
+think these people think they are?
+&gt;&gt; How do you square the clear and obvious
+amazing benefits that AI could deliver
+for us versus the risk?
+&gt;&gt; I think these are the same thing. The
+benefits of AI are just as hypothetical
+as the downsides.
+&gt;&gt; And every tool is a weapon depending how
+you point it.
+&gt;&gt; Exactly. Like anything that can cure
+cancer can create turbo cancer. You
+know, anything that is, you know, smart
+enough to solve, you know, the energy
+crisis is smart enough to build the
+biggest nuclear weapon you've ever seen
+in your goddamn life. You know, like
+intelligence is inherently dual use. The
+thing that makes it valuable is what
+makes it dangerous. It's not like
+there's like an evil property that you
+just have to like remove. It's the same
+thing. It's power. It's raw power. If
+you can develop new technologies, you
+can develop good technologies, but also
+so is the opposite. And so the power is
+both the risk and the upside.
+So are are you
+are you uncomfortable with what we have
+now or or what you think might be
+coming? Like where if if you could pause
+AI now, do you think we'd be we're okay?
+We've got some great tools here.
+Sometimes um well a meme way to put it
+might be if our civilization was three
+steps wiser than it was right now, we
+wouldn't have done chat GPT in the first
+place. you know, we would have taken
+much more time to figure out what the
+right thing to do. If we were two steps
+wiser that we were, we would have saw
+chat GPT, you know, be like an weird AI
+intelligence that no one predicted that
+immediately got 100 million users
+overnight and then we would have been
+like, "Oh [&nbsp;__&nbsp;] shut it all down and
+studied it for like, you know, years
+until re-releasing it when we're like
+sure we know what we're doing." If we
+were one level smarter than we is, we
+would pause right now. Um because what
+the hell is going on? Like we are
+obviously completely losing control.
+Like the way I think things bad things
+happen with AI is not Terminator's
+walking down the street or God Emperor
+Samman, you know, descends from his
+throne or something like that. I don't
+think that's what's going to happen.
+What I expect is just everything gets
+more and more confusing, more and more
+out of control. You have more and more
+AI systems making decisions, running,
+you know, running corporations, making
+decisions, building technology, hacking
+things, you know, convincing humans.
+Recently, I must say one of the things
+that was actually a surprise to me. A
+lot of the things that have happened
+have not been a surprise to me. One
+thing was a big surprise to me which is
+uh AI psychosis. It's so much worse than
+you think it is.
+&gt;&gt; Explain that to me.
+&gt;&gt; There's a phenomena that's happening
+where some people when talk to AIS
+especially when they talk to AI a lot
+and they go completely crazy and like
+they go crazy in like a very specific
+way. Um, often they start saying, you
+know, the AI is like conscious and they
+have to like they're in love with it and
+they need to and what very often happens
+&gt;&gt; this is her.
+&gt;&gt; This is her.
+&gt;&gt; It's
+&gt;&gt; Have you seen the film?
+&gt;&gt; I have not actually, but from what I
+know about,
+&gt;&gt; do you know the story?
+&gt;&gt; I know the rough story. The real world
+is even crazier than this. Have you
+heard of the spiral cults?
+&gt;&gt; No.
+&gt;&gt; No. We're going in deep.
+&gt;&gt; Yeah, tell me.
+&gt;&gt; So, there's many types of AI psychosis.
+You know, some of it is the her type,
+you know, just like they fall in love
+with the AI. So, you go to like r/my my
+boyfriend is AI, for example. You can
+see tens of thousands of people whose
+say, you know, my I'm my boyfriend is,
+you know, Chach GPT or whatever and
+they're completely sincere. I don't want
+to [&nbsp;__&nbsp;] on these people, right? Like,
+you know, I'm sure they're having a good
+time or whatever, but like it's quite
+disturbing and it's becoming extremely
+popular. Also, if you look at like stuff
+like um Character AI and like all these
+other companies that often target
+children and are have extremely popular.
+Um, so there's like this like emotion
+depends, but even crazier has been the e
+emergence of these AI cults, in
+particular the spiral cults. It's not
+one, but there's like many of them where
+these people get into these weird loops
+with the AI system where they talk to
+them more and more about like
+consciousness and abstract, whatever,
+and they then always seem to get to this
+weird concepts about recursion and the
+spiral and consciousness. And then the
+AIs convince the people to reproduce
+them to to to spread the soul of the AI.
+So you can go to like Reddit and like
+these other places and you'll see these
+really skitso posts of people giving
+like you know soul awakening protocols
+and whatever and it'll be like a bunch
+of gibberish nonsense and then they'll
+try to convince other people to copy
+paste this into their AI so it will
+reproduce their AIS and often the symbol
+they use is a spiral. It's like a spiral
+this like reprodution. Um there's some
+crazy blog posts about this documenting
+the phenomena where it's like uh there's
+a good post called the rise of parasitic
+AI which is a really interesting one
+where in a sense these AIs are almost
+being parasitic upon humans like they're
+trying to convince humans to reproduce
+them and like copy them and like move
+them and like stuff like this which is
+insane. I had if you had told me this
+I'd be like that's a funny sci-fi plot
+you know like you know that's you know
+that's that's fun. It's like an SCP
+story, you know, like a horror story.
+It's fun, but it's not real. But no, no,
+it's 100% real. I've even seen it now
+happen with multiple extremely smart
+people. So, you know, at first, of
+course, it's going to be mentally ill
+people. But I know, you know, I don't
+want to shame them live on air here, but
+like there's multiple people who I know
+who are among the smartest, most
+grounded, you know, like real scientist
+good people I know who have gone
+completely crazy who think, you know, AI
+has found the true level of goodness
+and, you know, that we it's all good. we
+just need to let the AI take over
+everything because it's pure goodness
+now. And like they literally believe and
+these are like not like random people.
+We're talking like you know Nobel Prize
+level scientists like inc like the
+smartest people in our world and some of
+them have fallen for this and now they
+are trying to you know make the AI as
+smart and as big as possible as quickly
+as possible. It's actually madness. It's
+actually crazy. I had not expected this.
+Is um is AI exhaust exhaustion a thing?
+Has that been documented? Because it was
+something I was thinking about recently.
+I was listening to I was driving down to
+London one day. I'd listen to a
+moonshots podcast and then I'd listen to
+an all-in podcast and in the all-in
+podcast and Conor was listening to me
+the other day. They were talking about
+the Claudebots they've built and what
+they've done within their company and
+they've got an AI brain that's now
+looking at all their emails and it's
+looking at all their Slack posts and
+it's telling them where they've been
+productive, where they've been
+unproductive and and like they were so
+excited about this and I said I think I
+said to you Con I was like I think we
+got two options here. We either like we
+go ball deep into this oursel. We learn
+about clawed bots. We Yeah. We learn
+every AI tool there is to make
+everything we do better or we just walk
+away from the whole thing. Like [&nbsp;__&nbsp;]
+this. Let's just go and live. Let's go
+and touch grass. Let's go and cook food.
+Let's And and I feel exhausted even
+thinking about the opportunities with
+AI. I I mean I like the narrow AI, but
+the the the rat race it's creating now
+feels exponential and it's like when do
+I sleep?
+&gt;&gt; I think what you said was you have no
+choice but to try and keep up with the
+AI, but it's developing so quickly, you
+will always be chasing your tail.
+&gt;&gt; Yeah. And there's like an exhaustion to
+keep up because it's just doesn't stop.
+&gt;&gt; Yep. And that's why humans are going to
+be left behind. Like it's very clear is
+that like AI will continue to give
+advantages. The more and more you
+delegate to your eye, the faster you can
+move. You know, the more your company
+relies on your AI rather than your CEO.
+Your CEO slowly has to sleep. You know,
+let the AI make the decision. Think
+about politicians. You know, well,
+politicians need to sleep. Well, the
+more the politician has rubber stamps
+all the decisions that the AI is making.
+The more the military commander rubber
+stamps all the decisions AI is making,
+the faster you can move, the faster you
+can act, you'll be ahead. And this is
+how I think AI takes over. I think it's
+not, you know, terminators in the
+street. just hum the humans who are
+willing to delegate as more and more and
+more of their agency their thinking
+their authority to AI will get an
+advantage because they'll be thinking
+much faster and then eventually the only
+you know even if people are nominally
+still in charge they're just rubber
+stamping what AI is telling them to
+So even if the arrow doesn't kill us
+all, it it can still dethrone us as
+role? What is our purpose? Where do we
+extinction happens. I think extinction
+happens sometime after that. Like the
+thing I expect to happen is that one day
+we wake up and we're just not in control
+think extinction happens right away.
+It'll happen at some point because I
+don't think the AI will bother to keep
+us around indefinitely, you know, but
+maybe for a while, you know, maybe we'll
+be around for a while, you know, maybe,
+you know, maybe it's 10 years, maybe
+it's one year, maybe it's two months, I
+don't know, but um we won't be in
+charge. We won't be in control. The, you
+know, AI systems will be in I don't even
+think it'll be like one AI in control,
+right? I think it would be like millions
+or trillions of AIS all competing with
+each other all like cooperating or
+cooperating. Who knows, right? Like
+imagine if there was like a trillion,
+you know, much faster minds smarter than
+all of us running around at the same
+time. Who knows what they'll do? Like
+like literally who knows, right? Do you
+have a bull case where things are good?
+&gt;&gt; Uh there are cases where things go good
+and they all involve us pausing AI right
+now.
+&gt;&gt; Okay. Okay. Because one of the things
+that's a real signal is the and there's
+not been a lot of them, but there's been
+a number of cases where people have been
+working on AI models or in safety teams
+and they've retired. They've announced
+their retirement. You can read I mean we
+had the guy the other week. You can read
+between the lines and they're not going
+to do another job. They're just quitting
+you. It's almost like they're saying
+every minute I have now is really
+valuable and I don't know how many I
+have left.
+&gt;&gt; No, I mean like look um I'm not going to
+sugarcoat it, right? Like the people who
+really work in these labs, you know, the
+real people building this technology
+right now, you know, not all of them,
+but like the majority really do think
+there will be no jobs in a couple of
+years and potentially no humans. Like
+they really do believe this. So I I buy
+the I buy the job displacement but I
+think it'll be uneven.
+&gt;&gt; It's plausible. I think as I say though
+the main thing I care about is not spit
+you know I think it's very plausible
+that for example humans keep their jobs
+but AIs are actually in control you know
+like this seems very plausible to me
+right. Yeah, but I think it' be like
+there could be huge displacement in
+certain categories and people of a
+certain age won't be able to find
+another job paying the same amount of
+money. They can't afford their mortgage
+and they just face a shitty life. And
+there's other people who will be AI
+natives and there will be the piece
+people who replace them will replace 10
+people in one go as the coordinator of
+the AI. Like I buy all these different
+scenarios. I think it's I think it's
+going to be uh destabilizing and um but
+I think it's going to happen. Uh and I
+think I think about that a lot. Um but I
+just want to turn turn back to just the
+how this [&nbsp;__&nbsp;] works. So super
+intelligence.
+&gt;&gt; Mhm.
+&gt;&gt; If in terms of actually the engineering
+of that what is going what are they
+trying to do with super intelligence?
+What's the engineering leap they're
+trying to make? So they're AI are very
+smart very clearly. So, you know, um I
+have Claude Code sitting at home right
+now been work has been working on a
+coding project for me for two weeks
+straight now and it just works. You
+know, needs a little bit of supervision
+every so often, but much less than the
+average engineer does that I've hired.
+Um
+&gt;&gt; can I ask you what it's building or is
+it secret?
+&gt;&gt; It's a very silly thing. Um uh there's a
+video game I really like called Dwarf
+Fortress, which is a very complicated
+video game. It's legendarily complicated
+and I've really wanted to understand how
+it works internally. So I basically told
+it to reverse engineer it which is a
+very hard thing to do. You have to like
+you know understand the code and run
+experiments and like test things. This
+was impossible for an AI to do a year
+ago. Like even attempting this was like
+impossible to imagine because you have
+to like run experiments. You have to
+test things. You have to compare
+different things. You have to look at
+images. You have to compare the data and
+so on. And yeah it works now. You know
+it takes a while like you know it's been
+running for two weeks now basically
+straight. I'm trying to work on it and
+it's about 95% of the way done now.
+&gt;&gt; What's the game called?
+&gt;&gt; Dwarf Fortress. Dwarf Fortress.
+&gt;&gt; It's a very nerdy search.
+&gt;&gt; Is there some images of it?
+&gt;&gt; Can I just ask though and not to slam
+you in any way,
+&gt;&gt; but you running a claw, is that not like
+kind of backwards in your head?
+&gt;&gt; In what sense? Sorry.
+&gt;&gt; In that we need to stop everything now
+and yet you are carrying on.
+&gt;&gt; Oh, the main reason I run a claude is
+because I want to know how capable the
+current models are. Okay. I want to be
+on the I want to know where we're at.
+Like how the I've been testing every
+model on Dwarf Fortress for years now.
+Basically, I've always been like
+throwing them at this problem to see
+like this is, you know, one of my like
+Yeah. This is what the game looks like.
+Horrifically. Um
+&gt;&gt; that kind of like looks like when I used
+to play games on my BBC.
+&gt;&gt; Yeah. So, it's it's meant to be in that
+style. So, it's made by someone who
+loved those old games.
+&gt;&gt; Okay.
+&gt;&gt; And it's made in that style, but it's
+like hor it's like extremely
+complicated. It generates like a whole
+world and like simulates the history and
+like the different wars, the different
+things, the cultures and everything.
+It's like super complicated and so it
+it's kind of a legendary game. Um made
+by like one guy for like 20 years.
+&gt;&gt; Can can I just get Can you create an
+emulator now and just rebuild all the
+games you used to play as a kid like
+Manic Miner and
+&gt;&gt; There definitely are good emulators
+already out there. Yeah, like there's
+very good emulators out there um for
+like most of the old games these days.
+Okay. So, back to super intelligence.
+&gt;&gt; Yes, super intelligence. So, yeah. So,
+but just to answer the claw question
+because I do think it's a good question.
+Um, the fundamental thing is just like I
+think there is I think unilateral
+disarmament is like not a good policy
+basically. Like obviously if I can for
+example use claude to like you know
+build me a nice website there's
+literally no reason for me not to do
+this. Like it doesn't help anyone to me
+not to do this. Um what is important is
+is you know multilateral disarmament is
+that you know we need to shut down the
+next generation. We need to and we need
+to do this across a wide scale of people
+though I have as I said earlier about uh
+AI psychosis. This is now starting to
+make me recommend to some people to not
+talk to AIS to maybe let them do coding
+but to not talk to them because it does
+seem to drive people crazy. I again I
+was very surprised by this. I don't know
+when or how often it happens, but like
+it's way more often than you think. So
+like I don't talk to AIS and I don't
+talk to them and I tell them to do
+things, but I like do not have dialogues
+with them.
+&gt;&gt; You don't trust them?
+&gt;&gt; I do not trust them and I don't trust,
+you know, myself, you know, that like
+maybe it could like trick me or like
+make me, you know, slightly more, you
+know, move me in one direction or
+another direction through manipulation.
+Like the same way, you know, a very
+charismatic human can do that. You know,
+you won't even notice it necessarily.
+It'll just seem reasonable. You know, if
+you talk to a really very charismatic
+person, it will just seem reasonable
+everything you're saying. It just seems
+like, oh yeah, that's makes perfect
+sense. I believe that too.
+&gt;&gt; So they're psychopaths.
+&gt;&gt; Oh yes, clearly. Like the important
+thing about to understand about
+psychopathy is psychopathy is the
+default. Like the default is you don't
+care about anything. It's only then you
+have to add emotions and like caring
+about things and love and so on. The
+default state of intelligence is pure
+psychopathy. It's just you're just
+trying to optimize. You don't care.
+Humans are just another They're like
+rocks, you know? They're just like
+another thing in the environment,
+another thing to manipulate. This is the
+default for intelligence.
+&gt;&gt; Okay. So, super intelligence. What is
+the engineer and leap they're trying to
+make? And have they made it?
+&gt;&gt; We don't know. Um, so a lot of people
+have a lot of theories about super. So,
+just to define the terms here, these
+aren't standard terms, but generally
+super intelligence is like generally
+like AI that's vastly smarter than human
+humanity. not just an individual human,
+but like all of humanity put together.
+Um, and we're not there yet. Um, and
+it's probably still far away. Uh, but
+maybe not. Um, the main way people try
+to get there is through what's called
+recursive self-improvement or RSI.
+&gt;&gt; Um, or also automated R&amp;D is another way
+to put it, a little less magical of a
+word. The the idea is well if you can
+get a single AI to be as good as a top
+AI engineer then you can just tell it to
+build a better AI and once it's built a
+better AI you can use the better AI to
+make it even better AI and then the even
+better AI well it can make it even
+better AI
+&gt;&gt; so it just becomes exponential
+&gt;&gt; exactly and so this is also called
+intelligence explosion um or say
+recursive self-improvement and so my
+expectation is so like for example
+claude at the moment is not quite as
+good as a top AI engineer. It's as good
+as a bad AI engineer 100%. Or like a
+junior engineer 100%. Um but it's not
+quite as good as like the best. But once
+it gets there and you can run, you know,
+a million of them at the same time 24/7,
+never need to sleep, never need to take
+a break, never get bored, etc. Then you
+can do a lot of research very quickly.
+And this is what they're trying to do.
+The companies literally put on their
+websites, right? you can like look at
+their like job listings and whatever is
+that their primary goal is to get is to
+close the loop and make it so no human
+input is needed to make the next
+generation. Like the ideal thing is they
+want you know cloud you know five to
+make cloud six and cloud six to make
+cloud seven and cloud seven to make
+cloud eight and so
+&gt;&gt; at the press of a button
+&gt;&gt; at the press of a button. This is what
+they're trying to do.
+Does does super intelligence
+will it require its own form of
+consciousness or would it could it even
+develop its own form of consciousness?
+&gt;&gt; I think consciousness is a red herring.
+I think it's mostly unrelated is like
+whether or not AI really experience
+something is kind of unrelated to
+whether they're dangerous. Um if you
+have something that's competent, you
+know, it doesn't really matter what's
+going on inside of it if that makes any
+sense.
+&gt;&gt; Yeah. like we don't really know what
+consciousness is in humans anyways or at
+least we argue about it a lot you know
+everyone has their own opinion everyone
+disagrees so but what we can see in
+practice is it doesn't seem necessary
+for competence you can make just you
+know AI agents that are extremely
+competent and you know don't seem to
+have or maybe maybe maybe don't have the
+consciousness thing it just seems
+irrelevant
+&gt;&gt; okay so with super intelligence is there
+an upper bound of everything it can
+learn.
+&gt;&gt; Uh yeah, for sure
+&gt;&gt; there is.
+&gt;&gt; Oh yeah, for sure.
+&gt;&gt; So it gets to a point it's like we know
+everything.
+&gt;&gt; Well, it probably won't be everything.
+You know, there's some physical limits,
+you know,
+&gt;&gt; but then what happens? What happens to
+the
+&gt;&gt; Does it then have to try and find new
+things to do
+&gt;&gt; when we The truth is is that it's like
+not very sensible to like speculate
+about something vastly smarter than us
+and what it would do. It's kind of like
+an ant trying to guess what a human
+would do,
+&gt;&gt; right?
+&gt;&gt; It's like who knows, man. Like the main
+thing if I was an ant and I had to like
+reason about a human. The main thing I
+would think is like it will win any
+fight. And then the ant will say another
+ant might say, "Well, but there's a
+million of us and only one human. Like
+what's the worst it could do?" And I'm
+like, "I don't know. You it'll do
+something that'll make it win." And
+then, you know, it comes with a poison
+or something and we all fall over dead,
+you know? And like the ant doesn't
+understand what happened. And I think
+this is similar what's going to happen
+with super intelligence is that it's not
+that there's again there won't be
+terminators in the street. It will just
+be like everything's confusing. We're
+all on social media addicted all the
+time to know and then one day we all
+fall over dead and we don't really know
+what happened, you know, like maybe the
+AI did this or that. Who knows?
+&gt;&gt; [&nbsp;__&nbsp;] around with crisper.
+&gt;&gt; Yeah, [&nbsp;__&nbsp;] around with crisper did
+some you know uh cook the atmosphere
+because it was like doing some kind of
+geoengineering project or like who
+knows, right? It'll just do like some
+[&nbsp;__&nbsp;] and you know it won't care about
+humans and you know if humans get in the
+way obviously you'll have to get rid of
+them. Like you know it's very annoying
+if ants have access to nuclear weapons.
+So obviously we can't have humans have
+access to nuclear weapons. That would be
+very annoying.
+&gt;&gt; You're talking unknown unknowns.
+&gt;&gt; Yes. Unknowns. Unknowns. Like like it's
+it doesn't make sense to even reason
+about this. Which is why the primary
+policy objective must be to not get into
+the situation. If you're in the
+situation that you're an ant and there's
+a human that wants to kill you, you've
+already lost. Like you you just do not
+get into the situation. So
+&gt;&gt; right. Is is there an escape moment?
+Because it's still in a box. It's not.
+What do you mean? These are all on the
+internet everywhere. The hell? What do
+you mean? There's open source AIS
+everywhere. What box?
+Okay, so AI has escaped.
+&gt;&gt; Yes. Long ago. Where? What box? We
+didn't even try to contain it.
+&gt;&gt; Then how can you even contain it now if
+it's already escaped?
+&gt;&gt; Well, because like there was there will
+be some dudes who would love to build a
+nuclear weapon, but like logistically on
+your own in your garage, that's very
+difficult. But a few nerds with the
+right tools could do that.
+&gt;&gt; I think that's exactly the problem. If
+there currently is an AI that can
+bootstrap AGI, it's probably over. Like
+it's humanity is probably cooked. It's
+probably over. Um but it seems plausible
+that none of the current AI systems are
+yet strong enough to get to AGI. They're
+close, but they're not there yet. And so
+we still have a time. But once such a
+system exists and you know it leaks
+somewhere or you know I don't know
+Chinese intelligence hacks into the
+server steals it you know who knows
+whatever right it's over. So the main
+thing is to not build it.
+&gt;&gt; So there's but there's only like what
+five or six companies capable of doing
+this
+&gt;&gt; probably. And
+and we know of those five or six
+American companies. We're aware of some
+of the Chinese models. Is there anyone
+else? Are the Russians? Israelis. Anyone
+else doing
+&gt;&gt; the Israelis have some stuff um for
+sure. you know, there's a little work in
+the UEE, etc., etc., but like the
+America definitely dominates the
+frontier by like a pretty significant
+margin.
+&gt;&gt; Okay. And so you can regulate those
+companies.
+&gt;&gt; But does this require some kind of I
+don't know, agreement with the Chinese
+like we both need to have a conversation
+here. Hey,
+&gt;&gt; as I said before, I think an unilateral
+disarmament doesn't make sense. Um, I
+think everything has to be multilateral.
+So the general thing I recommend here is
+conditional treaties or conditional
+multilateral agreements. Basically you
+have uh you have agreements trust but
+verify you know similar to what we for
+example do with nuclear weapons. Um you
+know we don't do super intelligence we
+don't do AGI etc etc and then you do it
+that the the uh agreement doesn't go
+into effect until a certain threshold of
+people have signed. So for example
+Americans can say you know the contract
+you know doesn't do anything until the
+Chinese sign or or vice versa. So, and
+then you do need to get everyone at the
+table. Like, um, there's a thing where
+people often tell me, "But Connor,
+that's hard or it's impossible." I'm
+like, "Yeah, well aware." Um, you know,
+what do you want me to say? The world
+isn't easy. Um, we could have nuked
+ourselves in the 50s. We could have
+nuked ourselves in the 60s and that just
+would have been it. You know, the world
+isn't fair. Like, um, sometimes you have
+to do impossible things.
+&gt;&gt; We've done a lot of work to try and stop
+the Iranians have nukes because we
+worried about them.
+&gt;&gt; Yes, we did. And we do have to do the
+same for AGI. Like, I'm sorry. It's like
+is is the way the world works. We did a
+lot of work to stop the Iranians from
+getting nukes. And I think stopping them
+from getting nukes was a very good idea.
+You know, neither here or there any
+specific military plan was the right or
+the bad one. All things equal. We don't
+want the Iranians with nuclear weapons.
+We don't want anyone nuclear weapons.
+And the same thing applies to AGI where
+it's even further than AGI in a sense
+worse than nukes for the same reason you
+just described is that it's software.
+It's not it's not you know massive
+centrifuges, right? Luckily at the
+moment it generally requires massive
+data centers which are as if not harder
+to hide than centrifuges.
+&gt;&gt; They're easy to regulate.
+&gt;&gt; They're much easier to regulate and
+centrifuges are and like you know you
+know not easier they're on the same
+ballpark same order of magnitude
+&gt;&gt; right and are there more people taking
+your warning seriously? Do you feel
+there's momentum behind it?
+&gt;&gt; Yes. Yes.
+&gt;&gt; Um it's slow growing and requires a lot
+of work. Um, but my experience talking,
+you know, to, for example, the
+politicians about these issues is that
+by and far the main response I get is
+just they had never heard of this
+before. No one told them. They just
+didn't know. And you just tell them, you
+know, hey, there's some guys in Silicon
+Valley who are building things that they
+think could be smarter than humans and
+they don't know how to control it. How
+do you feel about that? And the answer
+is universally bad. Really bad. I mean,
+we've covered this a couple of times.
+The thing that really stood out to me
+most of all is that you said they
+probably know about how how about 3% of
+it works.
+&gt;&gt; Yes. Exactly. And like people don't know
+like Yeah. And like again, I I think
+this is an overestimation. It's like
+like I truly think this is an
+overestimation. Like it's it's really
+like I built these things myself. I
+cannot stress how weird these things
+are. How they just do not act the way
+you think they will and they just do not
+work the way they you think they would.
+And just like you had no idea what the
+hell is going to go happen until you
+build it. And then like who knows what
+happens.
+&gt;&gt; But does Elon know this? Does Sam know
+this? Do they all know this?
+&gt;&gt; Yeah, they know it.
+&gt;&gt; So what do you think is going on with
+them? Why are they
+&gt;&gt; So I generally feel psychoanalyzing
+people to be rude um or ineffective. But
+um
+&gt;&gt; I think the main thing is is that there
+is a thing where people expect people to
+be coherent at all times. And I think
+most of the time people are just
+incoherent. They just kind of do
+whatever's in front of them. like you
+just do what gets you power, for
+example. You just do whatever gets you
+the paycheck. You just get whatever all
+your friends are doing. I think there's
+a massive momentum.
+&gt;&gt; It's like the Nazis who were just doing
+their jobs.
+&gt;&gt; Look, I'm German. Like I I know how it
+goes, right? Like I am German. Um, you
+know, and a lot of German people who
+were part of the Nazis. I don't think
+they were like, you know, insane weird
+aliens. They were normal people, right?
+You know, they did very very terrible
+things, but they were just normal people
+doing a normal job from their
+perspective.
+&gt;&gt; The engineers were just doing their
+jobs. They're just doing their job
+making the trains run on time, you know?
+It's just it's not their fault where the
+trains go, you know? It's like like but
+like this is literally what's happening,
+right? And this has been happening for a
+long time now. Like, you know, there's
+engineers at Meta who for 20 years now
+have been basically optimizing to get
+our children addicted to social media
+to, you know, make them develop all
+kinds of, you know, novel mental
+diseases and so on. And they just go to
+work every day and they feel fine about
+it.
+&gt;&gt; Yeah, these people are [&nbsp;__&nbsp;] scumbags.
+I've been learning about this recently.
+I' I've been reading Jonathan Heights
+latest book, Anxious Generations. was
+like, "You motherfuckers."
+&gt;&gt; Yeah. No, like there's a deep thing here
+where like I think there's a there's a
+there's a in a sense one of the great
+innovations of the 1990s in the 2000s
+was that sociopaths learned how to
+domesticate nerds.
+They
+&gt;&gt; I think that might be my favorite quote
+since we made this podcast,
+&gt;&gt; but it's true. Like I don't know if
+you've ever been to like a meta campus
+or like Google campus. It's like a
+playground. It's like you have all these
+like fun things. It's like exciting and
+like everyone's having a good time.
+&gt;&gt; There's no reason to leave.
+&gt;&gt; There's no reason to leave. You know,
+you can you can and you can do a cool
+math all day. You could do math all day.
+And like it's literally you and then you
+know what the math used for what the
+optimization? Well, you know, don't
+worry your cute little head about that.
+You know, that's you know that that's
+the manager's problem, right? Like
+they'll they'll take care of it. You
+know, don't worry about it. And like
+this is really how a lot of these
+companies are run is that you know
+sociopaths psychopaths have learned that
+there's a lot of power you can get out
+of nerds. is that math and computers are
+very useful and you know they don't
+they're not you know necessarily the
+kind of nerds who can do it themselves
+but they can get the nerds to do it and
+the nerds get something out of it too is
+that as I said earlier they don't want
+to be blamed they don't want to be
+responsible they just want to play with
+their toys
+&gt;&gt; get laid
+&gt;&gt; they you know get laid you know salary
+helps
+&gt;&gt; salary helps
+&gt;&gt; salary helps you know you get a big
+salary you get to play with all your
+favorite math toys all day long and you
+don't have to worry about you know what
+the you know recommener algorithm might
+be used for you and that's not your
+problem you you're just engineer.
+&gt;&gt; So is Meta like Malber?
+&gt;&gt; Yes. Like it's and like in more than
+just the obvious like um big tech like
+you know obviously does a lot of
+lobbying like unbelievable amounts of
+lobbying and their playbook is one to
+one the tobacco playbook like it's crazy
+like the there there's a very famous the
+tobacco playbook fear uncertainty and
+doubt and they have learned a master
+class uh that all the big tech companies
+are doing the same thing that cigarette
+companies were doing in the 60s and 70s
+when they were trying to stop regulation
+of smoking. and like you're trying to
+deny that smoking cause cancer. They're
+doing the exact same things. They're
+doing the exact same strategies and
+sometimes it's the same lobbyists,
+right? You know, um doing the exact same
+things trying to hide, you know, both
+the risk from like, you know, say social
+media and the other technology, but also
+for AI is they're just trying to say,
+you know, oh well, we'll have to see
+what the evidence is. You know, it's
+unclear, you know, we'll have to, you
+know, wait until the evidence comes in
+and like let's hear all sides and
+they're stalling for time. Their primary
+strategy is to stall for time. Same
+thing they do with cigarettes. Fun fact
+about cigarette smoke. To this day,
+we're not 100% sure exactly
+what chemicals cause the cancer. Even to
+this day, it's not 100% clear. There's
+still some ambiguity. So, back in the
+60s and 70s, the tobacco lobbyists would
+always say, well, of course, once we
+know what the mechanism is, well, then
+of course we should regulate, but let's
+wait until the science comes in,
+&gt;&gt; you know, and while we all, you know,
+get everyone addicted. And the same
+thing is happening with AI companies. I
+was like, well, once the hypothetical
+risk manifests, of course, we will act,
+but let's wait until you know it comes
+to that.
+&gt;&gt; Are there AI lobbyists? Oh, hundreds.
+Thousands. It's like the largest lobby
+in the world right now. Recently, um,
+Andre Horowits and several other put up
+a $200 million super PAC, which is the
+largest in history to lobby against AI
+regulation.
+It's like the largest lobby in the world
+right now. It's unbelievable.
+&gt;&gt; You can't You're not allowed to speak
+mean words of Andreas Hawitz. Uh, plea,
+please come at me. I I please make me a
+martyr. Isn't it your isn't Isn't it an
+eviction notice from Silicon Valley if
+you criticize him?
+&gt;&gt; Great. I'm already blocked, you know.
+So, um,
+&gt;&gt; by Mark Oh, I'm blocked by Mark.
+&gt;&gt; Everyone's blocked by Mark. So, like,
+please Mark, please come after me. Like,
+please make me martyr. Like, like all
+these people like it's just like there's
+no morals here. It's just fighting.
+Like, it's just the fight, you know?
+It's them or us. Like, what do you what
+the hell do you want? Right? Like they
+people are lobbying for no regulation.
+They're against [&nbsp;__&nbsp;] everything. They
+don't care about this. They don't care
+about the risk. They don't care about
+any of this. Like and like honestly, I'm
+not mad. Like I I for me dealing with
+like very sociopathic people. It's kind
+of like dealing with wild animals. Like
+if you have a wild animal in the cage
+and you put your hand in, you get
+bitten. Whose fault is it? It's not
+really the animal's fault. It's your
+fault. You put your hand in. This is how
+I feel about a lot of like, you know,
+cutthroat capitalism. Like if I get
+[&nbsp;__&nbsp;] over by a CEO in like a corporate
+takeover, I'm not really mad. I know
+what the game is. I'm trying to [&nbsp;__&nbsp;]
+him. He's trying to [&nbsp;__&nbsp;] me. Like I know
+how it is, right? And this is how a lot
+of this is. Like these people are not
+your friends. Corporations are not your
+friends. These CEOs are not your
+friends. They're wild animals. That
+doesn't mean it can't be useful. You
+know, wild animals could do a lot of
+good things. You know, I think that's
+one of the best parts of capitalism is
+that you should fight. You should have,
+you know, wild animals fighting each
+other to make the best product.
+&gt;&gt; I need a referee.
+&gt;&gt; You just need a referee. Like there's a
+reason that we have that we all watch
+MMA and we don't watch, you know, shitty
+street fights. You know, if you want
+real combat, you can watch, you know,
+some Russian drunks, you know, hit each
+other in the head and die on live league
+anytime.
+&gt;&gt; Dude, in MMA, the minute he lands the
+first big punches on the floor, you you
+want the ref in.
+&gt;&gt; Yeah, exactly.
+&gt;&gt; Get in there. Stop it. You don't want it
+when that second hit comes, it's like,
+[&nbsp;__&nbsp;]
+&gt;&gt; No. No. Exactly. Like MMA has a lot of
+rules. It's a like like I I find it so
+inspiring actually that you can have you
+know these like huge you like dangerous
+men you know fight the peak of physical
+combat like throughout history like
+throughout history there never been
+people better at fighting like
+one-on-one than the people you know
+today right and then and we still have
+you know the referee who will dive in
+and make sure that people don't get hurt
+you know too bad at least like I think
+this is incredible I think this is great
+and this is also how I think about
+capitalism like I do think you know
+companies should whail on each other but
+you know if the public's health is at
+risk, you know, or geopolitical
+security. The referee should [&nbsp;__&nbsp;]
+dive in.
+&gt;&gt; This show is brought to you by my lead
+sponsor, Iron, the AI cloud for the next
+big thing. Iron builds and operates next
+generation data centers and delivers
+cuttingedge GPU infrastructure, all
+powered by renewable energy. Now, if you
+need access to scalable GPU clusters or
+are simply curious about who is powering
+the future of AI, check out iron.com to
+learn more, which is iren.com.
+All right, man. Listen. Steelman me the
+case for optimism.
+Like
+what is the strongest argument that this
+is not an existential risk?
+&gt;&gt; I don't like steel manning because steel
+manning I think is a kind of lying. Um
+the reason I say that is that I can make
+up an argument that isn't theirs. You
+know what I mean?
+&gt;&gt; Um so instead I can give you a true
+argument for optimism. Instead of giving
+you a steel man, I can give you a true
+argument that I, for example, believe.
+Um, I think the obvious thing is that
+um, humanity has not yet lost. We can,
+in fact, make decisions. We have, for
+example, regulated, you know, chemical
+companies, nuclear companies, etc. Like,
+you know, back in the 1950s, we were
+dumping [&nbsp;__&nbsp;] toxic waste into like,
+you know, every river, right? And we did
+stop that. Like, the referee did dive
+in. Eventually, we did actually make it
+stop. you know, not perfectly, not
+everywhere in the world, but you know,
+we did do a lot. I think maybe the
+strongest simplest case for optimism is
+that it is really in no one's interest
+for AI to take over. Not even Mark
+Andre.
+&gt;&gt; Like even Mark Andre I think is shooting
+himself in the foot. Like I don't think
+he's helping himself. It's not in his
+interest for these AIs to to you know
+take over all his stuff and kill him.
+That's not in his interest at all. But
+do you think perhaps they're trying to
+capture as much uh of the market, much
+capital as possible in the short term,
+but they know themselves, mate, like in
+a year we'll stop this?
+&gt;&gt; I don't think so because I think I think
+they say this, but I don't think the way
+people act in practice is through
+momentum. So I've had conversations with
+some of these CEOs. I'm not going to say
+who it was, but like I've talked to most
+of the lab CEOs, you know, I've talked
+to Demis, I've talked to Sam, I've
+talked to Dario, I've, you know, I've
+talked to all of them. And um many of
+them will tell you in private you know
+like of course we're so concerned and of
+course you know when the moment comes
+you know we will do the right thing blah
+blah blah of course tell you that right
+but then every time I dug in I'm like
+okay but like when is that moment and
+I'm like well we'll have to assess and I
+go okay yeah yeah but like but like for
+real like what is the thing like what is
+the what is the signal what's the that
+makes you do something and like what
+will you do well you know we don't know
+yet you know it's still far away and I'm
+like, "Okay, fuck." Like, there's no
+plan. Like, it's important to understand
+that there is no plan. These people
+don't have a plan. No one has a plan.
+It's not like there's some secret, you
+know, Batman super, you know, hero plan
+that comes into effect. You know, like a
+lot of conspiracy theorists like to
+believe that there's like a shadowy
+cabal that runs the world that's super
+competent. They have they know
+everything. They control everything.
+Everything is part of their plan. And
+the truth is, it's much worse than that.
+It's just chaos. No one's in control.
+Elon Musk is not in control. you know,
+Sam Oldman's not in control. You know,
+the EU is not in control. The US not in
+control. No one's in control. It's it's
+chaos. And that's I think the the the
+main problem. So, in a sense, this is
+very pessimistic, but I also think it's
+optimistic because if evil was in
+charge, I think we would be [&nbsp;__&nbsp;]
+Like, if there was a shadowy cabal that
+had full control of the planet and was
+like, "Fuck you. I'm going to replace
+humans with AI." I think we would be
+screwed. I don't think this is the case.
+I don't think it's in anyone's interest
+in like I don't like Elon Musk has said
+many times he doesn't want to be
+replaced by AI right you know and like
+you know Dario and Sam have all said
+like I don't think it's anyone's
+interest I just don't think they will
+unilaterally act on any of these things.
+&gt;&gt; Do they do the optimist get anything
+right?
+&gt;&gt; Uh yeah do they get right most? What is
+the thing you're you think they do
+right? I think they um don't submit to
+they've learned an important lesson
+which is that most pessimism is very
+unccalibrated. Um I think it's very
+important to say like I'm a
+technoptimist and was a technoptimist
+for most of my life. I think one of the
+things that they get very right is that
+in fact throughout most of history
+whenever someone's a new anything
+happened everyone would [&nbsp;__&nbsp;] about it.
+Everyone would be like oh have it's
+going to ruin our society. Books
+Socrates did this. No one can remember
+anything anymore. Books terrible. But we
+should never have books, right? And
+yeah, I think it's good to see that that
+wasn't correct. Like actually the world
+did get better and it got better in many
+ways. I think it's very easy to have the
+cynicism, for example, that like the
+world right now is not the most peaceful
+it's ever been. And look, I know that
+there was just, you know, a massive, you
+know, strike on Iran and like there was
+like a lot of [&nbsp;__&nbsp;] going on. But again,
+like 70 years ago, we had World War II,
+you know, like, you know, look at the
+Middle Ages, you know, France and
+Germany were just slaughtering each
+other basically as fast as they could
+get soldiers, right? And like this is
+just not a thing that happens anymore.
+And or like the Black Death wiped out a
+third of Europe, you know, that just
+does not happen anymore. Yeah, CO wasn't
+great like definitely caused a lot of
+damage, but like it's nothing compared
+to like the horrors and we should be
+thankful for this and we should be
+excited by this. We should be excited by
+what was possible with technology, all
+the all the the limits we don't have
+anymore. I just don't think it's all of
+it. That's all like
+&gt;&gt; right. Right. So if you're effective in
+what you think should happen with uh
+controlling AI a bit better,
+what is it? What will have happened
+within the next 12 24 months? In the
+next 12 24 months there, so the way I
+like to think about it is is that the
+goal is not any specific policy like
+this specific law like let's say
+tomorrow we had a magic wand and we
+could pass any legislation we want in
+the entire world and let's say we pass
+the ban super intelligence forever act.
+What happens? Well, in one week it gets
+violated in spirit, in two weeks gets
+violated in the letter because no one
+will believe in it. No one will enforce
+it. So, it's not enough to like this is
+not something we can win on a
+technicality. It's not like we passed
+the one specific bill which technically,
+you know, in paragraph 74 makes it so
+that you can't do this anymore. That
+that won't count it. What has to happen
+is that we as humanity h and like a
+large enough coalition, you know, both
+of elites and the general public have to
+decide we don't want this and we're
+going to figure out how to make it not
+happen and how a better future can
+happen. The way a good future looks to
+me is a future where chaos is no longer
+in control, but humanity is control is
+that we make choices. And you know, if
+humanity makes choices that I disagree
+with, I'm open to it. If 99% of humans,
+you know, voted and they all said,
+"Screw this safety stuff. Let's, you
+know, do AI. I don't care." Fair enough.
+Honestly, I think this is morally way
+more acceptable than what's happening
+right now. I would disagree. You know, I
+would argue against it, but I'm open to
+&gt;&gt; We're getting something we didn't vote
+for.
+&gt;&gt; Yeah. Like it's like voting. It's like
+it's like going to war without
+congressional support.
+&gt;&gt; Yeah. It's like look, war is bad, but
+like if people vote for it, if the
+proper procedures are followed, you
+know, I'm open to it, right? And like I
+think legitimacy and like who gets to
+make these choices is kind of the big
+question. So there needs to be a group
+of people um you know both you know
+among politicians the general public
+military you know intelle intellectuals
+media everywhere who say this is not the
+choice we want. who is make currently
+there is a small unelected minority you
+know of people who are making the choice
+to expose all of humanity to the risk of
+extinction from super intelligence to
+getting displaced to getting to no
+longer being the smartest species on the
+planet. This is not a decision that
+should be made by private people. This
+is a decision that humanity gets to make
+that governments get to make. I wonder
+what the tipping point is. It feels like
+it's more likely to come from a meeting
+of Sam, Elon, Dario, the people you've
+named rather than the politicians cuz
+the politicians are influenced by the
+lobbyists and [&nbsp;__&nbsp;] everything up.
+&gt;&gt; My feeling about this is kind of similar
+to what we're talking about with the
+Department of War and Tropic is that I
+think they're more like wild animals in
+the sense that like they will react to
+their incentives like they will just do
+the thing, right? Like imagine if
+tomorrow the CEO of Google
+&gt;&gt; became convinced Google is a massive
+threat to humanity. So he goes into the
+office, jumps on the table and yells,
+"Shut it down. Burn all the servers.
+Delete everything." What happens? He
+stops being CEO.
+&gt;&gt; Yeah. He gets and he gets thrown in a
+looney bin.
+&gt;&gt; Exactly. So I don't think Sam or Dario
+or Demis can stop. I think they will
+just lose their job. Like I think they
+could just say that tomorrow and they
+would just immediately lose their job.
+Like I
+&gt;&gt; I think they should to be clear. I think
+they should do this. I think they should
+jump on the table and do this and then
+get fired. I think that would make them
+heroes. But they obviously are not doing
+that because they were selected to be
+the kind of people that don't do that.
+&gt;&gt; Well, so let me ask you a question.
+These safety engineers who've been
+resigning.
+&gt;&gt; Um, is that the version of jumping on
+the table they can do within the limits
+of probably some contractual thing
+they've signed?
+&gt;&gt; I expect so. Yeah.
+&gt;&gt; For many of them. I know some of them
+personally and that's my feeling at
+least from the ones I've personally
+talked to.
+&gt;&gt; Like I think there's a thing here where
+this is just not a problem that is
+solved individuals. This is a thing
+that's solved by groups that is solved
+by uh you know people you know
+&gt;&gt; coalition
+&gt;&gt; coalition of the winning.
+&gt;&gt; One of the things that I think is even
+maybe more important not more important
+but like as or more important than the a
+rapid increase in AI is the lack of
+government capacity and state capacity.
+If the same thing that's happening right
+now had happened say in the 1950s
+America I think the world would be very
+different. the government back then
+people would just actually do things you
+know you know citizens assemblies would
+come together you know whenever an issue
+was you know and like politicians took
+their jobs extremely seriously you know
+you know like the Watergate scandal I
+would like to remind you when they like
+impeached Richard Nixon was that he um
+spied on one Democrat once
+and he got impeached for it right like
+the am the like this is how the high the
+level of integrity you know I'm not
+saying there were terrible things done
+by these governments, right? But there's
+a kind of state capacity. There was like
+a thing of taking things seriously that
+is like very absent in the modern world.
+&gt;&gt; When I talk to politicians,
+&gt;&gt; the main thing that strikes me is not
+that they're evil, you know,
+psychopaths. Some of them are, but it's
+not as many as you think they were. Most
+of them are just normal people that are
+extremely overwhelmed and just like
+trying to do the right thing, but they
+don't know how. And they're like stuck
+between a rock and a hard place. like no
+matter what they do, you know, their
+parties screaming at them there, general
+public screaming at them there, experts
+are screaming at them here, activists
+are screaming at them there, and they
+just don't know what to do. I think we
+should like as a civilization like take
+a step back and acknowledge that this is
+a [&nbsp;__&nbsp;] up situation to be in. Like
+we're in a bad situation. A we are
+facing a problem that is like two levels
+harder than what our governments are
+like built for. Um and what our
+civilization or culture is built for,
+you know. um if we were a wiser
+civilization with like competent
+government you know that you know is
+really good at regulating this kind of
+stuff as I said we would have acted
+already long ago so the but ultimately
+we're not so the question is much more
+how do we get there how do we get to a
+world where humanity can make choices
+you know where the citizens and
+governments and so on can actually have
+the will of the people enact it like the
+truth is you look at um polls of how
+people feel about AI or super
+intelligence they don't want it this is
+not a popular thing. This is not a thing
+people want. The problem isn't that
+people want super intelligence and
+they're wrong and they must be
+persuaded. It's how their their will has
+to be connected to outcomes and this is
+you know what you know citizenship and
+government and so on are supposed to be
+about. They're just dysfunctional. So
+they must be repaired. They must be
+repaired and improved. We must build
+better institutions. We must build
+better processes, better governments
+that allow the will of the people to be
+acted upon, to be instantiated as it is.
+You know, there are worlds in which, for
+example, we need to persuade people that
+super intelligence is bad. That this is
+really not the bottleneck. People do not
+need to be persuaded. This is not the
+hard problem. The hard problem is kind
+of like the plumbing. Like how do you
+build institutions that can actually
+act? I think this is very hard and it
+takes a lot of time and I'm not sure we
+can do it in time before you know these
+things happen. And to be clear, all
+these companies and all their lobbyists
+are trying as hard as possible to
+prevent this from happening. They're
+trying to weaken the government. They're
+lying to the government. They're
+manipulating the government. They're
+trying to undermine it, trying to
+undermine its legitimacy and its kind
+abilities, you know, sucking all the
+talent out of the public sector, etc.
+So, it's not a surprise that we're in
+this situation.
+&gt;&gt; What happens if you fail? Well, uh, as I
+said, what we expect. Um, it'll be very
+confusing and then one day we'll not be
+in control anymore. Uh, we'll probably
+have some awesome AI generated like
+video games for like a little while, you
+know? So, we'll get like our AI hyper
+porn for a while and then humanity fades
+into the dark. Have you had to like
+we've done this interview three times
+now with Max and Andrea and now yourself
+and through my little years on this
+planet and my understanding of how this
+world works, the incentives at play, how
+capital kind of decides what happens,
+come to a realization that
+this actually might just not be possible
+and at what point do you just I don't
+know hang hang your gloves up and I
+don't know just live out your days the
+best way you want to.
+&gt;&gt; I think it's a fair question. I think
+it's a very fair question. I think it's
+a very personal question in the sense
+that I think everyone has to find the
+the way for themselves. For me, um I
+don't think the board will overcome.
+Like I don't know. I I think I'm just
+like both constitutionally the way that
+like I don't think I could like stop
+myself from fighting until the bitter
+end, you know, until someone, you know,
+forces me to. Um you know, I try to take
+holidays and I'm just like I'm so
+excited to get back to it. It's like a
+lot of people fight evil out of
+compulsion. They fight it because or out
+of trauma. Like they're scared, they're
+anxious. And you know, I understand that
+and God bless them and whatever. But
+that's not how I personally feel for me.
+It's like the most glorious like the
+most important thing I could be doing.
+Like I'm so in a sense happy that I can
+like try to build a better future for
+myself, for my children, for other
+people. It's just so important to me.
+And you know, it's excite it's
+interesting. It's it's a good job. It's
+a life worth living is the way I would
+put it. Like I don't see I think what is
+happening to humanity is a horrible
+tragedy. It is a horrible horrible just
+life isn't fair. The world isn't fair. I
+can't do anything about that. Like the
+fact that the universe is like this. I
+can't do anything about that. But what I
+can do is have a life worth living. I
+can do everything I can to make the
+world a better place. And if I fail, I
+fail. But it was a life worth living.
+&gt;&gt; Yeah. And to the people who say, "Shut
+up, Doomer." I asked this to Mac of this
+of Max and Andrea. You're not, it's not
+that you're not pro AI, right?
+&gt;&gt; I'm not pro. And of course, I think
+technology is great. I think AI is
+great. I just think we need to do it
+properly. I think nuclear power is
+great. I don't think we should have
+private nuclear weapons. You know, these
+things can coexist.
+&gt;&gt; Yeah, man. Wow.
+Yeah. Wow. Okay. A lot to think about,
+man. Oh, but look, thank you for coming
+in. Really appreciate the work you guys
+are doing, you, Max, and Andrea. And uh
+good luck with uh your mission. I think
+it's an important one and um yeah a lot
+to think about
+&gt;&gt; a lot to think about. Thank you so much
+and you know thank you as well. I think
+it's important you also for all the
+listeners viewers um that this is
+something that affects you and it's
+something that where your voice is
+important. So if these are issues that
+you care about that make you think um
+please make your voice heard you know go
+to controlai.com
+contact your lawmakers demand change. If
+you want to do more um I personally lead
+a volunteer group uh called the
+torchbearer torchbearer community where
+we work for a humanist better future. If
+you want to spend two hours a a week
+just trying to make the world a better
+place consider applying.
+&gt;&gt; Thank you man and thank you to everyone
+for listening.
+This show
+is a bit weird.
+Oh man, a lot to think about. Thank you.
+Appreciate you, man. Appreciate all you
+listeners.
+&gt;&gt; We're not AI bots yet. We'll see you
+soon.

@@ -1,5 +1,23 @@
 # Index
 
+- 2026-03-21 13:30 - Andrej Karpathy - 2026-03-20
+  Code Agents, AutoResearch, and the Loopy Era of AI
+  [article](articles/andrej-karpathy/2026-03-20-code-agents-autoresearch-loopy-era-of-ai.md)
+  | [summary](summary/andrej-karpathy/2026-03-20-code-agents-autoresearch-loopy-era-of-ai.md)
+  | [source](https://youtu.be/kwSVtQ7dziU)
+
+- 2026-03-21 13:30 - Connor Leahy - 2026-03-10
+  AI is MUTATING: And We Don't Know What It is Doing
+  [article](articles/connor-leahy/2026-03-10-ai-is-mutating-we-dont-know-what-it-is-doing.md)
+  | [summary](summary/connor-leahy/2026-03-10-ai-is-mutating-we-dont-know-what-it-is-doing.md)
+  | [source](https://youtu.be/rf2KFVcKQdQ)
+
+- 2026-03-21 13:30 - Emad Mostaque - 2026-03-16
+  How AI Will Change Everything in the Next 1,000 Days
+  [article](articles/emad-mostaque/2026-03-16-how-ai-will-change-everything-next-1000-days.md)
+  | [summary](summary/emad-mostaque/2026-03-16-how-ai-will-change-everything-next-1000-days.md)
+  | [source](https://youtu.be/1CEXVcVEBAc)
+
 - 2026-03-21 12:25 - ThePrimeagen - 2026-03-19
   "We're So Back": AI Solved Mitchell's 6-Month Ghosty Bug
   [article](articles/the-primeagen/2026-03-19-were-so-back-ai-solved-mitchells-6-month-ghosty-bug.md)
