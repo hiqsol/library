@@ -1,5 +1,11 @@
 # Index
 
+- 2026-03-21 17:04 - Nate B. Jones - 2026-03-21
+  An AI Agent Wiped 1.9 Million Rows Following Instructions Perfectly. 3 Studies Explain Why.
+  [article](articles/nate-b-jones/2026-03-21-ai-agent-wiped-1-9-million-rows-instructions-perfectly-3-studies.md)
+  | [summary](summary/nate-b-jones/2026-03-21-ai-agent-wiped-1-9-million-rows-instructions-perfectly-3-studies.md)
+  | [source](https://www.youtube.com/watch?v=awV2kJzh8zk)
+
 - 2026-03-21 13:30 - Andrej Karpathy - 2026-03-20
   Code Agents, AutoResearch, and the Loopy Era of AI
   [article](articles/andrej-karpathy/2026-03-20-code-agents-autoresearch-loopy-era-of-ai.md)
