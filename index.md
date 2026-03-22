@@ -1,5 +1,12 @@
 # Index
 
+- 2026-03-22 08:36 - Dario Amodei - 2026-01-01 00:00
+  The Adolescence of Technology
+  tags: ai
+  [article](articles/dario-amodei/2026-01-01-the-adolescence-of-technology.md)
+  | [summary](summary/dario-amodei/2026-01-01-the-adolescence-of-technology.md)
+  | [source](https://www.darioamodei.com/essay/the-adolescence-of-technology)
+
 - 2026-03-22 08:03 - Vitaliy Portnikov - 2026-03-21 00:00
   Nuclear Facilities Under Attack
   tags: politics, war, ukraine
