@@ -1,5 +1,12 @@
 # Index
 
+- 2026-03-22 17:01 - Nate B. Jones - 2026-03-21 00:00
+  Your AI Agent Fails 97.5% of Real Work. The Fix Isn't Coding.
+  tags: ai, development
+  [article](articles/nate-b-jones/2026-03-21-ai-agent-fails-97-percent-real-work-fix.md)
+  | [summary](summary/nate-b-jones/2026-03-21-ai-agent-fails-97-percent-real-work-fix.md)
+  | [source](https://www.youtube.com/watch?v=awV2kJzh8zk)
+
 - 2026-03-22 11:13 - Vitaliy Portnikov - 2026-03-22 00:00
   New Order for Trump and Putin
   tags: politics, war, ukraine
