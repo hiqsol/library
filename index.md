@@ -1,5 +1,12 @@
 # Index
 
+- 2026-03-22 11:13 - Vitaliy Portnikov - 2026-03-22 00:00
+  New Order for Trump and Putin
+  tags: politics, war, ukraine
+  [article](articles/vitaly-portnikov/2026-03-22-new-order-for-trump-and-putin.md)
+  | [summary](summary/vitaly-portnikov/2026-03-22-new-order-for-trump-and-putin.md)
+  | [source](https://www.youtube.com/watch?v=14m2mLlJrdE)
+
 - 2026-03-22 11:13 - Petro Chernyk - 2026-03-22 00:00
   Chernyk: How Will the Strike on Iran End? Sensational Forecast
   tags: politics, war, ukraine
