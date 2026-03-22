@@ -1,5 +1,12 @@
 # Index
 
+- 2026-03-22 08:03 - Vitaliy Portnikov - 2026-03-21 00:00
+  Nuclear Facilities Under Attack
+  tags: politics, war, ukraine
+  [article](articles/vitaly-portnikov/2026-03-21-nuclear-facilities-under-attack.md)
+  | [summary](summary/vitaly-portnikov/2026-03-21-nuclear-facilities-under-attack.md)
+  | [source](https://www.youtube.com/watch?v=GL_tWkqTfpQ)
+
 - 2026-03-21 20:37 - Vitaliy Portnikov - 2026-03-21 00:00
   How to Save Ukraine: Historical Memory and Geopolitics
   tags: politics, ukraine, war
