@@ -1,5 +1,12 @@
 # Index
 
+- 2026-03-22 11:13 - Petro Chernyk - 2026-03-22 00:00
+  Chernyk: How Will the Strike on Iran End? Sensational Forecast
+  tags: politics, war, ukraine
+  [article](articles/petro-chernyk/2026-03-22-chernyk-how-will-strike-on-iran-end.md)
+  | [summary](summary/petro-chernyk/2026-03-22-chernyk-how-will-strike-on-iran-end.md)
+  | [source](https://www.youtube.com/watch?v=lzcSpgzJxF8)
+
 - 2026-03-22 08:36 - Dario Amodei - 2026-01-01 00:00
   The Adolescence of Technology
   tags: ai
