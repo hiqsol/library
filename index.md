@@ -1,5 +1,12 @@
 # Index
 
+- 2026-03-23 13:30 - Terence Tao - 2026-03-20 00:00
+  "Terence Tao: How the World's Top Mathematician Uses AI"
+  tags: ai, development
+  [article](articles/terence-tao/2026-03-20-how-the-worlds-top-mathematician-uses-ai.md)
+  | [summary](summary/terence-tao/2026-03-20-how-the-worlds-top-mathematician-uses-ai.md)
+  | [source](https://www.youtube.com/watch?v=Q8Fkpi18QXU)
+
 - 2026-03-23 17:07 - Nate B. Jones - 2026-03-23 00:00
   Lovable Was the Most Copied AI Product of 2025. Then a Lobster Changed Everything.
   tags: ai, startups
