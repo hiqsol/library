@@ -47,7 +47,7 @@ tags: tag1, tag2
 3. Write article → `articles/<author>/<YYYY-MM-DD>-<slug>.md`
 4. Write summary → `summary/<author>/<YYYY-MM-DD>-<slug>.md`
 5. Update `index.md`
-6. Commit, push, send GitHub article and commit links
+6. Commit and push
 
 ## Index format
 
