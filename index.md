@@ -1,5 +1,19 @@
 # Index
 
+- 2026-03-23 17:07 - Nate B. Jones - 2026-03-23 00:00
+  Lovable Was the Most Copied AI Product of 2025. Then a Lobster Changed Everything.
+  tags: ai, startups
+  [article](articles/nate-b-jones/2026-03-23-lovable-most-copied-ai-product-lobster.md)
+  | [summary](summary/nate-b-jones/2026-03-23-lovable-most-copied-ai-product-lobster.md)
+  | [source](https://www.youtube.com/watch?v=b7IS4C9QALc)
+
+- 2026-03-23 17:07 - Nate B. Jones - 2026-03-22 00:00
+  McKinsey Says $1 Trillion In Sales Will Go Through AI Agents. Most Businesses Are Invisible.
+  tags: ai, startups, development
+  [article](articles/nate-b-jones/2026-03-22-mckinsey-trillion-sales-ai-agents-invisible.md)
+  | [summary](summary/nate-b-jones/2026-03-22-mckinsey-trillion-sales-ai-agents-invisible.md)
+  | [source](https://www.youtube.com/watch?v=BE4RclIGDmY)
+
 - 2026-03-22 17:01 - Nate B. Jones - 2026-03-21 00:00
   Your AI Agent Fails 97.5% of Real Work. The Fix Isn't Coding.
   tags: ai, development
