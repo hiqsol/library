@@ -1,5 +1,12 @@
 # Index
 
+- 2026-03-23 23:20 - Bernie Sanders - 2026-03-19 00:00
+  Bernie vs. Claude
+  tags: ai, politics
+  [article](articles/bernie-sanders/2026-03-19-bernie-vs-claude.md)
+  | [summary](summary/bernie-sanders/2026-03-19-bernie-vs-claude.md)
+  | [source](https://www.youtube.com/watch?v=h3AtWdeu_G0)
+
 - 2026-03-23 13:30 - Terence Tao - 2026-03-20 00:00
   "Terence Tao: How the World's Top Mathematician Uses AI"
   tags: ai, development
