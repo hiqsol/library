@@ -1,5 +1,12 @@
 # Index
 
+- 2026-03-24 17:16 - Nate B. Jones - 2026-03-24 00:00
+  Nvidia Just Open-Sourced What OpenAI Wants You to Pay Consultants For.
+  tags: ai, development, startups
+  [article](articles/nate-b-jones/2026-03-24-nvidia-open-sourced-openai-consultants.md)
+  | [summary](summary/nate-b-jones/2026-03-24-nvidia-open-sourced-openai-consultants.md)
+  | [source](https://www.youtube.com/watch?v=7AO4w4Y_L24)
+
 - 2026-03-23 23:20 - Bernie Sanders - 2026-03-19 00:00
   Bernie vs. Claude
   tags: ai, politics
