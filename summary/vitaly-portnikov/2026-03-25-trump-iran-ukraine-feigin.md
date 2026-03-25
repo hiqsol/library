@@ -1,13 +1,13 @@
 ---
 title: "Portnikov: Trump torn after Iran crisis — urgent decision on Iran, implications for Ukraine"
-author: Vitaliy Portnikov
+author: Vitaly Portnikov
 channel: Feigin Live
 url: https://youtu.be/_EwJDtNdW8E
 date: 2026-03-25 00:00
 tags: war, ukraine, politics
 ---
 
-Vitaliy Portnikov on Feigin Live (March 24, 2026) analyzes how Trump's Iran
+Vitaly Portnikov on Feigin Live (March 24, 2026) analyzes how Trump's Iran
 war is going sideways and what it means for Ukraine.
 
 ## Iran: unexpected escalation

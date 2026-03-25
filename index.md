@@ -8,11 +8,11 @@
   | [summary](summary/nate-b-jones/2026-03-25-agents-means-four-different-things.md)
   | [source](https://www.youtube.com/watch?v=YpPcDHc3e9U)
 
-- 2026-03-25 15:40 - Vitaliy Portnikov - 2026-03-25 00:00
+- 2026-03-25 15:40 - Vitaly Portnikov - 2026-03-25 00:00
   "Portnikov: Trump torn after Iran crisis — urgent decision on Iran, implications for Ukraine"
   tags: war, ukraine, politics
-  [article](articles/vitaliy-portnikov/2026-03-25-trump-iran-ukraine-feigin.md)
-  | [summary](summary/vitaliy-portnikov/2026-03-25-trump-iran-ukraine-feigin.md)
+  [article](articles/vitaly-portnikov/2026-03-25-trump-iran-ukraine-feigin.md)
+  | [summary](summary/vitaly-portnikov/2026-03-25-trump-iran-ukraine-feigin.md)
   | [source](https://youtu.be/_EwJDtNdW8E)
 
 - 2026-03-25 15:36 - Dylan Davis - 2026-03-21 00:00
@@ -64,7 +64,7 @@
   | [summary](summary/nate-b-jones/2026-03-21-ai-agent-fails-97-percent-real-work-fix.md)
   | [source](https://www.youtube.com/watch?v=awV2kJzh8zk)
 
-- 2026-03-22 11:13 - Vitaliy Portnikov - 2026-03-22 00:00
+- 2026-03-22 11:13 - Vitaly Portnikov - 2026-03-22 00:00
   New Order for Trump and Putin
   tags: politics, war, ukraine
   [article](articles/vitaly-portnikov/2026-03-22-new-order-for-trump-and-putin.md)
@@ -85,14 +85,14 @@
   | [summary](summary/dario-amodei/2026-01-01-the-adolescence-of-technology.md)
   | [source](https://www.darioamodei.com/essay/the-adolescence-of-technology)
 
-- 2026-03-22 08:03 - Vitaliy Portnikov - 2026-03-21 00:00
+- 2026-03-22 08:03 - Vitaly Portnikov - 2026-03-21 00:00
   Nuclear Facilities Under Attack
   tags: politics, war, ukraine
   [article](articles/vitaly-portnikov/2026-03-21-nuclear-facilities-under-attack.md)
   | [summary](summary/vitaly-portnikov/2026-03-21-nuclear-facilities-under-attack.md)
   | [source](https://www.youtube.com/watch?v=GL_tWkqTfpQ)
 
-- 2026-03-21 20:37 - Vitaliy Portnikov - 2026-03-21 00:00
+- 2026-03-21 20:37 - Vitaly Portnikov - 2026-03-21 00:00
   How to Save Ukraine: Historical Memory and Geopolitics
   tags: politics, ukraine, war
   [article](articles/vitaly-portnikov/2026-03-21-how-to-save-ukraine-historical-memory-geopolitics.md)
@@ -127,7 +127,7 @@
   | [summary](summary/the-primeagen/2026-03-19-were-so-back-ai-solved-mitchells-6-month-ghosty-bug.md)
   | [source](https://youtu.be/5DP0az1q_8M)
 
-- 2026-03-21 08:10 - Vitaliy Portnikov - 2026-03-20 00:00
+- 2026-03-21 08:10 - Vitaly Portnikov - 2026-03-20 00:00
   World One Step from Catastrophe: Iran Ground Operation, NATO Crisis, Orbán's Blockade
   tags: politics, war, ukraine
   [article](articles/vitaly-portnikov/2026-03-20-world-step-from-catastrophe-iran-nato-orban.md)
@@ -148,7 +148,7 @@
   | [summary](summary/nate-b-jones/2026-03-20-anthropic-gave-agent-openclaw-without-risk.md)
   | [source](https://www.youtube.com/watch?v=vqnAOV8NMZ4)
 
-- 2026-03-19 18:35 - Vitaliy Portnikov - 2026-03-19 00:00
+- 2026-03-19 18:35 - Vitaly Portnikov - 2026-03-19 00:00
   Gas Apocalypse: The Energy Crisis Trump Didn't Plan For
   tags: politics, war, ukraine
   [article](articles/vitaly-portnikov/2026-03-19-gas-apocalypse-energy-crisis-trump-iran-qatar.md)
