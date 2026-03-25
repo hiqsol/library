@@ -1,5 +1,12 @@
 # Index
 
+- 2026-03-25 22:04 - Vitaly Portnikov - 2026-03-07 00:00
+  "Main Risks of the Iran War"
+  tags: war, ukraine, politics
+  [article](articles/vitaly-portnikov/2026-03-07-main-risks-of-iran-war.md)
+  | [summary](summary/vitaly-portnikov/2026-03-07-main-risks-of-iran-war.md)
+  | [source](https://www.youtube.com/watch?v=qyvwJQ1XSwc)
+
 - 2026-03-25 17:03 - Nate B. Jones - 2026-03-25 00:00
   "Agents" Means 4 Different Things and Almost Nobody Knows Which One
   They Need.
