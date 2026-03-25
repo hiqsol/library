@@ -1,5 +1,12 @@
 # Index
 
+- 2026-03-25 15:40 - Vitaliy Portnikov - 2026-03-25 00:00
+  "Portnikov: Trump torn after Iran crisis — urgent decision on Iran, implications for Ukraine"
+  tags: war, ukraine, politics
+  [article](articles/vitaliy-portnikov/2026-03-25-trump-iran-ukraine-feigin.md)
+  | [summary](summary/vitaliy-portnikov/2026-03-25-trump-iran-ukraine-feigin.md)
+  | [source](https://youtu.be/_EwJDtNdW8E)
+
 - 2026-03-25 15:36 - Dylan Davis - 2026-03-21 00:00
   "Something Strange is Happening with Claude and ChatGPT Right Now"
   tags: ai
