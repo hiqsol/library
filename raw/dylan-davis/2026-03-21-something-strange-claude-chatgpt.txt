@@ -1,0 +1,217 @@
+Every one of my clients right now are asking me about the same thing. It's not about a new model.
+It's not about a better prompt. There's a feature built into Claude and Chachib that most people
+have never touched. And three things changed recently that made it impossible to ignore. Once my
+clients actually tried it on their own work, not a single one of them went back to chat alone. Let
+me show you exactly why. As I mentioned, there are three forces causing this movement. And these are
+the three things that are occurring. So the first one here is a better UI. So oftentimes when people
+wanted to interact with AI agents, which is the thing that I'm talking about, they would often have
+to interact with it through a terminal. And a terminal for non-technical people is extremely
+overwhelming. But recently in the last few months, Claude specifically created claude co-work, which
+is a wrapper around a technical thing which is claude code where a lot of people are using this and
+getting benefit from agents about 6 months ago. And then quickly chatbt followed suit with creating
+codecs. Both of these tools are very friendly to nontechnical folks because they look just like the
+chat apps. So that's the first force that has happened recently. The second force that's happened is
+the AI themselves have gotten better. So now we have Opus4.6 from Claude and GPT5.4 from OpenAI.
+Both of which are extremely good at doing longunning tasks without actually making many mistakes.
+And that means that you can give the AI more complex tasks which usually equates to more value for
+your company and your job. and it'll achieve it at a level consistently so you can rely on it and
+that's only happened recently. And the third force is politics. So I'm sure many of you have heard
+about the situation with department of war and anthropic. As soon as department of war had that
+issue with anthropic, a lot of people left GPT to go to anthropic and when they moved to anthropic
+they got exposed to cloud co-work which again is causing this trend. So those are three forces. But
+what I want to do in this video is I want to talk you through what the difference is between a chat
+and an agent. When to actually use one or the other, as well as very specific steps you can start
+today to get exposed to these agents and use them more effectively. But the first thing I want to
+say is that you already have access to these tools. You're just not using them. So if you have a
+subscription to Claude, then you already have access to both Claude Co-Work and Claude Code. If you
+simply download the desktop app on Windows or Mac, you'll be able to use either of these. If you're
+using Chatbt and you have a subscription, again, all you have to do is download this tool, Codeex,
+onto your machine, and you can then use this tool. And I know it has code and the word, but I
+promise you, you don't have to be a coder to use this. As long as you can convey what you want in
+simple language to the AI, it'll do the rest for you. So, not having access to the tools really
+isn't a great excuse for most people. Quick pause in your regular programming. This video is brought
+to you by me as always. So, two quick things. First off, below is a 30-day AI insight series,
+completely free. You'll get 30 insights in your inbox so you can apply AI to your business and your
+work. The second thing is you'd like to work with me blower a series of offerings to see if there's
+a good fit between the two of us. Now let's talk about what the difference is. The primary
+difference between the chat app, so chatbt, Gemini, Claude that you talk to in the web apps and
+agents and these are the four clear unlocks that a lot of my clients have noticed when using agents
+versus chat. So the first one of the four is files. When using the chat app like Chat GPT, Claude,
+Gemini, when you're exchanging files with the AI, you're used to this workflow here where you're in
+the chat and you are the bottleneck. You're the one that has to give the AI the files. You have to
+upload them, you have to copy them out, etc. You have to do that over and over. And often times
+you're limited with how many files you can share with the AI in the chat session. So, it could be
+one file, it could be 10 files depending on the tool you're using, but there always is usually a max
+of probably 10 files. And that's a bottleneck for a lot of use cases. But with agents, it's
+completely different. So instead of you bringing files to the AI, what you end up doing is you bring
+the AI to the files. And in this case, you can give the AI 10, 50, 100, 150, 200 files, how many
+ever files you want to give it. And the beautiful part about this is the AI itself doesn't have to
+hold all of this in its head, all these files. What it can do is it can search across all the files,
+not reading everything, but just reading the parts of the files that are relevant for it based on
+the question you gave it or the task you gave it. So, there's two benefits here. One, you're not the
+bottleneck. Two, you're getting more from the AI because it's being able to search through the files
+based on what it cares about instead of having to hold everything in its head at once because there
+are limits in what it can hold there. And this is our first primary unlock, bringing the AI to the
+files instead of the files to the AI. The second unlock here is memory. So, when you're using chat,
+so chatbt, etc., the memory here is somewhat shallow and static. There are memory features that are
+proactive, so it'll remember things about you, but it tends to be surface level things. So it could
+be your name, your role, your industry, etc. But the depth and quality of these memories is nowhere
+near as valuable compared to agents. And reason being is with agents, you can create a file like
+this. So if you're using cloud co-work, you would use something called cloud.mmd. Or if you're using
+codecs, it would be agents.mmd. Both of which serve the same purpose. It's simply instructions to
+the AI. And you've already created something like this inside of GPT projects or cloud projects
+because inside of those, they have system instructions as well. This is just what they call inside
+of the agent world. But the key thing here that's different between the two is that when you create
+the instructions, you can actually add an instruction in here that tells the AI to update its memory
+as well as its instructions over time as it learns new patterns, new insights, it learns new
+lessons, etc. And that's where the compounding value occurs. Where between session one and session
+20, the amount of value you get from the AI dramatically increases because it understands the way
+that you work, the nuances about your client, and all types of things associated to the memory. I
+have an entire video dedicated to this, so I'll link that below so you can learn more about that.
+But just note the key unlock here is that the agent, the AI itself, can dynamically update its
+memory and instructions based off of what you're teaching it over time. So that's our second unlock.
+Our third unlock is giving the AI access to many systems, not just access to the systems, but it can
+read and write to those systems. And the key difference between chat and agents here is that chat,
+sure, it has access to some systems. You can you can connect it to data connectors inside of chatbt
+and claude. But the issue with these is often times it's read only. So the AI can only see things,
+but it can't do anything in the system, which dramatically decreases the value you can get from the
+AI any given time. In addition to that, agents specifically are very good at not just connecting to
+many more systems than you can do inside of chat, but also it can read and write to those systems as
+well as even create some of its own tools on the fly. Let me walk you through a common example that
+a lot of my clients are getting value from right now. Say you have a meeting with a client that's a
+reoccurring meeting. You can take that transcript you just had from the meeting because you recorded
+it as you should and you drop it into your agent. Once you drop it into your agent, it's going to go
+off and do multiple things. First thing, it's going to go to your calendar and figure out who are
+all the attendees on that meeting. It's going to grab all their emails. Once it's grabbed all their
+emails, it's then going to look at the transcript, read it, draft up all the associated action items
+to each person. If there are any files that need to be shared, it'll share those files based on the
+emails you you pulled from the calendar. It'll go to the CRM and update anything that's relevant
+there. And then it's going to draft an email inside of your Gmail account with those attendees in
+the two column. So, it's taken the emails from the calendar, put it into the email for Gmail, linked
+everything that's necessary in that email. So, all you have to do is go there and read it. If you're
+happy with it, press send. This is just one example, but it's a very common example for a lot of
+people I work with, and it saves a ton of time, as well as shows the true power of agents. So,
+that's our third unlock, allowing agents to connect to multiple systems, read and write to those
+systems, and even create tools on the fly. Then, our fourth unlock here is skills. So, it's
+important to note that inside of Claude, skills are available inside of chatbt, inside of chat. It's
+not available yet. I'm sure it will be soon. But with agents, you can stack a lot of these skills
+together, which equates to more complex longrunning tasks. And therefore, those tasks tend to add
+more value to your company and to your job. And the way that we do that through agents is again
+through that special file that we create for each folder that you open the AIN side of. So, for
+cloud co-work, that's going to be cloud.md. And for codeex, that's going to be agents.mmd. Inside of
+this, we can in the instructions tell the AI a few things. First off, what's your purpose? What are
+the associated files in this folder, if there are any? What rules do you need to follow? And in
+those rules, what specific skills do you need to call based off of the task that's at hand? So, for
+this example, let's say that we're drafting a proposal after a meeting with a prospect. And inside
+of that, we have specialized skills. One that focuses on the intake analysis that basically extracts
+the information from the transcript or any associated data to that prospect that you need to put
+into the proposal. We have another skill that goes off and does competitive research on that
+specific prospect to see what issues they're having in their space in their industry. And then
+finally, we have a skill that makes sure that the proposal that we get back is on brand. It follows
+our specific structure and format that we prefer for our documents. Now, these are just three
+skills. You can often string together 3692 skills. And another special thing with agents is you can
+have them run parallel sub agents. Now, what does that mean? Well, I can have a parent AI. So, this
+is our parent AI here. So we'll call this PA or parent AI orchestrator. Then we have all these baby
+AIs. We'll call these little B's. All these baby AIs are spawned or spun out and they can run in
+parallel. Once they're run in parallel, as they finish, it finishes faster. First off, you don't
+have to wait as long. And the second thing is that you actually have isolated context. Meaning that
+each one of these AIs, they have their own memory and their own space. So they can focus solely on
+this task and likely give you a higher quality response than you would if you had to do this all
+with one AI. And then out pops your final proposal. And again, this is something you can solely do
+inside of agents today. So run lock four is that you have skills, but you can then string more
+skills together to achieve more complex tasks as well as run sub aents to get your work done more
+efficiently and likely more effectively. So those are the four unlocks of why agents are different
+from chat. Now the question we need to ask ourselves is, okay, when do we use chat versus agents?
+And it's important to note that chat is still extremely important for most day-to-day use cases. And
+I use chat all the time and so do my clients. So, it's not that once you get exposed to agents, you
+never go back to chat again, but you don't only use chat anymore. You use agents as well. So, what
+are some use cases where chat's still valuable? First off, if you're iterating and doing a
+conversational use case where you're doing a lot of back and forth with an AI, chat is still a great
+option for that. In addition to that, another one is that if everything fits into the window, so
+when I say the window, the AI's head. So, the AI's head is limited in space. It's called a context
+window. And different AIs have different sizes. So Gemini has a 1 million context window while
+Claude has 240,000 and JBT has around 200,000. So we can only fit so much in their head. But if the
+task at hand fits in the AI's head, which many tasks do, honestly, probably 70% of the tasks that
+you're doing right now fit very effectively inside of the window. But as you start doing more and
+more complex tasks, you'll then eventually want to graduate to agents over time. But for now, if it
+fits, use it. The next one is if it's a one-off task. So, if this is something you're just doing
+once and it's not a use case that can only be done in agents, I'd recommend just doing it in chat.
+And the final one is team collaboration. So, right now, being able to collaborate with your team is
+easier for nontechnical folks inside of chat. Reason being is you have GPT projects, you have cloud
+projects, you have skills inside of cloud that can be easily shared if you have a team's account
+within cloud or if you have uh GPT projects inside of a GPT teams account. It is possible to share
+things in the agent world, but it's a bit more technical and a bit more involved. So if you want to
+do a lot of sharing back and forth between your teams for certain use cases, I would keep those
+inside of chat while you then still get benefit from agents for your use cases that are specifically
+focused on your job or your role. So those are the reasons to stay in chat. Now what are the reasons
+to switch to agents? We've already talked about many of these. So the first one is if you have more
+than 10 files. Remember there's a limit to how many files we can share in chat. So if we have a
+bunch of files, we want to move to agents so we can then bring the AI to the files instead of the
+files to the AI. After that is we want to connect our AI to many different systems. not just connect
+them but also allow the AI to read and write to those systems. And this is great for repetitive
+tasks as well. So things you do on a recurring basis. And then finally is if you want to have a
+compounding effect of memory across sessions and topics. So if you want your AI's memory to be
+dynamic and updated by the AI itself and you want to maybe sustain insights about a specific client
+over time across many different meetings and or insights across many different reports you've
+analyzed over months, this is a great option as well. But again, it's important to note that we're
+not choosing either or. It's not chat versus agents. It's and it's yes and as they say in improv and
+in some cases you might actually use both. So you could start in chat and then go to agents or you
+could start in agents and then go to chat in the same use case. So see it as a spectrum not either
+or. So we know it's different and we know when to switch. Now I want to give you a very specific
+thing that you can do right now. So I want you to do is if you have a subscription to chatbt or
+cloud I want you to download their desktop apps either codeex or cloud co-work. Once you've
+downloaded the desktop apps I want you to pick a folder or create a folder. That's going to be step
+two. Once you've created your folder, this is going to be your sandbox folder, protecting your data
+so your AI doesn't make mistakes on your source data. So, you're going to copy some files out.
+You're going to put it into a folder. Once you've done that, you're going to give the task to an AI
+in plain English. Then, you're going to sit back and watch what happens with the agent in that
+folder. And likely, there's going to be something that clicks in your head for how valuable this can
+be for your job and your company. Now, one question I want to answer here is what tasks should I
+give it to start? I want to give you three examples of where you could start just to see how
+valuable agents can be. So, the first one is file organization. So you can go off to your downloads
+folder or your miscellaneous folder because we all have it. You can grab a bunch of files from there
+and you can drop that into your sandbox folder. You can then ask the AI to sort these files by type.
+You can rename the files if they're named poorly and then give me a summary of what you've done.
+This is a great first use case to see what agents can do on your desktop. After this, another great
+use case is actually expenses. So you can take a bunch of receipts that you have over the last month
+or quarter. You can drop them all into a single folder, your sandbox folder, and you can have the AI
+look at every single one of these one at a time. So look at the PDF, the image, etc. You can rename
+the file, you can extract the dates, you can extract the vendors, the amounts, and you can even ask
+the AI to put it into a spreadsheet for you. So you can track your expenses this way and have AI
+automate that process. And then our final use case could be consolidation. So say you have a ton of
+files associated to either a piece of research or a client, a project, something else, and you have
+a series of questions you want to ask of these files, but maybe there's like 50 of them and you
+don't have the time to research it. Well, you can drop those files into a folder and you can give
+the AI a very specific perspective you want it to search in these files. You have a certain subset
+of questions you want to be answered. When you ask those questions to the AI, ask it to look through
+the files to find the answers and come back and give me a master document with those answers. This
+again is a huge timesaver and something that can only be done in agents and not inside of the chat.
+Okay, so we've talked about a lot. So, I'm going to do a quick recap on what we've discussed. So,
+first off, we have three forces that have converged causing people to utilize agents more often in
+addition to chat. And those three forces are there's a better UI so you're not having to face the
+terminal the black screen of death. There's better AI models. So we have Opus 4.6 and GPT5.4 that
+can do things that are more complex over longer time frames. And then also there's some political
+issues as to why people are switching over from one to the other. After that we have the four agent
+unlocks. So what is actually different between the agent and the chat? We talked about the fact that
+you can bring your AI to the files instead of your files to the AI. So you can process more files
+with memory. It's more dynamic and can compound over time turning your AI from a tool to an asset.
+The system itself, your AI can attach to multiple systems and it can read and write to those
+systems. And then also we have skills which are available in chat specifically in cloud but you can
+orchestrate these more effectively within agents because you can attach more of these skills
+together and then have them run and sub agents. So those are the four primary unlocks I've seen for
+a lot of my clients. The next conversation was all about how do we know when to switch from chat to
+agent and agent to chat and also the importance of understanding that this is a spectrum. It's not
+either or. It's yes and and often times you may use a bit of both for some use cases. Then we talked
+about the importance of the fact that you already have access to these apps. If you already have a
+subscription to Chatbt if you already have a subscription to Claude, you have access to these tools.
+You just need to download them and use them. And then finally, I've given you homework to do. So
+basically, go off and do the one specific task right now. So download the app, open up the folder,
+and do one of the three use cases that I shared and sit back and see the value that agents can
+provide specifically to your company and or your job. And that's it. So as a reminder, two quick
+things. First off, Blow is a 30-day AI insight series, completely free. You'll get 30 insights in
+your inbox so you can apply AI to your business and your work. The second thing is if you'd like to
+work with me, Blow a series of offerings to see if there's a good fit from the two of us. Now,
+everything I just showed you gets 10 times more powerful once AI starts improving itself. But that
+doesn't happen on its own. There's a specific setup that makes it work. And I walk through the
+entire thing step by step right here. So, go and click that video. Go ahead, click that video,
+internet. I'll see you next time.

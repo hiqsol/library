@@ -1,5 +1,12 @@
 # Index
 
+- 2026-03-25 15:36 - Dylan Davis - 2026-03-21 00:00
+  "Something Strange is Happening with Claude and ChatGPT Right Now"
+  tags: ai
+  [article](articles/dylan-davis/2026-03-21-something-strange-claude-chatgpt.md)
+  | [summary](summary/dylan-davis/2026-03-21-something-strange-claude-chatgpt.md)
+  | [source](https://youtu.be/XKsn3i9yYjU)
+
 - 2026-03-24 17:16 - Nate B. Jones - 2026-03-24 00:00
   Nvidia Just Open-Sourced What OpenAI Wants You to Pay Consultants For.
   tags: ai, development, startups
