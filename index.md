@@ -1,5 +1,13 @@
 # Index
 
+- 2026-03-25 17:03 - Nate B. Jones - 2026-03-25 00:00
+  "Agents" Means 4 Different Things and Almost Nobody Knows Which One
+  They Need.
+  tags: ai, development, startups
+  [article](articles/nate-b-jones/2026-03-25-agents-means-four-different-things.md)
+  | [summary](summary/nate-b-jones/2026-03-25-agents-means-four-different-things.md)
+  | [source](https://www.youtube.com/watch?v=YpPcDHc3e9U)
+
 - 2026-03-25 15:40 - Vitaliy Portnikov - 2026-03-25 00:00
   "Portnikov: Trump torn after Iran crisis — urgent decision on Iran, implications for Ukraine"
   tags: war, ukraine, politics
