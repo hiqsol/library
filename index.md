@@ -6,6 +6,14 @@ permalink: sol/prj/hiqsol/library/index
 
 # Index
 
+- 2026-03-26 18:19 - Vitaly Portnikov - 2026-03-26 00:00
+  "Portnikov: US Has Lost the War in Iran — Catastrophe With Massive
+  Casualties Ahead"
+  tags: war, ukraine, politics
+  [article](articles/vitaly-portnikov/2026-03-26-us-lost-iran-war-trump-crisis.md)
+  | [summary](summary/vitaly-portnikov/2026-03-26-us-lost-iran-war-trump-crisis.md)
+  | [source](https://youtu.be/aolXfrmY3mg)
+
 - 2026-03-26 17:01 - Nate B. Jones - 2026-03-26 00:00
   "I Analyzed Hundreds of AI Job Postings. The Same 7 Skills Showed Up
   Everywhere."
