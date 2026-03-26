@@ -1,4 +1,18 @@
+---
+title: index
+type: note
+permalink: sol/prj/hiqsol/library/index
+---
+
 # Index
+
+- 2026-03-26 17:01 - Nate B. Jones - 2026-03-26 00:00
+  "I Analyzed Hundreds of AI Job Postings. The Same 7 Skills Showed Up
+  Everywhere."
+  tags: ai, startups
+  [article](articles/nate-b-jones/2026-03-26-ai-job-postings-7-skills.md)
+  | [summary](summary/nate-b-jones/2026-03-26-ai-job-postings-7-skills.md)
+  | [source](https://www.youtube.com/watch?v=4cuT-LKcmWs)
 
 - 2026-03-25 22:04 - Vitaly Portnikov - 2026-03-07 00:00
   "Main Risks of the Iran War"
