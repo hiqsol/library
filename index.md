@@ -6,6 +6,13 @@ permalink: sol/prj/hiqsol/library/index
 
 # Index
 
+- 2026-03-27 10:10 - Kyrylo (Beer::Code) - 2026-03-26 00:00
+  "Agentic Engineering: My Ideal AI Development Workflow"
+  tags: ai, development
+  [article](articles/beer-code/2026-03-26-agentic-engineering-ideal-ai-development-workflow.md)
+  | [summary](summary/beer-code/2026-03-26-agentic-engineering-ideal-ai-development-workflow.md)
+  | [source](https://youtu.be/4uLqamwjl-w)
+
 - 2026-03-26 18:19 - Vitaly Portnikov - 2026-03-26 00:00
   "Portnikov: US Has Lost the War in Iran — Catastrophe With Massive
   Casualties Ahead"
