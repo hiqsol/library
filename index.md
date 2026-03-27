@@ -6,6 +6,13 @@ permalink: sol/prj/hiqsol/library/index
 
 # Index
 
+- 2026-03-27 17:02 - Nate Jones (Nate B Jones) - 2026-03-27 00:00
+  "A Markdown File Just Replaced Your Most Expensive Design Meeting. (Google Stitch)"
+  tags: ai, development
+  [article](articles/nate-b-jones/2026-03-27-google-stitch-markdown-replaced-design-meeting.md)
+  | [summary](summary/nate-b-jones/2026-03-27-google-stitch-markdown-replaced-design-meeting.md)
+  | [source](https://www.youtube.com/watch?v=CDClFY-R0dI)
+
 - 2026-03-27 10:10 - Kyrylo (Beer::Code) - 2026-03-26 00:00
   "Agentic Engineering: My Ideal AI Development Workflow"
   tags: ai, development
