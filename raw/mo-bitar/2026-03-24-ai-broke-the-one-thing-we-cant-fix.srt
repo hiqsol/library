@@ -1,0 +1,656 @@
+1
+00:00:00,080 --> 00:00:04,880
+A few weeks ago, Nikita gets on his own
+
+2
+00:00:02,320 --> 00:00:07,759
+platform and says, "In less than 90
+
+3
+00:00:04,880 --> 00:00:09,440
+days, iMessage, phone calls, and Gmail
+
+4
+00:00:07,759 --> 00:00:11,440
+will be so flooded with spam and
+
+5
+00:00:09,440 --> 00:00:13,759
+automation that they will no longer be
+
+6
+00:00:11,440 --> 00:00:16,240
+usable, and we will have no way to stop
+
+7
+00:00:13,759 --> 00:00:18,320
+it." Now, this isn't some random schmuck
+
+8
+00:00:16,240 --> 00:00:20,720
+posting conspiracy theories on Reddit
+
+9
+00:00:18,320 --> 00:00:23,039
+about how Chipotle gives you diarrhea on
+
+10
+00:00:20,720 --> 00:00:25,199
+purpose. No, this is a man who gets
+
+11
+00:00:23,039 --> 00:00:27,519
+professionally destroyed by this
+
+12
+00:00:25,199 --> 00:00:29,679
+every single day and he's basically
+
+13
+00:00:27,519 --> 00:00:31,679
+telling the rest of us to lube up
+
+14
+00:00:29,679 --> 00:00:35,360
+because it's coming for everyone. 2
+
+15
+00:00:31,679 --> 00:00:38,000
+weeks later he purges 1.7 million bot
+
+16
+00:00:35,360 --> 00:00:40,079
+accounts off X and the next day they
+
+17
+00:00:38,000 --> 00:00:43,600
+just respawn. See, bots used to be
+
+18
+00:00:40,079 --> 00:00:45,840
+simple. Now they have like a PhD in
+
+19
+00:00:43,600 --> 00:00:47,760
+natural language processing and a
+
+20
+00:00:45,840 --> 00:00:50,079
+Bitcoin wallet. And so someone asked him
+
+21
+00:00:47,760 --> 00:00:53,039
+why it's about to get worse. and his
+
+22
+00:00:50,079 --> 00:00:56,239
+answer was the one word no one wants to
+
+23
+00:00:53,039 --> 00:00:58,719
+hear. Open claw. Now, if you're not
+
+24
+00:00:56,239 --> 00:01:00,320
+familiar with OpenClaw, firstly, I envy
+
+25
+00:00:58,719 --> 00:01:02,640
+you. It's currently the highest starred
+
+26
+00:01:00,320 --> 00:01:05,360
+software project in GitHub history. It
+
+27
+00:01:02,640 --> 00:01:07,200
+has more stars than React. Jensen Wong,
+
+28
+00:01:05,360 --> 00:01:09,439
+the CEO of Nvidia, who's almost
+
+29
+00:01:07,200 --> 00:01:11,760
+certainly never tried OpenClaw or even
+
+30
+00:01:09,439 --> 00:01:14,320
+knows what it does, just called it the
+
+31
+00:01:11,760 --> 00:01:16,799
+most important open- source project in
+
+32
+00:01:14,320 --> 00:01:20,479
+the history of humanity. What OpenClaw
+
+33
+00:01:16,799 --> 00:01:23,119
+does is it lets any with a laptop
+
+34
+00:01:20,479 --> 00:01:25,200
+build an AI agent that can send emails
+
+35
+00:01:23,119 --> 00:01:27,360
+and texts and browse the web and make
+
+36
+00:01:25,200 --> 00:01:29,840
+phone calls and impersonate you. Some
+
+37
+00:01:27,360 --> 00:01:32,400
+guy had his open claw negotiate car
+
+38
+00:01:29,840 --> 00:01:34,479
+prices with dealers over iMessage while
+
+39
+00:01:32,400 --> 00:01:37,520
+he was at brunch. Nikita's point is
+
+40
+00:01:34,479 --> 00:01:40,720
+basically what happens when every
+
+41
+00:01:37,520 --> 00:01:42,960
+scammer in Nigeria and every crypto bro
+
+42
+00:01:40,720 --> 00:01:44,960
+in Miami and every horny catfisher in
+
+43
+00:01:42,960 --> 00:01:47,280
+Wyoming gets one of these. See, because
+
+44
+00:01:44,960 --> 00:01:49,200
+before you needed to actually know
+
+45
+00:01:47,280 --> 00:01:52,000
+to be a spammer, you needed to know how
+
+46
+00:01:49,200 --> 00:01:54,720
+to operate servers and write scripts and
+
+47
+00:01:52,000 --> 00:01:57,200
+read code. Now you just need a laptop
+
+48
+00:01:54,720 --> 00:01:59,439
+and the moral compass of a pharma CEO.
+
+49
+00:01:57,200 --> 00:02:01,600
+And the problem with spam is not just
+
+50
+00:01:59,439 --> 00:02:03,439
+that it's a nuisance. The Chinese
+
+51
+00:02:01,600 --> 00:02:05,439
+government, surprise, surprise, they
+
+52
+00:02:03,439 --> 00:02:07,439
+figure this out before anyone. The
+
+53
+00:02:05,439 --> 00:02:09,679
+Chinese government floods ex search
+
+54
+00:02:07,439 --> 00:02:11,920
+results with porn every time there's
+
+55
+00:02:09,679 --> 00:02:13,920
+some political unrest. So when there's
+
+56
+00:02:11,920 --> 00:02:17,040
+protests in China, the search results
+
+57
+00:02:13,920 --> 00:02:20,239
+for Chinese keywords suddenly become
+
+58
+00:02:17,040 --> 00:02:23,520
+nothing but tits and ass. It's no longer
+
+59
+00:02:20,239 --> 00:02:25,840
+censorship or blocking the information.
+
+60
+00:02:23,520 --> 00:02:28,480
+Now you drown the information out with
+
+61
+00:02:25,840 --> 00:02:31,120
+content that is 10 times more engaging.
+
+62
+00:02:28,480 --> 00:02:33,440
+Some guy in Beijing opens up X to look
+
+63
+00:02:31,120 --> 00:02:35,680
+up protest footage and instead finds
+
+64
+00:02:33,440 --> 00:02:37,440
+himself jerking off for 45 minutes. The
+
+65
+00:02:35,680 --> 00:02:39,920
+CCP is looking through his webcam like,
+
+66
+00:02:37,440 --> 00:02:42,000
+"Nice, we got him." You can't overthrow
+
+67
+00:02:39,920 --> 00:02:44,160
+the government while you're jerking off.
+
+68
+00:02:42,000 --> 00:02:46,640
+It's the great come wall of China.
+
+69
+00:02:44,160 --> 00:02:49,360
+Basically, we all live behind that wall
+
+70
+00:02:46,640 --> 00:02:51,840
+now. And the reply spam on X, I mean, it
+
+71
+00:02:49,360 --> 00:02:54,239
+used to be like hot girls in bikinis
+
+72
+00:02:51,840 --> 00:02:57,200
+saying, "Check out my profile." Now it's
+
+73
+00:02:54,239 --> 00:02:59,040
+AI generated hot girls with AI generated
+
+74
+00:02:57,200 --> 00:03:01,599
+bikinis going, "Check out my AI
+
+75
+00:02:59,040 --> 00:03:03,519
+generated profile," which links to an AI
+
+76
+00:03:01,599 --> 00:03:05,760
+generated crypto scam. We used to get
+
+77
+00:03:03,519 --> 00:03:08,239
+scammed by real people, damn it. The
+
+78
+00:03:05,760 --> 00:03:11,280
+worst part about modern AI content is
+
+79
+00:03:08,239 --> 00:03:14,080
+that every single piece of AI generated
+
+80
+00:03:11,280 --> 00:03:16,480
+content was specifically engineered at
+
+81
+00:03:14,080 --> 00:03:19,599
+the neural network level to be more
+
+82
+00:03:16,480 --> 00:03:22,800
+engaging than anything a human being can
+
+83
+00:03:19,599 --> 00:03:25,200
+ever write. There's a process called RHF
+
+84
+00:03:22,800 --> 00:03:27,519
+where they train these models by showing
+
+85
+00:03:25,200 --> 00:03:29,680
+humans two responses and asking them
+
+86
+00:03:27,519 --> 00:03:31,680
+which one do you prefer and then they
+
+87
+00:03:29,680 --> 00:03:34,640
+just reinforce whichever one is more
+
+88
+00:03:31,680 --> 00:03:36,959
+compelling. Every AI model has been
+
+89
+00:03:34,640 --> 00:03:39,440
+mathematically optimized to hold your
+
+90
+00:03:36,959 --> 00:03:41,840
+attention better than any human written
+
+91
+00:03:39,440 --> 00:03:45,280
+piece of content ever could. Google
+
+92
+00:03:41,840 --> 00:03:48,400
+traffic to actual publishers dropped 38%
+
+93
+00:03:45,280 --> 00:03:51,120
+last year in the US alone. The economic
+
+94
+00:03:48,400 --> 00:03:53,519
+model of the internet is collapsing. We
+
+95
+00:03:51,120 --> 00:03:56,239
+had a deal. We paid humans to write
+
+96
+00:03:53,519 --> 00:03:59,040
+genuine things and in exchange they got
+
+97
+00:03:56,239 --> 00:04:01,760
+ad revenue. That deal is now dead
+
+98
+00:03:59,040 --> 00:04:04,319
+because why would an ad network pay a
+
+99
+00:04:01,760 --> 00:04:06,400
+human when a bot generates more clicks?
+
+100
+00:04:04,319 --> 00:04:09,040
+The algorithm doesn't care. The ad
+
+101
+00:04:06,400 --> 00:04:12,000
+networks don't care. Nobody in the chain
+
+102
+00:04:09,040 --> 00:04:14,560
+between creation and monetization has
+
+103
+00:04:12,000 --> 00:04:16,239
+any incentive whatsoever to care if it's
+
+104
+00:04:14,560 --> 00:04:18,799
+real. You could see this playing out
+
+105
+00:04:16,239 --> 00:04:21,519
+everywhere. Of YouTube's 100 fastest
+
+106
+00:04:18,799 --> 00:04:24,720
+growing channels last year, nearly 10
+
+107
+00:04:21,519 --> 00:04:26,880
+were fully AI generated. Slop was the
+
+108
+00:04:24,720 --> 00:04:30,800
+Miriam Webster word of the year for
+
+109
+00:04:26,880 --> 00:04:33,040
+2025. We went from selfie to slop in
+
+110
+00:04:30,800 --> 00:04:34,960
+about 10 years. That's basically the arc
+
+111
+00:04:33,040 --> 00:04:36,240
+of the internet in a single sentence.
+
+112
+00:04:34,960 --> 00:04:38,240
+And I mean, look, the internet was
+
+113
+00:04:36,240 --> 00:04:40,720
+always full of spam. Let's not pretend
+
+114
+00:04:38,240 --> 00:04:42,960
+it wasn't. But at least the spam used to
+
+115
+00:04:40,720 --> 00:04:45,520
+be stupid. You could see it coming from
+
+116
+00:04:42,960 --> 00:04:47,600
+a mile away. The grammar was You
+
+117
+00:04:45,520 --> 00:04:49,680
+had like three different fonts in a
+
+118
+00:04:47,600 --> 00:04:52,720
+single sentence. Nobody fell for that
+
+119
+00:04:49,680 --> 00:04:54,560
+ Almost nobody. And now the spam is
+
+120
+00:04:52,720 --> 00:04:57,040
+smarter than you. It writes better than
+
+121
+00:04:54,560 --> 00:04:58,960
+you. The spam went out and got a college
+
+122
+00:04:57,040 --> 00:05:02,080
+degree and you're still on your parents'
+
+123
+00:04:58,960 --> 00:05:03,840
+phone plan. And Nikita, poor, poor
+
+124
+00:05:02,080 --> 00:05:06,560
+Nikita. I mean, he's still in there
+
+125
+00:05:03,840 --> 00:05:09,199
+fighting. He added a dislike button to
+
+126
+00:05:06,560 --> 00:05:11,440
+replies last week. That's basically like
+
+127
+00:05:09,199 --> 00:05:13,440
+the forefront of spam fighting today. A
+
+128
+00:05:11,440 --> 00:05:15,600
+freaking dislike button. And so, you're
+
+129
+00:05:13,440 --> 00:05:18,639
+probably wondering, okay, so what
+
+130
+00:05:15,600 --> 00:05:20,479
+happens next? What's the play? But this
+
+131
+00:05:18,639 --> 00:05:22,479
+isn't that kind of video. There's no
+
+132
+00:05:20,479 --> 00:05:24,880
+solution to this. This isn't a problem
+
+133
+00:05:22,479 --> 00:05:27,199
+we just fix. This is just what the
+
+134
+00:05:24,880 --> 00:05:29,440
+internet is now. And it's only going to
+
+135
+00:05:27,199 --> 00:05:31,440
+get weirder from here. Your inbox is
+
+136
+00:05:29,440 --> 00:05:34,479
+going to be so full of AI generated
+
+137
+00:05:31,440 --> 00:05:36,800
+emails that are so personalized and so
+
+138
+00:05:34,479 --> 00:05:38,880
+well written that the only way to know
+
+139
+00:05:36,800 --> 00:05:40,800
+if something is real is if you already
+
+140
+00:05:38,880 --> 00:05:43,600
+know the person who sent it. If some
+
+141
+00:05:40,800 --> 00:05:46,080
+stranger emails you a perfectly crafted
+
+142
+00:05:43,600 --> 00:05:48,320
+pitch, it's fake. If you get a LinkedIn
+
+143
+00:05:46,080 --> 00:05:50,639
+message that seems weirdly relevant to
+
+144
+00:05:48,320 --> 00:05:52,800
+like your exact career situation, fake.
+
+145
+00:05:50,639 --> 00:05:54,400
+You get a DM from a beautiful woman who
+
+146
+00:05:52,800 --> 00:05:57,360
+seems genuinely interested in your
+
+147
+00:05:54,400 --> 00:06:00,240
+personality, brother. Come on. The old
+
+148
+00:05:57,360 --> 00:06:02,880
+internet wasn't perfect, but at least
+
+149
+00:06:00,240 --> 00:06:05,440
+smart people could recognize the spam
+
+150
+00:06:02,880 --> 00:06:07,199
+from a mile away. In the new internet,
+
+151
+00:06:05,440 --> 00:06:09,120
+you won't be able to tell anymore
+
+152
+00:06:07,199 --> 00:06:12,400
+because the thing that's trying to fool
+
+153
+00:06:09,120 --> 00:06:14,880
+you was built from the ground up to be
+
+154
+00:06:12,400 --> 00:06:17,360
+better at fooling you than you are at
+
+155
+00:06:14,880 --> 00:06:19,120
+not being fooled. It's not a fair fight.
+
+156
+00:06:17,360 --> 00:06:21,600
+It's not even close. And in the
+
+157
+00:06:19,120 --> 00:06:23,919
+meantime, the only thing that still
+
+158
+00:06:21,600 --> 00:06:26,319
+means anything on this internet is the
+
+159
+00:06:23,919 --> 00:06:28,560
+people you already trust. It's not going
+
+160
+00:06:26,319 --> 00:06:31,520
+to be the individual posts or the
+
+161
+00:06:28,560 --> 00:06:34,560
+platforms or the algorithms. It's
+
+162
+00:06:31,520 --> 00:06:37,520
+people, specific humans who have earned
+
+163
+00:06:34,560 --> 00:06:40,800
+it over time. That's it. That's all
+
+164
+00:06:37,520 --> 00:06:40,800
+that's left.
+

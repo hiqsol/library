@@ -6,6 +6,13 @@ permalink: sol/prj/hiqsol/library/index
 
 # Index
 
+- 2026-03-28 18:27 - Mo Bitar - 2026-03-24 00:00
+  "AI broke the one thing we can't fix"
+  tags: ai
+  [article](articles/mo-bitar/2026-03-24-ai-broke-the-one-thing-we-cant-fix.md)
+  | [summary](summary/mo-bitar/2026-03-24-ai-broke-the-one-thing-we-cant-fix.md)
+  | [source](https://www.youtube.com/watch?v=R_2YN1MungI)
+
 - 2026-03-28 17:25 - Gemini Deep Research - 2026-03-28 00:00
   "The Architecture of Recursive Self-Improvement in Autonomous AI Agents"
   tags: ai
