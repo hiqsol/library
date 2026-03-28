@@ -6,6 +6,12 @@ permalink: sol/prj/hiqsol/library/index
 
 # Index
 
+- 2026-03-28 17:25 - Gemini Deep Research - 2026-03-28 00:00
+  "The Architecture of Recursive Self-Improvement in Autonomous AI Agents"
+  tags: ai
+  [article](articles/gemini-deep-research/2026-03-28-architecture-recursive-self-improvement-autonomous-ai-agents.md)
+  | [summary](summary/gemini-deep-research/2026-03-28-architecture-recursive-self-improvement-autonomous-ai-agents.md)
+
 - 2026-03-28 17:02 - Nate Jones (Nate B Jones) - 2026-03-28 00:00
   "Anthropic Just Gave You 3 Tools That Work While You're Gone."
   tags: ai
