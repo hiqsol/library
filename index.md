@@ -6,6 +6,13 @@ permalink: sol/prj/hiqsol/library/index
 
 # Index
 
+- 2026-03-28 17:02 - Nate Jones (Nate B Jones) - 2026-03-28 00:00
+  "Anthropic Just Gave You 3 Tools That Work While You're Gone."
+  tags: ai
+  [article](articles/nate-b-jones/2026-03-28-anthropic-3-tools-work-while-gone.md)
+  | [summary](summary/nate-b-jones/2026-03-28-anthropic-3-tools-work-while-gone.md)
+  | [source](https://www.youtube.com/watch?v=3e7gmNPr5Vo)
+
 - 2026-03-27 17:02 - Nate Jones (Nate B Jones) - 2026-03-27 00:00
   "A Markdown File Just Replaced Your Most Expensive Design Meeting. (Google Stitch)"
   tags: ai, development
