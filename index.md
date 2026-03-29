@@ -13,6 +13,12 @@ permalink: sol/prj/hiqsol/library/index
   | [summary](summary/mo-bitar/2026-03-24-ai-broke-the-one-thing-we-cant-fix.md)
   | [source](https://www.youtube.com/watch?v=R_2YN1MungI)
 
+- 2026-03-29 01:24 - Gemini Deep Research - 2026-03-29 00:00
+  "The Architecture of Autonomy: Advanced Self-Improving AI Systems and the Shift to Recursive Science"
+  tags: ai, self-improvement, recursive-self-improvement, autonomous-agents
+  [article](articles/gemini-deep-research/2026-03-29-architecture-autonomy-recursive-self-improvement.md)
+  | [summary](summary/gemini-deep-research/2026-03-29-architecture-autonomy-recursive-self-improvement.md)
+
 - 2026-03-28 17:25 - Gemini Deep Research - 2026-03-28 00:00
   "The Architecture of Recursive Self-Improvement in Autonomous AI Agents"
   tags: ai
