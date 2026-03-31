@@ -6,6 +6,20 @@ permalink: sol/prj/hiqsol/library/index
 
 # Index
 
+- 2026-03-31 10:35 - Nate Jones - 2026-03-30 00:00
+  "Anthropic, OpenAI, and Microsoft Just Agreed on One File Format. It Changes Everything."
+  tags: ai
+  [article](articles/nate-b-jones/2026-03-30-agreed-one-file-format-changes-everything.md)
+  | [summary](summary/nate-b-jones/2026-03-30-agreed-one-file-format-changes-everything.md)
+  | [source](https://www.youtube.com/watch?v=0cVuMHaYEHE)
+
+- 2026-03-31 10:35 - Nate Jones - 2026-03-29 00:00
+  "48 Days. That's How Long Before the Helium Runs Out for AI Chips."
+  tags: ai
+  [article](articles/nate-b-jones/2026-03-29-helium-runs-out-ai-chips.md)
+  | [summary](summary/nate-b-jones/2026-03-29-helium-runs-out-ai-chips.md)
+  | [source](https://www.youtube.com/watch?v=sTkqCREdMXo)
+
 - 2026-03-30 07:38 - Yogesh Yadav - 2026-03-00 00:00
   "AI Agent Memory Systems in 2026: Mem0, Zep, Hindsight, Memvid and Everything In Between — Compared"
   tags: ai
