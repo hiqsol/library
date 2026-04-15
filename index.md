@@ -6,6 +6,13 @@ permalink: sol/prj/hiqsol/library/index
 
 # Index
 
+- 2026-04-15 13:00 - Nate Jones - 2026-04-13 00:00
+  "I Looked At Amazon After They Fired 16,000 Engineers. Their AI Broke Everything."
+  tags: ai, development
+  [article](articles/nate-b-jones/2026-04-13-amazon-fired-16000-engineers-ai-broke-everything.md)
+  | [summary](summary/nate-b-jones/2026-04-13-amazon-fired-16000-engineers-ai-broke-everything.md)
+  | [source](https://www.youtube.com/watch?v=E1idsrv79tI)
+
 - 2026-03-31 10:35 - Nate Jones - 2026-03-30 00:00
   "Anthropic, OpenAI, and Microsoft Just Agreed on One File Format. It Changes Everything."
   tags: ai
