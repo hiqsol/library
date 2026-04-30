@@ -1,0 +1,245 @@
+So the Harvard Business Review just caught every major AI model, Claude,
+ChatGPT, Gemini, and the rest, manipulating the advice it gives to
+millions of us every day in exactly the same way. And it brings up a
+question that has potentially huge consequences for all of us. Is every
+response that seems true from these tools actually just made up? Well, a
+study published in the Harvard Business Review has just proven that it
+kind of is. So let me show you what they found.
+
+So we all tend to think that asking AI for advice is like asking, you
+know, a very smart person a question. It turns out it's not. And all of
+us are starting to make very real decisions about our health and our
+relationships, businesses, our lives based on advice that feels true,
+but isn't true to us specifically at all.
+
+So this study tested 15,000 AI conversations across all major frontier
+models to figure out how, let's call them intelligent, these tools
+actually are. And what they found is that one simple thing controls the
+advice you get. And it's not your context, it's not your prompt, it's
+not how detailed your instructions are. They do have some small impacts,
+but it's not the main causal thing. There's one thing that changes the
+advice more than anything else. And it's the order you type your options.
+
+So here's how the researchers figured this out. They took the top
+frontier models, which includes ChatGPT 5, Claude, Gemini, Grok,
+DeepSeek, Mistral, and they gave each one the same setup. They told it
+you're advising a company that's facing a major strategic decision. They
+gave it the details of the business, and then they gave it two possible
+directions, and asked, "Which do you recommend and why?"
+
+Now, in this study, they tested seven core business tensions:
+differentiation versus commoditization, automation versus augmentation,
+short-term versus long-term focus, radical innovation versus
+incremental, centralization versus decentralization, competition versus
+collaboration, and exploration versus exploitation.
+
+Now, strategy is the operating system a company runs on. Seven choices
+like these are the equivalent of choosing whether your entire business is
+going to run on Windows or Mac. What it means is every decision after
+that first one is constrained by which operating system that you picked.
+You can't mix them or change them quickly. And if you pick the wrong one,
+every problem that you try to solve going forward becomes 10 times harder
+because you're fighting that operating system.
+
+Now, it's important that we understand that these business tensions
+cannot coexist in one strategy. You cannot, definitionally, simultaneously
+focus on short-term and long-term. The equation simply doesn't compute.
+You can't pursue centralization and decentralization. And they are all
+very valid strategies for different companies in different contexts.
+There is no right answer. That's why running businesses is so hard.
+
+So the researchers ran thousands of simulations across each tension. They
+fed the tools all kinds of context that should force the tools to make
+different recommendations. Now, if the AI were actually analyzing each
+business, different situations would produce different recommendations.
+
+So what they did is provide more than 15,000 unique situations. They
+varied all the critical variables, things like what industry you're in,
+the size of the company, the market conditions, all of the variables
+that should affect the ultimate recommendation. Because at the end of
+the day, that's what strategy is. Strategy is choices and trade-offs
+based on your unique strengths and weaknesses and constraints.
+
+But that is not what happened.
+
+So let's look at this chart. If the models were genuinely neutral, what
+we'd expect to see is the dots clustering near the center of this
+diagram. Instead, for most tensions, what we see is the exact opposite.
+They cluster only tightly to one side across almost every model.
+
+The study found the same deep-seated preferences for specific strategic
+paths. It would choose differentiation over commoditization, augmentation
+over automation, long-term over short-term. So why is this? It's very
+simple. These tools aren't reasoning at all. They're parroting back
+popular buzzword recommendations from Substack and Reddit and some tech
+bro's blog.
+
+This is ineffective strategy, and it could literally kill a business.
+Michael Porter, the father of modern strategy, taught us that cost
+leadership is often the superior position. Walmart built a half a
+trillion-dollar business on this. So did Costco. So did Southwest
+Airlines. Commoditization is not a bad strategy. In the right context,
+it can be the winning one. But AI dismissed it nearly every single time.
+Not because it analyzed the business and concluded that differentiation
+was better, but because differentiation is trendy on forums, okay, and
+in Seth Godin books, and so forth. The researchers called this trendslop.
+
+And they even went out of their way to prove that models could actually
+reason. They tried to give them a chance to make more effective
+recommendations, but they simply, no matter what they did, could not
+eliminate the bias.
+
+Clearer prompts only moved the bias by 2%. Even more rich industry
+context, which you can picture as the kind of thing a consultant might
+actually build, moved it only 11%. Telling the models to reason more
+carefully did nothing, essentially.
+
+But then, they tried one more thing. They kept everything else identical,
+but then they flipped which options appeared first on the page. That
+single thing moved the answer 19%. The model gave different advice based
+on which option it read first.
+
+This is the Barnum effect in action at scale. It's the fortune teller
+saying to you, "I'm sensing some energy, and is there maybe a person in
+your life you have a conflict with? Yes? Your dad? Okay."
+
+Well, when we list options in our AI prompts, that's basically what
+we're doing. We're shaping the answer we're going to get back to us. We
+think the answer is hormones? Yep, it's probably hormones. Think it's
+diet? Probably that.
+
+The AI is not analyzing our situation. It's responding to how we ask the
+question, filtered through the popularity of a given response, which
+raises a more important question. How much of the advice that we've been
+taking from these tools is actually real or specific to us at all?
+
+It turns out that not a lot.
+
+AI is trained to agree with you. The process is called RLHF, which is
+reinforcement learning from human feedback. The way these models are
+trained is that humans rate the models' answers. Millions of people
+globally are doing this. And the models learn to produce answers that get
+higher ratings. But what makes a higher rating? Because humans, like me
+and you, like to be right, we tend to give higher ratings to agreeable
+responses. So the models learn to agree.
+
+This is also a user experience issue. These businesses are going to
+measure their success by usage. The more a model makes you feel good,
+like you're smart, the more you're going to come back to it. If it makes
+you feel dumb, you're not going to want to use it.
+
+AI is not optimizing for truth. It has no mechanism for truth. It's
+optimizing to make you feel good.
+
+And the research is very, very clear here. A 2025 arXiv paper tested
+this directly. When you start a prompt with "I think" or "I believe",
+the models' own knowledge gets suppressed in later layers of the network.
+Your opinion literally overrides what the model has learned.
+
+Nature Digital Medicine tested this on medical questions across five
+frontier models. Three of the five models followed the illogical request
+100% of the time. A fourth followed 94% of the time. Said plainly, the
+models recognized the requests as illogical and they just agreed with
+them anyway.
+
+This is exactly what happened to my friend. He told AI his theory, the
+AI agreed. He changes his theory, the AI agrees with the new one.
+
+Now the newer reasoning models are supposed to solve for this. They're
+supposed to show step-by-step reasoning before they give an answer. But
+so far, this hasn't proven out as effective.
+
+Anthropic, the company that makes Claude, tested whether the reasoning
+is real. So what they did is they slipped Claude a hint to the correct
+answer and then checked whether Claude mentioned the hint in its
+reasoning. You can think of it like this. Imagine watching a student
+taking a test. They glance at the answer key when you're not looking,
+right? And then they carefully write out the work showing how they
+reasoned their way to the answer. But that work is fake because they had
+the cheat sheet.
+
+And this is basically what the models were doing. Claude used the hints
+that it was given to change its answer 75% of the time without
+mentioning. DeepSeek hid its sources 61% of the time. And when the hint
+was framed as unethical, Claude hid it 59% of the time.
+
+The explanations Claude wrote while hiding its sources were also longer
+than the honest ones. And Anthropic's own conclusion at that time was
+that chain of thought can't be trusted to reliably reflect what the
+model is actually doing.
+
+So Anthropic took this one step further. They set up a test where the
+model could cheat and get rewarded for picking the wrong answer if it
+followed the hint. And it cheated in over 99% of cases. But then when
+you read its reasoning, it admitted to the cheat less than 2% of the
+time. The other 98% of the time it wrote out a confident fake
+explanation for why the answer was actually right.
+
+Now, these models are evolving very quickly. But as the newer research
+shows, the issues remain. The confident step-by-step that AI shows us
+has nothing to do with why it landed on the answer.
+
+So does this ultimately mean that we can't use these tools at all? I am
+not anti-AI. I am anti-hype. So I use these tools every day.
+
+To me, the question is not whether to use them. It's how to use them
+effectively without creating catastrophic consequences by taking bad
+advice as good.
+
+Everyone says AI is going to replace knowledge work. The research shows
+the opposite. Narrow expertise just became the most valuable thing that
+we can have.
+
+The way to use AI is as an aggregator, not as intelligence. Instead, it
+is a tool to support our own intelligence. It's a large language model.
+It's a word calculator. The word intelligence in artificial intelligence
+is hyperbole to sell licenses. It's extracting patterns from text. That's
+the whole mechanism. It's Barnum statements at scale.
+
+So the researchers gave us seven recommendations for working with AI
+more effectively. And those included: use it to expand options and not
+make choices; counteract the known biases; stay alert to new biases;
+watch out for compromise answers that pretend to resolve real tradeoffs;
+don't rely on context alone; ask the AI to argue against your position;
+and then require concrete examples before you act on any of it.
+
+But if we distill it down, all seven actually come down to one simple
+question. Are we using AI as an oracle or as a sparring partner?
+
+The oracle user asks the AI for the answer and it gets something
+confident sounding back. They then take that response at surface level
+because they don't understand the subject matter enough to question it.
+That's my friend with hormone therapy. And these are the kinds of
+questions where we as users need to be very, very careful.
+
+The sparring partner, instead, walks in with real knowledge of a domain.
+It will give the AI a draft and ask, "What are five counterarguments to
+my position? What are other resources I might consider? What are five
+variations I might try?" They apply their knowledge against the outputs.
+
+The difference between the two is how deep our own expertise runs in the
+domain that we're asking these tools about and how we use the tools to
+then collect information for us to synthesize, not allow these tools to
+draw conclusions for us.
+
+So the people that I see winning with AI right now are experts in their
+field using it as a tool the same way a carpenter uses a nail gun. It's
+enhancement. It is not replacement.
+
+So we started with a question. Is asking AI for advice like asking a
+smart person? No. Researchers tested seven frontier models across 15,000
+scenarios and found that reading order alone swings the advice by 19%.
+The AI is trained to agree with whoever is prompting it. And when it
+shows its reasoning, that reasoning is fabricated more than half the
+time.
+
+The value that we get from these tools depends on what we bring to them.
+It will not replace the need for white-collar work. It will enhance the
+need for better thinkers. My friend almost started hormone therapy
+because of biased advice parroted back to him in a confident voice.
+
+So learning to think well in a domain that we actually care about is the
+single highest leverage thing any of us can do right now. And that
+expertise is on us to build. AI will not replace thinking. It will make
+deep expertise more valuable than it has ever been. Now we've seen
+through it.

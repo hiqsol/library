@@ -6,6 +6,13 @@ permalink: sol/prj/hiqsol/library/index
 
 # Index
 
+- 2026-04-30 09:06 - Brendan Dell - 2026-04-29 00:00
+  "Harvard Just Caught AI Lying to Every Executive in America"
+  tags: ai
+  [article](articles/brendan-dell/2026-04-29-harvard-caught-ai-lying-to-executives.md)
+  | [summary](summary/brendan-dell/2026-04-29-harvard-caught-ai-lying-to-executives.md)
+  | [source](https://www.youtube.com/watch?v=pd1Km6bT104)
+
 - 2026-04-15 13:00 - Nate Jones - 2026-04-13 00:00
   "I Looked At Amazon After They Fired 16,000 Engineers. Their AI Broke Everything."
   tags: ai, development
