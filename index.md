@@ -6,6 +6,13 @@ permalink: sol/prj/hiqsol/library/index
 
 # Index
 
+- 2026-05-03 20:55 - Invest Capital - 2026-05-02 00:00
+  "How to Accumulate $30,000 Capital: My Story and Advice"
+  tags: development
+  [article](articles/invest-capital/2026-05-02-how-to-accumulate-30k-capital.md)
+  | [summary](summary/invest-capital/2026-05-02-how-to-accumulate-30k-capital.md)
+  | [source](https://youtu.be/RggPDsKpK68)
+
 - 2026-04-30 09:06 - Brendan Dell - 2026-04-29 00:00
   "Harvard Just Caught AI Lying to Every Executive in America"
   tags: ai
