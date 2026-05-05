@@ -43,11 +43,13 @@ tags: tag1, tag2
 ## Workflow
 
 1. User gives a URL
-2. Download transcript or original content → `raw/<author>/<YYYY-MM-DD>-<slug>.<ext>`
-3. Write article → `articles/<author>/<YYYY-MM-DD>-<slug>.md`
-4. Write summary → `summary/<author>/<YYYY-MM-DD>-<slug>.md`
-5. Update `index.md`
-6. Commit and push
+2. **DEDUP CHECK**: grep index.md for the URL (or video ID). If found → STOP,
+   tell user "Already processed: [title](article-link)" and do nothing else.
+3. Download transcript or original content → `raw/<author>/<YYYY-MM-DD>-<slug>.<ext>`
+4. Write article → `articles/<author>/<YYYY-MM-DD>-<slug>.md`
+5. Write summary → `summary/<author>/<YYYY-MM-DD>-<slug>.md`
+6. Update `index.md`
+7. Commit and push
 
 ## Index format
 
