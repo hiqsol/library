@@ -6,6 +6,11 @@ permalink: sol/prj/hiqsol/library/index
 
 # Index
 
+- 2026-05-05 11:03 - Nate B Jones - 2026-04-29 00:00
+  "GPT-5.5 vs Claude vs Gemini: The Real Difference Nobody's Talking About"
+  tags: ai
+  [article](articles/nate-b-jones/2026-04-29-gpt55-vs-claude-vs-gemini.md) | [summary](summary/nate-b-jones/2026-04-29-gpt55-vs-claude-vs-gemini.md) | [source](https://www.youtube.com/watch?v=9aIYhjeYxzM)
+
 - 2026-05-03 23:59 - Invest Capital - 2026-05-03 00:00
   "How to Accumulate $30,000 Capital: My Story and Advice"
   tags: development
