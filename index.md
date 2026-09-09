@@ -6,6 +6,13 @@ permalink: sol/prj/hiqsol/library/index
 
 # Index
 
+- 2026-09-09 20:02 - Bilawal Sidhu - 2026-09-08 22:55
+  God's Eye View Blew Up. Here's What You Can Do With It.
+  tags: ai, development
+  [article](articles/bilawal-sidhu/2026-09-08-gods-eye-view-blew-up-what-you-can-do.md)
+  | [summary](summary/bilawal-sidhu/2026-09-08-gods-eye-view-blew-up-what-you-can-do.md)
+  | [source](https://www.youtube.com/watch?v=o_FJ1NIH9yw)
+
 - 2026-09-09 13:08 - Nate B Jones - 2026-09-07 16:00
   "There Are Jobs You Could Never Give AI. I Gave GPT-6 Astra 20 Hours Of Admin."
   tags: ai
