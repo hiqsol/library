@@ -6,6 +6,13 @@ permalink: sol/prj/hiqsol/library/index
 
 # Index
 
+- 2026-09-09 20:08 - Jordan Urbs - 2026-09-06 19:38
+  Why I Cancelled My Claude Code Subscription (And You Should Too)
+  tags: ai, development
+  [article](articles/jordan-urbs/2026-09-06-why-i-cancelled-my-claude-code-subscription.md)
+  | [summary](summary/jordan-urbs/2026-09-06-why-i-cancelled-my-claude-code-subscription.md)
+  | [source](https://www.youtube.com/watch?v=yFvl2x8_9gI&t=342s)
+
 - 2026-09-09 20:02 - Bilawal Sidhu - 2026-09-08 22:55
   God's Eye View Blew Up. Here's What You Can Do With It.
   tags: ai, development
