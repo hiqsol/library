@@ -6,6 +6,76 @@ permalink: sol/prj/hiqsol/library/index
 
 # Index
 
+- 2026-09-09 13:08 - Nate B Jones - 2026-09-07 16:00
+  "There Are Jobs You Could Never Give AI. I Gave GPT-6 Astra 20 Hours Of Admin."
+  tags: ai
+  [article](articles/nate-b-jones/2026-09-07-astra-twenty-hours-moving-admin.md)
+  | [summary](summary/nate-b-jones/2026-09-07-astra-twenty-hours-moving-admin.md)
+  | [source](https://www.youtube.com/watch?v=ix8SsXjBc7M)
+
+- 2026-09-09 13:08 - Nate B Jones - 2026-09-06 19:00
+  "GPT-6 Astra Doesn't Need Your Instructions Anymore."
+  tags: ai, development
+  [article](articles/nate-b-jones/2026-09-06-astra-self-directed-agents.md)
+  | [summary](summary/nate-b-jones/2026-09-06-astra-self-directed-agents.md)
+  | [source](https://www.youtube.com/watch?v=1qGH6NwTj3o)
+
+- 2026-09-09 13:08 - Nate B Jones - 2026-09-04 16:00
+  "Everyone's Testing Claude Fable 5.1 On Code. It Made Me A 37-Second Film."
+  tags: ai, development
+  [article](articles/nate-b-jones/2026-09-04-fable-51-film-and-knowledge-work.md)
+  | [summary](summary/nate-b-jones/2026-09-04-fable-51-film-and-knowledge-work.md)
+  | [source](https://www.youtube.com/watch?v=55rDzRkUVdE)
+
+- 2026-09-09 13:08 - Nate B Jones - 2026-09-02 16:00
+  "OpenAI, NVIDIA And Anthropic Just Split. Here's How I'd Spend $20, $60 Or $200."
+  tags: ai
+  [article](articles/nate-b-jones/2026-09-02-three-ai-camps-subscription-budgets.md)
+  | [summary](summary/nate-b-jones/2026-09-02-three-ai-camps-subscription-budgets.md)
+  | [source](https://www.youtube.com/watch?v=L9xXnPqVfnM)
+
+- 2026-09-09 13:08 - Nate B Jones - 2026-08-31 16:00
+  "Apple's New Mac Line is Built Around Local AI. The Bet Is You'd Rather Own Than Rent."
+  tags: ai
+  [article](articles/nate-b-jones/2026-08-31-apple-local-ai-own-versus-rent.md)
+  | [summary](summary/nate-b-jones/2026-08-31-apple-local-ai-own-versus-rent.md)
+  | [source](https://www.youtube.com/watch?v=1lO8aNSLPJc)
+
+- 2026-09-09 13:08 - Nate B Jones - 2026-08-30 19:00
+  "Runable Raised $21 Million On Agents That Finish. Nobody Told Yours What Done Means."
+  tags: ai, development, startups
+  [article](articles/nate-b-jones/2026-08-30-agents-need-business-definition-of-done.md)
+  | [summary](summary/nate-b-jones/2026-08-30-agents-need-business-definition-of-done.md)
+  | [source](https://www.youtube.com/watch?v=qYe1GsMRElw)
+
+- 2026-09-09 13:08 - Nate B Jones - 2026-08-28 16:00
+  "How I Fight AI Brain Rot. Friction Maxxing With Codex, Grok And Claude."
+  tags: ai, development
+  [article](articles/nate-b-jones/2026-08-28-fighting-ai-brain-rot-through-disagreement.md)
+  | [summary](summary/nate-b-jones/2026-08-28-fighting-ai-brain-rot-through-disagreement.md)
+  | [source](https://www.youtube.com/watch?v=CSCwaqVqHGE)
+
+- 2026-09-09 13:08 - Nate B Jones - 2026-08-26 16:00
+  "Agents Aren't Taking Your Jobs. They're Creating More Work Instead."
+  tags: ai, development, startups
+  [article](articles/nate-b-jones/2026-08-26-agents-create-more-human-management-work.md)
+  | [summary](summary/nate-b-jones/2026-08-26-agents-create-more-human-management-work.md)
+  | [source](https://www.youtube.com/watch?v=IpEaSa7tgfc)
+
+- 2026-09-09 13:08 - Nate B Jones - 2026-08-24 16:00
+  "Stripe Paid $7.5 Billion For OpenRouter. You Are Living In The Age Of Startups."
+  tags: ai, startups, development
+  [article](articles/nate-b-jones/2026-08-24-stripe-openrouter-age-of-startups.md)
+  | [summary](summary/nate-b-jones/2026-08-24-stripe-openrouter-age-of-startups.md)
+  | [source](https://www.youtube.com/watch?v=DgyQ5r6bnmc)
+
+- 2026-09-09 13:08 - Nate B Jones - 2026-08-23 19:00
+  "OpenAI Pays $280,000 For This Job. You Don't Have To Be An Engineer."
+  tags: ai, development
+  [article](articles/nate-b-jones/2026-08-23-forward-deployed-engineer-skills-and-career.md)
+  | [summary](summary/nate-b-jones/2026-08-23-forward-deployed-engineer-skills-and-career.md)
+  | [source](https://www.youtube.com/watch?v=0bLI31EFDDs)
+
 - 2026-05-05 11:03 - Nate B Jones - 2026-04-29 00:00
   "GPT-5.5 vs Claude vs Gemini: The Real Difference Nobody's Talking About"
   tags: ai
