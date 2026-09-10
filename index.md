@@ -6,6 +6,13 @@ permalink: sol/prj/hiqsol/library/index
 
 # Index
 
+- 2026-09-10 20:45 - chatgpt - 2026-09-10 00:00
+  Fresh Best Practices for Programming with AI Agents --- 2026
+  tags: ai, development
+  [article](articles/chatgpt/2026-09-10-fresh-best-practices-for-programming-with-ai-agents.md)
+  | [summary](summary/chatgpt/2026-09-10-fresh-best-practices-for-programming-with-ai-agents.md)
+  | [source](https://github.com/sol/prj/hiqsol/library/blob/main/ai_coding_agents_best_practices_2026_en.md)
+
 - 2026-09-09 20:08 - Jordan Urbs - 2026-09-06 19:38
   Why I Cancelled My Claude Code Subscription (And You Should Too)
   tags: ai, development
