@@ -6,6 +6,13 @@ permalink: sol/prj/hiqsol/library/index
 
 # Index
 
+- 2026-09-15 09:36 - Konstantin Surkov - 2026-09-14 15:50
+  It May Already Be Impossible to Switch Off: AGI Risk and the Point of No Return
+  tags: ai, development
+  [article](articles/konstantin-surkov/2026-09-14-agi-risk-and-the-point-of-no-return.md)
+  | [summary](summary/konstantin-surkov/2026-09-14-agi-risk-and-the-point-of-no-return.md)
+  | [source](https://youtu.be/oc54CxycEGk)
+
 - 2026-09-15 08:51 - Prosto Gleb - 2026-06-30 13:25
   Everyday Habits, Rare Events, and Long-Term Outcomes
   tags: development
