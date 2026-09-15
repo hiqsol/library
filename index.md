@@ -6,6 +6,13 @@ permalink: sol/prj/hiqsol/library/index
 
 # Index
 
+- 2026-09-15 12:30 - Vitaly Portnikov - 2026-09-15 12:10
+  Trump's Political Myth, Russia's Oil Crisis, and Elite Impunity
+  tags: politics, war, ukraine
+  [article](articles/vitaly-portnikov/2026-09-15-trump-myths-oil-war-and-russias-elite-crisis.md)
+  | [summary](summary/vitaly-portnikov/2026-09-15-trump-myths-oil-war-and-russias-elite-crisis.md)
+  | [source](https://youtu.be/-7LX83ed9Js?si=5e-FxYywmv4q86AW)
+
 - 2026-09-15 09:36 - Konstantin Surkov - 2026-09-14 15:50
   It May Already Be Impossible to Switch Off: AGI Risk and the Point of No Return
   tags: ai, development
