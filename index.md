@@ -6,6 +6,13 @@ permalink: sol/prj/hiqsol/library/index
 
 # Index
 
+- 2026-09-15 08:51 - Prosto Gleb - 2026-06-30 13:25
+  Everyday Habits, Rare Events, and Long-Term Outcomes
+  tags: development
+  [article](articles/prosto-gleb/2026-06-30-secret-of-success-no-one-needs.md)
+  | [summary](summary/prosto-gleb/2026-06-30-secret-of-success-no-one-needs.md)
+  | [source](https://youtu.be/jKpGKmATpOM)
+
 - 2026-09-10 20:45 - chatgpt - 2026-09-10 00:00
   Fresh Best Practices for Programming with AI Agents --- 2026
   tags: ai, development
