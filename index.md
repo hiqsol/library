@@ -6,6 +6,13 @@ permalink: sol/prj/hiqsol/library/index
 
 # Index
 
+- 2026-09-15 18:50 - Matt Pocock - 2026-04-24 15:15
+  Full Walkthrough: Workflow for AI Coding
+  tags: ai, development
+  [article](articles/matt-pocock/2026-04-24-full-walkthrough-workflow-for-ai-coding.md)
+  | [summary](summary/matt-pocock/2026-04-24-full-walkthrough-workflow-for-ai-coding.md)
+  | [source](https://youtu.be/-QFHIoCo-Ko?is=wdO-18sTfE4cUNQZ)
+
 - 2026-09-15 18:40 - Andrew Qu - 2026-09-14 17:00
   How Vercel Solved Agent Building
   tags: ai, development
