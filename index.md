@@ -6,6 +6,13 @@ permalink: sol/prj/hiqsol/library/index
 
 # Index
 
+- 2026-09-15 18:40 - Andrew Qu - 2026-09-14 17:00
+  How Vercel Solved Agent Building
+  tags: ai, development
+  [article](articles/andrew-qu/2026-09-14-how-vercel-solved-agent-building.md)
+  | [summary](summary/andrew-qu/2026-09-14-how-vercel-solved-agent-building.md)
+  | [source](https://youtu.be/9dYcwOkpCE8?is=Qe3sSd4u8WeXL-3P)
+
 - 2026-09-15 12:30 - Vitaly Portnikov - 2026-09-15 12:10
   Trump's Political Myth, Russia's Oil Crisis, and Elite Impunity
   tags: politics, war, ukraine
