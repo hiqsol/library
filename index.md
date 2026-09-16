@@ -6,6 +6,13 @@ permalink: sol/prj/hiqsol/library/index
 
 # Index
 
+- 2026-09-16 09:20 - Surya - 2026-09-12 00:00
+  WikiSkill: Teaching an Agent Company Rules Without Fine-Tuning
+  tags: ai, development
+  [article](articles/surya/2026-09-12-wikiskill-learns-company-rules.md)
+  | [summary](summary/surya/2026-09-12-wikiskill-learns-company-rules.md)
+  | [source](https://youtu.be/ewxQLr7IxzY?is=av4C77hghhzmppTX)
+
 - 2026-09-16 08:19 - Better Stack - 2026-09-15 13:30
   This Tiny Coding Model Shouldn’t Be This Good (MiniCPM5)
   tags: ai, development
