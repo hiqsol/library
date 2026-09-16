@@ -6,6 +6,13 @@ permalink: sol/prj/hiqsol/library/index
 
 # Index
 
+- 2026-09-16 08:19 - Better Stack - 2026-09-15 13:30
+  This Tiny Coding Model Shouldn’t Be This Good (MiniCPM5)
+  tags: ai, development
+  [article](articles/better-stack/2026-09-15-minicpm5-tiny-coding-model-performance.md)
+  | [summary](summary/better-stack/2026-09-15-minicpm5-tiny-coding-model-performance.md)
+  | [source](https://youtu.be/Wik_JQ-enUA?is=OP0xxddCC80JHitq)
+
 - 2026-09-15 18:50 - Matt Pocock - 2026-04-24 15:15
   Full Walkthrough: Workflow for AI Coding
   tags: ai, development

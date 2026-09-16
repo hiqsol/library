@@ -1,0 +1,1528 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:00.160 --> 00:00:02.149 align:start position:0%
+ 
+This<00:00:00.480><c> two</c><00:00:00.719><c> billion</c><00:00:01.120><c> parameter</c><00:00:01.600><c> model</c><00:00:01.920><c> claims</c>
+
+00:00:02.149 --> 00:00:02.159 align:start position:0%
+This two billion parameter model claims
+ 
+
+00:00:02.159 --> 00:00:05.030 align:start position:0%
+This two billion parameter model claims
+to<00:00:02.320><c> beat</c><00:00:02.480><c> the</c><00:00:02.720><c> four</c><00:00:02.960><c> billion</c><00:00:03.360><c> one</c><00:00:03.760><c> on</c><00:00:04.240><c> S</c><00:00:04.240><c> swb</c>
+
+00:00:05.030 --> 00:00:05.040 align:start position:0%
+to beat the four billion one on S swb
+ 
+
+00:00:05.040 --> 00:00:07.829 align:start position:0%
+to beat the four billion one on S swb
+bench<00:00:05.680><c> but</c><00:00:05.920><c> run</c><00:00:06.080><c> the</c><00:00:06.319><c> same</c><00:00:06.560><c> model</c><00:00:06.879><c> at</c><00:00:07.200><c> 4bit</c>
+
+00:00:07.829 --> 00:00:07.839 align:start position:0%
+bench but run the same model at 4bit
+ 
+
+00:00:07.839 --> 00:00:10.629 align:start position:0%
+bench but run the same model at 4bit
+using<00:00:08.080><c> the</c><00:00:08.400><c> exact</c><00:00:08.880><c> settings</c><00:00:09.280><c> in</c><00:00:09.519><c> its</c><00:00:09.760><c> own</c><00:00:10.000><c> docs</c>
+
+00:00:10.629 --> 00:00:10.639 align:start position:0%
+using the exact settings in its own docs
+ 
+
+00:00:10.639 --> 00:00:12.790 align:start position:0%
+using the exact settings in its own docs
+and<00:00:10.800><c> it</c><00:00:11.040><c> can</c><00:00:11.200><c> fall</c><00:00:11.440><c> into</c><00:00:11.759><c> an</c><00:00:12.000><c> infinite</c><00:00:12.480><c> loop</c>
+
+00:00:12.790 --> 00:00:12.800 align:start position:0%
+and it can fall into an infinite loop
+ 
+
+00:00:12.800 --> 00:00:14.870 align:start position:0%
+and it can fall into an infinite loop
+over<00:00:13.040><c> 90%</c><00:00:13.599><c> of</c><00:00:13.679><c> the</c><00:00:13.840><c> time.</c><00:00:14.080><c> Now</c><00:00:14.320><c> that</c><00:00:14.559><c> could</c><00:00:14.719><c> be</c>
+
+00:00:14.870 --> 00:00:14.880 align:start position:0%
+over 90% of the time. Now that could be
+ 
+
+00:00:14.880 --> 00:00:16.470 align:start position:0%
+over 90% of the time. Now that could be
+true<00:00:15.120><c> but</c><00:00:15.280><c> it's</c><00:00:15.440><c> also</c><00:00:15.679><c> true</c><00:00:15.920><c> the</c><00:00:16.160><c> broken</c>
+
+00:00:16.470 --> 00:00:16.480 align:start position:0%
+true but it's also true the broken
+ 
+
+00:00:16.480 --> 00:00:19.269 align:start position:0%
+true but it's also true the broken
+version<00:00:16.720><c> is</c><00:00:16.960><c> fixable</c><00:00:17.600><c> with</c><00:00:17.920><c> one</c><00:00:18.240><c> flag.</c><00:00:19.039><c> This</c>
+
+00:00:19.269 --> 00:00:19.279 align:start position:0%
+version is fixable with one flag. This
+ 
+
+00:00:19.279 --> 00:00:23.349 align:start position:0%
+version is fixable with one flag. This
+is<00:00:19.520><c> mini</c><00:00:19.920><c> CPM52B</c><00:00:21.359><c> from</c><00:00:21.680><c> open</c><00:00:22.080><c> BMBB.</c><00:00:22.800><c> Is</c><00:00:22.960><c> a</c><00:00:23.199><c> 2</c>
+
+00:00:23.349 --> 00:00:23.359 align:start position:0%
+is mini CPM52B from open BMBB. Is a 2
+ 
+
+00:00:23.359 --> 00:00:24.870 align:start position:0%
+is mini CPM52B from open BMBB. Is a 2
+billion<00:00:23.680><c> parameter</c><00:00:24.080><c> model</c><00:00:24.320><c> good</c><00:00:24.480><c> enough</c><00:00:24.640><c> to</c>
+
+00:00:24.870 --> 00:00:24.880 align:start position:0%
+billion parameter model good enough to
+ 
+
+00:00:24.880 --> 00:00:26.950 align:start position:0%
+billion parameter model good enough to
+actually<00:00:25.199><c> be</c><00:00:25.359><c> used</c><00:00:25.519><c> as</c><00:00:25.680><c> an</c><00:00:25.920><c> agent?</c><00:00:26.480><c> Let's</c><00:00:26.800><c> take</c>
+
+00:00:26.950 --> 00:00:26.960 align:start position:0%
+actually be used as an agent? Let's take
+ 
+
+00:00:26.960 --> 00:00:32.790 align:start position:0%
+actually be used as an agent? Let's take
+a<00:00:27.119><c> look.</c>
+
+00:00:32.790 --> 00:00:32.800 align:start position:0%
+ 
+ 
+
+00:00:32.800 --> 00:00:34.790 align:start position:0%
+ 
+Now,<00:00:33.200><c> small</c><00:00:33.520><c> models</c><00:00:33.920><c> have</c><00:00:34.160><c> had</c><00:00:34.320><c> the</c><00:00:34.559><c> same</c>
+
+00:00:34.790 --> 00:00:34.800 align:start position:0%
+Now, small models have had the same
+ 
+
+00:00:34.800 --> 00:00:36.709 align:start position:0%
+Now, small models have had the same
+problem<00:00:35.200><c> for</c><00:00:35.440><c> a</c><00:00:35.600><c> while.</c><00:00:35.920><c> They</c><00:00:36.160><c> are</c><00:00:36.320><c> getting</c>
+
+00:00:36.709 --> 00:00:36.719 align:start position:0%
+problem for a while. They are getting
+ 
+
+00:00:36.719 --> 00:00:39.110 align:start position:0%
+problem for a while. They are getting
+pretty<00:00:37.040><c> good</c><00:00:37.280><c> at</c><00:00:37.520><c> chat.</c><00:00:38.239><c> Give</c><00:00:38.480><c> them</c><00:00:38.640><c> tools,</c>
+
+00:00:39.110 --> 00:00:39.120 align:start position:0%
+pretty good at chat. Give them tools,
+ 
+
+00:00:39.120 --> 00:00:41.590 align:start position:0%
+pretty good at chat. Give them tools,
+though,<00:00:39.360><c> and</c><00:00:39.680><c> things</c><00:00:40.079><c> usually</c><00:00:40.559><c> fall</c><00:00:40.800><c> apart.</c>
+
+00:00:41.590 --> 00:00:41.600 align:start position:0%
+though, and things usually fall apart.
+ 
+
+00:00:41.600 --> 00:00:44.549 align:start position:0%
+though, and things usually fall apart.
+Look<00:00:41.760><c> at</c><00:00:42.000><c> swbench</c><00:00:43.040><c> verified.</c><00:00:43.840><c> These</c><00:00:44.079><c> are</c><00:00:44.320><c> real</c>
+
+00:00:44.549 --> 00:00:44.559 align:start position:0%
+Look at swbench verified. These are real
+ 
+
+00:00:44.559 --> 00:00:46.630 align:start position:0%
+Look at swbench verified. These are real
+GitHub<00:00:45.040><c> issues</c><00:00:45.440><c> when</c><00:00:45.680><c> the</c><00:00:45.920><c> model</c><00:00:46.239><c> has</c><00:00:46.399><c> to</c>
+
+00:00:46.630 --> 00:00:46.640 align:start position:0%
+GitHub issues when the model has to
+ 
+
+00:00:46.640 --> 00:00:50.150 align:start position:0%
+GitHub issues when the model has to
+produce<00:00:46.960><c> real</c><00:00:47.280><c> patches.</c><00:00:48.079><c> Quinn</c><00:00:48.480><c> 3.5,</c><00:00:49.600><c> 2B</c>
+
+00:00:50.150 --> 00:00:50.160 align:start position:0%
+produce real patches. Quinn 3.5, 2B
+ 
+
+00:00:50.160 --> 00:00:53.430 align:start position:0%
+produce real patches. Quinn 3.5, 2B
+scores<00:00:50.559><c> five.</c><00:00:50.960><c> Gemma</c><00:00:51.360><c> 4,</c><00:00:51.600><c> E2B</c><00:00:52.320><c> scores</c><00:00:52.719><c> two.</c>
+
+00:00:53.430 --> 00:00:53.440 align:start position:0%
+scores five. Gemma 4, E2B scores two.
+ 
+
+00:00:53.440 --> 00:00:55.590 align:start position:0%
+scores five. Gemma 4, E2B scores two.
+Those<00:00:53.680><c> are</c><00:00:53.840><c> vendor</c><00:00:54.239><c> numbers,</c><00:00:54.640><c> but</c><00:00:54.960><c> match</c><00:00:55.280><c> what</c>
+
+00:00:55.590 --> 00:00:55.600 align:start position:0%
+Those are vendor numbers, but match what
+ 
+
+00:00:55.600 --> 00:00:57.510 align:start position:0%
+Those are vendor numbers, but match what
+anyone<00:00:56.000><c> who's</c><00:00:56.320><c> tried</c><00:00:56.640><c> small</c><00:00:56.960><c> models</c><00:00:57.280><c> for</c>
+
+00:00:57.510 --> 00:00:57.520 align:start position:0%
+anyone who's tried small models for
+ 
+
+00:00:57.520 --> 00:00:59.910 align:start position:0%
+anyone who's tried small models for
+agent<00:00:57.920><c> work</c><00:00:58.160><c> has</c><00:00:58.480><c> probably</c><00:00:58.800><c> seen.</c><00:00:59.440><c> The</c><00:00:59.680><c> model</c>
+
+00:00:59.910 --> 00:00:59.920 align:start position:0%
+agent work has probably seen. The model
+ 
+
+00:00:59.920 --> 00:01:02.229 align:start position:0%
+agent work has probably seen. The model
+hallucinates<00:01:00.559><c> the</c><00:01:00.800><c> toll</c><00:01:01.199><c> schema</c><00:01:01.600><c> or</c><00:01:01.840><c> forgets</c>
+
+00:01:02.229 --> 00:01:02.239 align:start position:0%
+hallucinates the toll schema or forgets
+ 
+
+00:01:02.239 --> 00:01:05.990 align:start position:0%
+hallucinates the toll schema or forgets
+it<00:01:02.480><c> or</c><00:01:02.719><c> just</c><00:01:02.960><c> loops.</c><00:01:03.840><c> Then</c><00:01:04.159><c> mini</c><00:01:04.559><c> CPM</c><00:01:05.280><c> 52B</c>
+
+00:01:05.990 --> 00:01:06.000 align:start position:0%
+it or just loops. Then mini CPM 52B
+ 
+
+00:01:06.000 --> 00:01:09.030 align:start position:0%
+it or just loops. Then mini CPM 52B
+shows<00:01:06.240><c> up</c><00:01:06.400><c> with</c><00:01:06.560><c> a</c><00:01:06.799><c> score</c><00:01:07.040><c> of</c><00:01:07.280><c> 46.</c><00:01:08.400><c> Not</c><00:01:08.720><c> only</c>
+
+00:01:09.030 --> 00:01:09.040 align:start position:0%
+shows up with a score of 46. Not only
+ 
+
+00:01:09.040 --> 00:01:11.750 align:start position:0%
+shows up with a score of 46. Not only
+way<00:01:09.360><c> above</c><00:01:09.600><c> the</c><00:01:09.840><c> other</c><00:01:10.080><c> 2B</c><00:01:10.560><c> models,</c><00:01:11.119><c> but</c><00:01:11.439><c> also</c>
+
+00:01:11.750 --> 00:01:11.760 align:start position:0%
+way above the other 2B models, but also
+ 
+
+00:01:11.760 --> 00:01:15.190 align:start position:0%
+way above the other 2B models, but also
+above<00:01:12.159><c> Quen</c><00:01:12.640><c> 3.54B,</c><00:01:14.000><c> which</c><00:01:14.240><c> is</c><00:01:14.400><c> twice</c><00:01:14.799><c> its</c>
+
+00:01:15.190 --> 00:01:15.200 align:start position:0%
+above Quen 3.54B, which is twice its
+ 
+
+00:01:15.200 --> 00:01:18.230 align:start position:0%
+above Quen 3.54B, which is twice its
+size.<00:01:16.000><c> So,</c><00:01:16.240><c> what's</c><00:01:16.560><c> changed?</c><00:01:17.200><c> OpenBM</c><00:01:18.000><c> points</c>
+
+00:01:18.230 --> 00:01:18.240 align:start position:0%
+size. So, what's changed? OpenBM points
+ 
+
+00:01:18.240 --> 00:01:20.789 align:start position:0%
+size. So, what's changed? OpenBM points
+to<00:01:18.479><c> three</c><00:01:18.880><c> things.</c><00:01:19.520><c> The</c><00:01:19.840><c> architecture</c><00:01:20.400><c> is</c>
+
+00:01:20.789 --> 00:01:20.799 align:start position:0%
+to three things. The architecture is
+ 
+
+00:01:20.799 --> 00:01:22.789 align:start position:0%
+to three things. The architecture is
+plain<00:01:21.280><c> llama.</c><00:01:21.840><c> There's</c><00:01:22.080><c> nothing</c><00:01:22.320><c> exotic</c>
+
+00:01:22.789 --> 00:01:22.799 align:start position:0%
+plain llama. There's nothing exotic
+ 
+
+00:01:22.799 --> 00:01:25.749 align:start position:0%
+plain llama. There's nothing exotic
+here.<00:01:23.200><c> It</c><00:01:23.439><c> has</c><00:01:23.600><c> about</c><00:01:24.240><c> 128,000</c><00:01:25.280><c> native</c>
+
+00:01:25.749 --> 00:01:25.759 align:start position:0%
+here. It has about 128,000 native
+ 
+
+00:01:25.759 --> 00:01:27.830 align:start position:0%
+here. It has about 128,000 native
+context<00:01:26.560><c> and</c><00:01:26.799><c> most</c><00:01:27.040><c> importantly,</c><00:01:27.600><c> the</c>
+
+00:01:27.830 --> 00:01:27.840 align:start position:0%
+context and most importantly, the
+ 
+
+00:01:27.840 --> 00:01:30.070 align:start position:0%
+context and most importantly, the
+training<00:01:28.159><c> was</c><00:01:28.479><c> built</c><00:01:28.720><c> around</c><00:01:29.119><c> agents.</c>
+
+00:01:30.070 --> 00:01:30.080 align:start position:0%
+training was built around agents.
+ 
+
+00:01:30.080 --> 00:01:32.469 align:start position:0%
+training was built around agents.
+500,000<00:01:31.040><c> agent</c><00:01:31.360><c> trajectories</c><00:01:32.000><c> during</c>
+
+00:01:32.469 --> 00:01:32.479 align:start position:0%
+500,000 agent trajectories during
+ 
+
+00:01:32.479 --> 00:01:34.469 align:start position:0%
+500,000 agent trajectories during
+supervised<00:01:33.119><c> fine-tuning,</c><00:01:34.159><c> then</c>
+
+00:01:34.469 --> 00:01:34.479 align:start position:0%
+supervised fine-tuning, then
+ 
+
+00:01:34.479 --> 00:01:37.030 align:start position:0%
+supervised fine-tuning, then
+reinforcement<00:01:35.200><c> learning,</c><00:01:35.680><c> then</c><00:01:36.079><c> 16</c><00:01:36.560><c> separate</c>
+
+00:01:37.030 --> 00:01:37.040 align:start position:0%
+reinforcement learning, then 16 separate
+ 
+
+00:01:37.040 --> 00:01:39.830 align:start position:0%
+reinforcement learning, then 16 separate
+RL<00:01:37.600><c> expert</c><00:01:38.079><c> models</c><00:01:38.560><c> merged</c><00:01:38.960><c> into</c><00:01:39.280><c> one.</c><00:01:39.680><c> It's</c>
+
+00:01:39.830 --> 00:01:39.840 align:start position:0%
+RL expert models merged into one. It's
+ 
+
+00:01:39.840 --> 00:01:42.310 align:start position:0%
+RL expert models merged into one. It's
+Apache<00:01:40.320><c> 2.0</c><00:01:40.880><c> with</c><00:01:41.119><c> open</c><00:01:41.360><c> data</c><00:01:41.680><c> sets.</c><00:01:41.920><c> And</c><00:01:42.159><c> just</c>
+
+00:01:42.310 --> 00:01:42.320 align:start position:0%
+Apache 2.0 with open data sets. And just
+ 
+
+00:01:42.320 --> 00:01:44.710 align:start position:0%
+Apache 2.0 with open data sets. And just
+to<00:01:42.479><c> avoid</c><00:01:42.880><c> one</c><00:01:43.200><c> easy</c><00:01:43.439><c> point</c><00:01:43.680><c> of</c><00:01:43.840><c> confusion,</c>
+
+00:01:44.710 --> 00:01:44.720 align:start position:0%
+to avoid one easy point of confusion,
+ 
+
+00:01:44.720 --> 00:01:48.389 align:start position:0%
+to avoid one easy point of confusion,
+this<00:01:44.960><c> is</c><00:01:45.119><c> the</c><00:01:45.360><c> texton</c><00:01:46.399><c> mini</c><00:01:46.720><c> CPM5</c><00:01:47.600><c> model.</c><00:01:48.159><c> Now,</c>
+
+00:01:48.389 --> 00:01:48.399 align:start position:0%
+this is the texton mini CPM5 model. Now,
+ 
+
+00:01:48.399 --> 00:01:49.830 align:start position:0%
+this is the texton mini CPM5 model. Now,
+let's<00:01:48.640><c> actually</c><00:01:48.960><c> run</c><00:01:49.119><c> it.</c><00:01:49.360><c> If</c><00:01:49.520><c> you</c><00:01:49.600><c> enjoy</c>
+
+00:01:49.830 --> 00:01:49.840 align:start position:0%
+let's actually run it. If you enjoy
+ 
+
+00:01:49.840 --> 00:01:51.030 align:start position:0%
+let's actually run it. If you enjoy
+coding<00:01:50.159><c> tools</c><00:01:50.320><c> that</c><00:01:50.479><c> speed</c><00:01:50.640><c> up</c><00:01:50.799><c> your</c>
+
+00:01:51.030 --> 00:01:51.040 align:start position:0%
+coding tools that speed up your
+ 
+
+00:01:51.040 --> 00:01:53.190 align:start position:0%
+coding tools that speed up your
+workflow,<00:01:51.600><c> be</c><00:01:51.840><c> sure</c><00:01:51.920><c> to</c><00:01:52.159><c> subscribe.</c><00:01:52.799><c> We</c><00:01:53.040><c> have</c>
+
+00:01:53.190 --> 00:01:53.200 align:start position:0%
+workflow, be sure to subscribe. We have
+ 
+
+00:01:53.200 --> 00:01:55.030 align:start position:0%
+workflow, be sure to subscribe. We have
+videos<00:01:53.520><c> coming</c><00:01:53.759><c> out</c><00:01:54.079><c> all</c><00:01:54.320><c> the</c><00:01:54.560><c> time.</c><00:01:55.040><c> All</c>
+
+00:01:55.030 --> 00:01:55.040 align:start position:0%
+videos coming out all the time. All
+ 
+
+00:01:55.040 --> 00:01:57.910 align:start position:0%
+videos coming out all the time. All
+right.<00:01:55.360><c> Now,</c><00:01:55.680><c> for</c><00:01:55.920><c> MLX,</c><00:01:56.720><c> I'm</c><00:01:56.880><c> on</c><00:01:56.960><c> a</c><00:01:57.119><c> Mac</c><00:01:57.360><c> here.</c>
+
+00:01:57.910 --> 00:01:57.920 align:start position:0%
+right. Now, for MLX, I'm on a Mac here.
+ 
+
+00:01:57.920 --> 00:02:00.149 align:start position:0%
+right. Now, for MLX, I'm on a Mac here.
+We<00:01:58.079><c> can</c><00:01:58.240><c> just</c><00:01:58.399><c> do</c><00:01:58.640><c> a</c><00:01:58.880><c> pip</c><00:01:59.200><c> install</c><00:01:59.680><c> in</c><00:01:59.920><c> a</c>
+
+00:02:00.149 --> 00:02:00.159 align:start position:0%
+We can just do a pip install in a
+ 
+
+00:02:00.159 --> 00:02:02.149 align:start position:0%
+We can just do a pip install in a
+virtual<00:02:00.640><c> environment,</c><00:02:01.119><c> which</c><00:02:01.360><c> I</c><00:02:01.600><c> got</c><00:02:01.759><c> set</c><00:02:02.000><c> up</c>
+
+00:02:02.149 --> 00:02:02.159 align:start position:0%
+virtual environment, which I got set up
+ 
+
+00:02:02.159 --> 00:02:05.190 align:start position:0%
+virtual environment, which I got set up
+here.<00:02:02.799><c> Older</c><00:02:03.119><c> versions</c><00:02:03.439><c> of</c><00:02:03.680><c> MLX</c><00:02:04.399><c> LM</c><00:02:04.880><c> ignore</c>
+
+00:02:05.190 --> 00:02:05.200 align:start position:0%
+here. Older versions of MLX LM ignore
+ 
+
+00:02:05.200 --> 00:02:07.429 align:start position:0%
+here. Older versions of MLX LM ignore
+this<00:02:05.439><c> model's</c><00:02:05.840><c> end</c><00:02:06.079><c> of</c><00:02:06.320><c> sequence</c><00:02:06.799><c> list.</c><00:02:07.200><c> So,</c>
+
+00:02:07.429 --> 00:02:07.439 align:start position:0%
+this model's end of sequence list. So,
+ 
+
+00:02:07.439 --> 00:02:09.510 align:start position:0%
+this model's end of sequence list. So,
+the<00:02:07.600><c> model</c><00:02:08.000><c> literally</c><00:02:08.560><c> doesn't</c><00:02:08.879><c> know</c><00:02:09.119><c> when</c><00:02:09.360><c> to</c>
+
+00:02:09.510 --> 00:02:09.520 align:start position:0%
+the model literally doesn't know when to
+ 
+
+00:02:09.520 --> 00:02:11.750 align:start position:0%
+the model literally doesn't know when to
+stop<00:02:09.840><c> talking.</c><00:02:10.560><c> Then,</c><00:02:10.800><c> we</c><00:02:11.039><c> can</c><00:02:11.120><c> run</c><00:02:11.280><c> the</c><00:02:11.520><c> first</c>
+
+00:02:11.750 --> 00:02:11.760 align:start position:0%
+stop talking. Then, we can run the first
+ 
+
+00:02:11.760 --> 00:02:13.750 align:start position:0%
+stop talking. Then, we can run the first
+prompt<00:02:12.080><c> to</c><00:02:12.239><c> pull</c><00:02:12.480><c> the</c><00:02:12.720><c> model</c><00:02:13.040><c> in</c><00:02:13.200><c> the</c><00:02:13.360><c> weights.</c>
+
+00:02:13.750 --> 00:02:13.760 align:start position:0%
+prompt to pull the model in the weights.
+ 
+
+00:02:13.760 --> 00:02:15.430 align:start position:0%
+prompt to pull the model in the weights.
+Just<00:02:13.920><c> give</c><00:02:14.000><c> it</c><00:02:14.160><c> a</c><00:02:14.319><c> second.</c><00:02:14.640><c> It</c><00:02:14.800><c> fires</c><00:02:15.120><c> up</c><00:02:15.200><c> the</c>
+
+00:02:15.430 --> 00:02:15.440 align:start position:0%
+Just give it a second. It fires up the
+ 
+
+00:02:15.440 --> 00:02:19.750 align:start position:0%
+Just give it a second. It fires up the
+first<00:02:15.599><c> time.</c><00:02:16.239><c> And</c><00:02:16.400><c> here</c><00:02:16.640><c> it</c><00:02:16.879><c> goes.</c>
+
+00:02:19.750 --> 00:02:19.760 align:start position:0%
+first time. And here it goes.
+ 
+
+00:02:19.760 --> 00:02:21.990 align:start position:0%
+first time. And here it goes.
+Once<00:02:20.160><c> we</c><00:02:20.400><c> run</c><00:02:20.560><c> this,</c><00:02:20.879><c> you</c><00:02:21.040><c> get</c><00:02:21.200><c> the</c><00:02:21.520><c> think</c>
+
+00:02:21.990 --> 00:02:22.000 align:start position:0%
+Once we run this, you get the think
+ 
+
+00:02:22.000 --> 00:02:25.270 align:start position:0%
+Once we run this, you get the think
+block.<00:02:22.720><c> This</c><00:02:22.959><c> is</c><00:02:23.440><c> how</c><00:02:23.680><c> it</c><00:02:23.920><c> thinks.</c><00:02:24.720><c> Then</c><00:02:25.040><c> after</c>
+
+00:02:25.270 --> 00:02:25.280 align:start position:0%
+block. This is how it thinks. Then after
+ 
+
+00:02:25.280 --> 00:02:27.510 align:start position:0%
+block. This is how it thinks. Then after
+this,<00:02:25.520><c> it</c><00:02:25.760><c> produces</c><00:02:26.160><c> that</c><00:02:26.400><c> final</c><00:02:26.720><c> answer.</c><00:02:27.280><c> And</c>
+
+00:02:27.510 --> 00:02:27.520 align:start position:0%
+this, it produces that final answer. And
+ 
+
+00:02:27.520 --> 00:02:29.430 align:start position:0%
+this, it produces that final answer. And
+there's<00:02:27.760><c> the</c><00:02:27.920><c> tokens</c><00:02:28.319><c> per</c><00:02:28.560><c> second</c><00:02:28.879><c> counter</c><00:02:29.280><c> as</c>
+
+00:02:29.430 --> 00:02:29.440 align:start position:0%
+there's the tokens per second counter as
+ 
+
+00:02:29.440 --> 00:02:31.750 align:start position:0%
+there's the tokens per second counter as
+well.<00:02:29.760><c> All</c><00:02:29.920><c> of</c><00:02:30.000><c> that</c><00:02:30.160><c> is</c><00:02:30.400><c> coming</c><00:02:30.560><c> from</c><00:02:30.800><c> a</c><00:02:31.040><c> 1.3</c>
+
+00:02:31.750 --> 00:02:31.760 align:start position:0%
+well. All of that is coming from a 1.3
+ 
+
+00:02:31.760 --> 00:02:34.710 align:start position:0%
+well. All of that is coming from a 1.3
+GB<00:02:32.319><c> file.</c><00:02:33.120><c> Now,</c><00:02:33.360><c> we</c><00:02:33.599><c> can</c><00:02:33.680><c> even</c><00:02:33.920><c> set</c><00:02:34.160><c> this</c><00:02:34.400><c> to</c><00:02:34.560><c> be</c>
+
+00:02:34.710 --> 00:02:34.720 align:start position:0%
+GB file. Now, we can even set this to be
+ 
+
+00:02:34.720 --> 00:02:37.190 align:start position:0%
+GB file. Now, we can even set this to be
+an<00:02:34.879><c> interactive</c><00:02:35.519><c> chat,</c><00:02:36.000><c> too.</c><00:02:36.480><c> So,</c><00:02:36.800><c> when</c><00:02:37.040><c> I</c>
+
+00:02:37.190 --> 00:02:37.200 align:start position:0%
+an interactive chat, too. So, when I
+ 
+
+00:02:37.200 --> 00:02:39.750 align:start position:0%
+an interactive chat, too. So, when I
+drop<00:02:37.440><c> this</c><00:02:37.680><c> line</c><00:02:37.920><c> in</c><00:02:38.160><c> here,</c><00:02:38.800><c> boom,</c><00:02:39.200><c> it</c><00:02:39.360><c> fires</c>
+
+00:02:39.750 --> 00:02:39.760 align:start position:0%
+drop this line in here, boom, it fires
+ 
+
+00:02:39.760 --> 00:02:41.509 align:start position:0%
+drop this line in here, boom, it fires
+up.<00:02:40.160><c> You</c><00:02:40.319><c> can</c><00:02:40.480><c> see</c><00:02:40.720><c> now</c><00:02:40.879><c> it's</c><00:02:41.200><c> always</c>
+
+00:02:41.509 --> 00:02:41.519 align:start position:0%
+up. You can see now it's always
+ 
+
+00:02:41.519 --> 00:02:42.949 align:start position:0%
+up. You can see now it's always
+listening.<00:02:41.920><c> So,</c><00:02:42.080><c> we</c><00:02:42.239><c> can</c><00:02:42.319><c> just</c><00:02:42.480><c> ask</c><00:02:42.720><c> a</c>
+
+00:02:42.949 --> 00:02:42.959 align:start position:0%
+listening. So, we can just ask a
+ 
+
+00:02:42.959 --> 00:02:45.030 align:start position:0%
+listening. So, we can just ask a
+question<00:02:43.120><c> on</c><00:02:43.360><c> the</c><00:02:43.519><c> go,</c><00:02:44.160><c> and</c><00:02:44.400><c> the</c><00:02:44.560><c> responses</c>
+
+00:02:45.030 --> 00:02:45.040 align:start position:0%
+question on the go, and the responses
+ 
+
+00:02:45.040 --> 00:02:47.910 align:start position:0%
+question on the go, and the responses
+that<00:02:45.280><c> we</c><00:02:45.440><c> get</c><00:02:45.840><c> fire</c><00:02:46.239><c> right</c><00:02:46.480><c> back</c><00:02:46.720><c> at</c><00:02:46.959><c> us.</c><00:02:47.440><c> Now,</c>
+
+00:02:47.910 --> 00:02:47.920 align:start position:0%
+that we get fire right back at us. Now,
+ 
+
+00:02:47.920 --> 00:02:51.270 align:start position:0%
+that we get fire right back at us. Now,
+chat<00:02:48.480><c> is</c><00:02:48.800><c> cool,</c><00:02:49.200><c> but</c><00:02:49.519><c> the</c><00:02:49.760><c> tools</c><00:02:50.560><c> are</c><00:02:50.879><c> just</c><00:02:51.040><c> as</c>
+
+00:02:51.270 --> 00:02:51.280 align:start position:0%
+chat is cool, but the tools are just as
+ 
+
+00:02:51.280 --> 00:02:53.110 align:start position:0%
+chat is cool, but the tools are just as
+good<00:02:51.440><c> here.</c><00:02:51.840><c> I'm</c><00:02:52.080><c> going</c><00:02:52.160><c> to</c><00:02:52.319><c> start</c><00:02:52.480><c> up</c><00:02:52.720><c> Llama</c>
+
+00:02:53.110 --> 00:02:53.120 align:start position:0%
+good here. I'm going to start up Llama
+ 
+
+00:02:53.120 --> 00:02:55.910 align:start position:0%
+good here. I'm going to start up Llama
+CPP<00:02:53.680><c> now</c><00:02:53.920><c> in</c><00:02:54.160><c> a</c><00:02:54.400><c> new</c><00:02:54.720><c> terminal,</c><00:02:55.200><c> then</c><00:02:55.440><c> point</c><00:02:55.680><c> an</c>
+
+00:02:55.910 --> 00:02:55.920 align:start position:0%
+CPP now in a new terminal, then point an
+ 
+
+00:02:55.920 --> 00:02:58.470 align:start position:0%
+CPP now in a new terminal, then point an
+OpenAI<00:02:56.560><c> client</c><00:02:56.879><c> at</c><00:02:57.120><c> it</c><00:02:57.280><c> and</c><00:02:57.519><c> give</c><00:02:57.680><c> it</c><00:02:57.920><c> a</c><00:02:58.160><c> simple</c>
+
+00:02:58.470 --> 00:02:58.480 align:start position:0%
+OpenAI client at it and give it a simple
+ 
+
+00:02:58.480 --> 00:03:00.869 align:start position:0%
+OpenAI client at it and give it a simple
+weather<00:02:58.879><c> tool.</c><00:02:59.680><c> The</c><00:02:59.920><c> model</c><00:03:00.239><c> produces</c><00:03:00.640><c> a</c>
+
+00:03:00.869 --> 00:03:00.879 align:start position:0%
+weather tool. The model produces a
+ 
+
+00:03:00.879 --> 00:03:02.869 align:start position:0%
+weather tool. The model produces a
+structured<00:03:01.280><c> function</c><00:03:01.599><c> call</c><00:03:01.920><c> llama</c><00:03:02.319><c> CPP</c>
+
+00:03:02.869 --> 00:03:02.879 align:start position:0%
+structured function call llama CPP
+ 
+
+00:03:02.879 --> 00:03:04.949 align:start position:0%
+structured function call llama CPP
+parses<00:03:03.280><c> it,</c><00:03:03.599><c> and</c><00:03:03.840><c> the</c><00:03:04.000><c> response</c><00:03:04.480><c> comes</c><00:03:04.720><c> back</c>
+
+00:03:04.949 --> 00:03:04.959 align:start position:0%
+parses it, and the response comes back
+ 
+
+00:03:04.959 --> 00:03:08.070 align:start position:0%
+parses it, and the response comes back
+as<00:03:05.200><c> a</c><00:03:05.440><c> proper</c><00:03:05.760><c> tool</c><00:03:06.159><c> calls</c><00:03:06.560><c> array.</c><00:03:07.200><c> So</c><00:03:07.680><c> now</c><00:03:07.920><c> you</c>
+
+00:03:08.070 --> 00:03:08.080 align:start position:0%
+as a proper tool calls array. So now you
+ 
+
+00:03:08.080 --> 00:03:09.670 align:start position:0%
+as a proper tool calls array. So now you
+can<00:03:08.239><c> think</c><00:03:08.400><c> of</c><00:03:08.560><c> all</c><00:03:08.800><c> the</c><00:03:09.040><c> different</c><00:03:09.200><c> ways</c><00:03:09.440><c> this</c>
+
+00:03:09.670 --> 00:03:09.680 align:start position:0%
+can think of all the different ways this
+ 
+
+00:03:09.680 --> 00:03:11.990 align:start position:0%
+can think of all the different ways this
+could<00:03:09.920><c> run</c><00:03:10.159><c> cleanly</c><00:03:10.560><c> on</c><00:03:10.879><c> your</c><00:03:11.120><c> system.</c><00:03:11.760><c> Now,</c>
+
+00:03:11.990 --> 00:03:12.000 align:start position:0%
+could run cleanly on your system. Now,
+ 
+
+00:03:12.000 --> 00:03:14.149 align:start position:0%
+could run cleanly on your system. Now,
+there's<00:03:12.239><c> also</c><00:03:12.480><c> a</c><00:03:12.720><c> reason</c><00:03:13.040><c> compatibility</c><00:03:13.920><c> is</c>
+
+00:03:14.149 --> 00:03:14.159 align:start position:0%
+there's also a reason compatibility is
+ 
+
+00:03:14.159 --> 00:03:16.470 align:start position:0%
+there's also a reason compatibility is
+this<00:03:14.400><c> clean.</c><00:03:15.040><c> If</c><00:03:15.280><c> we</c><00:03:15.519><c> take</c><00:03:15.599><c> a</c><00:03:15.840><c> step</c><00:03:16.000><c> back,</c><00:03:16.319><c> this</c>
+
+00:03:16.470 --> 00:03:16.480 align:start position:0%
+this clean. If we take a step back, this
+ 
+
+00:03:16.480 --> 00:03:19.030 align:start position:0%
+this clean. If we take a step back, this
+is<00:03:16.640><c> a</c><00:03:16.800><c> dense</c><00:03:17.200><c> 2.5</c><00:03:17.840><c> billion</c><00:03:18.239><c> parameter</c><00:03:18.720><c> model</c>
+
+00:03:19.030 --> 00:03:19.040 align:start position:0%
+is a dense 2.5 billion parameter model
+ 
+
+00:03:19.040 --> 00:03:21.830 align:start position:0%
+is a dense 2.5 billion parameter model
+with<00:03:19.360><c> 42</c><00:03:20.000><c> layers</c><00:03:20.560><c> and</c><00:03:20.800><c> grouped</c><00:03:21.280><c> query</c>
+
+00:03:21.830 --> 00:03:21.840 align:start position:0%
+with 42 layers and grouped query
+ 
+
+00:03:21.840 --> 00:03:24.470 align:start position:0%
+with 42 layers and grouped query
+attention.<00:03:22.800><c> But</c><00:03:22.959><c> the</c><00:03:23.200><c> important</c><00:03:23.680><c> line</c><00:03:24.000><c> is</c><00:03:24.239><c> the</c>
+
+00:03:24.470 --> 00:03:24.480 align:start position:0%
+attention. But the important line is the
+ 
+
+00:03:24.480 --> 00:03:28.149 align:start position:0%
+attention. But the important line is the
+architecture<00:03:25.120><c> here.</c><00:03:25.680><c> Llama</c><00:03:26.319><c> for</c><00:03:26.640><c> casual</c><00:03:27.280><c> LM.</c>
+
+00:03:28.149 --> 00:03:28.159 align:start position:0%
+architecture here. Llama for casual LM.
+ 
+
+00:03:28.159 --> 00:03:31.589 align:start position:0%
+architecture here. Llama for casual LM.
+Mini<00:03:28.560><c> CPM4</c><00:03:29.920><c> isn't</c><00:03:30.400><c> that.</c><00:03:30.799><c> It</c><00:03:31.040><c> used</c><00:03:31.280><c> custom</c>
+
+00:03:31.589 --> 00:03:31.599 align:start position:0%
+Mini CPM4 isn't that. It used custom
+ 
+
+00:03:31.599 --> 00:03:33.430 align:start position:0%
+Mini CPM4 isn't that. It used custom
+sparse<00:03:32.000><c> attention</c><00:03:32.400><c> and</c><00:03:32.640><c> multi-token</c>
+
+00:03:33.430 --> 00:03:33.440 align:start position:0%
+sparse attention and multi-token
+ 
+
+00:03:33.440 --> 00:03:35.030 align:start position:0%
+sparse attention and multi-token
+prediction.<00:03:33.920><c> That's</c><00:03:34.159><c> nice</c><00:03:34.319><c> and</c><00:03:34.480><c> all,</c><00:03:34.720><c> but</c>
+
+00:03:35.030 --> 00:03:35.040 align:start position:0%
+prediction. That's nice and all, but
+ 
+
+00:03:35.040 --> 00:03:36.869 align:start position:0%
+prediction. That's nice and all, but
+every<00:03:35.280><c> runtime</c><00:03:35.760><c> needed</c><00:03:36.080><c> special</c><00:03:36.400><c> support.</c>
+
+00:03:36.869 --> 00:03:36.879 align:start position:0%
+every runtime needed special support.
+ 
+
+00:03:36.879 --> 00:03:39.830 align:start position:0%
+every runtime needed special support.
+Mini<00:03:37.200><c> CPM</c><00:03:37.760><c> 5</c><00:03:37.920><c> basically</c><00:03:38.319><c> throws</c><00:03:38.640><c> that</c><00:03:39.120><c> away.</c>
+
+00:03:39.830 --> 00:03:39.840 align:start position:0%
+Mini CPM 5 basically throws that away.
+ 
+
+00:03:39.840 --> 00:03:41.830 align:start position:0%
+Mini CPM 5 basically throws that away.
+If<00:03:40.000><c> your</c><00:03:40.159><c> runtime</c><00:03:40.640><c> can</c><00:03:40.879><c> load</c><00:03:41.200><c> llama,</c><00:03:41.680><c> there's</c>
+
+00:03:41.830 --> 00:03:41.840 align:start position:0%
+If your runtime can load llama, there's
+ 
+
+00:03:41.840 --> 00:03:43.830 align:start position:0%
+If your runtime can load llama, there's
+a<00:03:42.000><c> good</c><00:03:42.159><c> chance</c><00:03:42.239><c> it</c><00:03:42.480><c> can</c><00:03:42.640><c> load</c><00:03:42.879><c> this.</c><00:03:43.280><c> MLX,</c>
+
+00:03:43.830 --> 00:03:43.840 align:start position:0%
+a good chance it can load this. MLX,
+ 
+
+00:03:43.840 --> 00:03:46.789 align:start position:0%
+a good chance it can load this. MLX,
+Llama<00:03:44.159><c> CPP,</c><00:03:44.720><c> Web,</c><00:03:45.040><c> LLM.</c><00:03:45.840><c> So,</c><00:03:46.080><c> compatibility</c>
+
+00:03:46.789 --> 00:03:46.799 align:start position:0%
+Llama CPP, Web, LLM. So, compatibility
+ 
+
+00:03:46.799 --> 00:03:48.630 align:start position:0%
+Llama CPP, Web, LLM. So, compatibility
+is<00:03:47.040><c> one</c><00:03:47.200><c> of</c><00:03:47.280><c> the</c><00:03:47.440><c> strongest</c><00:03:47.840><c> parts</c><00:03:48.159><c> of</c><00:03:48.400><c> this</c>
+
+00:03:48.630 --> 00:03:48.640 align:start position:0%
+is one of the strongest parts of this
+ 
+
+00:03:48.640 --> 00:03:50.470 align:start position:0%
+is one of the strongest parts of this
+model.<00:03:49.280><c> But</c><00:03:49.440><c> now</c><00:03:49.680><c> we</c><00:03:49.840><c> get</c><00:03:49.920><c> to</c><00:03:50.080><c> the</c><00:03:50.239><c> whole</c>
+
+00:03:50.470 --> 00:03:50.480 align:start position:0%
+model. But now we get to the whole
+ 
+
+00:03:50.480 --> 00:03:52.789 align:start position:0%
+model. But now we get to the whole
+benchmark<00:03:51.040><c> table</c><00:03:51.519><c> because</c><00:03:51.840><c> this</c><00:03:52.080><c> is</c><00:03:52.159><c> where</c><00:03:52.560><c> it</c>
+
+00:03:52.789 --> 00:03:52.799 align:start position:0%
+benchmark table because this is where it
+ 
+
+00:03:52.799 --> 00:03:55.350 align:start position:0%
+benchmark table because this is where it
+gets<00:03:53.040><c> a</c><00:03:53.360><c> lot</c><00:03:53.519><c> less</c><00:03:53.920><c> clean.</c><00:03:54.560><c> If</c><00:03:54.799><c> you</c><00:03:54.959><c> only</c><00:03:55.200><c> read</c>
+
+00:03:55.350 --> 00:03:55.360 align:start position:0%
+gets a lot less clean. If you only read
+ 
+
+00:03:55.360 --> 00:03:57.990 align:start position:0%
+gets a lot less clean. If you only read
+the<00:03:55.599><c> table</c><00:03:55.920><c> one</c><00:03:56.159><c> direction,</c><00:03:56.560><c> Min</c><00:03:56.879><c> CPM5</c><00:03:57.680><c> looks</c>
+
+00:03:57.990 --> 00:03:58.000 align:start position:0%
+the table one direction, Min CPM5 looks
+ 
+
+00:03:58.000 --> 00:04:00.949 align:start position:0%
+the table one direction, Min CPM5 looks
+ridiculous.<00:03:58.720><c> Against</c><00:03:59.040><c> Quen</c><00:03:59.439><c> 3.54B,</c><00:04:00.480><c> a</c><00:04:00.720><c> model</c>
+
+00:04:00.949 --> 00:04:00.959 align:start position:0%
+ridiculous. Against Quen 3.54B, a model
+ 
+
+00:04:00.959 --> 00:04:03.830 align:start position:0%
+ridiculous. Against Quen 3.54B, a model
+twice<00:04:01.360><c> its</c><00:04:01.680><c> size.</c><00:04:02.400><c> Live</c><00:04:02.720><c> codebench</c><00:04:03.280><c> has</c><00:04:03.439><c> them</c>
+
+00:04:03.830 --> 00:04:03.840 align:start position:0%
+twice its size. Live codebench has them
+ 
+
+00:04:03.840 --> 00:04:08.309 align:start position:0%
+twice its size. Live codebench has them
+69<00:04:04.239><c> to</c><00:04:04.480><c> 56.</c><00:04:05.120><c> SWE</c><00:04:05.680><c> Bench</c><00:04:06.080><c> verified</c><00:04:06.640><c> 46</c><00:04:07.120><c> to</c><00:04:07.360><c> 34.</c>
+
+00:04:08.309 --> 00:04:08.319 align:start position:0%
+69 to 56. SWE Bench verified 46 to 34.
+ 
+
+00:04:08.319 --> 00:04:10.309 align:start position:0%
+69 to 56. SWE Bench verified 46 to 34.
+You<00:04:08.560><c> can</c><00:04:08.720><c> check</c><00:04:08.959><c> these</c><00:04:09.360><c> rankings</c><00:04:09.760><c> on</c><00:04:10.000><c> other</c>
+
+00:04:10.309 --> 00:04:10.319 align:start position:0%
+You can check these rankings on other
+ 
+
+00:04:10.319 --> 00:04:11.990 align:start position:0%
+You can check these rankings on other
+platforms<00:04:10.799><c> as</c><00:04:11.040><c> well.</c><00:04:11.280><c> So,</c><00:04:11.439><c> the</c><00:04:11.599><c> comparison</c>
+
+00:04:11.990 --> 00:04:12.000 align:start position:0%
+platforms as well. So, the comparison
+ 
+
+00:04:12.000 --> 00:04:14.070 align:start position:0%
+platforms as well. So, the comparison
+here<00:04:12.239><c> is</c><00:04:12.480><c> kind</c><00:04:12.640><c> of</c><00:04:12.720><c> ridiculous.</c><00:04:13.519><c> That</c><00:04:13.840><c> sounds</c>
+
+00:04:14.070 --> 00:04:14.080 align:start position:0%
+here is kind of ridiculous. That sounds
+ 
+
+00:04:14.080 --> 00:04:17.590 align:start position:0%
+here is kind of ridiculous. That sounds
+like<00:04:14.159><c> a</c><00:04:14.319><c> 2B</c><00:04:14.720><c> model</c><00:04:15.200><c> replacing</c><00:04:15.840><c> a</c><00:04:16.239><c> 4B</c><00:04:16.880><c> model.</c>
+
+00:04:17.590 --> 00:04:17.600 align:start position:0%
+like a 2B model replacing a 4B model.
+ 
+
+00:04:17.600 --> 00:04:20.069 align:start position:0%
+like a 2B model replacing a 4B model.
+Now,<00:04:17.919><c> look</c><00:04:18.079><c> at</c><00:04:18.160><c> the</c><00:04:18.320><c> table</c><00:04:18.639><c> in</c><00:04:18.880><c> a</c><00:04:19.040><c> new</c><00:04:19.199><c> light.</c>
+
+00:04:20.069 --> 00:04:20.079 align:start position:0%
+Now, look at the table in a new light.
+ 
+
+00:04:20.079 --> 00:04:24.150 align:start position:0%
+Now, look at the table in a new light.
+SWEBench<00:04:21.040><c> Pro</c><00:04:21.600><c> 14</c><00:04:22.079><c> versus</c><00:04:22.479><c> 28.</c><00:04:22.960><c> Mini</c><00:04:23.280><c> CPM</c><00:04:23.919><c> 5</c>
+
+00:04:24.150 --> 00:04:24.160 align:start position:0%
+SWEBench Pro 14 versus 28. Mini CPM 5
+ 
+
+00:04:24.160 --> 00:04:26.870 align:start position:0%
+SWEBench Pro 14 versus 28. Mini CPM 5
+gets<00:04:24.560><c> half</c><00:04:24.960><c> the</c><00:04:25.280><c> score.</c><00:04:25.919><c> Terminal</c><00:04:26.400><c> Bench,</c><00:04:26.720><c> we</c>
+
+00:04:26.870 --> 00:04:26.880 align:start position:0%
+gets half the score. Terminal Bench, we
+ 
+
+00:04:26.880 --> 00:04:29.909 align:start position:0%
+gets half the score. Terminal Bench, we
+have<00:04:27.040><c> about</c><00:04:27.199><c> an</c><00:04:27.440><c> 8</c><00:04:27.840><c> 1/2</c><00:04:28.080><c> versus</c><00:04:28.479><c> around</c><00:04:28.720><c> a</c><00:04:28.960><c> 26,</c>
+
+00:04:29.909 --> 00:04:29.919 align:start position:0%
+have about an 8 1/2 versus around a 26,
+ 
+
+00:04:29.919 --> 00:04:33.189 align:start position:0%
+have about an 8 1/2 versus around a 26,
+about<00:04:30.080><c> a</c><00:04:30.320><c> third.</c><00:04:30.720><c> Quen</c><00:04:31.120><c> 3.54B</c><00:04:32.320><c> also</c><00:04:32.639><c> wins</c><00:04:32.960><c> on</c>
+
+00:04:33.189 --> 00:04:33.199 align:start position:0%
+about a third. Quen 3.54B also wins on
+ 
+
+00:04:33.199 --> 00:04:36.550 align:start position:0%
+about a third. Quen 3.54B also wins on
+other<00:04:33.440><c> platforms.</c><00:04:34.000><c> Mmlu</c><00:04:34.960><c> Pro,</c><00:04:35.360><c> GPQA</c><00:04:36.240><c> Diamond,</c>
+
+00:04:36.550 --> 00:04:36.560 align:start position:0%
+other platforms. Mmlu Pro, GPQA Diamond,
+ 
+
+00:04:36.560 --> 00:04:39.189 align:start position:0%
+other platforms. Mmlu Pro, GPQA Diamond,
+and<00:04:36.800><c> Logbench</c><00:04:37.600><c> V2.</c><00:04:38.479><c> and</c><00:04:38.639><c> on</c><00:04:38.880><c> plain</c>
+
+00:04:39.189 --> 00:04:39.199 align:start position:0%
+and Logbench V2. and on plain
+ 
+
+00:04:39.199 --> 00:04:41.670 align:start position:0%
+and Logbench V2. and on plain
+instruction<00:04:39.680><c> following</c><00:04:40.080><c> even</c><00:04:40.240><c> Quen</c><00:04:40.639><c> 3.52B</c>
+
+00:04:41.670 --> 00:04:41.680 align:start position:0%
+instruction following even Quen 3.52B
+ 
+
+00:04:41.680 --> 00:04:44.390 align:start position:0%
+instruction following even Quen 3.52B
+beats<00:04:42.080><c> mini</c><00:04:42.400><c> CPM</c><00:04:42.960><c> 5.</c><00:04:43.199><c> So</c><00:04:43.360><c> when</c><00:04:43.600><c> they</c><00:04:43.759><c> call</c><00:04:43.919><c> this</c>
+
+00:04:44.390 --> 00:04:44.400 align:start position:0%
+beats mini CPM 5. So when they call this
+ 
+
+00:04:44.400 --> 00:04:47.189 align:start position:0%
+beats mini CPM 5. So when they call this
+4B<00:04:44.960><c> class</c><00:04:45.680><c> there's</c><00:04:45.919><c> some</c><00:04:46.160><c> truth</c><00:04:46.400><c> to</c><00:04:46.560><c> it</c><00:04:46.880><c> for</c>
+
+00:04:47.189 --> 00:04:47.199 align:start position:0%
+4B class there's some truth to it for
+ 
+
+00:04:47.199 --> 00:04:49.030 align:start position:0%
+4B class there's some truth to it for
+code<00:04:47.520><c> tool</c><00:04:47.759><c> calls</c><00:04:48.080><c> math</c><00:04:48.400><c> and</c><00:04:48.560><c> parts</c><00:04:48.800><c> of</c><00:04:48.880><c> the</c>
+
+00:04:49.030 --> 00:04:49.040 align:start position:0%
+code tool calls math and parts of the
+ 
+
+00:04:49.040 --> 00:04:51.350 align:start position:0%
+code tool calls math and parts of the
+agent<00:04:49.360><c> workload</c><00:04:49.919><c> absolutely</c><00:04:50.800><c> across</c><00:04:51.199><c> the</c>
+
+00:04:51.350 --> 00:04:51.360 align:start position:0%
+agent workload absolutely across the
+ 
+
+00:04:51.360 --> 00:04:53.990 align:start position:0%
+agent workload absolutely across the
+whole<00:04:51.600><c> board.</c><00:04:52.240><c> Yeah.</c><00:04:52.560><c> No,</c><00:04:52.960><c> probably</c><00:04:53.360><c> not.</c><00:04:53.759><c> The</c>
+
+00:04:53.990 --> 00:04:54.000 align:start position:0%
+whole board. Yeah. No, probably not. The
+ 
+
+00:04:54.000 --> 00:04:55.270 align:start position:0%
+whole board. Yeah. No, probably not. The
+bigger<00:04:54.240><c> problem</c><00:04:54.560><c> with</c><00:04:54.800><c> this</c><00:04:54.960><c> model</c>
+
+00:04:55.270 --> 00:04:55.280 align:start position:0%
+bigger problem with this model
+ 
+
+00:04:55.280 --> 00:04:57.270 align:start position:0%
+bigger problem with this model
+specifically<00:04:56.080><c> is</c><00:04:56.320><c> what</c><00:04:56.639><c> happens</c><00:04:56.880><c> when</c><00:04:57.120><c> you</c>
+
+00:04:57.270 --> 00:04:57.280 align:start position:0%
+specifically is what happens when you
+ 
+
+00:04:57.280 --> 00:04:59.350 align:start position:0%
+specifically is what happens when you
+run<00:04:57.440><c> the</c><00:04:57.680><c> quantized</c><00:04:58.320><c> model</c><00:04:58.720><c> using</c><00:04:59.040><c> the</c>
+
+00:04:59.350 --> 00:04:59.360 align:start position:0%
+run the quantized model using the
+ 
+
+00:04:59.360 --> 00:05:01.189 align:start position:0%
+run the quantized model using the
+documented<00:05:00.000><c> settings.</c><00:05:00.639><c> Someone</c><00:05:00.880><c> on</c><00:05:01.040><c> the</c>
+
+00:05:01.189 --> 00:05:01.199 align:start position:0%
+documented settings. Someone on the
+ 
+
+00:05:01.199 --> 00:05:03.590 align:start position:0%
+documented settings. Someone on the
+GitHub<00:05:01.520><c> tracker</c><00:05:01.919><c> tested</c><00:05:02.320><c> human</c><00:05:02.639><c> eval</c><00:05:03.120><c> plus</c>
+
+00:05:03.590 --> 00:05:03.600 align:start position:0%
+GitHub tracker tested human eval plus
+ 
+
+00:05:03.600 --> 00:05:06.469 align:start position:0%
+GitHub tracker tested human eval plus
+against<00:05:03.919><c> the</c><00:05:04.080><c> GGUF</c><00:05:04.880><c> files.</c><00:05:05.360><c> Q8</c><00:05:06.000><c> scored</c><00:05:06.240><c> about</c>
+
+00:05:06.469 --> 00:05:06.479 align:start position:0%
+against the GGUF files. Q8 scored about
+ 
+
+00:05:06.479 --> 00:05:10.070 align:start position:0%
+against the GGUF files. Q8 scored about
+a<00:05:06.639><c> 43</c><00:05:07.360><c> and</c><00:05:07.680><c> 55%</c><00:05:08.560><c> of</c><00:05:08.880><c> generations</c><00:05:09.520><c> ran</c><00:05:09.840><c> away</c>
+
+00:05:10.070 --> 00:05:10.080 align:start position:0%
+a 43 and 55% of generations ran away
+ 
+
+00:05:10.080 --> 00:05:13.110 align:start position:0%
+a 43 and 55% of generations ran away
+into<00:05:10.400><c> repetition.</c><00:05:11.360><c> Q4KM</c><00:05:12.400><c> scored</c><00:05:12.639><c> around</c><00:05:12.880><c> a</c>
+
+00:05:13.110 --> 00:05:13.120 align:start position:0%
+into repetition. Q4KM scored around a
+ 
+
+00:05:13.120 --> 00:05:17.510 align:start position:0%
+into repetition. Q4KM scored around a
+six<00:05:13.360><c> and</c><00:05:13.680><c> 92%</c><00:05:14.639><c> ran</c><00:05:14.960><c> away.</c><00:05:15.759><c> 92%.</c>
+
+00:05:17.510 --> 00:05:17.520 align:start position:0%
+six and 92% ran away. 92%.
+ 
+
+00:05:17.520 --> 00:05:19.430 align:start position:0%
+six and 92% ran away. 92%.
+That<00:05:17.759><c> looks</c><00:05:18.000><c> like</c><00:05:18.080><c> a</c><00:05:18.320><c> broken</c><00:05:18.639><c> model</c><00:05:19.120><c> except</c>
+
+00:05:19.430 --> 00:05:19.440 align:start position:0%
+That looks like a broken model except
+ 
+
+00:05:19.440 --> 00:05:22.150 align:start position:0%
+That looks like a broken model except
+then<00:05:19.680><c> they</c><00:05:20.000><c> changed</c><00:05:20.560><c> one</c><00:05:20.880><c> thing.</c><00:05:21.680><c> Repeat</c>
+
+00:05:22.150 --> 00:05:22.160 align:start position:0%
+then they changed one thing. Repeat
+ 
+
+00:05:22.160 --> 00:05:24.469 align:start position:0%
+then they changed one thing. Repeat
+penalty<00:05:22.880><c> 1.15.</c>
+
+00:05:24.469 --> 00:05:24.479 align:start position:0%
+penalty 1.15.
+ 
+
+00:05:24.479 --> 00:05:28.150 align:start position:0%
+penalty 1.15.
+Q8<00:05:24.960><c> jumps</c><00:05:25.360><c> from</c><00:05:25.600><c> around</c><00:05:25.840><c> a</c><00:05:26.000><c> 43</c><00:05:26.560><c> to</c><00:05:26.800><c> a</c><00:05:26.960><c> 92.</c><00:05:27.600><c> Q4</c>
+
+00:05:28.150 --> 00:05:28.160 align:start position:0%
+Q8 jumps from around a 43 to a 92. Q4
+ 
+
+00:05:28.160 --> 00:05:31.590 align:start position:0%
+Q8 jumps from around a 43 to a 92. Q4
+jumps<00:05:28.720><c> 6</c><00:05:28.960><c> to</c><00:05:29.280><c> 71.</c><00:05:30.000><c> Open</c><00:05:30.400><c> BMBB</c><00:05:30.960><c> later</c><00:05:31.280><c> said</c><00:05:31.440><c> on</c>
+
+00:05:31.590 --> 00:05:31.600 align:start position:0%
+jumps 6 to 71. Open BMBB later said on
+ 
+
+00:05:31.600 --> 00:05:34.790 align:start position:0%
+jumps 6 to 71. Open BMBB later said on
+Hugging<00:05:32.000><c> Face</c><00:05:32.240><c> that</c><00:05:32.400><c> Llama's</c><00:05:32.960><c> CPP's</c><00:05:34.320><c> default</c>
+
+00:05:34.790 --> 00:05:34.800 align:start position:0%
+Hugging Face that Llama's CPP's default
+ 
+
+00:05:34.800 --> 00:05:38.230 align:start position:0%
+Hugging Face that Llama's CPP's default
+min<00:05:35.440><c> value</c><00:05:35.759><c> is</c><00:05:36.080><c> 05.</c><00:05:37.199><c> That's</c><00:05:37.440><c> the</c><00:05:37.600><c> real</c><00:05:37.840><c> problem</c>
+
+00:05:38.230 --> 00:05:38.240 align:start position:0%
+min value is 05. That's the real problem
+ 
+
+00:05:38.240 --> 00:05:40.390 align:start position:0%
+min value is 05. That's the real problem
+and<00:05:38.479><c> that</c><00:05:38.639><c> it</c><00:05:38.800><c> should</c><00:05:38.960><c> be</c><00:05:39.120><c> set</c><00:05:39.360><c> to</c><00:05:39.600><c> zero.</c><00:05:40.240><c> But</c>
+
+00:05:40.390 --> 00:05:40.400 align:start position:0%
+and that it should be set to zero. But
+ 
+
+00:05:40.400 --> 00:05:42.390 align:start position:0%
+and that it should be set to zero. But
+that<00:05:40.639><c> wasn't</c><00:05:40.880><c> in</c><00:05:41.120><c> the</c><00:05:41.280><c> docs</c><00:05:41.680><c> when</c><00:05:41.919><c> people</c><00:05:42.080><c> ran</c>
+
+00:05:42.390 --> 00:05:42.400 align:start position:0%
+that wasn't in the docs when people ran
+ 
+
+00:05:42.400 --> 00:05:44.390 align:start position:0%
+that wasn't in the docs when people ran
+this.<00:05:42.639><c> At</c><00:05:42.880><c> 2</c><00:05:43.120><c> billion</c><00:05:43.440><c> parameters,</c><00:05:44.000><c> one</c><00:05:44.160><c> bad</c>
+
+00:05:44.390 --> 00:05:44.400 align:start position:0%
+this. At 2 billion parameters, one bad
+ 
+
+00:05:44.400 --> 00:05:46.230 align:start position:0%
+this. At 2 billion parameters, one bad
+default<00:05:44.800><c> can</c><00:05:44.960><c> turn</c><00:05:45.120><c> a</c><00:05:45.280><c> useful</c><00:05:45.600><c> model</c><00:05:45.919><c> into</c>
+
+00:05:46.230 --> 00:05:46.240 align:start position:0%
+default can turn a useful model into
+ 
+
+00:05:46.240 --> 00:05:48.710 align:start position:0%
+default can turn a useful model into
+well<00:05:46.720><c> nothing</c><00:05:47.039><c> really</c><00:05:47.440><c> great.</c><00:05:48.000><c> The</c><00:05:48.240><c> sampler</c>
+
+00:05:48.710 --> 00:05:48.720 align:start position:0%
+well nothing really great. The sampler
+ 
+
+00:05:48.720 --> 00:05:50.870 align:start position:0%
+well nothing really great. The sampler
+isn't<00:05:49.120><c> just</c><00:05:49.440><c> tuning</c><00:05:49.840><c> anymore.</c><00:05:50.320><c> It's</c><00:05:50.560><c> part</c><00:05:50.720><c> of</c>
+
+00:05:50.870 --> 00:05:50.880 align:start position:0%
+isn't just tuning anymore. It's part of
+ 
+
+00:05:50.880 --> 00:05:52.790 align:start position:0%
+isn't just tuning anymore. It's part of
+the<00:05:51.120><c> actual</c><00:05:51.440><c> model.</c><00:05:52.080><c> And</c><00:05:52.240><c> there</c><00:05:52.400><c> are</c><00:05:52.560><c> a</c><00:05:52.720><c> few</c>
+
+00:05:52.790 --> 00:05:52.800 align:start position:0%
+the actual model. And there are a few
+ 
+
+00:05:52.800 --> 00:05:54.390 align:start position:0%
+the actual model. And there are a few
+more<00:05:53.039><c> things</c><00:05:53.280><c> you</c><00:05:53.520><c> should</c><00:05:53.680><c> know</c><00:05:53.840><c> before</c><00:05:54.160><c> using</c>
+
+00:05:54.390 --> 00:05:54.400 align:start position:0%
+more things you should know before using
+ 
+
+00:05:54.400 --> 00:05:57.670 align:start position:0%
+more things you should know before using
+it.<00:05:54.960><c> Every</c><00:05:55.280><c> benchmark</c><00:05:55.919><c> here</c><00:05:56.160><c> is</c><00:05:56.479><c> vendor</c><00:05:57.120><c> ran.</c>
+
+00:05:57.670 --> 00:05:57.680 align:start position:0%
+it. Every benchmark here is vendor ran.
+ 
+
+00:05:57.680 --> 00:05:59.670 align:start position:0%
+it. Every benchmark here is vendor ran.
+So<00:05:57.919><c> the</c><00:05:58.080><c> comparison</c><00:05:58.560><c> table</c><00:05:58.880><c> only</c><00:05:59.199><c> includes</c>
+
+00:05:59.670 --> 00:05:59.680 align:start position:0%
+So the comparison table only includes
+ 
+
+00:05:59.680 --> 00:06:03.110 align:start position:0%
+So the comparison table only includes
+Quen<00:06:00.240><c> and</c><00:06:00.479><c> Gemma.</c><00:06:01.199><c> No</c><00:06:01.440><c> Llama,</c><00:06:02.240><c> no</c><00:06:02.479><c> fee,</c><00:06:02.880><c> no</c>
+
+00:06:03.110 --> 00:06:03.120 align:start position:0%
+Quen and Gemma. No Llama, no fee, no
+ 
+
+00:06:03.120 --> 00:06:06.790 align:start position:0%
+Quen and Gemma. No Llama, no fee, no
+small<00:06:03.520><c> LM3,</c><00:06:04.639><c> not</c><00:06:04.880><c> even</c><00:06:05.039><c> a</c><00:06:05.280><c> mini</c><00:06:05.600><c> CPM4</c><00:06:06.639><c> row</c>
+
+00:06:06.790 --> 00:06:06.800 align:start position:0%
+small LM3, not even a mini CPM4 row
+ 
+
+00:06:06.800 --> 00:06:08.629 align:start position:0%
+small LM3, not even a mini CPM4 row
+showing<00:06:07.039><c> what</c><00:06:07.280><c> improved</c><00:06:07.919><c> generation</c><00:06:08.479><c> to</c>
+
+00:06:08.629 --> 00:06:08.639 align:start position:0%
+showing what improved generation to
+ 
+
+00:06:08.639 --> 00:06:10.309 align:start position:0%
+showing what improved generation to
+generation.<00:06:09.520><c> Someone</c><00:06:09.759><c> asked</c><00:06:10.000><c> for</c><00:06:10.160><c> the</c>
+
+00:06:10.309 --> 00:06:10.319 align:start position:0%
+generation. Someone asked for the
+ 
+
+00:06:10.319 --> 00:06:12.950 align:start position:0%
+generation. Someone asked for the
+evaluation<00:06:10.960><c> scripts</c><00:06:11.440><c> in</c><00:06:11.680><c> an</c><00:06:11.840><c> issue.</c><00:06:12.639><c> No</c>
+
+00:06:12.950 --> 00:06:12.960 align:start position:0%
+evaluation scripts in an issue. No
+ 
+
+00:06:12.960 --> 00:06:15.590 align:start position:0%
+evaluation scripts in an issue. No
+response.<00:06:13.759><c> It's</c><00:06:14.080><c> also</c><00:06:14.479><c> not</c><00:06:14.720><c> in</c><00:06:14.880><c> the</c><00:06:15.199><c> Lama</c>
+
+00:06:15.590 --> 00:06:15.600 align:start position:0%
+response. It's also not in the Lama
+ 
+
+00:06:15.600 --> 00:06:17.749 align:start position:0%
+response. It's also not in the Lama
+library,<00:06:16.080><c> so</c><00:06:16.319><c> you</c><00:06:16.479><c> need</c><00:06:16.639><c> to</c><00:06:16.880><c> write</c><00:06:17.120><c> a</c><00:06:17.360><c> model</c>
+
+00:06:17.749 --> 00:06:17.759 align:start position:0%
+library, so you need to write a model
+ 
+
+00:06:17.759 --> 00:06:20.790 align:start position:0%
+library, so you need to write a model
+file.<00:06:18.479><c> There's</c><00:06:18.720><c> no</c><00:06:19.120><c> LM</c><00:06:19.600><c> Studio</c><00:06:20.000><c> page</c><00:06:20.400><c> either.</c>
+
+00:06:20.790 --> 00:06:20.800 align:start position:0%
+file. There's no LM Studio page either.
+ 
+
+00:06:20.800 --> 00:06:23.670 align:start position:0%
+file. There's no LM Studio page either.
+You<00:06:20.960><c> drop</c><00:06:21.120><c> the</c><00:06:21.360><c> GGUF</c><00:06:22.080><c> inn</c><00:06:22.319><c> manually.</c><00:06:23.280><c> Thinking</c>
+
+00:06:23.670 --> 00:06:23.680 align:start position:0%
+You drop the GGUF inn manually. Thinking
+ 
+
+00:06:23.680 --> 00:06:25.749 align:start position:0%
+You drop the GGUF inn manually. Thinking
+is<00:06:23.919><c> enabled</c><00:06:24.319><c> by</c><00:06:24.560><c> default,</c><00:06:24.960><c> so</c><00:06:25.120><c> every</c><00:06:25.360><c> answer</c>
+
+00:06:25.749 --> 00:06:25.759 align:start position:0%
+is enabled by default, so every answer
+ 
+
+00:06:25.759 --> 00:06:27.830 align:start position:0%
+is enabled by default, so every answer
+has<00:06:26.000><c> to</c><00:06:26.240><c> reason</c><00:06:26.800><c> before</c><00:06:27.120><c> it</c><00:06:27.360><c> starts</c><00:06:27.680><c> giving</c>
+
+00:06:27.830 --> 00:06:27.840 align:start position:0%
+has to reason before it starts giving
+ 
+
+00:06:27.840 --> 00:06:30.230 align:start position:0%
+has to reason before it starts giving
+you<00:06:28.000><c> the</c><00:06:28.240><c> response.</c><00:06:29.039><c> There</c><00:06:29.280><c> is</c><00:06:29.440><c> an</c><00:06:29.680><c> enable</c>
+
+00:06:30.230 --> 00:06:30.240 align:start position:0%
+you the response. There is an enable
+ 
+
+00:06:30.240 --> 00:06:32.309 align:start position:0%
+you the response. There is an enable
+thinking<00:06:30.639><c> switch</c><00:06:31.120><c> in</c><00:06:31.360><c> the</c><00:06:31.520><c> chat</c><00:06:31.840><c> template,</c>
+
+00:06:32.309 --> 00:06:32.319 align:start position:0%
+thinking switch in the chat template,
+ 
+
+00:06:32.319 --> 00:06:34.390 align:start position:0%
+thinking switch in the chat template,
+but<00:06:32.479><c> the</c><00:06:32.639><c> official</c><00:06:32.960><c> docs</c><00:06:33.600><c> only</c><00:06:33.919><c> provide</c><00:06:34.160><c> a</c>
+
+00:06:34.390 --> 00:06:34.400 align:start position:0%
+but the official docs only provide a
+ 
+
+00:06:34.400 --> 00:06:36.629 align:start position:0%
+but the official docs only provide a
+sampling<00:06:34.800><c> profile</c><00:06:35.199><c> for</c><00:06:35.360><c> think</c><00:06:35.680><c> mode.</c><00:06:36.240><c> Nobody</c>
+
+00:06:36.629 --> 00:06:36.639 align:start position:0%
+sampling profile for think mode. Nobody
+ 
+
+00:06:36.639 --> 00:06:38.150 align:start position:0%
+sampling profile for think mode. Nobody
+has<00:06:36.880><c> measured</c><00:06:37.199><c> what</c><00:06:37.360><c> it's</c><00:06:37.680><c> like</c><00:06:37.919><c> with</c>
+
+00:06:38.150 --> 00:06:38.160 align:start position:0%
+has measured what it's like with
+ 
+
+00:06:38.160 --> 00:06:40.150 align:start position:0%
+has measured what it's like with
+thinking<00:06:38.720><c> disabled</c><00:06:39.199><c> yet.</c><00:06:39.600><c> English</c><00:06:39.919><c> and</c>
+
+00:06:40.150 --> 00:06:40.160 align:start position:0%
+thinking disabled yet. English and
+ 
+
+00:06:40.160 --> 00:06:42.550 align:start position:0%
+thinking disabled yet. English and
+Chinese<00:06:40.639><c> only,</c><00:06:41.199><c> more</c><00:06:41.440><c> than</c><00:06:41.759><c> 100,000</c>
+
+00:06:42.550 --> 00:06:42.560 align:start position:0%
+Chinese only, more than 100,000
+ 
+
+00:06:42.560 --> 00:06:45.350 align:start position:0%
+Chinese only, more than 100,000
+downloads<00:06:42.960><c> for</c><00:06:43.120><c> the</c><00:06:43.280><c> 2B</c><00:06:43.680><c> model,</c><00:06:44.319><c> 600,000</c><00:06:45.199><c> for</c>
+
+00:06:45.350 --> 00:06:45.360 align:start position:0%
+downloads for the 2B model, 600,000 for
+ 
+
+00:06:45.360 --> 00:06:47.830 align:start position:0%
+downloads for the 2B model, 600,000 for
+the<00:06:45.520><c> 1B.</c><00:06:46.400><c> People</c><00:06:46.880><c> are</c><00:06:47.199><c> running</c><00:06:47.440><c> these,</c>
+
+00:06:47.830 --> 00:06:47.840 align:start position:0%
+the 1B. People are running these,
+ 
+
+00:06:47.840 --> 00:06:49.510 align:start position:0%
+the 1B. People are running these,
+they're<00:06:48.080><c> just</c><00:06:48.240><c> not</c><00:06:48.479><c> talking</c><00:06:48.800><c> about</c><00:06:49.039><c> them</c><00:06:49.280><c> that</c>
+
+00:06:49.510 --> 00:06:49.520 align:start position:0%
+they're just not talking about them that
+ 
+
+00:06:49.520 --> 00:06:51.510 align:start position:0%
+they're just not talking about them that
+much.<00:06:50.240><c> So,</c><00:06:50.479><c> would</c><00:06:50.720><c> I</c><00:06:50.880><c> actually</c><00:06:51.039><c> use</c><00:06:51.280><c> mini</c>
+
+00:06:51.510 --> 00:06:51.520 align:start position:0%
+much. So, would I actually use mini
+ 
+
+00:06:51.520 --> 00:06:54.469 align:start position:0%
+much. So, would I actually use mini
+CPM52B?<00:06:52.960><c> Well,</c><00:06:53.600><c> these</c><00:06:53.840><c> are</c><00:06:54.000><c> really</c><00:06:54.240><c> cool</c><00:06:54.319><c> to</c>
+
+00:06:54.469 --> 00:06:54.479 align:start position:0%
+CPM52B? Well, these are really cool to
+ 
+
+00:06:54.479 --> 00:06:55.990 align:start position:0%
+CPM52B? Well, these are really cool to
+play<00:06:54.639><c> around</c><00:06:54.800><c> with.</c><00:06:55.120><c> They're</c><00:06:55.360><c> cool</c><00:06:55.600><c> to</c><00:06:55.840><c> see</c>
+
+00:06:55.990 --> 00:06:56.000 align:start position:0%
+play around with. They're cool to see
+ 
+
+00:06:56.000 --> 00:06:58.629 align:start position:0%
+play around with. They're cool to see
+where<00:06:56.319><c> local</c><00:06:56.800><c> stuff</c><00:06:57.120><c> is</c><00:06:57.360><c> going</c><00:06:57.919><c> for</c><00:06:58.080><c> a</c><00:06:58.319><c> local</c>
+
+00:06:58.629 --> 00:06:58.639 align:start position:0%
+where local stuff is going for a local
+ 
+
+00:06:58.639 --> 00:07:00.230 align:start position:0%
+where local stuff is going for a local
+coding<00:06:58.960><c> agent</c><00:06:59.199><c> on</c><00:06:59.360><c> maybe</c><00:06:59.520><c> like</c><00:06:59.599><c> a</c><00:06:59.759><c> MacBook</c>
+
+00:07:00.230 --> 00:07:00.240 align:start position:0%
+coding agent on maybe like a MacBook
+ 
+
+00:07:00.240 --> 00:07:02.230 align:start position:0%
+coding agent on maybe like a MacBook
+Air.<00:07:00.639><c> I</c><00:07:00.880><c> mean,</c><00:07:01.039><c> yeah,</c><00:07:01.440><c> okay.</c><00:07:01.840><c> It</c><00:07:02.000><c> could</c><00:07:02.160><c> be</c>
+
+00:07:02.230 --> 00:07:02.240 align:start position:0%
+Air. I mean, yeah, okay. It could be
+ 
+
+00:07:02.240 --> 00:07:04.710 align:start position:0%
+Air. I mean, yeah, okay. It could be
+kind<00:07:02.479><c> of</c><00:07:02.560><c> cool.</c><00:07:03.039><c> I'd</c><00:07:03.280><c> run</c><00:07:03.440><c> the</c><00:07:03.599><c> MLX4</c><00:07:04.400><c> bit</c><00:07:04.560><c> or</c>
+
+00:07:04.710 --> 00:07:04.720 align:start position:0%
+kind of cool. I'd run the MLX4 bit or
+ 
+
+00:07:04.720 --> 00:07:08.150 align:start position:0%
+kind of cool. I'd run the MLX4 bit or
+the<00:07:04.880><c> Q8</c><00:07:05.360><c> GGUF.</c><00:07:06.240><c> I'd</c><00:07:06.639><c> set</c><00:07:06.880><c> them</c><00:07:07.120><c> in</c><00:07:07.280><c> P</c><00:07:07.520><c> to</c><00:07:07.680><c> zero.</c>
+
+00:07:08.150 --> 00:07:08.160 align:start position:0%
+the Q8 GGUF. I'd set them in P to zero.
+ 
+
+00:07:08.160 --> 00:07:10.629 align:start position:0%
+the Q8 GGUF. I'd set them in P to zero.
+Set<00:07:08.319><c> the</c><00:07:08.560><c> repeat</c><00:07:08.960><c> penalty</c><00:07:09.840><c> to</c><00:07:10.160><c> what</c><00:07:10.400><c> they</c>
+
+00:07:10.629 --> 00:07:10.639 align:start position:0%
+Set the repeat penalty to what they
+ 
+
+00:07:10.639 --> 00:07:13.029 align:start position:0%
+Set the repeat penalty to what they
+actually<00:07:11.039><c> recommend</c><00:07:11.759><c> for</c><00:07:12.000><c> that</c><00:07:12.160><c> job.</c><00:07:12.720><c> It</c>
+
+00:07:13.029 --> 00:07:13.039 align:start position:0%
+actually recommend for that job. It
+ 
+
+00:07:13.039 --> 00:07:14.950 align:start position:0%
+actually recommend for that job. It
+might<00:07:13.360><c> be</c><00:07:13.520><c> pretty</c><00:07:13.840><c> strong</c><00:07:14.080><c> for</c><00:07:14.319><c> that</c><00:07:14.560><c> size,</c>
+
+00:07:14.950 --> 00:07:14.960 align:start position:0%
+might be pretty strong for that size,
+ 
+
+00:07:14.960 --> 00:07:16.550 align:start position:0%
+might be pretty strong for that size,
+right?<00:07:15.199><c> we</c><00:07:15.440><c> can</c><00:07:15.599><c> see</c><00:07:15.759><c> where</c><00:07:16.000><c> these</c><00:07:16.240><c> local</c>
+
+00:07:16.550 --> 00:07:16.560 align:start position:0%
+right? we can see where these local
+ 
+
+00:07:16.560 --> 00:07:18.390 align:start position:0%
+right? we can see where these local
+models<00:07:16.880><c> are</c><00:07:17.039><c> going.</c><00:07:17.520><c> Give</c><00:07:17.680><c> them</c><00:07:17.840><c> a</c><00:07:18.000><c> test</c><00:07:18.160><c> and</c>
+
+00:07:18.390 --> 00:07:18.400 align:start position:0%
+models are going. Give them a test and
+ 
+
+00:07:18.400 --> 00:07:20.390 align:start position:0%
+models are going. Give them a test and
+see<00:07:18.479><c> how</c><00:07:18.720><c> they</c><00:07:18.880><c> improve</c><00:07:19.280><c> over</c><00:07:19.520><c> time.</c><00:07:20.160><c> For</c>
+
+00:07:20.390 --> 00:07:20.400 align:start position:0%
+see how they improve over time. For
+ 
+
+00:07:20.400 --> 00:07:22.230 align:start position:0%
+see how they improve over time. For
+anything<00:07:20.639><c> that's</c><00:07:20.880><c> like</c><00:07:21.039><c> a</c><00:07:21.280><c> really</c><00:07:21.440><c> big</c><00:07:21.759><c> task,</c>
+
+00:07:22.230 --> 00:07:22.240 align:start position:0%
+anything that's like a really big task,
+ 
+
+00:07:22.240 --> 00:07:25.270 align:start position:0%
+anything that's like a really big task,
+I<00:07:22.479><c> would</c><00:07:22.639><c> still</c><00:07:22.880><c> take</c><00:07:23.120><c> Quen</c><00:07:23.520><c> 3.54B</c><00:07:24.800><c> over</c><00:07:24.960><c> this.</c>
+
+00:07:25.270 --> 00:07:25.280 align:start position:0%
+I would still take Quen 3.54B over this.
+ 
+
+00:07:25.280 --> 00:07:26.710 align:start position:0%
+I would still take Quen 3.54B over this.
+And<00:07:25.440><c> that's</c><00:07:25.599><c> not</c><00:07:25.759><c> me</c><00:07:26.000><c> disagreeing</c><00:07:26.479><c> with</c>
+
+00:07:26.710 --> 00:07:26.720 align:start position:0%
+And that's not me disagreeing with
+ 
+
+00:07:26.720 --> 00:07:29.830 align:start position:0%
+And that's not me disagreeing with
+OpenBM.<00:07:28.000><c> I've</c><00:07:28.240><c> tested</c><00:07:28.800><c> other</c><00:07:29.120><c> models</c><00:07:29.520><c> they</c>
+
+00:07:29.830 --> 00:07:29.840 align:start position:0%
+OpenBM. I've tested other models they
+ 
+
+00:07:29.840 --> 00:07:32.230 align:start position:0%
+OpenBM. I've tested other models they
+have.<00:07:30.319><c> Some</c><00:07:30.560><c> are</c><00:07:30.800><c> really,</c><00:07:31.039><c> really</c><00:07:31.360><c> good.</c><00:07:32.000><c> The</c>
+
+00:07:32.230 --> 00:07:32.240 align:start position:0%
+have. Some are really, really good. The
+ 
+
+00:07:32.240 --> 00:07:33.749 align:start position:0%
+have. Some are really, really good. The
+interesting<00:07:32.639><c> thing</c><00:07:32.800><c> here</c><00:07:33.120><c> isn't</c><00:07:33.440><c> really</c><00:07:33.599><c> that</c>
+
+00:07:33.749 --> 00:07:33.759 align:start position:0%
+interesting thing here isn't really that
+ 
+
+00:07:33.759 --> 00:07:36.629 align:start position:0%
+interesting thing here isn't really that
+a<00:07:33.919><c> 2B</c><00:07:34.240><c> model</c><00:07:34.560><c> can</c><00:07:34.720><c> beat</c><00:07:34.960><c> a</c><00:07:35.120><c> 4B</c><00:07:35.599><c> model.</c><00:07:36.160><c> It's</c><00:07:36.400><c> how</c>
+
+00:07:36.629 --> 00:07:36.639 align:start position:0%
+a 2B model can beat a 4B model. It's how
+ 
+
+00:07:36.639 --> 00:07:38.629 align:start position:0%
+a 2B model can beat a 4B model. It's how
+close<00:07:36.880><c> to</c><00:07:37.039><c> the</c><00:07:37.199><c> edge</c><00:07:37.520><c> these</c><00:07:37.759><c> small</c><00:07:38.080><c> models</c><00:07:38.400><c> are</c>
+
+00:07:38.629 --> 00:07:38.639 align:start position:0%
+close to the edge these small models are
+ 
+
+00:07:38.639 --> 00:07:41.510 align:start position:0%
+close to the edge these small models are
+actually<00:07:38.880><c> getting.</c><00:07:39.440><c> Mini</c><00:07:39.759><c> CPM</c><00:07:40.319><c> 5</c><00:07:40.479><c> itself</c><00:07:41.120><c> is</c>
+
+00:07:41.510 --> 00:07:41.520 align:start position:0%
+actually getting. Mini CPM 5 itself is
+ 
+
+00:07:41.520 --> 00:07:43.670 align:start position:0%
+actually getting. Mini CPM 5 itself is
+fine.<00:07:42.160><c> The</c><00:07:42.400><c> defaults</c><00:07:42.880><c> are</c><00:07:43.039><c> what</c><00:07:43.280><c> can</c><00:07:43.440><c> break</c>
+
+00:07:43.670 --> 00:07:43.680 align:start position:0%
+fine. The defaults are what can break
+ 
+
+00:07:43.680 --> 00:07:45.670 align:start position:0%
+fine. The defaults are what can break
+it.<00:07:44.000><c> I'm</c><00:07:44.240><c> Josh</c><00:07:44.560><c> from</c><00:07:44.720><c> Better</c><00:07:45.039><c> Stack.</c><00:07:45.440><c> If</c><00:07:45.599><c> you</c>
+
+00:07:45.670 --> 00:07:45.680 align:start position:0%
+it. I'm Josh from Better Stack. If you
+ 
+
+00:07:45.680 --> 00:07:47.270 align:start position:0%
+it. I'm Josh from Better Stack. If you
+enjoy<00:07:46.000><c> coding</c><00:07:46.240><c> tips</c><00:07:46.400><c> and</c><00:07:46.560><c> tricks</c><00:07:46.800><c> like</c><00:07:46.960><c> this,</c>
+
+00:07:47.270 --> 00:07:47.280 align:start position:0%
+enjoy coding tips and tricks like this,
+ 
+
+00:07:47.280 --> 00:07:49.110 align:start position:0%
+enjoy coding tips and tricks like this,
+be<00:07:47.520><c> sure</c><00:07:47.599><c> to</c><00:07:47.840><c> subscribe.</c><00:07:48.240><c> We'll</c><00:07:48.560><c> see</c><00:07:48.639><c> you</c><00:07:48.880><c> in</c>
+
+00:07:49.110 --> 00:07:49.120 align:start position:0%
+be sure to subscribe. We'll see you in
+ 
+
+00:07:49.120 --> 00:07:52.440 align:start position:0%
+be sure to subscribe. We'll see you in
+another<00:07:49.440><c> video.</c>
+
