@@ -6,6 +6,13 @@ permalink: sol/prj/hiqsol/library/index
 
 # Index
 
+- 2026-09-16 17:56 - Shliakh Maistra - 2026-09-16 05:00
+  Eight Japanese Rules for Spending Less and Saving More
+  tags: development
+  [article](articles/shliakh-maistra/2026-09-16-japanese-rules-spend-less-save-more.md)
+  | [summary](summary/shliakh-maistra/2026-09-16-japanese-rules-spend-less-save-more.md)
+  | [source](https://youtu.be/FO4GJKGdlNE?is=8OrB5eyEa112Cmys)
+
 - 2026-09-16 13:34 - Stanislav Belkovsky - 2026-09-15 12:07
   AI, Power, Trump, and the Future of Putin’s System
   tags: ai, politics
