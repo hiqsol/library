@@ -6,6 +6,13 @@ permalink: sol/prj/hiqsol/library/index
 
 # Index
 
+- 2026-09-16 13:34 - Stanislav Belkovsky - 2026-09-15 12:07
+  AI, Power, Trump, and the Future of Putin’s System
+  tags: ai, politics
+  [article](articles/stanislav-belkovsky/2026-09-15-belkovsky-ai-trump-putin.md)
+  | [summary](summary/stanislav-belkovsky/2026-09-15-belkovsky-ai-trump-putin.md)
+  | [source](https://youtu.be/aoVWkujPcsQ?is=IPynSrYbK8-Ps9jh)
+
 - 2026-09-16 09:20 - Surya - 2026-09-12 00:00
   WikiSkill: Teaching an Agent Company Rules Without Fine-Tuning
   tags: ai, development
