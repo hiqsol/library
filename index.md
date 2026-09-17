@@ -6,6 +6,13 @@ permalink: sol/prj/hiqsol/library/index
 
 # Index
 
+- 2026-09-17 13:15 - AltexSoft - 2026-09-16 09:16
+  Building an AI SDLC: Wins, Mistakes, and Lessons
+  tags: ai, development
+  [article](articles/altexsoft/2026-09-16-ai-sdlc-wins-mistakes-lessons.md)
+  | [summary](summary/altexsoft/2026-09-16-ai-sdlc-wins-mistakes-lessons.md)
+  | [source](https://youtu.be/pvHXTYq_ksc?is=iz19ANPsS7FrBc-3)
+
 - 2026-09-16 17:56 - Shliakh Maistra - 2026-09-16 05:00
   Eight Japanese Rules for Spending Less and Saving More
   tags: development
