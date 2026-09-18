@@ -6,6 +6,20 @@ permalink: sol/prj/hiqsol/library/index
 
 # Index
 
+- 2026-09-18 13:34 - Lev Logachev - 2026-09-13 14:29
+  How China and Lab-Grown Diamonds Broke the Scarcity Model
+  tags: economics
+  [article](articles/lev-logachev/2026-09-13-china-lab-diamonds-de-beers-market-collapse.md)
+  | [summary](summary/lev-logachev/2026-09-13-china-lab-diamonds-de-beers-market-collapse.md)
+  | [source](https://youtu.be/6M1JZhlucvg?is=Lziiv6_bjOnY7101)
+
+- 2026-09-18 13:28 - Robert Brovdi - 2026-09-05 10:22
+  Ukraine, NATO Article 5, and the Limits of Deterrence
+  tags: politics, war, ukraine
+  [article](articles/robert-brovdi/2026-09-05-article-five-nato-deterrence-test.md)
+  | [summary](summary/robert-brovdi/2026-09-05-article-five-nato-deterrence-test.md)
+  | [source](https://youtu.be/SH0OaCBZe9w?is=frP_g03WRHwp71iB)
+
 - 2026-09-18 09:55 - Nate B. Jones - 2026-09-11 14:00
   Omarchy and the Agentic Desktop: Making an Operating System Personal
   tags: ai, development
