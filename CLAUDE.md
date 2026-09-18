@@ -37,7 +37,7 @@ tags: tag1, tag2
 - `channel` is always required — use the blog name for blog posts.
 - `date` — original publication date+time; `00:00` if time unknown
 - `tags` — controlled vocabulary (lowercase), pick all that apply:
-  `ai`, `politics`, `war`, `ukraine`, `development`, `startups`
+  `ai`, `politics`, `war`, `ukraine`, `development`, `startups`, `health`
   If no existing tag fits, propose a new one to the user before adding it.
 
 ## Workflow

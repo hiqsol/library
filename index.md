@@ -6,6 +6,13 @@ permalink: sol/prj/hiqsol/library/index
 
 # Index
 
+- 2026-09-18 09:18 - Daniel Lieberman - 2026-09-14 16:00
+  Evolutionary Mismatch: Exercise, Sleep, Diet, and Modern Health
+  tags: health
+  [article](articles/daniel-lieberman/2026-09-14-evolutionary-health-exercise-sleep-diet-myths.md)
+  | [summary](summary/daniel-lieberman/2026-09-14-evolutionary-health-exercise-sleep-diet-myths.md)
+  | [source](https://youtu.be/6jHgeHAtwVM?is=NjQ2Erk0jjazi6-b)
+
 - 2026-09-18 06:20 - Better Stack - 2026-09-17 12:00
   Is React Native Dead? What AI-Native Mobile Development Actually Changes
   tags: ai, development
