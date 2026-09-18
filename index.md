@@ -6,6 +6,13 @@ permalink: sol/prj/hiqsol/library/index
 
 # Index
 
+- 2026-09-18 09:55 - Nate B. Jones - 2026-09-11 14:00
+  Omarchy and the Agentic Desktop: Making an Operating System Personal
+  tags: ai, development
+  [article](articles/nate-b-jones/2026-09-11-omarchy-agentic-operating-system.md)
+  | [summary](summary/nate-b-jones/2026-09-11-omarchy-agentic-operating-system.md)
+  | [source](https://youtu.be/zDPuEPDXCpU?is=CLIJlOXZKJRJfE5Q)
+
 - 2026-09-18 09:18 - Daniel Lieberman - 2026-09-14 16:00
   Evolutionary Mismatch: Exercise, Sleep, Diet, and Modern Health
   tags: health
