@@ -6,6 +6,13 @@ permalink: sol/prj/hiqsol/library/index
 
 # Index
 
+- 2026-09-18 06:20 - Better Stack - 2026-09-17 12:00
+  Is React Native Dead? What AI-Native Mobile Development Actually Changes
+  tags: ai, development
+  [article](articles/better-stack/2026-09-17-ai-replaces-react-native-mobile-development.md)
+  | [summary](summary/better-stack/2026-09-17-ai-replaces-react-native-mobile-development.md)
+  | [source](https://youtu.be/r0u83Ss7QRc?is=1NL_lXNb7eusImFc)
+
 - 2026-09-17 13:15 - AltexSoft - 2026-09-16 09:16
   Building an AI SDLC: Wins, Mistakes, and Lessons
   tags: ai, development
