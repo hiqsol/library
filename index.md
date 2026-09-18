@@ -6,6 +6,20 @@ permalink: sol/prj/hiqsol/library/index
 
 # Index
 
+- 2026-09-18 16:45 - Thariq Shihipar - 2026-07-06 16:00
+  Field Guide to Fable: A Research System for UI Generation
+  tags: ai, development
+  [article](articles/thariq-shihipar/2026-07-06-field-guide-fable-ui-generation.md)
+  | [summary](summary/thariq-shihipar/2026-07-06-field-guide-fable-ui-generation.md)
+  | [source](https://youtu.be/9fubhllmsBU?is=xiEOaLziyYvJUVrx)
+
+- 2026-09-18 16:45 - Chase AI - 2026-08-06 04:43
+  Cutting Anthropic API Costs with Caching, Batching, and Routing
+  tags: ai, development
+  [article](articles/chase-ai/2026-08-06-anthropic-api-cost-routing.md)
+  | [summary](summary/chase-ai/2026-08-06-anthropic-api-cost-routing.md)
+  | [source](https://youtu.be/V0XbuApxlhg?is=zi5wLNsZpME--xI6)
+
 - 2026-09-18 13:34 - Lev Logachev - 2026-09-13 14:29
   How China and Lab-Grown Diamonds Broke the Scarcity Model
   tags: economics
