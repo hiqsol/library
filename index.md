@@ -6,6 +6,13 @@ permalink: sol/prj/hiqsol/library/index
 
 # Index
 
+- 2026-09-19 10:57 - Andrej Karpathy - 2026-09-08 04:30
+  Software 3.0 and the Transformer as a Graph Computer
+  tags: ai, development
+  [article](articles/andrej-karpathy/2026-09-08-software-three-transformer-graph-computer.md)
+  | [summary](summary/andrej-karpathy/2026-09-08-software-three-transformer-graph-computer.md)
+  | [source](https://youtu.be/Rlk0GLRWwTI?is=aN9QGYGnzZ-WG0oV)
+
 - 2026-09-18 16:45 - Thariq Shihipar - 2026-07-06 16:00
   Field Guide to Fable: A Research System for UI Generation
   tags: ai, development
