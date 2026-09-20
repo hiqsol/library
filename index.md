@@ -6,6 +6,27 @@ permalink: sol/prj/hiqsol/library/index
 
 # Index
 
+- 2026-09-20 07:28 - Maxinomics - 2026-09-11 21:59
+  China's Rare-Earth Magnet Strategy Beyond Oil
+  tags: finance, politics
+  [article](articles/maxinomics/2026-09-11-china-rare-earth-magnet-strategy.md)
+  | [summary](summary/maxinomics/2026-09-11-china-rare-earth-magnet-strategy.md)
+  | [source](https://youtu.be/BXLGV0Sj0n8?is=mG1wOcxA9uAJfRlY)
+
+- 2026-09-20 07:28 - Sandeep Swadia - 2026-09-17 13:00
+  Eight Upgrades Worth Making After You Build Wealth
+  tags: finance
+  [article](articles/sandeep-swadia/2026-09-17-eight-upgrades-after-building-wealth.md)
+  | [summary](summary/sandeep-swadia/2026-09-17-eight-upgrades-after-building-wealth.md)
+  | [source](https://youtu.be/45oG6w7bvtM?is=IUnsadhMk-aaqoeo)
+
+- 2026-09-20 07:28 - Vitaly Portnikov - 2026-09-19 19:00
+  Strategic Oil Reserves, Sanctions, and the Economics of Russia's War
+  tags: politics, war, ukraine
+  [article](articles/vitaly-portnikov/2026-09-19-oil-reserves-sanctions-russia-war.md)
+  | [summary](summary/vitaly-portnikov/2026-09-19-oil-reserves-sanctions-russia-war.md)
+  | [source](https://youtu.be/KcvV9cdXLrg?is=KozrEikiwsaFhbxZ)
+
 - 2026-09-19 10:57 - Andrej Karpathy - 2026-09-08 04:30
   Software 3.0 and the Transformer as a Graph Computer
   tags: ai, development
