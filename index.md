@@ -6,6 +6,13 @@ permalink: sol/prj/hiqsol/library/index
 
 # Index
 
+- 2026-09-21 09:43 - Dan Grib - 2026-09-19 14:15
+  Why Wider Language Models Hit a Scaling Plateau
+  tags: ai, development
+  [article](articles/dan-grib/2026-09-19-llm-width-scaling-plateau.md)
+  | [summary](summary/dan-grib/2026-09-19-llm-width-scaling-plateau.md)
+  | [source](https://youtu.be/6xQ8LQfkBg4)
+
 - 2026-09-20 07:28 - Maxinomics - 2026-09-11 21:59
   China's Rare-Earth Magnet Strategy Beyond Oil
   tags: finance, politics
