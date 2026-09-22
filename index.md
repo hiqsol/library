@@ -6,6 +6,13 @@ permalink: sol/prj/hiqsol/library/index
 
 # Index
 
+- 2026-09-22 13:42 - Jay E - 2026-09-21 10:40
+  Jev as a Fast Classifier for Claude Code
+  tags: ai, development
+  [article](articles/jay-e/2026-09-21-jev-classifier-claude-code.md)
+  | [summary](summary/jay-e/2026-09-21-jev-classifier-claude-code.md)
+  | [source](https://youtu.be/tTnUcSj-QPA?is=HSHJmP1x22LcU9bP)
+
 - 2026-09-22 09:08 - Theorix - 2026-09-13 20:00
   Waterless Laundry with Liquid Carbon Dioxide
   tags: technology
