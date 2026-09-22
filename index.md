@@ -6,6 +6,13 @@ permalink: sol/prj/hiqsol/library/index
 
 # Index
 
+- 2026-09-22 09:08 - Theorix - 2026-09-13 20:00
+  Waterless Laundry with Liquid Carbon Dioxide
+  tags: technology
+  [article](articles/theorix/2026-09-13-waterless-washing-machine-technology.md)
+  | [summary](summary/theorix/2026-09-13-waterless-washing-machine-technology.md)
+  | [source](https://youtu.be/XEMeTl_rpcg?si=EWeBDxbmlSF5Futz)
+
 - 2026-09-21 09:43 - Dan Grib - 2026-09-19 14:15
   Why Wider Language Models Hit a Scaling Plateau
   tags: ai, development
