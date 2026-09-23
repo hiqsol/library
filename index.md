@@ -6,6 +6,13 @@ permalink: sol/prj/hiqsol/library/index
 
 # Index
 
+- 2026-09-23 16:01 - Better Stack - 2026-09-21 15:00
+  shadcn/lint and Agent-First Tailwind Design Contracts
+  tags: ai, development
+  [article](articles/better-stack/2026-09-21-shadcn-lint-tailwind-design-contracts.md)
+  | [summary](summary/better-stack/2026-09-21-shadcn-lint-tailwind-design-contracts.md)
+  | [source](https://youtu.be/tPQgw_DPIoM?is=GWUSYRpr-5Z5jIYn)
+
 - 2026-09-23 09:30 - Aleksandra Kuznetsova - 2026-08-26 16:30
   Five Everyday Habits That Support a Child's Brain Development
   tags: health
