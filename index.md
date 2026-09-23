@@ -6,6 +6,13 @@ permalink: sol/prj/hiqsol/library/index
 
 # Index
 
+- 2026-09-23 09:30 - Aleksandra Kuznetsova - 2026-08-26 16:30
+  Five Everyday Habits That Support a Child's Brain Development
+  tags: health
+  [article](articles/aleksandra-kuznetsova/2026-08-26-child-brain-development-habits.md)
+  | [summary](summary/aleksandra-kuznetsova/2026-08-26-child-brain-development-habits.md)
+  | [source](https://youtu.be/1t-9OBHfpcM?is=aiCUjObZIkK4VTDc)
+
 - 2026-09-22 13:42 - Jay E - 2026-09-21 10:40
   Jev as a Fast Classifier for Claude Code
   tags: ai, development
