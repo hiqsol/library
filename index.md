@@ -6,6 +6,20 @@ permalink: sol/prj/hiqsol/library/index
 
 # Index
 
+- 2026-09-26 12:28 - Gleb - 2026-07-07 13:07
+  When More Cardio Stops Meaning More Health
+  tags: health
+  [article](articles/gleb/2026-07-07-cardio-health-performance-limit.md) |
+  [summary](summary/gleb/2026-07-07-cardio-health-performance-limit.md) |
+  [source](https://youtu.be/uVpOGblIdq0?is=Ysct9x4o21Yiheyw)
+
+- 2026-09-26 12:26 - Raia Hadsell - 2026-09-22 14:00
+  Beyond Language: Embeddings, Weather Models, and Interactive World Models
+  tags: ai
+  [article](articles/raia-hadsell/2026-09-22-beyond-language-ai-models.md) |
+  [summary](summary/raia-hadsell/2026-09-22-beyond-language-ai-models.md) |
+  [source](https://youtu.be/eK7mAQiprYo?is=L5izN0fLPX9Ri3ac)
+
 - 2026-09-23 16:01 - Better Stack - 2026-09-21 15:00
   shadcn/lint and Agent-First Tailwind Design Contracts
   tags: ai, development
