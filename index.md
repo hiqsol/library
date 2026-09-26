@@ -6,6 +6,13 @@ permalink: sol/prj/hiqsol/library/index
 
 # Index
 
+- 2026-09-26 12:34 - Ivan Yakovina - 2026-09-26 11:11
+  How Russia May Test NATO Below the Threshold of War
+  tags: politics, war, ukraine, ai
+  [article](articles/ivan-yakovina/2026-09-26-russia-tests-nato-europe-drone-war.md) |
+  [summary](summary/ivan-yakovina/2026-09-26-russia-tests-nato-europe-drone-war.md) |
+  [source](https://youtu.be/iVuHtDkYOdU?is=A4WmQxLEUOEuTJpq)
+
 - 2026-09-26 12:28 - Gleb - 2026-07-07 13:07
   When More Cardio Stops Meaning More Health
   tags: health
