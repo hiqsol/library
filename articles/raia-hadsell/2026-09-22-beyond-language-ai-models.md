@@ -1,5 +1,5 @@
 ---
-title: Beyond Language: Embeddings, Weather Models, and Interactive World Models
+title: "Beyond Language: Embeddings, Weather Models, and Interactive World Models"
 author: Raia Hadsell
 channel: AI из первых уст
 url: https://youtu.be/eK7mAQiprYo?is=L5izN0fLPX9Ri3ac
