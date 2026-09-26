@@ -6,6 +6,13 @@ permalink: sol/prj/hiqsol/library/index
 
 # Index
 
+- 2026-09-26 15:42 - Roman Yampolskiy et al. - 2026-09-17 07:00
+  AI Extinction Risk, Present Harms, and the Problem of Control
+  tags: ai
+  [article](articles/roman-yampolskiy/2026-09-17-ai-risk-control-debate.md) |
+  [summary](summary/roman-yampolskiy/2026-09-17-ai-risk-control-debate.md) |
+  [source](https://youtu.be/OhOmLqR5nN4?si=kpoMYa1WZc2EXPwM)
+
 - 2026-09-26 12:34 - Ivan Yakovina - 2026-09-26 11:11
   How Russia May Test NATO Below the Threshold of War
   tags: politics, war, ukraine, ai
