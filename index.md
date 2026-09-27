@@ -6,6 +6,13 @@ permalink: sol/prj/hiqsol/library/index
 
 # Index
 
+- 2026-09-27 20:10 - Yurii Butusov - 2026-09-26 17:00
+  Ukraine's Frontline Adaptation, Drone Shortfalls, and the Next Threat
+  tags: politics, war, ukraine
+  [article](articles/yurii-butusov/2026-09-26-frontline-command-drone-challenges.md) |
+  [summary](summary/yurii-butusov/2026-09-26-frontline-command-drone-challenges.md) |
+  [source](https://youtu.be/lk0ofVqV1HM?is=dEUYCLABXSzAcFvW)
+
 - 2026-09-26 15:42 - Roman Yampolskiy et al. - 2026-09-17 07:00
   AI Extinction Risk, Present Harms, and the Problem of Control
   tags: ai
