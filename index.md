@@ -6,6 +6,13 @@ permalink: sol/prj/hiqsol/library/index
 
 # Index
 
+- 2026-09-28 10:49 - Curious Explorer - 2026-07-30 23:54
+  Whale Communication, AI, and the Distance Between Structure and Meaning
+  tags: ai, technology
+  [article](articles/curious-explorer/2026-07-30-ai-whale-language-claims.md) |
+  [summary](summary/curious-explorer/2026-07-30-ai-whale-language-claims.md) |
+  [source](https://youtu.be/C1WdSpe39js?si=MwpS33Z3EcigbSxg)
+
 - 2026-09-28 09:09 - Nate B. Jones - 2026-09-27 16:00
   Scaling AI Developer Productivity Beyond the Fastest Coder
   tags: ai, development
