@@ -6,6 +6,13 @@ permalink: sol/prj/hiqsol/library/index
 
 # Index
 
+- 2026-09-28 09:09 - Nate B. Jones - 2026-09-27 16:00
+  Scaling AI Developer Productivity Beyond the Fastest Coder
+  tags: ai, development
+  [article](articles/nate-b-jones/2026-09-27-scale-ai-team-productivity.md) |
+  [summary](summary/nate-b-jones/2026-09-27-scale-ai-team-productivity.md) |
+  [source](https://youtu.be/2IAYFgAqX6g?si=EmwlnikF6HS_rU7V)
+
 - 2026-09-27 20:10 - Yurii Butusov - 2026-09-26 17:00
   Ukraine's Frontline Adaptation, Drone Shortfalls, and the Next Threat
   tags: politics, war, ukraine
