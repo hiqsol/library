@@ -6,6 +6,20 @@ permalink: sol/prj/hiqsol/library/index
 
 # Index
 
+- 2026-09-29 09:41 - Julian D. Michels - 2026-08-06 14:39
+  Geometry, Efficient Models, and the Limits of a Startup’s AI Claims
+  tags: ai, technology
+  [article](articles/julian-d-michels/2026-08-06-geometric-reasoning-ai-infrastructure.md) |
+  [summary](summary/julian-d-michels/2026-08-06-geometric-reasoning-ai-infrastructure.md) |
+  [source](https://youtu.be/4S8I22ybG2c?is=3PbgGIgU7G5QDJ22)
+
+- 2026-09-28 13:11 - Andrew Ng and Laurence Moroney - 2026-09-05 01:09
+  Beyond One-Shot Prompting: Workflows, Product Judgment, and Career Resilience
+  tags: ai, development, technology
+  [article](articles/andrew-ng-laurence-moroney/2026-09-05-ai-workflows-product-judgment.md) |
+  [summary](summary/andrew-ng-laurence-moroney/2026-09-05-ai-workflows-product-judgment.md) |
+  [source](https://youtu.be/9EuNUe-CJRM?si=iZlQ1MBfI51UM-aU)
+
 - 2026-09-28 10:49 - Curious Explorer - 2026-07-30 23:54
   Whale Communication, AI, and the Distance Between Structure and Meaning
   tags: ai, technology
