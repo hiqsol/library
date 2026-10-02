@@ -6,6 +6,13 @@ permalink: sol/prj/hiqsol/library/index
 
 # Index
 
+- 2026-10-02 07:19 - Austin Marchese - 2026-06-09 16:00
+  A Better Way to Work With AI Agents—Without Inventing a “Karpathy Method”
+  tags: ai, development
+  [article](articles/austin-marchese/2026-06-09-karpathy-inspired-agent-workflow.md) |
+  [summary](summary/austin-marchese/2026-06-09-karpathy-inspired-agent-workflow.md) |
+  [source](https://youtu.be/7zZy1QTvokM?is=VWe3HfSD_NFgsRxg)
+
 - 2026-10-02 07:00 - The Coding Gopher - 2026-10-01 14:00
   How to Get Cracked at Programming
   tags: development
