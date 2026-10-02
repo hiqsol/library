@@ -6,6 +6,13 @@ permalink: sol/prj/hiqsol/library/index
 
 # Index
 
+- 2026-10-02 17:03 - Fraser Cain - 2026-10-02 15:31
+  Changing Course on Mars: Fraser Cain on Revising a Spacefaring Future
+  tags: technology
+  [article](articles/fraser-cain/2026-10-02-changing-view-of-space.md) |
+  [summary](summary/fraser-cain/2026-10-02-changing-view-of-space.md) |
+  [source](https://youtu.be/AsCdQvvzBNk?is=QwomBa8Iv84Eb-hl)
+
 - 2026-10-02 07:19 - Austin Marchese - 2026-06-09 16:00
   A Better Way to Work With AI Agents—Without Inventing a “Karpathy Method”
   tags: ai, development
