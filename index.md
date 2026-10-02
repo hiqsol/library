@@ -6,6 +6,13 @@ permalink: sol/prj/hiqsol/library/index
 
 # Index
 
+- 2026-10-02 07:00 - The Coding Gopher - 2026-10-01 14:00
+  How to Get Cracked at Programming
+  tags: development
+  [article](articles/the-coding-gopher/2026-10-01-programming-skill-deliberate-practice.md) |
+  [summary](summary/the-coding-gopher/2026-10-01-programming-skill-deliberate-practice.md) |
+  [source](https://youtu.be/EFDVmd6ondM?is=dI_c-kKThyBHikU6)
+
 - 2026-09-29 09:41 - Julian D. Michels - 2026-08-06 14:39
   Geometry, Efficient Models, and the Limits of a Startup’s AI Claims
   tags: ai, technology
