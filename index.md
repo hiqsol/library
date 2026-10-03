@@ -6,6 +6,13 @@ permalink: sol/prj/hiqsol/library/index
 
 # Index
 
+- 2026-10-03 16:49 - Anton Lyadov - 2026-09-27 09:34
+  Inside Myanmar's Forced-Scam Economy
+  tags: crime, technology
+  [article](articles/anton-lyadov/2026-09-27-myanmar-scam-centers-forced-crime.md) |
+  [summary](summary/anton-lyadov/2026-09-27-myanmar-scam-centers-forced-crime.md) |
+  [source](https://youtu.be/xYAmLt5FHgM?is=m7MQW00taLYayfON)
+
 - 2026-10-03 10:28 - Tony Robbins - 2026-01-31 19:00
   Tony Robbins on Ownership, Diversification, and Private Markets
   tags: finance
