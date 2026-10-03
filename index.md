@@ -6,6 +6,13 @@ permalink: sol/prj/hiqsol/library/index
 
 # Index
 
+- 2026-10-03 10:28 - Tony Robbins - 2026-01-31 19:00
+  Tony Robbins on Ownership, Diversification, and Private Markets
+  tags: finance
+  [article](articles/tony-robbins/2026-01-31-wealth-ownership-compounding.md) |
+  [summary](summary/tony-robbins/2026-01-31-wealth-ownership-compounding.md) |
+  [source](https://youtu.be/-cRswJf8OnI?is=ifIywB5bPKU4FFaX)
+
 - 2026-10-02 17:03 - Fraser Cain - 2026-10-02 15:31
   Changing Course on Mars: Fraser Cain on Revising a Spacefaring Future
   tags: technology
