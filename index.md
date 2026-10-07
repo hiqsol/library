@@ -6,6 +6,13 @@ permalink: sol/prj/hiqsol/library/index
 
 # Index
 
+- 2026-10-07 09:58 - Nate B. Jones - 2026-10-04 16:00
+  The App Is Disappearing From View, Not From the Stack
+  tags: ai, technology
+  [article](articles/nate-b-jones/2026-10-04-post-app-ai-agent-interface.md) |
+  [summary](summary/nate-b-jones/2026-10-04-post-app-ai-agent-interface.md) |
+  [source](https://youtu.be/0j8wy4jUlsw?si=v3e3fOlSeTOD1FUp)
+
 - 2026-10-03 16:49 - Anton Lyadov - 2026-09-27 09:34
   Inside Myanmar's Forced-Scam Economy
   tags: crime, technology
