@@ -6,6 +6,13 @@ permalink: sol/prj/hiqsol/library/index
 
 # Index
 
+- 2026-10-10 15:15 - Less Bitter - 2026-10-06 19:09
+  The Big Lie About AI Coding: What the Evidence Actually Supports
+  tags: ai, development
+  [article](articles/less-bitter/2026-10-06-ai-coding-productivity-claims.md) |
+  [summary](summary/less-bitter/2026-10-06-ai-coding-productivity-claims.md) |
+  [source](https://youtu.be/DzSS9R8t2Ao?is=ofGkfLhNDhnPq1H7)
+
 - 2026-10-07 09:58 - Nate B. Jones - 2026-10-04 16:00
   The App Is Disappearing From View, Not From the Stack
   tags: ai, technology
