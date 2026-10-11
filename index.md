@@ -6,6 +6,13 @@ permalink: sol/prj/hiqsol/library/index
 
 # Index
 
+- 2026-10-11 07:53 - The Sleeper List - 2026-10-06 16:50
+  What BYD Teardowns Reveal—and What They Cannot Predict
+  tags: technology, finance
+  [article](articles/the-sleeper-list/2026-10-06-byd-engineering-british-carmakers.md) |
+  [summary](summary/the-sleeper-list/2026-10-06-byd-engineering-british-carmakers.md) |
+  [source](https://youtu.be/Nim61oVLdwk?is=RsQuzcxNW3ixs0E5)
+
 - 2026-10-10 15:15 - Less Bitter - 2026-10-06 19:09
   The Big Lie About AI Coding: What the Evidence Actually Supports
   tags: ai, development
