@@ -6,6 +6,13 @@ permalink: sol/prj/hiqsol/library/index
 
 # Index
 
+- 2026-10-12 14:53 - Past Unsealed - 2026-08-16 13:07
+  Stonehenge AI Claims: A Fabricated Study Built from Real Archaeology
+  tags: ai, technology
+  [article](articles/past-unsealed/2026-08-16-stonehenge-ai-claims.md) |
+  [summary](summary/past-unsealed/2026-08-16-stonehenge-ai-claims.md) |
+  [source](https://youtu.be/Vn2wm1D3VLU?is=Mh7bown_1awqaEK8)
+
 - 2026-10-11 07:53 - The Sleeper List - 2026-10-06 16:50
   What BYD Teardowns Reveal—and What They Cannot Predict
   tags: technology, finance
