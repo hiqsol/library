@@ -6,6 +6,13 @@ permalink: sol/prj/hiqsol/library/index
 
 # Index
 
+- 2026-10-12 17:43 - Michael Patterson - 2026-10-10 17:00
+  The Lethal Trifecta: Securing AI Coding Agents
+  tags: ai, development, technology
+  [article](articles/michael-patterson/2026-10-10-lethal-trifecta-agent-security.md) |
+  [summary](summary/michael-patterson/2026-10-10-lethal-trifecta-agent-security.md) |
+  [source](https://youtu.be/abw_m-DRi1k?si=JNNVU2ePlA--cl5s)
+
 - 2026-10-12 14:53 - Past Unsealed - 2026-08-16 13:07
   Stonehenge AI Claims: A Fabricated Study Built from Real Archaeology
   tags: ai, technology
