@@ -6,6 +6,13 @@ permalink: sol/prj/hiqsol/library/index
 
 # Index
 
+- 2026-10-13 14:11 - Oscar & Chill - 2026-10-09 23:05
+  Second Hand: Memory, Grief, and an AI-Credited Song
+  tags: ai
+  [article](articles/oscar-and-chill/2026-10-09-second-hand.md) |
+  [summary](summary/oscar-and-chill/2026-10-09-second-hand.md) |
+  [source](https://music.youtube.com/watch?v=6pEslgN0LrI&si=Q8S2BBKm2iHVulCE)
+
 - 2026-10-13 09:46 - Sharbel A. - 2026-10-11 16:00
   Agent Skills: Reusable Workflows Without More Agents
   tags: ai, development, technology
