@@ -6,6 +6,13 @@ permalink: sol/prj/hiqsol/library/index
 
 # Index
 
+- 2026-10-13 09:46 - Sharbel A. - 2026-10-11 16:00
+  Agent Skills: Reusable Workflows Without More Agents
+  tags: ai, development, technology
+  [article](articles/sharbel-a/2026-10-11-harness-engineering-for-ai-agents.md) |
+  [summary](summary/sharbel-a/2026-10-11-harness-engineering-for-ai-agents.md) |
+  [source](https://youtu.be/VxGIopUQVKo?si=oxzxOxmcmDAmugaO)
+
 - 2026-10-12 17:43 - Michael Patterson - 2026-10-10 17:00
   The Lethal Trifecta: Securing AI Coding Agents
   tags: ai, development, technology
