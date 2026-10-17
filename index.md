@@ -6,6 +6,13 @@ permalink: sol/prj/hiqsol/library/index
 
 # Index
 
+- 2026-10-17 18:35 - Matt Pocock - 2026-10-16 21:52
+  Matt Pocock: The Most Valuable Skill to Learn in the Age of AI
+  tags: ai, development
+  [article](articles/matt-pocock/2026-10-16-valuable-skill-ai-age.md) |
+  [summary](summary/matt-pocock/2026-10-16-valuable-skill-ai-age.md) |
+  [source](https://youtu.be/Z8lf5oWKfj0?is=aLulAdroMZEzCMbK)
+
 - 2026-10-17 01:13 - Vlad Ten - 2026-10-15 16:00
   When Programming Stops Feeling Like a Craft: Vlad Ten on AI, Work, and Agency
   tags: ai, development, technology
