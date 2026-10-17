@@ -6,6 +6,13 @@ permalink: sol/prj/hiqsol/library/index
 
 # Index
 
+- 2026-10-17 01:13 - Vlad Ten - 2026-10-15 16:00
+  When Programming Stops Feeling Like a Craft: Vlad Ten on AI, Work, and Agency
+  tags: ai, development, technology
+  [article](articles/vlad-ten/2026-10-15-programming-work-ai-career.md) |
+  [summary](summary/vlad-ten/2026-10-15-programming-work-ai-career.md) |
+  [source](https://youtu.be/NwNZF5Ljzd8?is=F1ISwyR9lW9sS3Ny)
+
 - 2026-10-13 14:11 - Oscar & Chill - 2026-10-09 23:05
   Second Hand: Memory, Grief, and an AI-Credited Song
   tags: ai
