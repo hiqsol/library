@@ -6,6 +6,13 @@ permalink: sol/prj/hiqsol/library/index
 
 # Index
 
+- 2026-10-24 07:35 - Dylan Davis - 2026-10-21 20:00
+  AI Is Removing the Practice That Builds Professional Judgment
+  tags: ai, technology
+  [article](articles/dylan-davis/2026-10-21-ai-delegation-and-skill-atrophy.md) |
+  [summary](summary/dylan-davis/2026-10-21-ai-delegation-and-skill-atrophy.md) |
+  [source](https://youtu.be/OmCPS7h08pY?is=uHPVhzGT7MZ1t10x)
+
 - 2026-10-17 18:35 - Matt Pocock - 2026-10-16 21:52
   Matt Pocock: The Most Valuable Skill to Learn in the Age of AI
   tags: ai, development
