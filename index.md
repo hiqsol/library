@@ -6,6 +6,13 @@ permalink: sol/prj/hiqsol/library/index
 
 # Index
 
+- 2026-10-29 10:11 - Dave Farley - 2026-10-21 20:00
+  Executable Specifications for Reliable AI-Generated Code
+  tags: ai, development
+  [article](articles/dave-farley/2026-10-21-executable-specifications-for-ai-code.md) |
+  [summary](summary/dave-farley/2026-10-21-executable-specifications-for-ai-code.md) |
+  [source](https://youtu.be/EkH_uoybj8k?si=dedG3Vrh3sfNpaRN)
+
 - 2026-10-24 07:35 - Dylan Davis - 2026-10-21 20:00
   AI Is Removing the Practice That Builds Professional Judgment
   tags: ai, technology
