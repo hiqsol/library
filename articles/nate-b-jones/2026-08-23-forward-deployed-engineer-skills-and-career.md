@@ -9,6 +9,8 @@ tags: ai, development
 
 # OpenAI Pays $280,000 For This Job. You Don't Have To Be An Engineer.
 
+[summary](../../summary/nate-b-jones/2026-08-23-forward-deployed-engineer-skills-and-career.md)
+
  ## The last mile of AI remains human work
 
 Jones explains forward-deployed engineering as the work of converting general model capability

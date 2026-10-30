@@ -9,6 +9,8 @@ tags: ai
 
 # Anthropic Gave Your AI Agent the One Thing OpenClaw Has — Without the Risk
 
+[summary](../../summary/nate-b-jones/2026-03-20-anthropic-gave-agent-openclaw-without-risk.md)
+
 ## The Gap That Just Closed
 
 A few weeks ago, Nate Jones introduced OpenBrain — a SQL database connected to your AI via

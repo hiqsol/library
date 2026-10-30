@@ -9,6 +9,8 @@ tags: ai, development
 
 # Cutting Anthropic API Costs with Caching, Batching, and Routing
 
+[summary](../../summary/chase-ai/2026-08-06-anthropic-api-cost-routing.md)
+
 ## What the source supports—and what its title overstates
 
 Chase AI's source video is titled “You're Paying Anthropic 20x MORE Than You Need To.”

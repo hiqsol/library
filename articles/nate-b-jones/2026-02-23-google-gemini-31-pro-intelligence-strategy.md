@@ -9,6 +9,8 @@ tags: ai
 
 # Google's Gemini 3.1 Pro: Smartest Model, Lowest Price — Why Google Doesn't Care
 
+[summary](../../summary/nate-b-jones/2026-02-23-google-gemini-31-pro-intelligence-strategy.md)
+
 ## The Strategic Signal
 
 Google shipped Gemini 3.1 Pro — a model that leads on 13 of 16 benchmarks,

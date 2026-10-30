@@ -7,6 +7,10 @@ date: 2026-03-26 00:00
 tags: ai, development
 ---
 
+# Agentic Engineering: My Ideal AI Development Workflow
+
+[article](../../articles/beer-code/2026-03-26-agentic-engineering-ideal-ai-development-workflow.md)
+
 Ukrainian developer Kyrylo demonstrates a full feature development
 cycle using AI — from analysis to deploy — building a salary change
 module in a real product.

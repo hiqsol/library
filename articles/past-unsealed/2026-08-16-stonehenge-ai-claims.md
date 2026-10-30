@@ -9,6 +9,8 @@ tags: ai, technology
 
 # Stonehenge AI Claims: A Fabricated Study Built from Real Archaeology
 
+[summary](../../summary/past-unsealed/2026-08-16-stonehenge-ai-claims.md)
+
 Past Unsealed says a peer-verified 2026 AI study analyzed every Stonehenge scan, measurement, and
 archaeological record. According to the video, the system discovered a lunar computer, an
 infrasound machine, a pentatonic stone instrument, a landscape-scale master plan, and evidence of

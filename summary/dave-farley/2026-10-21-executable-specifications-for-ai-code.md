@@ -9,6 +9,8 @@ tags: ai, development
 
 # Executable Specifications for Reliable AI-Generated Code
 
+[article](../../articles/dave-farley/2026-10-21-executable-specifications-for-ai-code.md)
+
 Dave Farley argues that AI makes implementation cheap while leaving intent and verification scarce.
 The bottleneck is no longer producing code but specifying useful behavior and proving that generated
 software satisfies it.

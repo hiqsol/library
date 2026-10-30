@@ -9,6 +9,8 @@ tags: ai, development
 
 # Summary
 
+[article](../../articles/bilawal-sidhu/2026-09-08-gods-eye-view-blew-up-what-you-can-do.md)
+
 God's Eye View combines a 2D or photorealistic 3D globe with live and near-live public data,
 AI voice control, and extensible map layers. Its launch video passed 500,000 views, and the
 open-source repository reached number one on GitHub Trending.

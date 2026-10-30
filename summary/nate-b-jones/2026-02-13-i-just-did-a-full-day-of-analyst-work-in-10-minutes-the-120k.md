@@ -9,6 +9,8 @@ tags: ai
 
 # Full Day of Analyst Work in 10 Minutes — Summary
 
+[article](../../articles/nate-b-jones/2026-02-13-i-just-did-a-full-day-of-analyst-work-in-10-minutes-the-120k.md)
+
 Claude in Excel (Pro plan, $20/month) and Claude in PowerPoint (Max,
 ~$100/month) shipped with Opus 4.6 in February 2026. A Goldman
 analyst confirmed the output — a full operating model plus board

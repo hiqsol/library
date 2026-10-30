@@ -9,6 +9,8 @@ tags: ai
 
 # Anthropic Didn't Build a New Browser. They Did Something Smarter.
 
+[summary](../../summary/nate-b-jones/2026-03-17-anthropic-didnt-build-new-browser-they-did-something-smarter.md)
+
 ## The Core Idea
 
 The Claude Chrome extension puts an LLM agent directly inside the browser where most people

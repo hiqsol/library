@@ -9,6 +9,8 @@ tags: ai
 
 # Everyone You Know Is About to Try Claude — Summary
 
+[article](../../articles/nate-b-jones/2026-03-04-everyone-you-know-is-about-to-try-claude-i-showed-3-people.md)
+
 After Anthropic refused the Pentagon and the White House retaliated, Claude
 became the #1 app in America. Millions of new users are treating it as a
 ChatGPT drop-in replacement. That approach will fail — the models are built

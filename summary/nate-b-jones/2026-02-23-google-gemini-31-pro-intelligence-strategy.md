@@ -9,6 +9,8 @@ tags: ai
 
 # Google's Gemini 3.1 Pro: Intelligence Strategy — Summary
 
+[article](../../articles/nate-b-jones/2026-02-23-google-gemini-31-pro-intelligence-strategy.md)
+
 Nate B Jones analyzes why Google shipped the top-benchmarked AI model at
 a fraction of competitors' prices and doesn't need you to use it.
 

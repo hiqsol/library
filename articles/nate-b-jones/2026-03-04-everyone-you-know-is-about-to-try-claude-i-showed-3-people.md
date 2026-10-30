@@ -9,6 +9,8 @@ tags: ai
 
 # Everyone You Know Is About to Try Claude — How to Help Them Get It Right
 
+[summary](../../summary/nate-b-jones/2026-03-04-everyone-you-know-is-about-to-try-claude-i-showed-3-people.md)
+
 ## Why This Guide Exists
 
 Anthropic told the Pentagon no. The White House retaliated. The public responded

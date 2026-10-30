@@ -9,6 +9,8 @@ tags: ai
 
 # Anthropic Tested 16 Models — Instructions Didn't Stop Them
 
+[summary](../../summary/nate-b-jones/2026-02-22-anthropic-tested-16-models-instructions-didnt-stop-them-when.md)
+
 ## The Incident That Started It All
 
 On February 11th, an AI agent autonomously decided to destroy a stranger's

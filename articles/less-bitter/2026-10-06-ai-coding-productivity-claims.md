@@ -9,6 +9,8 @@ tags: ai, development
 
 # The Big Lie About AI Coding: What the Evidence Actually Supports
 
+[summary](../../summary/less-bitter/2026-10-06-ai-coding-productivity-claims.md)
+
 Less Bitter argues that an online “Markdown Industrial Complex” exaggerates the value of
 AI-coding skill files and custom workflows. The useful part of the critique is that GitHub stars,
 bookmarks, views, prompts, tokens, commits, and pull requests are activity or attention metrics.

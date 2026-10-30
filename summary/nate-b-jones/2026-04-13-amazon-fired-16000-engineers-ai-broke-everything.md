@@ -9,6 +9,8 @@ tags: ai, development
 
 # Summary
 
+[article](../../articles/nate-b-jones/2026-04-13-amazon-fired-16000-engineers-ai-broke-everything.md)
+
 "Dark code" = AI-generated production code that no human ever understood — not buggy, not
 spaghetti, just never comprehended because the process no longer requires it.
 

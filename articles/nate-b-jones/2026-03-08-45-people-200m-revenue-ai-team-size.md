@@ -9,6 +9,8 @@ tags: ai
 
 # 45 People, $200M Revenue — The Question Nobody's Asking About AI and Team Size
 
+[summary](../../summary/nate-b-jones/2026-03-08-45-people-200m-revenue-ai-team-size.md)
+
 ## The Real Problem Isn't Meetings — It's Team Size
 
 Average employees spend 12 hours a week in meetings. People managers: 16 hours.

@@ -9,6 +9,8 @@ tags: ai, development
 
 # How Vercel Solved Agent Building
 
+[article](../../articles/andrew-qu/2026-09-14-how-vercel-solved-agent-building.md)
+
 ## The problem
 
 - Andrew Qu describes Vercel's attempt to put useful agents across business teams.

@@ -9,6 +9,8 @@ tags: ai
 
 # I Just Did a Full Day of Analyst Work in 10 Minutes
 
+[summary](../../summary/nate-b-jones/2026-02-13-i-just-did-a-full-day-of-analyst-work-in-10-minutes-the-120k.md)
+
 ## General Intelligence Arrived in Excel and PowerPoint
 
 A full operating model — revenue projections, cost structure, unit

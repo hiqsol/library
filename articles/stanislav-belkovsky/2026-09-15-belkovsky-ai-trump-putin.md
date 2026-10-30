@@ -9,6 +9,8 @@ tags: ai, politics
 
 # AI, Power, Trump, and the Future of Putin’s System
 
+[summary](../../summary/stanislav-belkovsky/2026-09-15-belkovsky-ai-trump-putin.md)
+
 ## Source and interpretive frame
 
 This article explains an interview with political commentator Stanislav Belkovsky.

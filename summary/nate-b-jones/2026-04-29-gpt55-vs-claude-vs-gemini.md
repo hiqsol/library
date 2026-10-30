@@ -9,6 +9,8 @@ tags: ai
 
 # Summary
 
+[article](../../articles/nate-b-jones/2026-04-29-gpt55-vs-claude-vs-gemini.md)
+
 GPT-5.5 evaluated through three stress tests designed to make frontier
 models fail. Key thesis: the "floor" of capability moved — not just
 incremental improvement but a shift in what you can ask a model to do.

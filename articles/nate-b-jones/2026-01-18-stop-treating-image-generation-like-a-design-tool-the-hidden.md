@@ -9,6 +9,8 @@ tags: ai
 
 # Stop Treating Image Generation Like a Design Tool
 
+[summary](../../summary/nate-b-jones/2026-01-18-stop-treating-image-generation-like-a-design-tool-the-hidden.md)
+
 ## The Wrong Framing
 
 Nano Banana Pro hit a billion images generated in just 53 days. But

@@ -9,6 +9,8 @@ tags: ai
 
 # $1,000 a Day in AI Costs, Three Engineers, No Writing Code, No Code Review
 
+[summary](../../summary/nate-b-jones/2026-02-20-1-000-a-day-in-ai-costs-three-engineers-no-writing-code-no.md)
+
 ## The Token Is the New Unit of Work
 
 OpenAI is rumored to be working on a $20,000/month AI employee. But

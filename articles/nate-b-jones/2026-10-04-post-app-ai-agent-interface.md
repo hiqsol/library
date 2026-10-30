@@ -9,6 +9,8 @@ tags: ai, technology
 
 # The App Is Disappearing From View, Not From the Stack
 
+[summary](../../summary/nate-b-jones/2026-10-04-post-app-ai-agent-interface.md)
+
 Nate B. Jones calls it “the end of the app era.” The evidence supports a narrower and more useful
 conclusion. Apps are not ending. Software value is separating from the requirement to use a
 vendor's interface directly.

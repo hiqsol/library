@@ -9,6 +9,8 @@ tags: finance, politics
 
 # China's Rare-Earth Magnet Strategy Beyond Oil
 
+[summary](../../summary/maxinomics/2026-09-11-china-rare-earth-magnet-strategy.md)
+
 ## Source, scope, and evidentiary limits
 
 This article reconstructs Maxinomics' argument in "China Found Something Better Than Oil."

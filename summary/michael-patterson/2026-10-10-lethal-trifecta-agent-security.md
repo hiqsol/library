@@ -9,6 +9,8 @@ tags: ai, development, technology
 
 # The Lethal Trifecta: Securing AI Coding Agents
 
+[article](../../articles/michael-patterson/2026-10-10-lethal-trifecta-agent-security.md)
+
 Michael Patterson of Coder explains the “lethal trifecta” for AI agents: access to private data,
 exposure to untrusted content, and a channel for external communication or action. Together they
 create a credible path from indirect prompt injection to data theft or destructive operations.

@@ -9,6 +9,8 @@ tags: ai
 
 # The People Getting Promoted All Have This One Thing in Common — Summary
 
+[article](../../articles/nate-b-jones/2026-01-22-the-people-getting-promoted-all-have-this-one-thing-in.md)
+
 Entry-level tech hiring has collapsed 50%+ since 2019. Entry-level
 postings across the US dropped 29 percentage points (Jan 2024–Jan 2026).
 The traditional career ladder is being disassembled as AI automates the

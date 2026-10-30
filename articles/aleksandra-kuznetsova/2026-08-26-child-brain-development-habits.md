@@ -9,6 +9,8 @@ tags: health
 
 # Five Everyday Habits That Support a Child's Brain Development
 
+[summary](../../summary/aleksandra-kuznetsova/2026-08-26-child-brain-development-habits.md)
+
 ## What the video is—and is not—claiming
 
 Pediatrician and allergist Aleksandra Kuznetsova presents five low-cost habits that can

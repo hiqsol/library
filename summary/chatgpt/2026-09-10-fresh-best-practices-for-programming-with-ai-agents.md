@@ -7,6 +7,8 @@ url: https://github.com/sol/prj/hiqsol/library/blob/main/ai_coding_agents_best_p
 
 # Fresh Best Practices for Programming with AI Agents --- 2026
 
+[article](../../articles/chatgpt/2026-09-10-fresh-best-practices-for-programming-with-ai-agents.md)
+
 As of September 2026, effective coding-agent workflows have moved beyond prompt engineering. The main unit of optimization is now the **agent harness**: environment, context, tools, rules, feedback loops, and verification.
 
 > **The key question in 2026 is: what environment lets an agent find the right context, do the work, observe its own mistakes, and prove that the result is correct?**

@@ -9,6 +9,8 @@ tags: ai, development
 
 # How I Fight AI Brain Rot. Friction Maxxing With Codex, Grok And Claude.
 
+[article](../../articles/nate-b-jones/2026-08-28-fighting-ai-brain-rot-through-disagreement.md)
+
  Jones deliberately seeks disagreement among Codex, Grok, Claude, and about 10 trusted people.
 He treats serious AI work as practice for judgment, while keeping routine tasks simple.
 

@@ -9,6 +9,8 @@ tags: ai
 
 # Prompting Just Split Into 4 Skills — Here's Why You Need All of Them in 2026
 
+[summary](../../summary/nate-b-jones/2026-02-27-prompting-just-split-into-4-skills-you-only-know-one-heres.md)
+
 ## What Changed
 
 The prompting skill that mattered since 2024 was conversational: sit in a

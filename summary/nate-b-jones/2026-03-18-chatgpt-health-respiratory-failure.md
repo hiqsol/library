@@ -9,6 +9,8 @@ tags: ai
 
 # Summary: ChatGPT Health Identified Respiratory Failure. Then It Said Wait.
 
+[article](../../articles/nate-b-jones/2026-03-18-chatgpt-health-respiratory-failure.md)
+
 ## Core Claim
 
 Mount Sinai physicians tested ChatGPT Health using factorial design (same scenarios, 16 context

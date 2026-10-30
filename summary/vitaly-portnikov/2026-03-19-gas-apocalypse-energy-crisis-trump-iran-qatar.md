@@ -9,6 +9,8 @@ tags: politics, war, ukraine
 
 # Summary: Gas Apocalypse — The Energy Crisis Trump Didn't Plan For
 
+[article](../../articles/vitaly-portnikov/2026-03-19-gas-apocalypse-energy-crisis-trump-iran-qatar.md)
+
 ## Trigger
 
 Israeli strike on South Pars (Iran-Qatar joint gas field) + Iranian strike on Ras Laffan

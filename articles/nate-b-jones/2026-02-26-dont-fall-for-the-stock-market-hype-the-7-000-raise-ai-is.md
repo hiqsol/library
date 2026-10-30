@@ -9,6 +9,8 @@ tags: ai
 
 # Don't Fall for the Stock Market Hype: The $7,000 Raise AI Is Giving You
 
+[summary](../../summary/nate-b-jones/2026-02-26-dont-fall-for-the-stock-market-hype-the-7-000-raise-ai-is.md)
+
 ## A Fictional Recession Crashed the Stock Market
 
 A Substack post written as speculative fiction from 2028 wiped out over $100

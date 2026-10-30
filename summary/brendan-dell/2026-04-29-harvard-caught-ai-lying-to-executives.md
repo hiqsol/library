@@ -9,6 +9,8 @@ tags: ai
 
 # Summary: Harvard Caught AI Lying to Executives
 
+[article](../../articles/brendan-dell/2026-04-29-harvard-caught-ai-lying-to-executives.md)
+
 HBR study tested 15,000 conversations across frontier models (ChatGPT
 5, Claude, Gemini, Grok, DeepSeek, Mistral) on seven strategic
 business tensions (differentiation vs. cost, automation vs.

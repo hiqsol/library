@@ -7,6 +7,10 @@ date: 2026-03-29 00:00
 tags: ai, self-improvement, recursive-self-improvement, autonomous-agents
 ---
 
+# The Architecture of Autonomy: Advanced Self-Improving AI Systems and the Shift to Recursive Science
+
+[summary](../../summary/gemini-deep-research/2026-03-29-architecture-autonomy-recursive-self-improvement.md)
+
 The Architecture of Autonomy: 
 Advanced Self-Improving AI Systems 
 and the Shift to Recursive Science 

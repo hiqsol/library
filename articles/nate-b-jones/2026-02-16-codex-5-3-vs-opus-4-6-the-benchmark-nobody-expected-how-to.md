@@ -9,6 +9,8 @@ tags: ai
 
 # Codex 5.3 vs Opus 4.6 — The Benchmark Nobody Expected
 
+[summary](../../summary/nate-b-jones/2026-02-16-codex-5-3-vs-opus-4-6-the-benchmark-nobody-expected-how-to.md)
+
 ## Two Visions, Twenty Minutes Apart
 
 OpenAI shipped Codex 5.3 and Anthropic shipped Opus 4.6 just 20

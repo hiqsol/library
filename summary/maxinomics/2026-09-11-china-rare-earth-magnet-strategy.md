@@ -9,6 +9,8 @@ tags: finance, politics
 
 # China's Rare-Earth Magnet Strategy Beyond Oil
 
+[article](../../articles/maxinomics/2026-09-11-china-rare-earth-magnet-strategy.md)
+
 ## Thesis and limits
 Maxinomics' strongest thesis is narrower than "better than oil."
 China turned rare-earth processing and magnet manufacturing into strategic leverage.

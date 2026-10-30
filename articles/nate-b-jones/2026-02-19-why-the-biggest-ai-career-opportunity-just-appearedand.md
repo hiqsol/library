@@ -9,6 +9,8 @@ tags: ai
 
 # Why the Biggest AI Career Opportunity Just Appeared — And Almost Nobody Sees It
 
+[summary](../../summary/nate-b-jones/2026-02-19-why-the-biggest-ai-career-opportunity-just-appearedand.md)
+
 ## The AI Scare Trade
 
 Wall Street has developed an autoimmune disorder. On Thursday, February

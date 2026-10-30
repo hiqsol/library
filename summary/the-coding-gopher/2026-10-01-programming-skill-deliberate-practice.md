@@ -9,6 +9,8 @@ tags: development
 
 # How to Get Cracked at Programming
 
+[article](../../articles/the-coding-gopher/2026-10-01-programming-skill-deliberate-practice.md)
+
 The speaker argues that durable programming skill comes less from collecting frameworks and
 more from confronting failures, testing mental models, and learning how systems behave.
 The title is exaggerated; the video offers six practical habits rather than a shortcut to mastery.

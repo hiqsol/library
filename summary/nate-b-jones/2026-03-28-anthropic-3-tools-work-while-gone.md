@@ -9,6 +9,8 @@ tags: ai
 
 # Summary
 
+[article](../../articles/nate-b-jones/2026-03-28-anthropic-3-tools-work-while-gone.md)
+
 Anthropic shipped three primitives for Claude that together replicate
 what OpenClaw does — but managed, sandboxed, and without self-hosting.
 The thesis: agents should get work off your desk, not create more

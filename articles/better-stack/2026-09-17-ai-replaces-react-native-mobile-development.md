@@ -9,6 +9,8 @@ tags: ai, development
 
 # Is React Native Dead? What AI-Native Mobile Development Actually Changes
 
+[summary](../../summary/better-stack/2026-09-17-ai-replaces-react-native-mobile-development.md)
+
 React Native is not literally dead. The video offers no adoption data, shutdown notice, or proof
 that the framework has ceased to be viable. Its narrower and more interesting argument is that
 coding agents may weaken React Native's core economic advantage: sharing one implementation

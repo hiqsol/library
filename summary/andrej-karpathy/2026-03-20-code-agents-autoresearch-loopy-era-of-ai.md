@@ -9,6 +9,8 @@ tags: ai, development
 
 # Andrej Karpathy on Code Agents, AutoResearch, and the Loopy Era of AI
 
+[article](../../articles/andrej-karpathy/2026-03-20-code-agents-autoresearch-loopy-era-of-ai.md)
+
 ## The Inflection Point
 
 - December 2025 flipped Karpathy's workflow from 80% writing code himself to 80%+ delegating to

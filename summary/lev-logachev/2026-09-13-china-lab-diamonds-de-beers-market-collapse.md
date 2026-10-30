@@ -9,6 +9,8 @@ tags: economics
 
 # How China and Lab-Grown Diamonds Broke the Scarcity Model
 
+[article](../../articles/lev-logachev/2026-09-13-china-lab-diamonds-de-beers-market-collapse.md)
+
 *This summary follows Lev Logachev's unverified claims and causal interpretations.*
 *Russian automatic captions may contain errors; corrupt or conflicting figures are flagged.*
 

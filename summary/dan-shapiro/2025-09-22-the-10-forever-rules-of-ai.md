@@ -9,6 +9,8 @@ tags: ai, startups
 
 # Summary: THE 10 FOREVER RULES OF AI
 
+[article](../../articles/dan-shapiro/2025-09-22-the-10-forever-rules-of-ai.md)
+
 Dan Shapiro revisits ten AI principles originally drafted in June 2023, comparing them against the
 reality of late 2025. The core theme is that while the technology moves with blinding speed, the
 strategic constraints and incentives for builders remain remarkably consistent.

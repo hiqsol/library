@@ -9,6 +9,8 @@ tags: ai, development
 
 # Matt Pocock: The Most Valuable Skill to Learn in the Age of AI
 
+[article](../../articles/matt-pocock/2026-10-16-valuable-skill-ai-age.md)
+
 Matt Pocock argues that communication and the agent's environment matter more than model chasing.
 Models cannot infer every preference; users must state priorities and provide maintainable code,
 tests, tools, and observable feedback [00:04:24–00:06:46; 00:29:41–00:34:37].

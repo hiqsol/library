@@ -9,6 +9,8 @@ tags: politics, war, ukraine
 
 # Chernyk: How Will the Strike on Iran End? Sensational Forecast
 
+[summary](../../summary/petro-chernyk/2026-03-22-chernyk-how-will-strike-on-iran-end.md)
+
 Military expert and Ukrainian Armed Forces Colonel Petro Chernyk appeared on
 ZAXID.NET to analyze the ongoing US military operation against Iran, its
 strategic consequences for Ukraine, and the shifting geopolitical order.

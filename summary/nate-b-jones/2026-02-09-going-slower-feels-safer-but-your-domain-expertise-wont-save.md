@@ -9,6 +9,8 @@ tags: ai
 
 # Going Slower Feels Safer, But Your Domain Expertise Won't Save You — Summary
 
+[article](../../articles/nate-b-jones/2026-02-09-going-slower-feels-safer-but-your-domain-expertise-wont-save.md)
+
 Two collapses are happening simultaneously in knowledge work:
 
 **Horizontal collapse:** Engineer, PM, marketer, analyst, designer, ops

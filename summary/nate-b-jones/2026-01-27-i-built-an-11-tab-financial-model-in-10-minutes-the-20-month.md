@@ -9,6 +9,8 @@ tags: ai
 
 # I Built an 11-Tab Financial Model in 10 Minutes — Summary
 
+[article](../../articles/nate-b-jones/2026-01-27-i-built-an-11-tab-financial-model-in-10-minutes-the-20-month.md)
+
 Anthropic launched Claude as a native Excel sidebar add-in, opening
 to all Pro tier users ($20/month) after enterprise beta. Built on
 Opus 4.5 with full structural workbook awareness (every tab, formula,

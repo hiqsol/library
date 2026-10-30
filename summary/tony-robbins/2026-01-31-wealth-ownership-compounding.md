@@ -8,6 +8,8 @@ tags: finance
 ---
 
 # Tony Robbins on Ownership, Diversification, and Private Markets
+
+[article](../../articles/tony-robbins/2026-01-31-wealth-ownership-compounding.md)
 The clip asks Tony Robbins to identify patterns among wealthy investors and founders.
 Host Steven Bartlett frames the discussion; Robbins supplies principles and stories.
 The promotional title calls Robbins a billionaire, but the clip does not prove net worth.

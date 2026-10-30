@@ -9,6 +9,8 @@ tags: politics, war, ukraine
 
 # Strategic Oil Reserves, Sanctions, and the Economics of Russia's War
 
+[article](../../articles/vitaly-portnikov/2026-09-19-oil-reserves-sanctions-russia-war.md)
+
 This summarizes Vitaly Portnikov's 16:22 Espreso interview with Andriy Saichuk,
 published September 19, 2026, at 19:00 in the system timezone.
 It uses only Ukrainian automatic captions and the description; captions contain errors.

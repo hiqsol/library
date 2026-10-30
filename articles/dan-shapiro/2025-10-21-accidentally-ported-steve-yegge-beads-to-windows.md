@@ -9,6 +9,8 @@ tags: ai, development
 
 # I accidentally ported Steve Yegge's Beads to Windows
 
+[summary](../../summary/dan-shapiro/2025-10-21-accidentally-ported-steve-yegge-beads-to-windows.md)
+
 Tuesday, 9:40am, Seattle. Whatsapp buzzed. Harper sent a link - a new project from Steve Yegge that
 makes AI agents more effective. Worth a try.
 

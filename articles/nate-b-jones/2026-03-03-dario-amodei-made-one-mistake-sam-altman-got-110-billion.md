@@ -9,6 +9,8 @@ tags: ai
 
 # Dario Amodei Made One Mistake, Sam Altman Got $110 Billion
 
+[summary](../../summary/nate-b-jones/2026-03-03-dario-amodei-made-one-mistake-sam-altman-got-110-billion.md)
+
 ## The Week That Reshaped AI Power Dynamics
 
 On a Friday night, while Anthropic CEO Dario Amodei was still drafting his

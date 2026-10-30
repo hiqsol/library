@@ -9,6 +9,8 @@ tags: politics, war, ukraine, ai
 
 # How Russia May Test NATO Below the Threshold of War
 
+[summary](../../summary/ivan-yakovina/2026-09-26-russia-tests-nato-europe-drone-war.md)
+
 ## Scope and evidentiary caution
 
 This article reconstructs journalist Ivan Yakovina's argument in a Russian-language interview.

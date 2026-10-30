@@ -9,6 +9,8 @@ tags: politics, war, ukraine
 
 # Summary: Middle East Endgame — Iran's Defeat, Ukraine's Geopolitical Stake
 
+[article](../../articles/petro-chernyk/2026-03-20-middle-east-endgame-irans-defeat-ukraine-geopolitics.md)
+
 ## Battlefield Status
 
 Operation "Epic People 3": 15,000+ targets struck. Iranian rockets down 90%, drones down 95%.

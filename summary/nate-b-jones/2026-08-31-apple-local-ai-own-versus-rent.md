@@ -9,6 +9,8 @@ tags: ai
 
 # Apple's New Mac Line is Built Around Local AI. The Bet Is You'd Rather Own Than Rent.
 
+[article](../../articles/nate-b-jones/2026-08-31-apple-local-ai-own-versus-rent.md)
+
  Jones interprets Apple's Mac refresh as a bet on owning useful local intelligence. It does not
 imply that a desktop can replace every frontier cloud model.
 

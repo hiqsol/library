@@ -9,6 +9,8 @@ tags: politics, war, ukraine
 
 # Ukraine's Frontline Adaptation, Drone Shortfalls, and the Next Threat
 
+[summary](../../summary/yurii-butusov/2026-09-26-frontline-command-drone-challenges.md)
+
 ## A case study in active defense
 
 Yurii Butusov presents the fighting near Lyman as a successful active-defense operation,

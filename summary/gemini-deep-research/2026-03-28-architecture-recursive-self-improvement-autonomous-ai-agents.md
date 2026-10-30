@@ -9,6 +9,8 @@ tags: ai
 
 # Summary
 
+[article](../../articles/gemini-deep-research/2026-03-28-architecture-recursive-self-improvement-autonomous-ai-agents.md)
+
 Commissioned research report (15 pages, 38 sources) analyzing
 self-improving AI agent architectures, with a specific gap analysis
 of the Kai system. Covers theoretical frameworks, open-source

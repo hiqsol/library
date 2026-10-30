@@ -9,6 +9,8 @@ tags: politics, war, ukraine
 
 # Ukraine's Frontline Adaptation, Drone Shortfalls, and the Next Threat
 
+[article](../../articles/yurii-butusov/2026-09-26-frontline-command-drone-challenges.md)
+
 ## Lyman and command reform
 
 Yurii Butusov calls the Lyman action active defense, not the start of Donetsk's liberation.

@@ -9,6 +9,8 @@ tags: technology
 
 # Changing Course on Mars: Fraser Cain on Revising a Spacefaring Future
 
+[summary](../../summary/fraser-cain/2026-10-02-changing-view-of-space.md)
+
 For Fraser Cain, changing one's mind is not a failure of conviction.
 It is what conviction should look like when it remains answerable to evidence.
 After 27 years in space journalism, Cain has revised one of his defining views.

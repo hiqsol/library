@@ -9,6 +9,8 @@ tags: ai
 
 # AI Made Every Company 10x More Productive — The Ones Cutting Headcount Are Telling on Themselves
 
+[summary](../../summary/nate-b-jones/2026-03-14-ai-10x-productive-cutting-headcount.md)
+
 ## The Wrong Question
 
 Whoop just announced it is hiring more than 600 people, nearly doubling its

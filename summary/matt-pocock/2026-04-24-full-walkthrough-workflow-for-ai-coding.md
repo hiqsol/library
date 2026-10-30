@@ -8,6 +8,8 @@ tags: ai, development
 ---
 
 # Full Walkthrough: Workflow for AI Coding
+
+[article](../../articles/matt-pocock/2026-04-24-full-walkthrough-workflow-for-ai-coding.md)
 ## Core idea
 - Pocock applies classic engineering discipline rather than treating AI as a code compiler.
 - Humans own intent, architecture, taste, and review; agents execute bounded work.

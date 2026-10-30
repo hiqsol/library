@@ -9,6 +9,8 @@ tags: politics, war, ukraine
 
 # Ukraine, NATO Article 5, and the Limits of Deterrence
 
+[summary](../../summary/robert-brovdi/2026-09-05-article-five-nato-deterrence-test.md)
+
 ## Source and scope
 
 This article explains the argument made by Robert Brovdi, known as Magyar, in a

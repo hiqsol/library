@@ -9,6 +9,8 @@ tags: ai, development
 
 # OpenAI Pays $280,000 For This Job. You Don't Have To Be An Engineer.
 
+[article](../../articles/nate-b-jones/2026-08-23-forward-deployed-engineer-skills-and-career.md)
+
  Forward-deployed engineering translates general AI capability into a working customer
 deployment. Jones identifies three parts: workflow judgment, technical delivery, and post-launch
 ownership.

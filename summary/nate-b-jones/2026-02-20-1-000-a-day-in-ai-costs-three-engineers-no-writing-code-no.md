@@ -9,6 +9,8 @@ tags: ai
 
 # $1,000 a Day in AI Costs — Summary
 
+[article](../../articles/nate-b-jones/2026-02-20-1-000-a-day-in-ai-costs-three-engineers-no-writing-code-no.md)
+
 The fundamental unit of computing is shifting from instructions to
 tokens — units of purchased intelligence. This is not a tools upgrade;
 it is a paradigm change.

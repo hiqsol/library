@@ -9,6 +9,8 @@ tags: health
 
 # When More Cardio Stops Meaning More Health
 
+[article](../../articles/gleb/2026-07-07-cardio-health-performance-limit.md)
+
 ## The thesis
 
 Gleb argues for a dose-response curve, not an anti-cardio message.

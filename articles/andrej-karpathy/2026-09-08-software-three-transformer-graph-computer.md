@@ -9,6 +9,8 @@ tags: ai, development
 
 # Software 3.0 and the Transformer as a Graph Computer
 
+[summary](../../summary/andrej-karpathy/2026-09-08-software-three-transformer-graph-computer.md)
+
 ## Source caveat
 
 The Perfology Clips upload is dated September 8, 2026, but it appears edited and spliced.

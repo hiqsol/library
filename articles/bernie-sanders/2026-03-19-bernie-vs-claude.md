@@ -9,6 +9,8 @@ tags: ai, politics
 
 # Bernie vs. Claude
 
+[summary](../../summary/bernie-sanders/2026-03-19-bernie-vs-claude.md)
+
 *Senator Bernie Sanders interviews Claude AI directly about privacy, corporate power, and AI's
 threat to democracy. A short, blunt exchange.*
 

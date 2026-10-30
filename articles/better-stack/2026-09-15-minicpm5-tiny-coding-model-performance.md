@@ -9,6 +9,8 @@ tags: ai, development
 
 # This Tiny Coding Model Shouldn’t Be This Good (MiniCPM5)
 
+[summary](../../summary/better-stack/2026-09-15-minicpm5-tiny-coding-model-performance.md)
+
 MiniCPM5-2B is a small, local model aimed at a job where small models often fail:
 acting as a coding agent that can follow tool schemas, make calls, and produce useful patches.
 Josh from Better Stack argues that its strongest results are genuinely unusual for its size,

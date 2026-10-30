@@ -9,6 +9,8 @@ tags: ai
 
 # You Don't Need SaaS: The $0.10 System That Replaced My AI Workflow
 
+[summary](../../summary/nate-b-jones/2026-03-02-you-dont-need-saas-the-0-10-system-that-replaced-my-ai.md)
+
 ## The Problem: Your AI Agent Doesn't Have a Brain
 
 Your AI agent doesn't have a system that lets it read and think through context

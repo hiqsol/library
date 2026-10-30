@@ -9,6 +9,8 @@ tags: ai, development
 
 # How Boris Cherny Uses Claude Code
 
+[summary](../../summary/boris-cherny/2026-01-02-how-boris-cherny-uses-claude-code.md)
+
 Boris Cherny described his personal Claude Code setup as "surprisingly vanilla," but the thread
 shows a workflow that is simple mainly because it has been systematized well. The setup is built
 around parallel sessions, a strong `CLAUDE.md`, reusable commands, narrow subagents, and explicit

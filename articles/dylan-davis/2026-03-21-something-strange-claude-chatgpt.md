@@ -7,6 +7,10 @@ date: 2026-03-21 00:00
 tags: ai
 ---
 
+# Something Strange is Happening with Claude and ChatGPT Right Now
+
+[summary](../../summary/dylan-davis/2026-03-21-something-strange-claude-chatgpt.md)
+
 Every one of my clients right now is asking me about the same thing. It's not about
 a new model. It's not about a better prompt. There's a feature built into Claude and
 ChatGPT that most people have never touched — and three things changed recently that

@@ -9,6 +9,8 @@ tags: ai
 
 # Summary
 
+[article](../../articles/nate-b-jones/2026-03-30-agreed-one-file-format-changes-everything.md)
+
 Skills — markdown files encoding expertise — evolved from personal
 config to cross-platform organizational infrastructure in six months.
 Anthropic, OpenAI, and Microsoft all support the same format.

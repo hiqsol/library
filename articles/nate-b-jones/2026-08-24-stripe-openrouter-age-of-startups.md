@@ -9,6 +9,8 @@ tags: ai, startups, development
 
 # Stripe Paid $7.5 Billion For OpenRouter. You Are Living In The Age Of Startups.
 
+[summary](../../summary/nate-b-jones/2026-08-24-stripe-openrouter-age-of-startups.md)
+
  ## An infrastructure acquisition and a strategic signal
 
 Jones frames Stripe's reported $7.5 billion acquisition of OpenRouter as a bet on cheaper

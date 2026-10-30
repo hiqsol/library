@@ -9,6 +9,8 @@ tags: startups
 
 # Summary: Angel Investor: I have become that which I loathed
 
+[article](../../articles/dan-shapiro/2015-07-09-angel-investor-i-have-become-that-which-i-loathed.md)
+
 In Chapter 16 of my book I talk a lot about angel investing. First up: "Angel investor" is a stupid
 and meaningless term, right up there with "stock market investor" or "bank account holder".
 

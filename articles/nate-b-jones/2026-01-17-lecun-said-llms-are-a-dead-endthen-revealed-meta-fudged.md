@@ -9,6 +9,8 @@ tags: ai
 
 # LeCun Said LLMs Are a Dead End, Then Revealed Meta Fudged Their Benchmarks
 
+[summary](../../summary/nate-b-jones/2026-01-17-lecun-said-llms-are-a-dead-endthen-revealed-meta-fudged.md)
+
 ## Five Stories That Actually Matter This Week
 
 Out of 200+ stories tracked, five stood out for their strategic

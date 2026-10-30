@@ -9,6 +9,8 @@ tags: ai
 
 # OpenAI Is Slowing Hiring, Anthropic's Engineers Stopped Writing Code
 
+[summary](../../summary/nate-b-jones/2026-02-04-openai-is-slowing-hiring-anthropics-engineers-stopped.md)
+
 ## The Paradox: Capability Jumped, Adoption Has Not
 
 Sam Altman confessed recently that despite being CEO of OpenAI, having the

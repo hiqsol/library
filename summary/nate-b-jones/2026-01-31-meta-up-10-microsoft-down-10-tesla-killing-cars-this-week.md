@@ -9,6 +9,8 @@ tags: ai
 
 # Meta Up 10%, Microsoft Down 10%, Tesla Killing Cars — Summary
 
+[article](../../articles/nate-b-jones/2026-01-31-meta-up-10-microsoft-down-10-tesla-killing-cars-this-week.md)
+
 Meta and Microsoft both beat earnings expectations and announced
 massive AI spending — but Meta jumped 10% while Microsoft dropped
 11%. The divergence: Meta controls its AI (ad engine, recommendation

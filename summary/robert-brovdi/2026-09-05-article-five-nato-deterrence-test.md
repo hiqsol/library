@@ -9,6 +9,8 @@ tags: politics, war, ukraine
 
 # Ukraine, NATO Article 5, and the Limits of Deterrence
 
+[article](../../articles/robert-brovdi/2026-09-05-article-five-nato-deterrence-test.md)
+
 Robert Brovdi, known as Magyar, argues that NATO's promise is only as credible
 as its ability to fight the drone war that Ukraine is already experiencing.
 This is an explanatory summary of his claims, not independent verification.

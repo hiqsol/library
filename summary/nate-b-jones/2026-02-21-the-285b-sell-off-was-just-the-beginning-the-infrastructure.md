@@ -9,6 +9,8 @@ tags: ai
 
 # The $285B Sell-Off Was Just the Beginning — Summary
 
+[article](../../articles/nate-b-jones/2026-02-21-the-285b-sell-off-was-just-the-beginning-the-infrastructure.md)
+
 The web is forking into a human web and an agent web. In a single
 week, Coinbase launched Agentic Wallets, Cloudflare shipped Markdown
 for Agents, and OpenAI published skills/shell tools — none coordinated,

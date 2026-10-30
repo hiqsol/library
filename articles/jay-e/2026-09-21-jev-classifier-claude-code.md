@@ -9,6 +9,8 @@ tags: ai, development
 
 # Jev as a Fast Classifier for Claude Code
 
+[summary](../../summary/jay-e/2026-09-21-jev-classifier-claude-code.md)
+
 ## The useful idea, and the limit of the title
 
 Jay E presents Jev as a fast, low-cost classifier that can sit beside Claude Code.

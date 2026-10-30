@@ -9,6 +9,8 @@ tags: ai
 
 # The Job Market Split Nobody's Talking About — Summary
 
+[article](../../articles/nate-b-jones/2026-02-15-the-job-market-split-nobodys-talking-about-its-already.md)
+
 The marginal cost of producing software is collapsing to zero (90%
 of Claude Code self-written, 3-person teams replacing 10-person
 teams, Cursor at $16M/employee). But the cost of specifying badly

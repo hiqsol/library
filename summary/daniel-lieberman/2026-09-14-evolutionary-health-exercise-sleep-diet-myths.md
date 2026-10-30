@@ -9,6 +9,8 @@ tags: health
 
 # Evolutionary Mismatch: Exercise, Sleep, Diet, and Modern Health
 
+[article](../../articles/daniel-lieberman/2026-09-14-evolutionary-health-exercise-sleep-diet-myths.md)
+
 ## Scope
 This summarizes a 47:04 *Sasha i Sens* interview with Daniel Lieberman.
 It is based on Ukrainian automatic captions translated into English.

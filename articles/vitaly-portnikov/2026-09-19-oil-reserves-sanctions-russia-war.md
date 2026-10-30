@@ -9,6 +9,8 @@ tags: politics, war, ukraine
 
 # Strategic Oil Reserves, Sanctions, and the Economics of Russia's War
 
+[summary](../../summary/vitaly-portnikov/2026-09-19-oil-reserves-sanctions-russia-war.md)
+
 ## Source and scope
 
 This article reconstructs the argument made by Vitaly Portnikov in a 16:22 Espreso

@@ -9,6 +9,8 @@ tags: politics, war, ukraine
 
 # Gas Apocalypse: The Energy Crisis Trump Didn't Plan For
 
+[summary](../../summary/vitaly-portnikov/2026-03-19-gas-apocalypse-energy-crisis-trump-iran-qatar.md)
+
 ## The Triggering Events
 
 Global energy prices are spiking sharply following two strikes:

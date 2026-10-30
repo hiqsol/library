@@ -9,6 +9,8 @@ tags: ai, development, startups
 
 # Runable Raised $21 Million On Agents That Finish. Nobody Told Yours What Done Means.
 
+[summary](../../summary/nate-b-jones/2026-08-30-agents-need-business-definition-of-done.md)
+
  ## An agent needs a business finish line
 
 Jones uses Runable's reported $21 million Series A and promise of agents that complete

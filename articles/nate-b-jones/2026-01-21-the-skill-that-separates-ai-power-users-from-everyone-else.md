@@ -9,6 +9,8 @@ tags: ai
 
 # The Skill That Separates AI Power Users From Everyone Else
 
+[summary](../../summary/nate-b-jones/2026-01-21-the-skill-that-separates-ai-power-users-from-everyone-else.md)
+
 ## The Cursor Browser Experiment
 
 Cursor CEO Michael Truell let GPT-5.2 run for a week straight in January

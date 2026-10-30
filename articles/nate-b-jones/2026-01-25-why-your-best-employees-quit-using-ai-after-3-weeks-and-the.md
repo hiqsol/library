@@ -9,6 +9,8 @@ tags: ai
 
 # Why Your Best Employees Quit Using AI After 3 Weeks
 
+[summary](../../summary/nate-b-jones/2026-01-25-why-your-best-employees-quit-using-ai-after-3-weeks-and-the.md)
+
 ## The Microsoft Study: 300,000 Employees
 
 Toward the end of 2025, Microsoft tracked 300,000 employees using AI

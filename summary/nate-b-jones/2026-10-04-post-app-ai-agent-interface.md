@@ -9,6 +9,8 @@ tags: ai, technology
 
 # The App Is Disappearing From View, Not From the Stack
 
+[article](../../articles/nate-b-jones/2026-10-04-post-app-ai-agent-interface.md)
+
 Nate B. Jones's “end of the app era” is better read as a forecast about interfaces.
 Apps are not ending; software value is separating from mandatory direct interface use.
 The emerging stack has four parts: interface, governed workflow,

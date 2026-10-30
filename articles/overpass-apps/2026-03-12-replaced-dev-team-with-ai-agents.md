@@ -9,6 +9,8 @@ tags: ai, development
 
 # I Replaced My Dev Team with AI Agents (7 Months Later)
 
+[summary](../../summary/overpass-apps/2026-03-12-replaced-dev-team-with-ai-agents.md)
+
 **Abbreviations:**
 - **MCP** — Model Context Protocol
 

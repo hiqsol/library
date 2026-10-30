@@ -9,6 +9,8 @@ tags: ai
 
 # My 10-Year-Old Vibe Codes and Does Math by Hand — Why That's the Only Strategy
 
+[summary](../../summary/nate-b-jones/2026-02-28-my-10-year-old-vibe-codes-she-also-does-math-by-hand-why.md)
+
 ## The World Our Kids Inherit
 
 According to *Nature* (the journal), artificial general intelligence has

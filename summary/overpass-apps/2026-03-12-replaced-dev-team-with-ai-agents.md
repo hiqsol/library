@@ -9,6 +9,8 @@ tags: ai, development
 
 # Summary: I Replaced My Dev Team with AI Agents (7 Months Later)
 
+[article](../../articles/overpass-apps/2026-03-12-replaced-dev-team-with-ai-agents.md)
+
 After 7 months away, app developer Eric shares how AI agents completely
 replaced his offshore development teams (Philippines, India, Vietnam).
 

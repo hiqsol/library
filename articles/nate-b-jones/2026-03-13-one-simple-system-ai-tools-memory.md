@@ -9,6 +9,8 @@ tags: ai
 
 # One Simple System Gave All My AI Tools a Memory. Here's How.
 
+[summary](../../summary/nate-b-jones/2026-03-13-one-simple-system-ai-tools-memory.md)
+
 **Abbreviations:**
 - **MCP** — Model Context Protocol
 - **SaaS** — Software as a Service

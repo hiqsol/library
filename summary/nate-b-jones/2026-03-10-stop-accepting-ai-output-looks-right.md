@@ -9,6 +9,8 @@ tags: ai
 
 # Summary: Stop Accepting AI Output That "Looks Right"
 
+[article](../../articles/nate-b-jones/2026-03-10-stop-accepting-ai-output-looks-right.md)
+
 Nate argues that rejection — saying "no" to AI output — is the most
 undervalued AI skill and the largest structural gap in the AI tool ecosystem.
 Your rejections are more valuable than your prompts.

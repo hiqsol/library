@@ -9,6 +9,8 @@ tags: ai
 
 # The OpenClaw Saga: Zuckerberg Begged This Developer — Summary
 
+[article](../../articles/nate-b-jones/2026-02-17-the-openclaw-saga-zuckerberg-begged-this-developer-to-join.md)
+
 Peter Steinberger, Austrian developer who sold his PDF company for
 $100M+, joined OpenAI on Valentine's Day 2026. He built OpenClaw
 (fastest-growing open-source project in GitHub history, 200K stars,

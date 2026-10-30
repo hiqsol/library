@@ -9,6 +9,8 @@ tags: politics, war, ukraine
 
 # Listen to Chernyk, Not Trump: How Everything Will End in the Middle East
 
+[summary](../../summary/petro-chernyk/2026-03-13-chernyk-middle-east-iran-us-endgame.md)
+
 ## Operation Epic Friday: Results in Iran
 
 In just two weeks, the US–Israel operation codenamed *Epic Friday* has struck 55,000 targets

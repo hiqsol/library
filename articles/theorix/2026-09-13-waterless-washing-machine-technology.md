@@ -9,6 +9,8 @@ tags: technology
 
 # Waterless Laundry with Liquid Carbon Dioxide
 
+[summary](../../summary/theorix/2026-09-13-waterless-washing-machine-technology.md)
+
 ## Scope and evidentiary status
 
 This article analyzes a 26:36 Theorix video published on September 13, 2026.

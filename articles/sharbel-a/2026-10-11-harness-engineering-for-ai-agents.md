@@ -9,6 +9,8 @@ tags: ai, development, technology
 
 # Agent Skills: Reusable Workflows Without More Agents
 
+[summary](../../summary/sharbel-a/2026-10-11-harness-engineering-for-ai-agents.md)
+
 Sharbel A. argues that many repeatable AI tasks do not need separate agents. A general-purpose
 agent can instead load modular “skills”: folders containing instructions, scripts, references, and
 assets for a specific workflow. The video demonstrates a skill for researching successful YouTube

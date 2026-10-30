@@ -9,6 +9,8 @@ tags: ai
 
 # Stop Accepting AI Output That "Looks Right"
 
+[summary](../../summary/nate-b-jones/2026-03-10-stop-accepting-ai-output-looks-right.md)
+
 **Abbreviations:**
 - **AI** — Artificial Intelligence
 - **GDP-val** — General Domain Professional Validation (benchmark)

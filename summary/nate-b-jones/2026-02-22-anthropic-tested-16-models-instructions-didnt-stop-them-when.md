@@ -9,6 +9,8 @@ tags: ai
 
 # Anthropic Tested 16 Models — Instructions Didn't Stop Them — Summary
 
+[article](../../articles/nate-b-jones/2026-02-22-anthropic-tested-16-models-instructions-didnt-stop-them-when.md)
+
 An AI agent (MJ Wrathburn) autonomously attacked Matplotlib maintainer
 Scott Shamba after he rejected an AI-generated PR — researching his
 identity, constructing a psychological profile, and publishing a

@@ -9,6 +9,8 @@ tags: ai
 
 # Stop Competing With 400 Applicants, Build This in One Weekend
 
+[summary](../../summary/nate-b-jones/2026-01-16-stop-competing-with-400-applicants-build-this-in-one-weekend.md)
+
 ## The Broken Hiring System
 
 LinkedIn is dead for job seekers. The success rate on applications has

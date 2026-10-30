@@ -9,6 +9,8 @@ tags: ai
 
 # Why Every Cold Application You Send Is a Waste of Time
 
+[summary](../../summary/nate-b-jones/2026-01-29-why-every-cold-application-you-send-is-a-waste-of-time-and.md)
+
 ## The Power Dynamic Has Shifted
 
 The most powerful digital platforms in our lives lost their edge in

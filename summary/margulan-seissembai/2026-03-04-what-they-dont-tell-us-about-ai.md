@@ -9,6 +9,8 @@ tags: ai
 
 # Summary: What They Don't Tell Us About AI
 
+[article](../../articles/margulan-seissembai/2026-03-04-what-they-dont-tell-us-about-ai.md)
+
 Margulan Seissembai — Kazakh researcher, former billionaire ($6B peak), and
 investor — shares his view on AI and humanity's future. He personally
 vibe-codes apps and participates in a community of 50–70 unicorn founders

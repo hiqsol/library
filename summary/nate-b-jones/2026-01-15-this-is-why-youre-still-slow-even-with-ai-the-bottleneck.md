@@ -9,6 +9,8 @@ tags: ai
 
 # This Is Why You Are Still Slow Even With AI — Summary
 
+[article](../../articles/nate-b-jones/2026-01-15-this-is-why-youre-still-slow-even-with-ai-the-bottleneck.md)
+
 Anthropic shipped Co-work in 10 days with 4 people using Claude Code,
 releasing 60–100 times daily. Meanwhile most companies are writing
 30-day implementation roadmaps. Execution capacity is no longer scarce

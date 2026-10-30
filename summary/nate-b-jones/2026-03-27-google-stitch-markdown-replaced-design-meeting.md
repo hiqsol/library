@@ -9,6 +9,8 @@ tags: ai, development
 
 # Summary
 
+[article](../../articles/nate-b-jones/2026-03-27-google-stitch-markdown-replaced-design-meeting.md)
+
 Three creative tool releases are shifting design to the command line:
 Google Stitch, Remotion, and Blender MCP. All three use MCP as the
 universal connector, making them accessible from any AI coding agent.

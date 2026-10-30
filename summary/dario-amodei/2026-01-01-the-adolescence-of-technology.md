@@ -7,6 +7,10 @@ date: 2026-01-01 00:00
 tags: ai
 ---
 
+# The Adolescence of Technology
+
+[article](../../articles/dario-amodei/2026-01-01-the-adolescence-of-technology.md)
+
 Companion to *Machines of Loving Grace*: where that essay mapped the upside, this one maps the
 risks. Frame is Carl Sagan's *Contact*: humanity is entering a "technological adolescence" — a
 rite of passage that will test whether our systems are mature enough to wield AI's power.

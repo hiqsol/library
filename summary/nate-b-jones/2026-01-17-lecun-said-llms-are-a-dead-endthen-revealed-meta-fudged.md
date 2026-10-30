@@ -9,6 +9,8 @@ tags: ai
 
 # LeCun Said LLMs Are a Dead End, Then Revealed Meta Fudged Their Benchmarks — Summary
 
+[article](../../articles/nate-b-jones/2026-01-17-lecun-said-llms-are-a-dead-endthen-revealed-meta-fudged.md)
+
 Five significant stories from the week, out of 200+ tracked:
 
 **1. Healthcare race:** OpenAI launched ChatGPT Health (consumer) and

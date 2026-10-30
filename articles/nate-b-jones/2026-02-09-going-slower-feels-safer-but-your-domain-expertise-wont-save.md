@@ -9,6 +9,8 @@ tags: ai
 
 # Going Slower Feels Safer, But Your Domain Expertise Won't Save You
 
+[summary](../../summary/nate-b-jones/2026-02-09-going-slower-feels-safer-but-your-domain-expertise-wont-save.md)
+
 ## AI Is Collapsing Futures — Not Destroying, Compressing
 
 AI is collapsing multiple dimensions of our work lives into a single thread

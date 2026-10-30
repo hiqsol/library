@@ -9,6 +9,8 @@ tags: ai
 
 # Claude Opus 4.6: The Biggest AI Jump I've Covered
 
+[summary](../../summary/nate-b-jones/2026-02-11-claude-opus-4-6-the-biggest-ai-jump-ive-covered-its-not.md)
+
 ## The Two-Week Autonomous Coding Record
 
 Claude Opus 4.6 dropped and immediately changed the AI agent game. Sixteen

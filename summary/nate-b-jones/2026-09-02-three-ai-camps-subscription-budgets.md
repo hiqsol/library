@@ -9,6 +9,8 @@ tags: ai
 
 # OpenAI, NVIDIA And Anthropic Just Split. Here's How I'd Spend $20, $60 Or $200.
 
+[article](../../articles/nate-b-jones/2026-09-02-three-ai-camps-subscription-budgets.md)
+
  Jones sees three loose AI camps: OpenAI integrates, NVIDIA supplies everyone, and Anthropic
 diversifies. These are strategic interpretations, not formal alliances.
 

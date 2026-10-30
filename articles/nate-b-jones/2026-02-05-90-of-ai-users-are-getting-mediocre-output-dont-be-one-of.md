@@ -9,6 +9,8 @@ tags: ai
 
 # 90% of AI Users Are Getting Mediocre Output: Stop Prompting, Do This
 
+[summary](../../summary/nate-b-jones/2026-02-05-90-of-ai-users-are-getting-mediocre-output-dont-be-one-of.md)
+
 ## How AI Averages You Out
 
 Nobody gets 10x results from default vanilla ChatGPT, Claude, or Gemini.

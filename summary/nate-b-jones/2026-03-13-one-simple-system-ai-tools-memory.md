@@ -9,6 +9,8 @@ tags: ai
 
 # Summary: One Simple System Gave All My AI Tools a Memory
 
+[article](../../articles/nate-b-jones/2026-03-13-one-simple-system-ai-tools-memory.md)
+
 Nate extends his Open Brain system (personal Supabase database + MCP
 server) with a visual "human door" — a web interface that lets both
 humans and agents read/write the same data through different doorways.

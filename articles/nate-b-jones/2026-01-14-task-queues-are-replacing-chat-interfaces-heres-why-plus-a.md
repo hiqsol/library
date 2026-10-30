@@ -9,6 +9,8 @@ tags: ai
 
 # Task Queues Are Replacing Chat Interfaces
 
+[summary](../../summary/nate-b-jones/2026-01-14-task-queues-are-replacing-chat-interfaces-heres-why-plus-a.md)
+
 ## How Claude Co-work Was Born
 
 10 days. That is how long it took Anthropic to build and ship Claude

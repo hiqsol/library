@@ -9,6 +9,8 @@ tags: ai, development
 
 # Terence Tao: How the World's Top Mathematician Uses AI
 
+[summary](../../summary/terence-tao/2026-03-20-how-the-worlds-top-mathematician-uses-ai.md)
+
 *Interview by Dwarkesh Patel. Terence Tao is a Fields Medal winner and professor at UCLA,
 widely considered the world's greatest living mathematician.*
 

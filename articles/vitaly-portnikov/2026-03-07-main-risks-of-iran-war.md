@@ -7,6 +7,10 @@ date: 2026-03-07 00:00
 tags: war, ukraine, politics
 ---
 
+# Main Risks of the Iran War
+
+[summary](../../summary/vitaly-portnikov/2026-03-07-main-risks-of-iran-war.md)
+
 Vitaly Portnikov joins Peter Zalmayev on the "Devick" program (Pryamiy
 channel, March 7, 2026) to discuss the US-Israeli war against Iran, the
 Russia-Ukraine war, and Hungary's pre-election tensions with Ukraine.

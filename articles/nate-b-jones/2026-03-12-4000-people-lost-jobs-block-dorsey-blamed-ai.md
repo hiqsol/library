@@ -9,6 +9,8 @@ tags: ai
 
 # 4,000 People Lost Their Jobs At Block. Dorsey Blamed AI. Here's What Actually Happened.
 
+[summary](../../summary/nate-b-jones/2026-03-12-4000-people-lost-jobs-block-dorsey-blamed-ai.md)
+
 ## The Dorsey Framing Was Wrong
 
 When Jack Dorsey announced Block's layoffs, he used the now-standard narrative: AI is letting us

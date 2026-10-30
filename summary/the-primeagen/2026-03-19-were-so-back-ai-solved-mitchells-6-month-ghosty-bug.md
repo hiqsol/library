@@ -9,6 +9,8 @@ tags: ai, development
 
 # Summary: "We're So Back" — AI Solved Mitchell's 6-Month Ghosty Bug
 
+[article](../../articles/the-primeagen/2026-03-19-were-so-back-ai-solved-mitchells-6-month-ghosty-bug.md)
+
 ## The Bug
 
 Mitchell Hashimoto (creator of Ghosty terminal) had a screen-flicker bug on split — visible

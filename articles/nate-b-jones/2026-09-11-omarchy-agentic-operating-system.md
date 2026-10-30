@@ -9,6 +9,8 @@ tags: ai, development
 
 # Omarchy and the Agentic Desktop: Making an Operating System Personal
 
+[summary](../../summary/nate-b-jones/2026-09-11-omarchy-agentic-operating-system.md)
+
 An operating system looks neutral only because its choices have become familiar. Where
 notifications appear, which apps open, how windows move, and what can be automated are
 all decisions made for a mass audience. Nate B. Jones's argument is that AI agents can

@@ -9,6 +9,8 @@ tags: ai, development
 
 # Summary: Your AI Agent Fails 97.5% of Real Work. The Fix Isn't Coding.
 
+[article](../../articles/nate-b-jones/2026-03-21-ai-agent-fails-97-percent-real-work-fix.md)
+
 - Core thesis: agents are getting better; the humans deploying them are not — that is the
   whole story right now.
 - Memory wall: agents are measured in hours/weeks; real jobs last 18–24 months; institutional

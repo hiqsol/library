@@ -9,6 +9,8 @@ tags: health
 
 # Five Everyday Habits That Support a Child's Brain Development
 
+[article](../../articles/aleksandra-kuznetsova/2026-08-26-child-brain-development-habits.md)
+
 ## The five practices
 
 1. **Respond back.** Kuznetsova calls this "serve and return": answer a baby's coo,

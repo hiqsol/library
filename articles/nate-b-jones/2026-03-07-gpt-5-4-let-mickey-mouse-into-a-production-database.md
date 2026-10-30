@@ -9,6 +9,8 @@ tags: ai
 
 # GPT-5.4 Let Mickey Mouse Into a Production Database — Nobody Noticed
 
+[summary](../../summary/nate-b-jones/2026-03-07-gpt-5-4-let-mickey-mouse-into-a-production-database.md)
+
 ## The Carwash Test
 
 Nate asked ChatGPT 5.4 in thinking mode: "I need to wash my car. The carwash is

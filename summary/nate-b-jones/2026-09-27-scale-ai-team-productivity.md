@@ -9,6 +9,8 @@ tags: ai, development
 
 # Scaling AI Developer Productivity Beyond the Fastest Coder
 
+[article](../../articles/nate-b-jones/2026-09-27-scale-ai-team-productivity.md)
+
 AI can speed coding while slowing delivery when review, testing, or decisions become queues.
 If ten coding days fall to one while ten other days remain, 20 days become 11: a 1.8x gain.
 That example is illustrative; actual gains depend on the constraint, rework, and arrival rate.

@@ -9,6 +9,8 @@ tags: ai
 
 # Anthropic Just Gave You 3 Tools That Work While You're Gone
 
+[summary](../../summary/nate-b-jones/2026-03-28-anthropic-3-tools-work-while-gone.md)
+
 Anthropic finished shipping three capabilities for Claude that together
 close the gap with OpenClaw — but without the security risks. You can
 text Claude from your phone, it takes over your desktop, clicks through

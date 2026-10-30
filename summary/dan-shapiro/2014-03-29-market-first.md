@@ -9,6 +9,8 @@ tags: startups
 
 # Summary: Market first
 
+[article](../../articles/dan-shapiro/2014-03-29-market-first.md)
+
 I'm told Amazon writes the press release for a product before beginning development. I don't know
 exactly how the process works, but this has been sloshing around in my head mixed in with a bunch of
 other tidbits.

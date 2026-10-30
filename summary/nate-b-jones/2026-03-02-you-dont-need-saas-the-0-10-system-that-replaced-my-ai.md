@@ -9,6 +9,8 @@ tags: ai
 
 # You Don't Need SaaS: The $0.10 System That Replaced My AI Workflow — Summary
 
+[article](../../articles/nate-b-jones/2026-03-02-you-dont-need-saas-the-0-10-system-that-replaced-my-ai.md)
+
 Platform memory is a lock-in trap. Claude's memory doesn't know what you told
 ChatGPT. ChatGPT's memory doesn't follow you into Cursor. Every platform
 built a walled garden. A new VC-backed industry (MemSync, OneContext) exists

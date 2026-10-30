@@ -9,6 +9,8 @@ tags: ai, development
 
 # Summary: I accidentally ported Steve Yegge's Beads to Windows
 
+[article](../../articles/dan-shapiro/2025-10-21-accidentally-ported-steve-yegge-beads-to-windows.md)
+
 Tuesday, 9:40am, Seattle. I opened Codex CLI* in Powershell and said, "Install Beads ".
 
 I didn't read the compatibility notes. I didn't check to see if it had Windows support.

@@ -9,6 +9,8 @@ tags: startups
 
 # How to succeed at Kickstarter
 
+[summary](../../summary/dan-shapiro/2014-09-15-how-to-succeed-at-kickstarter.md)
+
 I've been asked by a lot of folks for advice with their Kickstarter campaigns. I've thought long and
 hard about it. I worked hard on the Robot Turtles campaign, but fundamentally thought of it as a fun
 diversion. I had no idea it was going to turn into the blockbuster that it did! Since then, I've had

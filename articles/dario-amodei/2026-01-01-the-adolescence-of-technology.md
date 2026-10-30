@@ -9,6 +9,8 @@ tags: ai
 
 # The Adolescence of Technology 
 
+[summary](../../summary/dario-amodei/2026-01-01-the-adolescence-of-technology.md)
+
 
 There is a scene in the movie version of Carl Sagan’s book *Contact *where the main character, an
 astronomer who has detected the first radio signal from an alien civilization, is being considered

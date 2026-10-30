@@ -9,6 +9,8 @@ tags: politics, war, ukraine
 
 # Trump's Political Myth, Russia's Oil Crisis, and Elite Impunity
 
+[article](../../articles/vitaly-portnikov/2026-09-15-trump-myths-oil-war-and-russias-elite-crisis.md)
+
 ## Context
 - Vitaly Portnikov spoke on *I Gryanul Grem* in a 2026 political context.
 - This account uses automatic Russian captions, which garble some names and phrases.

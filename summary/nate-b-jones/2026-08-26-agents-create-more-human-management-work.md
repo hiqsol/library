@@ -9,6 +9,8 @@ tags: ai, development, startups
 
 # Agents Aren't Taking Your Jobs. They're Creating More Work Instead.
 
+[article](../../articles/nate-b-jones/2026-08-26-agents-create-more-human-management-work.md)
+
  Jones argues that agents expand execution while creating human work in management and recovery.
 His evidence describes usage and selected cases, not a guarantee against job displacement.
 

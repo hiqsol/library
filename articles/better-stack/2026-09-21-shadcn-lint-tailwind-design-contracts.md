@@ -9,6 +9,8 @@ tags: ai, development
 
 # shadcn/lint and Agent-First Tailwind Design Contracts
 
+[summary](../../summary/better-stack/2026-09-21-shadcn-lint-tailwind-design-contracts.md)
+
 ## The narrower thesis behind the headline
 
 Better Stack presents `@shadcn/lint` as a fix for Tailwind's “biggest problem.”[1]

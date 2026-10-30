@@ -9,6 +9,8 @@ tags: ai
 
 # Summary: Five Non-Coding Skills for the Agentic Era
 
+[article](../../articles/nate-b-jones/2026-03-16-claude-code-wiped-data.md)
+
 Nate addresses vibe coders hitting a wall in 2026: the shift from
 describing what you want to managing the agent that builds it. Agent
 management is not a prompting problem — it's a supervision problem.

@@ -9,6 +9,8 @@ tags: ai
 
 # OpenAI Leaked GPT-5.4 — It's a Distraction: The AI Lock-In No One Is Talking About — Summary
 
+[article](../../articles/nate-b-jones/2026-03-05-openai-leaked-gpt-5-4-its-a-distraction-the-ai-lock-in-no.md)
+
 The GPT-5.4 leak is a sideshow. The real story is OpenAI's compound bet
 that the company which first makes enterprise-scale context usable at
 trillion-token scale becomes the new enterprise data platform, subsuming

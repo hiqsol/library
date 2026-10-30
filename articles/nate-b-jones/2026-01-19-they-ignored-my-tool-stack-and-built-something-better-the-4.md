@@ -9,6 +9,8 @@ tags: ai
 
 # They Ignored My Tool Stack and Built Something Better
 
+[summary](../../summary/nate-b-jones/2026-01-19-they-ignored-my-tool-stack-and-built-something-better-the-4.md)
+
 ## Background
 
 Nate posted a video about building a "second brain" system without any

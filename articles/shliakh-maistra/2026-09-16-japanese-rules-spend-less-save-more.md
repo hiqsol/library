@@ -9,6 +9,8 @@ tags: development
 
 # Eight Japanese Rules for Spending Less and Saving More
 
+[summary](../../summary/shliakh-maistra/2026-09-16-japanese-rules-spend-less-save-more.md)
+
 Earning more does not automatically create financial freedom. As income rises, the idea of a
 “normal” life can rise with it. An optional purchase becomes routine, a working device starts to
 look obsolete, and a good car suddenly seems ready for replacement. The finish line called

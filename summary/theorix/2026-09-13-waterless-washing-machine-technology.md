@@ -9,6 +9,8 @@ tags: technology
 
 # Waterless Laundry with Liquid Carbon Dioxide
 
+[article](../../articles/theorix/2026-09-13-waterless-washing-machine-technology.md)
+
 ## Claim and context
 Theorix says ordinary washing uses about 100 liters per load plus detergent and drying.
 It inconsistently compares that water with one teaspoon, then one tablespoon, of dirt.

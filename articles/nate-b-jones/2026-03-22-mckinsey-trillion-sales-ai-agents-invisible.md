@@ -7,6 +7,10 @@ date: 2026-03-22 00:00
 tags: ai, startups, development
 ---
 
+# McKinsey Says $1 Trillion In Sales Will Go Through AI Agents. Most Businesses Are Invisible.
+
+[summary](../../summary/nate-b-jones/2026-03-22-mckinsey-trillion-sales-ai-agents-invisible.md)
+
 The fences that businesses spent 20 years building to keep bots out are now the very things keeping
 their most valuable customers out. That is the central paradox driving the agentic commerce
 revolution — and almost no one is talking about what it actually takes to survive it.

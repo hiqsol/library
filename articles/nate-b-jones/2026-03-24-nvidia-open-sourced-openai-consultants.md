@@ -9,6 +9,8 @@ tags: ai, development, startups
 
 # Nvidia Just Open-Sourced What OpenAI Wants You to Pay Consultants For.
 
+[summary](../../summary/nate-b-jones/2026-03-24-nvidia-open-sourced-openai-consultants.md)
+
 ## The Battle at the Heart of Agent World
 
 There is a battle playing out between titans. On one side: Nvidia with NemoClaw. On the

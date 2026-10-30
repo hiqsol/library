@@ -9,6 +9,8 @@ tags: ai
 
 # Apple Took Years to Catch Up, Kilo Code Took 6 Weeks
 
+[summary](../../summary/nate-b-jones/2026-01-24-apple-took-years-to-catch-up-kilo-code-took-6-weeks-and-its.md)
+
 ## xAI Closes $20 Billion Series E
 
 xAI announced its upsized Series E round at an implied valuation of

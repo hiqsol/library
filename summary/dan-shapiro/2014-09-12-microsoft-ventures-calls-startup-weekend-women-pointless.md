@@ -9,6 +9,8 @@ tags: startups
 
 # Summary: Microsoft Ventures calls Startup Weekend Women "pointless"
 
+[article](../../articles/dan-shapiro/2014-09-12-microsoft-ventures-calls-startup-weekend-women-pointless.md)
+
 I was shocked to hear this from the head of Microsoft Ventures, Rahul Sood: While I'm a huge
 advocate for #diversity & women entrepreneurs, having a startup weekend just for women is kinda
 #pointless.

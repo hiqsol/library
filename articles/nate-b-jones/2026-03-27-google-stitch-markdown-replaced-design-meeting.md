@@ -9,6 +9,8 @@ tags: ai, development
 
 # A Markdown File Just Replaced Your Most Expensive Design Meeting
 
+[summary](../../summary/nate-b-jones/2026-03-27-google-stitch-markdown-replaced-design-meeting.md)
+
 Three big creative tool releases dropped in the last week that builders
 need to pay attention to. This is not about taking jobs away from
 designers — it's about rethinking how we do design in the age of AI.

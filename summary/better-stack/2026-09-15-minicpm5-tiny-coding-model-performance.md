@@ -8,6 +8,8 @@ tags: ai, development
 ---
 
 # This Tiny Coding Model Shouldn’t Be This Good (MiniCPM5)
+
+[article](../../articles/better-stack/2026-09-15-minicpm5-tiny-coding-model-performance.md)
 ## Core claim
 
 - Better Stack's Josh tests whether MiniCPM5-2B can work as a local coding agent.

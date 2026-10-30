@@ -9,6 +9,8 @@ tags: ai
 
 # Summary: AI 10x Productivity — Companies Cutting Headcount Are Wrong
 
+[article](../../articles/nate-b-jones/2026-03-14-ai-10x-productive-cutting-headcount.md)
+
 Nate argues that companies cutting headcount in response to AI
 productivity gains are making the wrong bet. The right question isn't
 "how many fewer people do we need?" but "what can we do now that was

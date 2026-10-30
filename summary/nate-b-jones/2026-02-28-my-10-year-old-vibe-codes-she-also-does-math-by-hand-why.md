@@ -9,6 +9,8 @@ tags: ai
 
 # My 10-Year-Old Vibe Codes and Does Math by Hand — Summary
 
+[article](../../articles/nate-b-jones/2026-02-28-my-10-year-old-vibe-codes-she-also-does-math-by-hand-why.md)
+
 *Nature* published a peer-reviewed argument that AGI has arrived. 86% of
 students globally use AI in learning. Someone built an entire medical school
 curriculum with Claude Code in two weeks (450 lectures, 16,000 figures,

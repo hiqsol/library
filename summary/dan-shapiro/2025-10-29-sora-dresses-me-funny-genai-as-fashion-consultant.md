@@ -9,6 +9,8 @@ tags: ai
 
 # Summary: Sora Dresses Me Funny: GenAI As Fashion Consultant
 
+[article](../../articles/dan-shapiro/2025-10-29-sora-dresses-me-funny-genai-as-fashion-consultant.md)
+
 My wife pointed out that most of my shirts predate the pandemic, and it was time to shop for
 something new. This is not something I enjoy.
 

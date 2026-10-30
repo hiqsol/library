@@ -9,6 +9,8 @@ tags: ai
 
 # Clawdbot to Moltbot to OpenClaw: The 72 Hours That Broke Everything
 
+[summary](../../summary/nate-b-jones/2026-02-02-clawdbot-to-moltbot-to-openclaw-the-72-hours-that-broke.md)
+
 ## The Fastest-Growing Open-Source Project in GitHub History
 
 Developers across the globe are queuing up to buy Mac Minis specifically

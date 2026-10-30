@@ -9,6 +9,8 @@ tags: ai, development
 
 # Full Walkthrough: Workflow for AI Coding
 
+[summary](../../summary/matt-pocock/2026-04-24-full-walkthrough-workflow-for-ai-coding.md)
+
 Matt Pocock presents AI coding as an application of established software-engineering
 practice, not a replacement for it. His workflow keeps humans in charge of product intent,
 architecture, and judgment while giving agents bounded, testable work they can execute.

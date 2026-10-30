@@ -9,6 +9,8 @@ tags: ai, development
 
 # 10 Claude Code Tips from the Team
 
+[summary](../../summary/boris-cherny/2026-01-31-10-claude-code-tips-from-the-team.md)
+
 Boris Cherny shared ten practices that the Claude Code team uses internally. His framing matters as
 much as the tips: there is no one "correct" way to use Claude Code. The point is to experiment
 until the tool matches your own workflow.

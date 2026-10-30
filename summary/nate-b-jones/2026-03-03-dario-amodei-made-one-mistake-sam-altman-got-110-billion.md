@@ -9,6 +9,8 @@ tags: ai
 
 # Dario Amodei Made One Mistake, Sam Altman Got $110 Billion — Summary
 
+[article](../../articles/nate-b-jones/2026-03-03-dario-amodei-made-one-mistake-sam-altman-got-110-billion.md)
+
 Amodei went public with his principled stand against the Pentagon. Altman
 negotiated privately. The defense establishment rewards deference and
 punishes public defiance. Result: Anthropic was designated a supply chain

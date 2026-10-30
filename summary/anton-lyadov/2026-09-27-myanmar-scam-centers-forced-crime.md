@@ -8,6 +8,8 @@ tags: crime, technology
 ---
 
 # Inside Myanmar's Forced-Scam Economy
+
+[article](../../articles/anton-lyadov/2026-09-27-myanmar-scam-centers-forced-crime.md)
 > **Content note:** Trafficking, confinement, violence, financial loss, and death.
 *The source documentary uses Russian automatic captions; some details may be mistranscribed.*
 Myanmar's scam compounds harm two groups at once: trafficked people forced into online

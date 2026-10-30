@@ -9,6 +9,8 @@ tags: ai
 
 # Disposable Software: The Trend 90% of People Are Getting Wrong
 
+[summary](../../summary/nate-b-jones/2026-01-20-disposable-software-the-trend-90-of-people-are-getting-wrong.md)
+
 ## The Cost Inversion
 
 The cost of software was always the cost of engineering. That is the

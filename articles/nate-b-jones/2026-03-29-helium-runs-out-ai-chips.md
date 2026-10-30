@@ -9,6 +9,8 @@ tags: ai
 
 # 48 Days. That's How Long Before the Helium Runs Out for AI Chips
 
+[summary](../../summary/nate-b-jones/2026-03-29-helium-runs-out-ai-chips.md)
+
 Hyperscalers plan to spend over a trillion dollars on AI in the next
 24 months. Google co-founder Sergey Brin said on record he would
 rather go bankrupt than lose the AI race. Companies are issuing bonds

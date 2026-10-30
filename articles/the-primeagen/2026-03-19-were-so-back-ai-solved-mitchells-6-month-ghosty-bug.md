@@ -9,6 +9,8 @@ tags: ai, development
 
 # "We're So Back": AI Solved Mitchell's 6-Month Ghosty Bug
 
+[summary](../../summary/the-primeagen/2026-03-19-were-so-back-ai-solved-mitchells-6-month-ghosty-bug.md)
+
 ## The Hype Cycle
 
 Software engineering discourse has been trapped in a loop: every new model release triggers

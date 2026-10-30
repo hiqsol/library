@@ -9,6 +9,8 @@ tags: politics, war, ukraine
 
 # World One Step from Catastrophe: Iran Ground Operation, NATO Crisis, Orbán's Blockade
 
+[summary](../../summary/vitaly-portnikov/2026-03-20-world-step-from-catastrophe-iran-nato-orban.md)
+
 ## Patriarch Filaret — Opening Tribute
 
 The broadcast opened with news of Patriarch Filaret's death, announced just before airtime.

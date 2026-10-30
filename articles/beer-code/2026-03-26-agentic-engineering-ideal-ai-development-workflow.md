@@ -7,6 +7,10 @@ date: 2026-03-26 00:00
 tags: ai, development
 ---
 
+# Agentic Engineering: My Ideal AI Development Workflow
+
+[summary](../../summary/beer-code/2026-03-26-agentic-engineering-ideal-ai-development-workflow.md)
+
 You open a chat with AI and try to cram an entire project into one
 prompt: auth, CRUD, tests, deploy — all in one shot. The AI generates
 something, you don't even look at it carefully. It seems to work.

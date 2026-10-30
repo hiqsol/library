@@ -9,6 +9,8 @@ tags: ai
 
 # The 5 Levels of AI Coding — Why Most Won't Make It Past Level 2
 
+[summary](../../summary/nate-b-jones/2026-02-18-the-5-levels-of-ai-coding-why-most-of-you-wont-make-it-past.md)
+
 ## The Paradox
 
 90% of Claude Code was written by Claude Code. Codex is releasing

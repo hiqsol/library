@@ -9,6 +9,8 @@ tags: ai
 
 # This Is Why You Are Still Slow Even With AI
 
+[summary](../../summary/nate-b-jones/2026-01-15-this-is-why-youre-still-slow-even-with-ai-the-bottleneck.md)
+
 ## The Bottleneck Has Moved
 
 Two scenes from the last month:

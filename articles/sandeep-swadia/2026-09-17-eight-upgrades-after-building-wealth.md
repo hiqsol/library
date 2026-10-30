@@ -9,6 +9,8 @@ tags: finance
 
 # Eight Upgrades Worth Making After You Build Wealth
 
+[summary](../../summary/sandeep-swadia/2026-09-17-eight-upgrades-after-building-wealth.md)
+
 ## Scope, source, and the claim behind the title
 
 This article distills Sandeep Swadia's video into decision principles, not a timeline.

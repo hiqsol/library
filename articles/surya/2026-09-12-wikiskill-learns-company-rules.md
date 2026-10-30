@@ -9,6 +9,8 @@ tags: ai, development
 
 # WikiSkill: Teaching an Agent Company Rules Without Fine-Tuning
 
+[summary](../../summary/surya/2026-09-12-wikiskill-learns-company-rules.md)
+
 Surya presents WikiSkill as a Google Research framework for agents that learn local working
 rules from mistakes. His video does not independently reproduce or audit the research paper.
 Instead, it walks through his own laptop implementation and a synthetic spreadsheet demo.

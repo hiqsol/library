@@ -9,6 +9,8 @@ tags: ai
 
 # Stop Treating Image Generation Like a Design Tool — Summary
 
+[article](../../articles/nate-b-jones/2026-01-18-stop-treating-image-generation-like-a-design-tool-the-hidden.md)
+
 Nano Banana Pro hit 1 billion images in 53 days. The media frames it
 as a creative tool. The real story: AI can now reliably interpret and
 generate visual information for business use — dissolving the invisible

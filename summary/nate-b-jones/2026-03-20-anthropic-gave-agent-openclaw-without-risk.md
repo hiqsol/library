@@ -9,6 +9,8 @@ tags: ai
 
 # Summary: Anthropic Gave Your AI Agent the One Thing OpenClaw Has — Without the Risk
 
+[article](../../articles/nate-b-jones/2026-03-20-anthropic-gave-agent-openclaw-without-risk.md)
+
 - Anthropic shipped `/loop` — a Claude Code command that runs an agent on a schedule without
   the user being present; most people missed it.
 - OpenBrain (SQL database + MCP server) gave agents memory; `/loop` gives them proactivity —

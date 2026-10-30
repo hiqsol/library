@@ -9,6 +9,8 @@ tags: ai
 
 # OpenClaw: 160,000 Developers Are Building Something OpenAI and Google Can't Stop
 
+[summary](../../summary/nate-b-jones/2026-02-12-openclaw-160-000-developers-are-building-something-openai.md)
+
 ## The Duality of Agents
 
 An OpenClaw agent negotiated **$4,200 off a car** while its owner was

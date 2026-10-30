@@ -9,6 +9,8 @@ tags: ai, politics
 
 # AI, Power, Trump, and the Future of Putin’s System
 
+[article](../../articles/stanislav-belkovsky/2026-09-15-belkovsky-ai-trump-putin.md)
+
 ## Core argument
 - Stanislav Belkovsky treats AI fear as political theology, not a machine uprising.
 - He says secular societies replace God with dictators, aliens, weapons, or AI.

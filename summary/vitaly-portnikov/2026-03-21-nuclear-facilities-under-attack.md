@@ -9,6 +9,8 @@ tags: politics, war, ukraine
 
 # Nuclear Facilities Under Attack — Summary
 
+[article](../../articles/vitaly-portnikov/2026-03-21-nuclear-facilities-under-attack.md)
+
 Portnikov opens on day 22 of the US-Israel war against Iran with two new alarming
 developments just before broadcast.
 

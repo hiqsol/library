@@ -9,6 +9,8 @@ tags: ai
 
 # Why Your Best Employees Quit Using AI After 3 Weeks — Summary
 
+[article](../../articles/nate-b-jones/2026-01-25-why-your-best-employees-quit-using-ai-after-3-weeks-and-the.md)
+
 Microsoft tracked 300,000 employees using Copilot. Excitement peaked
 at week 3, then cratered. Most quietly stopped. Result: ~20% monthly
 active users, ~80% dormant seats. The survivors figured out that AI

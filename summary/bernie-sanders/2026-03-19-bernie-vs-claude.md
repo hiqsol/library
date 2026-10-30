@@ -9,6 +9,8 @@ tags: ai, politics
 
 # Summary
 
+[article](../../articles/bernie-sanders/2026-03-19-bernie-vs-claude.md)
+
 Bernie Sanders interviews Claude AI directly on privacy, corporate power, and democracy.
 
 ## Key points

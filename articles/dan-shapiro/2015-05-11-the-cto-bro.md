@@ -9,6 +9,8 @@ tags: startups
 
 # The CTO Bro
 
+[summary](../../summary/dan-shapiro/2015-05-11-the-cto-bro.md)
+
 In my new book " Hot Seat: The Startup CEO Guidebook ", I got to retell some amazing stories from
 CEOs of companies large and small. One of them was from Elissa Shevinsky, CEO and founder of
 Glimpse. There's a few details that the story left out, though, and I wanted to touch on those here.

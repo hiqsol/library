@@ -9,6 +9,8 @@ tags: ai, development
 
 # Summary: The Five Levels: from Spicy Autocomplete to the Dark Factory
 
+[article](../../articles/dan-shapiro/2026-01-23-the-five-levels-from-spicy-autocomplete-to-the-software-factory.md)
+
 In my last post, I wrote about technical deflation. We're seeing the cost of code is dropping so
 fast that we need to change our tech debt payment plans.
 

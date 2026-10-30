@@ -9,6 +9,8 @@ tags: ai
 
 # Apple Took Years to Catch Up, Kilo Code Took 6 Weeks — Summary
 
+[article](../../articles/nate-b-jones/2026-01-24-apple-took-years-to-catch-up-kilo-code-took-6-weeks-and-its.md)
+
 **xAI Series E:** $20B round at $230B valuation. Colossus
 supercomputers in Memphis with 1M+ H100 GPU equivalents. Grok 5 in
 training. 600M MAU across X and Grok apps. Landed DoD AI agents

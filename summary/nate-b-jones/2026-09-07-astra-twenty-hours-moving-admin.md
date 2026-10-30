@@ -9,6 +9,8 @@ tags: ai
 
 # There Are Jobs You Could Never Give AI. I Gave GPT-6 Astra 20 Hours Of Admin.
 
+[article](../../articles/nate-b-jones/2026-09-07-astra-twenty-hours-moving-admin.md)
+
  Jones tested Astra on a simulated household move involving more than 20 hours of
 administration. His main claim is that agents can increasingly carry whole jobs across tools and
 changing plans.

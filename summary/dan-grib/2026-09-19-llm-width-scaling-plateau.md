@@ -9,6 +9,8 @@ tags: ai, development
 
 # Why Wider Language Models Hit a Scaling Plateau
 
+[article](../../articles/dan-grib/2026-09-19-llm-width-scaling-plateau.md)
+
 ## Bottom line
 
 The supplied source does not show more test-time compute making an LLM worse.

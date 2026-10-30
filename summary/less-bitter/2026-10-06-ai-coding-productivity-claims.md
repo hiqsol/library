@@ -9,6 +9,8 @@ tags: ai, development
 
 # The Big Lie About AI Coding: What the Evidence Actually Supports
 
+[article](../../articles/less-bitter/2026-10-06-ai-coding-productivity-claims.md)
+
 Less Bitter argues that a “Markdown Industrial Complex” turns AI-coding instruction files into
 hype. The strongest point is correct: stars, views, bookmarks, tokens, commits, and pull requests
 measure attention or activity, not delivery, quality, customer value, or business outcomes.

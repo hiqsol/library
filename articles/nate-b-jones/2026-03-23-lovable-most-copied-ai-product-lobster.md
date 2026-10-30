@@ -9,6 +9,8 @@ tags: ai, startups
 
 # Lovable Was the Most Copied AI Product of 2025. Then a Lobster Changed Everything.
 
+[summary](../../summary/nate-b-jones/2026-03-23-lovable-most-copied-ai-product-lobster.md)
+
 ## The OpenClaw Moment
 
 OpenClaw is the most consequential ChatGPT-level moment in the history of AI since ChatGPT

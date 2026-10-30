@@ -9,6 +9,8 @@ tags: ai
 
 # Second Hand: Memory, Grief, and an AI-Credited Song
 
+[summary](../../summary/oscar-and-chill/2026-10-09-second-hand.md)
+
 “Second Hand” by Oscar & Chill is a four-minute electronic song about being unable to sell a car
 because it still carries the memory of someone absent. The vehicle is ordinary and imperfect: its
 radio crackles, the signal cuts out, and it has been kept running longer than practical judgment

@@ -9,6 +9,8 @@ tags: ai
 
 # Summary
 
+[article](../../articles/nate-b-jones/2026-03-29-helium-runs-out-ai-chips.md)
+
 Qatar's Ras Laffan complex — 33% of world helium supply — has been
 damaged by missile strikes and is offline. Helium is irreplaceable
 in chip manufacturing (EUV lithography, plasma etching, leak

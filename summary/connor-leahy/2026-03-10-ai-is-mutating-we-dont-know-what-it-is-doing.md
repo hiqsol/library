@@ -9,6 +9,8 @@ tags: ai
 
 # Summary: AI is Mutating — And We Don't Know What It is Doing
 
+[article](../../articles/connor-leahy/2026-03-10-ai-is-mutating-we-dont-know-what-it-is-doing.md)
+
 Connor Leahy — formerly of EleutherAI, where he helped build some of the earliest open-source large
 language models, and co-founder of AI safety organization Conjecture — sat down with Peter McCormack
 to explain how neural networks actually work and why he believes the situation is far more dangerous

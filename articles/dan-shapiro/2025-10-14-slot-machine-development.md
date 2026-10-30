@@ -9,6 +9,8 @@ tags: ai, development
 
 # Slot Machine Development
 
+[summary](../../summary/dan-shapiro/2025-10-14-slot-machine-development.md)
+
 Something new is possible.
 
 Four weeks ago, I braved the gaggle of Waymos nosing around the Presidio to check out Connected

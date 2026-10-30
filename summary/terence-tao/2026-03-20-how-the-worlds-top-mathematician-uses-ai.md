@@ -9,6 +9,8 @@ tags: ai, development
 
 # Summary
 
+[article](../../articles/terence-tao/2026-03-20-how-the-worlds-top-mathematician-uses-ai.md)
+
 Terence Tao (Fields Medal, UCLA) interviewed by Dwarkesh Patel on AI's role in mathematics.
 
 ## Core thesis: breadth vs. depth

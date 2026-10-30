@@ -9,6 +9,8 @@ tags: politics, war, ukraine, ai
 
 # How Russia May Test NATO Below the Threshold of War
 
+[article](../../articles/ivan-yakovina/2026-09-26-russia-tests-nato-europe-drone-war.md)
+
 ## Core thesis
 
 Journalist Ivan Yakovina says Putin uses denial to preserve ambiguity and escape routes.

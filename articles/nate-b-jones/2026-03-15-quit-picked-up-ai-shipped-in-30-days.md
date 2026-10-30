@@ -9,6 +9,8 @@ tags: ai
 
 # She Quit, Picked Up AI, and Shipped in 30 Days What Her Team Planned for Q3
 
+[summary](../../summary/nate-b-jones/2026-03-15-quit-picked-up-ai-shipped-in-30-days.md)
+
 - Source: [YouTube](https://www.youtube.com/watch?v=zCW-k5fFRgQ)
 - Author: Nate B Jones
 - Published: 2026-03-15

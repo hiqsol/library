@@ -9,6 +9,8 @@ tags: ai
 
 # Why $650 Billion in AI Spending Isn't Enough — The 4 Skills That Survive
 
+[summary](../../summary/nate-b-jones/2026-02-14-ai-infrastructure-spending-four-skills-that-survive.md)
+
 ## The Capex Shock
 
 Google announced $175–185 billion in 2026 AI capital expenditure — roughly

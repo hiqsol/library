@@ -9,6 +9,8 @@ tags: ai, development, technology
 
 # Beyond One-Shot Prompting: Workflows, Product Judgment, and Career Resilience
 
+[article](../../articles/andrew-ng-laurence-moroney/2026-09-05-ai-workflows-product-judgment.md)
+
 The repost's headline is false: Andrew Ng never says prompting will die in six months.
 He never says graphs replace prompts, and “graph(s)” does not appear in the transcript.
 His six-month remark is about how often his favorite AI coding tool may change.

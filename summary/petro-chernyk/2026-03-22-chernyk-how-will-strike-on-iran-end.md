@@ -9,6 +9,8 @@ tags: politics, war, ukraine
 
 # Summary
 
+[article](../../articles/petro-chernyk/2026-03-22-chernyk-how-will-strike-on-iran-end.md)
+
 Colonel Petro Chernyk analyzes the US military operation against Iran and its
 consequences for Ukraine and global order.
 

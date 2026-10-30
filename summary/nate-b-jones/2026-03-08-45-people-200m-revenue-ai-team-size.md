@@ -9,6 +9,8 @@ tags: ai
 
 # Summary: 45 People, $200M Revenue — AI and Team Size
 
+[article](../../articles/nate-b-jones/2026-03-08-45-people-200m-revenue-ai-team-size.md)
+
 Nate argues the real problem behind meeting overload is team size — teams are
 3–10x too big and AI is making it worse by amplifying output through broken
 coordination structures. AI note-taking apps are "barnacles" that miss the root

@@ -9,6 +9,8 @@ tags: development
 
 # Eight Japanese Rules for Spending Less and Saving More
 
+[article](../../articles/shliakh-maistra/2026-09-16-japanese-rules-spend-less-save-more.md)
+
 ## Core idea
 - More income need not mean more freedom when each raise becomes a higher spending baseline.
 - Ask what deserves your money and space, not merely what you can afford.

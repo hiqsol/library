@@ -9,6 +9,8 @@ tags: ai, development, startups
 
 # Summary
 
+[article](../../articles/nate-b-jones/2026-03-24-nvidia-open-sourced-openai-consultants.md)
+
 *Core argument:* The hard problems in agentic AI deployment are rooted in decades-old
 software engineering principles. Nvidia's NemoClaw understands this. OpenAI and Anthropic,
 by partnering with consultants, risk losing control of the narrative.

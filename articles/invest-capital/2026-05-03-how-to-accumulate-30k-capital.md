@@ -9,6 +9,8 @@ tags: development
 
 # How to Accumulate $30,000 Capital: My Story and Advice
 
+[summary](../../summary/invest-capital/2026-05-03-how-to-accumulate-30k-capital.md)
+
 A 25-year-old Ukrainian living in Poland shares how he grew his total capital
 from $20,000 (October 2025) to $31,500 (April 2026) in just six months. Rather
 than the usual "track your budget" or "save 10%" advice, he offers three

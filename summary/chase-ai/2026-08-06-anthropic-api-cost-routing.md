@@ -8,6 +8,8 @@ tags: ai, development
 ---
 
 # Cutting Anthropic API Costs with Caching, Batching, and Routing
+
+[article](../../articles/chase-ai/2026-08-06-anthropic-api-cost-routing.md)
 - Source: Chase AI, published August 6, 2026; video duration: 18:59.
 - Its “20x more” title is sensational, not a universal savings guarantee.
 - Supported thesis: Chase AI compares a $20/M-token write with a $1/M-token read.

@@ -9,6 +9,8 @@ tags: ai
 
 # I Built an 11-Tab Financial Model in 10 Minutes
 
+[summary](../../summary/nate-b-jones/2026-01-27-i-built-an-11-tab-financial-model-in-10-minutes-the-20-month.md)
+
 ## Claude in Excel: A Phase Change in Knowledge Work
 
 Anthropic launched Claude as a native sidebar add-in inside Microsoft

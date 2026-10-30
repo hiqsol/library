@@ -9,6 +9,8 @@ tags: ai, development
 
 # It May Already Be Impossible to Switch Off: AGI Risk and the Point of No Return
 
+[summary](../../summary/konstantin-surkov/2026-09-14-agi-risk-and-the-point-of-no-return.md)
+
 Konstantin Surkov frames advanced AI risk less as a sudden robot revolt than as a transfer of
 agency. Humanity may remain alive and materially supported while losing the power to decide
 what happens next. His central concern is **disempowerment**: machines could become better,

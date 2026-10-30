@@ -8,6 +8,8 @@ tags: finance
 ---
 
 # Tony Robbins on Ownership, Diversification, and Private Markets
+
+[summary](../../summary/tony-robbins/2026-01-31-wealth-ownership-compounding.md)
 A short clip from *The Diary of a CEO* begins with a question about wealth. It ends with a
 broader argument about how investors, learners, and founders think.
 Host Steven Bartlett asks Tony Robbins to identify patterns among successful people. Robbins

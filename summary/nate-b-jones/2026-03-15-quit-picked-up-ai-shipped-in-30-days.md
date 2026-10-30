@@ -9,6 +9,8 @@ tags: ai
 
 # Summary: Unleashing Talent — Lessons from Solo Founders for the AI Era
 
+[article](../../articles/nate-b-jones/2026-03-15-quit-picked-up-ai-shipped-in-30-days.md)
+
 Nate argues that extraordinary people operate at 25% capacity — blocked
 not by ability but by organizational overhead. Solo founders demonstrate
 what happens when that overhead disappears.

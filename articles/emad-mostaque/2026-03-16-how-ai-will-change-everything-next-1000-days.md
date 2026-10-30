@@ -9,6 +9,8 @@ tags: ai, startups
 
 # How AI Will Change Everything in the Next 1,000 Days
 
+[summary](../../summary/emad-mostaque/2026-03-16-how-ai-will-change-everything-next-1000-days.md)
+
 Emad Mostaque, founder of Stability AI and now Intelligent Internet, joined The Next Big Idea
 Podcast on March 16, 2026 to discuss the sweeping economic and social transformations that
 artificial intelligence will bring within the next thousand days. Drawing on his book

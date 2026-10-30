@@ -9,6 +9,8 @@ tags: ai, development
 
 # Summary: I made the XKCD impossible app without any words
 
+[article](../../articles/dan-shapiro/2025-12-16-i-made-the-xkcd-impossible-app-without-any-words.md)
+
 I've been impressed with AI Studio's Apps for prototyping. https://aistudio.google.com/apps
 
 So I decided to give it the ultimate challenge: I pasted in XKCD 1425, and nothing else.

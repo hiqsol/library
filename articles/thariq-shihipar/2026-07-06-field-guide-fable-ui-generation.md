@@ -9,6 +9,8 @@ tags: ai, development
 
 # Field Guide to Fable: A Research System for UI Generation
 
+[summary](../../summary/thariq-shihipar/2026-07-06-field-guide-fable-ui-generation.md)
+
 ## Scope and evidence
 
 This article interprets Thariq Shihipar's talk as a method for researching and building UIs.

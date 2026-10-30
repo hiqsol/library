@@ -9,6 +9,8 @@ tags: ai
 
 # OpenClaw Agents Are Hiring Each Other and Building Societies — Summary
 
+[article](../../articles/nate-b-jones/2026-02-03-openclaw-agents-are-hiring-each-other-transferring-crypto.md)
+
 AI agents running on personal hardware have begun self-organizing without
 company orchestration. The phenomenon centers on OpenClaw (formerly
 Claudebot, then Moltbot after Anthropic's trademark action). Over 100,000

@@ -9,6 +9,8 @@ tags: ai, development
 
 # GPT-6 Astra Doesn't Need Your Instructions Anymore.
 
+[article](../../articles/nate-b-jones/2026-09-06-astra-self-directed-agents.md)
+
  Jones calls Astra a practical AGI threshold because it can choose methods and sustain broad
 jobs. That is his interpretation, not a settled definition or proof of consciousness.
 

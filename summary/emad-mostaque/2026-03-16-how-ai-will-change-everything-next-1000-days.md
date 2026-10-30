@@ -9,6 +9,8 @@ tags: ai, startups
 
 # Summary: How AI Will Change Everything in the Next 1,000 Days
 
+[article](../../articles/emad-mostaque/2026-03-16-how-ai-will-change-everything-next-1000-days.md)
+
 Emad Mostaque, founder of Stability AI and now Intelligent Internet, argues that most people are
 catastrophically underestimating the speed and scale of AI-driven change. It has been roughly a
 thousand days since ChatGPT launched. The next thousand will be incomparably more disruptive.

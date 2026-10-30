@@ -9,6 +9,8 @@ tags: ai
 
 # The Job Market Split Nobody's Talking About — It's Already Started
 
+[summary](../../summary/nate-b-jones/2026-02-15-the-job-market-split-nobodys-talking-about-its-already.md)
+
 ## Code Is About to Cost Nothing
 
 Last July, an AI coding agent deleted Saster's entire production

@@ -11,6 +11,8 @@ tags: ai, development, startups
 
 # Summary
 
+[article](../../articles/nate-b-jones/2026-03-25-agents-means-four-different-things.md)
+
 *Core argument:* "Agent" is an overloaded term covering four distinct
 species. Using the wrong species for your problem is one of the most
 common and costly mistakes in agentic AI deployment.

@@ -9,6 +9,8 @@ tags: ai, development
 
 # Dark Code: The Organizational Crisis Nobody Is Talking About
 
+[summary](../../summary/nate-b-jones/2026-04-13-amazon-fired-16000-engineers-ai-broke-everything.md)
+
 Nobody understands their own code anymore. There is code running in production at
 companies we use every day that nobody can really explain — not the engineer who shipped
 it, not the team that owns the service, not the CTO. The code works, passes tests, but no

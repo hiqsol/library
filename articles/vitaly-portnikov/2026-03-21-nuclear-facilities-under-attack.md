@@ -9,6 +9,8 @@ tags: politics, war, ukraine
 
 # Nuclear Facilities Under Attack
 
+[summary](../../summary/vitaly-portnikov/2026-03-21-nuclear-facilities-under-attack.md)
+
 ## The Strike on Dimona and the Exchange of Blows on Nuclear Sites
 
 Just before this broadcast began, news broke of an Iranian missile strike on the city

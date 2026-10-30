@@ -9,6 +9,8 @@ tags: ai
 
 # The $125 Billion Secret: Amazon Told Wall Street One Thing and Employees Another — Summary
 
+[article](../../articles/nate-b-jones/2026-01-30-the-125-billion-secret-amazon-told-wall-street-one-thing-and.md)
+
 Amazon cut 30,000 corporate jobs — not because of culture problems,
 but because they need the money for GPUs. Quarterly free cash flow
 went negative (-$4.8B) as capex hit $125B, with 75% going to AI

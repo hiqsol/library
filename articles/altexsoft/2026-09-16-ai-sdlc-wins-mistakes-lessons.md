@@ -9,6 +9,8 @@ tags: ai, development
 
 # Building an AI SDLC: Wins, Mistakes, and Lessons
 
+[summary](../../summary/altexsoft/2026-09-16-ai-sdlc-wins-mistakes-lessons.md)
+
 AI-assisted development has delivered real gains, but not the effortless revolution many
 expected. In AltexSoft's account of two years of adoption, the central tension is clear:
 teams face pressure to move faster while fearing the cost of today's speed a year later.

@@ -9,6 +9,8 @@ tags: ai
 
 # The $285B Sell-Off Was Just the Beginning — The Infrastructure Story Is Bigger
 
+[summary](../../summary/nate-b-jones/2026-02-21-the-285b-sell-off-was-just-the-beginning-the-infrastructure.md)
+
 ## The Web Is Forking
 
 The most interesting thing about OpenClaw is not the agent — it is the

@@ -9,6 +9,8 @@ tags: ai, development
 
 # WikiSkill in Brief
 
+[article](../../articles/surya/2026-09-12-wikiskill-learns-company-rules.md)
+
 Surya presents a local reconstruction of Google's WikiSkill research framework.
 It aims to learn unwritten company rules without changing the base model's weights.
 ## Core Idea

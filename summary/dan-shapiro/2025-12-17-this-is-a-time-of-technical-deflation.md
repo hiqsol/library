@@ -9,6 +9,8 @@ tags: ai, development
 
 # Summary: This is a Time of Technical Deflation
 
+[article](../../articles/dan-shapiro/2025-12-17-this-is-a-time-of-technical-deflation.md)
+
 Day over day, year over year, AI is driving down the cost of writing code. Economists have a word
 for what happens when stuff keeps getting cheaper: deflation.
 

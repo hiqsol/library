@@ -9,6 +9,8 @@ tags: ai
 
 # Why Every Cold Application You Send Is a Waste of Time — Summary
 
+[article](../../articles/nate-b-jones/2026-01-29-why-every-cold-application-you-send-is-a-waste-of-time-and.md)
+
 Digital platforms have held informational asymmetry for 20 years —
 they analyze your data but only show you what serves their business
 model (engagement, premium conversions). That asymmetry is now

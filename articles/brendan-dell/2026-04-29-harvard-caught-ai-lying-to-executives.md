@@ -9,6 +9,8 @@ tags: ai
 
 # Harvard Just Caught AI Lying to Every Executive in America
 
+[summary](../../summary/brendan-dell/2026-04-29-harvard-caught-ai-lying-to-executives.md)
+
 ## The Core Finding
 
 A study published in the Harvard Business Review tested 15,000 AI

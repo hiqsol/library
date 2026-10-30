@@ -7,6 +7,10 @@ date: 2026-03-07 00:00
 tags: war, ukraine, politics
 ---
 
+# Main Risks of the Iran War
+
+[article](../../articles/vitaly-portnikov/2026-03-07-main-risks-of-iran-war.md)
+
 Vitaly Portnikov on Pryamiy's "Devick" program (March 7, 2026) with
 Peter Zalmayev analyzes the US-Israeli war against Iran, its impact on
 Ukraine, and Hungary's pre-election provocations.

@@ -9,6 +9,8 @@ tags: ai
 
 # Summary: GPT-5.4 Let Mickey Mouse Into a Production Database
 
+[article](../../articles/nate-b-jones/2026-03-07-gpt-5-4-let-mickey-mouse-into-a-production-database.md)
+
 Nate ran blind evaluations of GPT-5.4 against Claude Opus 4.6 and Gemini 3.1
 with six structured tests and independent judging. GPT-5.4 is "the most
 interesting model" — not best, not worst — because it swings wildly between

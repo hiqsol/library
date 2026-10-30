@@ -9,6 +9,8 @@ tags: ai, development
 
 # GPT-6 Astra Doesn't Need Your Instructions Anymore.
 
+[summary](../../summary/nate-b-jones/2026-09-06-astra-self-directed-agents.md)
+
  ## A change in the method of delegation
 
 Jones argues that GPT-6 Astra crosses a practical threshold: a general agent can choose methods,

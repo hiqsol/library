@@ -9,6 +9,8 @@ tags: development
 
 # How to Get Cracked at Programming
 
+[summary](../../summary/the-coding-gopher/2026-10-01-programming-skill-deliberate-practice.md)
+
 The title promises exceptional programming skill, but the speaker's advice is more grounded:
 replace passive exposure and guesswork with deliberate encounters with how systems behave.
 

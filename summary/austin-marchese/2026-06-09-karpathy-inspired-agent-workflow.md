@@ -9,6 +9,8 @@ tags: ai, development
 
 # A Better Way to Work With AI Agents—Without Inventing a “Karpathy Method”
 
+[article](../../articles/austin-marchese/2026-06-09-karpathy-inspired-agent-workflow.md)
+
 Austin Marchese’s video presents a useful three-part workflow for AI agents:
 specification, verification, and a persistent working environment.
 The attribution is the problem.

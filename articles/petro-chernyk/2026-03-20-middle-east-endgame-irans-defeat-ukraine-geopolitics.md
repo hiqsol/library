@@ -9,6 +9,8 @@ tags: politics, war, ukraine
 
 # Middle East Endgame: Iran's Defeat, Ukraine's Geopolitical Stake
 
+[summary](../../summary/petro-chernyk/2026-03-20-middle-east-endgame-irans-defeat-ukraine-geopolitics.md)
+
 ## Battlefield Status: Operation "Epic People 3"
 
 Pentagon figures as of this interview:

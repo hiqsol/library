@@ -9,6 +9,8 @@ tags: ai, development
 
 # How I Fight AI Brain Rot. Friction Maxxing With Codex, Grok And Claude.
 
+[summary](../../summary/nate-b-jones/2026-08-28-fighting-ai-brain-rot-through-disagreement.md)
+
  ## Use AI to exercise judgment
 
 Jones describes a deliberate practice of adding intellectual friction to AI use. He moves

@@ -9,6 +9,8 @@ tags: ai, development
 
 # Omarchy and the Agentic Desktop: Making an Operating System Personal
 
+[article](../../articles/nate-b-jones/2026-09-11-omarchy-agentic-operating-system.md)
+
 Nate B. Jones's core claim is that AI lowers the cost of software for one person.
 An operating system is a stack of old choices about windows, startup, and permissions.
 Agents can help a user revisit selected choices instead of accepting every default.

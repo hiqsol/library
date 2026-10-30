@@ -9,6 +9,8 @@ tags: ai, self-improvement, recursive-self-improvement, autonomous-agents
 
 # Summary
 
+[article](../../articles/gemini-deep-research/2026-03-29-architecture-autonomy-recursive-self-improvement.md)
+
 Deep research report (17 pages, 66 sources) analyzing the 2026 state of
 recursive self-improving AI agents. Covers metacognitive self-modification,
 group evolution, structured cognitive frameworks, autonomous scientific

@@ -9,6 +9,8 @@ tags: startups
 
 # Summary: How to succeed at Kickstarter
 
+[article](../../articles/dan-shapiro/2014-09-15-how-to-succeed-at-kickstarter.md)
+
 I've been asked by a lot of folks for advice with their Kickstarter campaigns. I've thought long and
 hard about it.
 

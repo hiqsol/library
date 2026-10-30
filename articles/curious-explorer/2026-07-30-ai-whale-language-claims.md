@@ -9,6 +9,8 @@ tags: ai, technology
 
 # Whale Communication, AI, and the Distance Between Structure and Meaning
 
+[summary](../../summary/curious-explorer/2026-07-30-ai-whale-language-claims.md)
+
 ## The headline outruns the evidence
 
 The video promises that Grok decoded whale language and uncovered a shocking first message.

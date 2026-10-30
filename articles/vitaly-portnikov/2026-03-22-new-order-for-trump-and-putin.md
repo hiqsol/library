@@ -9,6 +9,8 @@ tags: politics, war, ukraine
 
 # New Order for Trump and Putin
 
+[summary](../../summary/vitaly-portnikov/2026-03-22-new-order-for-trump-and-putin.md)
+
 A lecture-format interview with journalist and political analyst Vitaliy Portnikov,
 recorded at King Danylo University. The discussion spans professional development,
 Ukrainian state-building, the current war, and the geopolitical realignment taking

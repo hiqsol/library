@@ -9,6 +9,8 @@ tags: ai, development
 
 # Why I Cancelled My Claude Code Subscription (And You Should Too)
 
+[summary](../../summary/jordan-urbs/2026-09-06-why-i-cancelled-my-claude-code-subscription.md)
+
 I was a Claude Max subscriber paying $200 per month, and I loved it. Over the past year,
 Claude Code went from an interesting tool to something I felt I could not live without as a
 builder and solopreneur. On peak days, I used hundreds of millions of tokens.

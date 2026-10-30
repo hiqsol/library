@@ -9,6 +9,8 @@ tags: ai
 
 # The $285 Billion Crash Wall Street Won't Explain Honestly
 
+[summary](../../summary/nate-b-jones/2026-02-10-the-285-billion-crash-wall-street-wont-explain-honestly.md)
+
 ## A 200-Line Prompt Killed $285 Billion in Market Value
 
 A markdown file — not a product, not a platform — erased $285 billion in

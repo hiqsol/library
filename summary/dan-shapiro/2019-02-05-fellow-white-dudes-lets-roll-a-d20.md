@@ -9,6 +9,8 @@ tags: startups
 
 # Summary: Fellow White Dudes: Let's Roll a d20
 
+[article](../../articles/dan-shapiro/2019-02-05-fellow-white-dudes-lets-roll-a-d20.md)
+
 Last week, I attended an unconference called ORD Camp. At the event, attendees create sessions
 together around their passions and expertise.
 

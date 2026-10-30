@@ -9,6 +9,8 @@ tags: ai
 
 # The Architecture of Recursive Self-Improvement in Autonomous AI Agents
 
+[summary](../../summary/gemini-deep-research/2026-03-28-architecture-recursive-self-improvement-autonomous-ai-agents.md)
+
 The transition from static, conversational large language models to dynamic,
 autonomous agentic systems represents a fundamental paradigm shift in the
 architecture of artificial intelligence. While early foundation models operate

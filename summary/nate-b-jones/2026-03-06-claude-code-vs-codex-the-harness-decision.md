@@ -9,6 +9,8 @@ tags: ai
 
 # Summary: Claude Code vs Codex — The Harness Decision
 
+[article](../../articles/nate-b-jones/2026-03-06-claude-code-vs-codex-the-harness-decision.md)
+
 The harness — everything surrounding the model (runtime environment, memory,
 tool access, task management) — matters more than the model itself. Same Claude
 model scored 78% in Claude Code's harness vs 42% in Small Agents on the CORE

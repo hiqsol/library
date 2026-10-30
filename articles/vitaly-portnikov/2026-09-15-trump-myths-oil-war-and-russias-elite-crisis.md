@@ -9,6 +9,8 @@ tags: politics, war, ukraine
 
 # Trump's Political Myth, Russia's Oil Crisis, and Elite Impunity
 
+[summary](../../summary/vitaly-portnikov/2026-09-15-trump-myths-oil-war-and-russias-elite-crisis.md)
+
 ## About the interview
 
 This article explains a 36-minute Russian-language interview with journalist and political

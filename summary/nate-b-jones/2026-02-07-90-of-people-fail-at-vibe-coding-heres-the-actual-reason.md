@@ -9,6 +9,8 @@ tags: ai
 
 # 90% of People Fail at Vibe Coding: You're Skipping the Hard Part — Summary
 
+[article](../../articles/nate-b-jones/2026-02-07-90-of-people-fail-at-vibe-coding-heres-the-actual-reason.md)
+
 Vibe coding crossed a threshold in early 2026: friction dropped enough
 that building software shifted from work to play. Models hold context
 longer, agentic patterns matured, builder platforms got more reliable.

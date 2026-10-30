@@ -9,6 +9,8 @@ tags: ai
 
 # Clawdbot to Moltbot to OpenClaw: The 72 Hours That Broke Everything — Summary
 
+[article](../../articles/nate-b-jones/2026-02-02-clawdbot-to-moltbot-to-openclaw-the-72-hours-that-broke.md)
+
 OpenClaw (formerly Claudebot, then Moltbot) is a local-first AI assistant
 that runs on your hardware and actually does things — triages email, books
 flights, commits code, manages calendars across platforms. Built by Peter

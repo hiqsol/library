@@ -9,6 +9,8 @@ tags: politics, war, ukraine
 
 # Summary: Listen to Chernyk, Not Trump — How Everything Will End in the Middle East
 
+[article](../../articles/petro-chernyk/2026-03-13-chernyk-middle-east-iran-us-endgame.md)
+
 - Operation *Epic Friday* (US + Israel): 55,000 targets struck in Iran in 2 weeks; 60+ warships
   destroyed; entire Suleimani missile-carrier class eliminated; AI and space forces used to paralyse
   launches pre-fire.

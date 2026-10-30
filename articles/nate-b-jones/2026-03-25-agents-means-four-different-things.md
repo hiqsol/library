@@ -10,6 +10,8 @@ tags: ai, development, startups
 ---
 
 # "Agents" Means 4 Different Things and Almost Nobody Knows Which One
+
+[summary](../../summary/nate-b-jones/2026-03-25-agents-means-four-different-things.md)
 They Need.
 
 ## The Problem: One Word, Four Species

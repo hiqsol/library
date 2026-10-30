@@ -9,6 +9,8 @@ tags: ai
 
 # Anthropic, OpenAI, and Microsoft Just Agreed on One File Format
 
+[summary](../../summary/nate-b-jones/2026-03-30-agreed-one-file-format-changes-everything.md)
+
 Skills — markdown files that encode expertise for AI agents — have
 gone from a personal productivity hack to cross-platform organizational
 infrastructure in six months. Anthropic, OpenAI, and Microsoft now all

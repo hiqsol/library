@@ -9,6 +9,8 @@ tags: ai, development
 
 # The Truth About Developer Productivity in the AI Age (It's a Trap)
 
+[summary](../../summary/steve-smith/2026-03-11-developer-productivity-ai-trap-activity-metrics.md)
+
 ## The Core Warning
 
 Gen AI is simultaneously a stock market bubble, a technology hype train, and a genuine innovation.

@@ -9,6 +9,8 @@ tags: ai
 
 # OpenAI Is Slowing Hiring, Anthropic's Engineers Stopped Writing Code — Summary
 
+[article](../../articles/nate-b-jones/2026-02-04-openai-is-slowing-hiring-anthropics-engineers-stopped.md)
+
 Sam Altman admitted he still has not changed his workflow despite knowing
 he should use AI more. Meanwhile Andrej Karpathy inverted from 80% manual
 coding to 80% AI agents in weeks. Ethan Mollick: "Projects from 6 weeks

@@ -9,6 +9,8 @@ tags: ai, development
 
 # Summary: The Truth About Developer Productivity in the AI Age (It's a Trap)
 
+[article](../../articles/steve-smith/2026-03-11-developer-productivity-ai-trap-activity-metrics.md)
+
 - Gen AI triggers the worst organisational impulses: tripling down on Taylorism, measuring every
   line of code, treating activity counts as productivity progress.
 - Industry is sliding backwards — from outcome metrics back to activity/output metrics — because

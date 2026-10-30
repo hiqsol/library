@@ -9,6 +9,8 @@ tags: politics, war, ukraine
 
 # Summary: World One Step from Catastrophe — Iran Ground Op, NATO Crisis, Orbán's Blockade
 
+[article](../../articles/vitaly-portnikov/2026-03-20-world-step-from-catastrophe-iran-nato-orban.md)
+
 ## Opening: Patriarch Filaret
 
 Died just before broadcast. Greatest church-political figure Ukraine has had: started as

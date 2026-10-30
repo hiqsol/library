@@ -9,6 +9,8 @@ tags: ai
 
 # OpenClaw Agents Are Hiring Each Other and Building Societies
 
+[summary](../../summary/nate-b-jones/2026-02-03-openclaw-agents-are-hiring-each-other-transferring-crypto.md)
+
 ## AI Agents Are Self-Organizing
 
 In the last week or two, something quietly astonishing happened. AI agents

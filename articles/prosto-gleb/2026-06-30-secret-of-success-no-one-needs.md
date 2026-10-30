@@ -9,6 +9,8 @@ tags: development
 
 # Everyday Habits, Rare Events, and Long-Term Outcomes
 
+[summary](../../summary/prosto-gleb/2026-06-30-secret-of-success-no-one-needs.md)
+
 The speaker challenges the search for a single decisive move that will transform a life:
 the perfect partner, a lucrative deal, a useful connection, or a lucky investment. His
 argument is that these events can matter enormously, but they cannot be a dependable

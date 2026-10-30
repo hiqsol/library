@@ -9,6 +9,8 @@ tags: ai
 
 # Three Labs Just Stole Claude's Brain — Here's What It Broke
 
+[summary](../../summary/nate-b-jones/2026-02-25-three-labs-just-stole-claudes-brain-heres-what-it-broke-and.md)
+
 ## The Extraction
 
 Three Chinese AI labs — DeepSeek, Moonshot, and MiniMax — ran 16 million

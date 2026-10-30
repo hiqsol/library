@@ -9,6 +9,8 @@ tags: ai
 
 # What They Don't Tell Us About AI: The Future We Must Prepare For
 
+[summary](../../summary/margulan-seissembai/2026-03-04-what-they-dont-tell-us-about-ai.md)
+
 ## Introduction
 
 Margulan Seissembai — researcher, businessman, investor, traveler — grew up in

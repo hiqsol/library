@@ -9,6 +9,8 @@ tags: ai
 
 # Why the Smartest AI Teams Are Panic-Buying Compute — Summary
 
+[article](../../articles/nate-b-jones/2026-02-08-why-the-smartest-ai-teams-are-panic-buying-compute-the-36.md)
+
 A structural inference compute crisis is underway with no relief before
 2028. Enterprise AI consumption grows at least 10x annually. Supply is
 physically constrained: DRAM fabrication takes 3-4 years, HBM is sold

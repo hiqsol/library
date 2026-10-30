@@ -7,6 +7,10 @@ date: 2026-03-25 00:00
 tags: war, ukraine, politics
 ---
 
+# Portnikov: Trump torn after Iran crisis — urgent decision on Iran, implications for Ukraine
+
+[summary](../../summary/vitaly-portnikov/2026-03-25-trump-iran-ukraine-feigin.md)
+
 Vitaly Portnikov joins Mark Feigin on March 24, 2026 to discuss the evolving
 situation with Trump's simultaneous handling of the Iran war and the Ukraine
 conflict.

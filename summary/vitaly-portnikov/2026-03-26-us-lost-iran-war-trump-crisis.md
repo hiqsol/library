@@ -10,6 +10,10 @@ permalink: >-
   sol/prj/hiqsol/library/summary/vitaly-portnikov/2026-03-26-us-lost-iran-war-trump-crisis
 ---
 
+# "Portnikov: US Has Lost the War in Iran — Catastrophe With Massive
+
+[article](../../articles/vitaly-portnikov/2026-03-26-us-lost-iran-war-trump-crisis.md)
+
 Portnikov argues the US has no good options in Iran after Trump
 extended his ultimatum by five days. Three scenarios — negotiated
 coexistence, continued air strikes, or a ground invasion — all carry

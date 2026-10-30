@@ -7,6 +7,10 @@ date: 2026-03-22 00:00
 tags: ai, startups, development
 ---
 
+# McKinsey Says $1 Trillion In Sales Will Go Through AI Agents. Most Businesses Are Invisible.
+
+[article](../../articles/nate-b-jones/2026-03-22-mckinsey-trillion-sales-ai-agents-invisible.md)
+
 McKinsey projects up to $1 trillion in orchestrated B2C retail revenue from AI agents by 2030 in
 the US alone. Shopify's Toby Lütke calls agentic shopping "the transformation of a lifetime."
 Over 1 million Shopify merchants are already enabling agent-mediated transactions.

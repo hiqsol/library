@@ -9,6 +9,8 @@ tags: ai
 
 # The OpenClaw Saga: Zuckerberg Begged This Developer to Join Meta
 
+[summary](../../summary/nate-b-jones/2026-02-17-the-openclaw-saga-zuckerberg-begged-this-developer-to-join.md)
+
 ## Peter Steinberger Joins OpenAI
 
 Peter Steinberger built the fastest-growing open-source project in

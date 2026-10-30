@@ -9,6 +9,8 @@ tags: ai, development
 
 # shadcn/lint and Agent-First Tailwind Design Contracts
 
+[article](../../articles/better-stack/2026-09-21-shadcn-lint-tailwind-design-contracts.md)
+
 ## What it addresses
 
 Tailwind accepts valid classes that may still violate a product's design system.

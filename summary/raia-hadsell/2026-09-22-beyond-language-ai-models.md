@@ -9,6 +9,8 @@ tags: ai
 
 # Beyond Language: Embeddings, Weather Models, and Interactive World Models
 
+[article](../../articles/raia-hadsell/2026-09-22-beyond-language-ai-models.md)
+
 ## Source and framing
 
 This is based on a Russian translated repost uploaded by **AI из первых уст** on

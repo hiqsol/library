@@ -9,6 +9,8 @@ tags: ai, technology
 
 # Geometry, Efficient Models, and the Limits of a Startup’s AI Claims
 
+[summary](../../summary/julian-d-michels/2026-08-06-geometric-reasoning-ai-infrastructure.md)
+
 Sophontic’s interview with founder Julian D. Michels begins with a sweeping promise: small models
 may overturn the scale-based AI industry and make data centers obsolete. The defensible idea
 inside that framing is narrower and worth examining. Neural networks organize information in

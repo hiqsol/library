@@ -9,6 +9,8 @@ tags: ai
 
 # The Builders Who Figure This Out First Will Be Impossible to Catch: Why You Need an Identity Shift
 
+[summary](../../summary/nate-b-jones/2026-01-23-the-builders-who-figure-this-out-first-will-be-impossible-to.md)
+
 ## The Bottleneck Has Moved
 
 For two years, we optimized for capability — better prompting,

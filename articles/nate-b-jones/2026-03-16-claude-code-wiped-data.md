@@ -9,6 +9,8 @@ tags: ai
 
 # 5 Non-Coding Management Skills Vibe Coders Need for the Agentic Era
 
+[summary](../../summary/nate-b-jones/2026-03-16-claude-code-wiped-data.md)
+
 ## The Wall Vibe Coders Are Hitting
 
 2025 was the year of vibe coding — describe what you want, AI builds it, you

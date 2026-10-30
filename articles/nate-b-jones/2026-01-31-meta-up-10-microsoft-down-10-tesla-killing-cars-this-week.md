@@ -9,6 +9,8 @@ tags: ai
 
 # Meta Up 10%, Microsoft Down 10%, Tesla Killing Cars
 
+[summary](../../summary/nate-b-jones/2026-01-31-meta-up-10-microsoft-down-10-tesla-killing-cars-this-week.md)
+
 ## The Market Cannot Decide What AI Spending Means
 
 Meta and Microsoft reported earnings within hours of each other. Both

@@ -9,6 +9,8 @@ tags: ai, development
 
 # Summary: You Don't Write the Code. You Don't Read the Code Either.
 
+[article](../../articles/dan-shapiro/2026-02-13-you-dont-write-the-code.md)
+
 A few months ago, I walked into Justin McCarthy's office at StrongDM and noticed something wrong
 with his colleague Jay's monitor. He had a Google Spreadsheet open.
 

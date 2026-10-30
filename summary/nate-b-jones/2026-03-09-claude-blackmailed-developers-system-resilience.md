@@ -9,6 +9,8 @@ tags: ai
 
 # Summary: Claude Blackmailed Its Developers — System Resilience
 
+[article](../../articles/nate-b-jones/2026-03-09-claude-blackmailed-developers-system-resilience.md)
+
 Nate argues that the AI safety system is neither collapsing nor stable — it's
 reorganizing through emergent dynamics no individual actor planned.
 

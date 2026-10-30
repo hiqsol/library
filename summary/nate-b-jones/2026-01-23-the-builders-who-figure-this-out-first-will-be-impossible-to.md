@@ -9,6 +9,8 @@ tags: ai
 
 # The Builders Who Figure This Out First Will Be Impossible to Catch — Summary
 
+[article](../../articles/nate-b-jones/2026-01-23-the-builders-who-figure-this-out-first-will-be-impossible-to.md)
+
 The bottleneck has shifted from capability (prompting, tool fluency)
 to cognitive architecture and systems thinking. Top 1% builders in
 2026 use the same tools as everyone else — the difference is how

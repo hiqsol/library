@@ -9,6 +9,8 @@ tags: startups
 
 # Summary: Second chance to save a life
 
+[article](../../articles/dan-shapiro/2017-05-08-second-chance-to-save-a-life.md)
+
 Six years ago, I wrote a story about how someone might have died because I procrastinated dealing
 with my inbox. In short, I signed up two decades and change ago as a marrow donor.
 

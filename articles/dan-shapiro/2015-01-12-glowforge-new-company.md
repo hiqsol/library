@@ -9,6 +9,8 @@ tags: startups
 
 # Glowforge - my new company (join me?)
 
+[summary](../../summary/dan-shapiro/2015-01-12-glowforge-new-company.md)
+
 I'm working on something new. I can't *wait* to tell you what it is.
 
 Unfortunately we're not ready to tip our hand quite yet, so I have to be a little coy. The company

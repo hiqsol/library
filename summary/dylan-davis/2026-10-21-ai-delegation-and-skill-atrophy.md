@@ -8,6 +8,8 @@ tags: ai, technology
 ---
 
 # AI Is Removing the Practice That Builds Professional Judgment
+
+[article](../../articles/dylan-davis/2026-10-21-ai-delegation-and-skill-atrophy.md)
 Dylan Davis argues that AI is automating the routine work through which junior knowledge workers
 historically developed professional judgment.
 

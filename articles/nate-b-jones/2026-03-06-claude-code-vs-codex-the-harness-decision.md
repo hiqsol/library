@@ -9,6 +9,8 @@ tags: ai
 
 # Claude Code vs Codex: The Harness Decision That Compounds Every Week
 
+[summary](../../summary/nate-b-jones/2026-03-06-claude-code-vs-codex-the-harness-decision.md)
+
 ## The Model vs the Harness
 
 When you use an AI coding agent, you interact with two things: the model

@@ -9,6 +9,8 @@ tags: ai, development
 
 # Why Wider Language Models Hit a Scaling Plateau
 
+[summary](../../summary/dan-grib/2026-09-19-llm-width-scaling-plateau.md)
+
 *The supplied source does not report that result. Dan Grib's video instead explains a claim
 about model width, superposition, interference, and diminishing returns from training-time
 scaling. The distinction matters.*

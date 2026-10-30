@@ -9,6 +9,8 @@ tags: ai, startups
 
 # THE 10 FOREVER RULES OF AI
 
+[summary](../../summary/dan-shapiro/2025-09-22-the-10-forever-rules-of-ai.md)
+
 June 2023. ChatGPT was six months old. We’d launched our first AI feature, Magic Canvas, three
 months before. I was meeting with our friends at Joann Fabric (may they rest in polyester) to
 explain what GenAI was about. They weren’t alone. Everyone was trying to figure out what it meant.

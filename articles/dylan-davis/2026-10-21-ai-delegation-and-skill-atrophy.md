@@ -9,6 +9,8 @@ tags: ai, technology
 
 # AI Is Removing the Practice That Builds Professional Judgment
 
+[summary](../../summary/dylan-davis/2026-10-21-ai-delegation-and-skill-atrophy.md)
+
 Generative AI can complete many of the routine tasks once assigned to junior knowledge workers.
 That creates an immediate productivity gain, but it may also remove the practice through which
 people learned to recognize good work.

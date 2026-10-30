@@ -9,6 +9,8 @@ tags: ai, development, technology
 
 # Agent Skills: Reusable Workflows Without More Agents
 
+[article](../../articles/sharbel-a/2026-10-11-harness-engineering-for-ai-agents.md)
+
 Sharbel A. explains Agent Skills: reusable folders that teach a general-purpose agent how to
 perform a specific workflow. A minimal skill contains `SKILL.md` with a required name, description,
 and Markdown instructions. More capable packages may add scripts, references, assets, and examples.

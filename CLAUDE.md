@@ -64,6 +64,9 @@ tags: tag1, tag2
 ## Rules
 
 - Articles and summaries: always English
+- Every article must link to its matching summary immediately after the H1.
+- Every summary must link to its matching article immediately after the H1.
+- Reciprocal navigation links may exceed the 100-character limit when the target path requires it.
 - Same slug across raw/, articles/, summary/: lowercase, dashes, max 10 words
 - File/dir names: only dashes, English letters, digits
 - Videos: raw content is text transcript

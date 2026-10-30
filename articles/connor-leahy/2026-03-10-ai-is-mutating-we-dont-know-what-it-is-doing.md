@@ -9,6 +9,8 @@ tags: ai
 
 # AI is Mutating: And We Don't Know What It is Doing
 
+[summary](../../summary/connor-leahy/2026-03-10-ai-is-mutating-we-dont-know-what-it-is-doing.md)
+
 ## Introduction
 
 Connor Leahy is one of the rare people who has built these systems from the inside and then stepped

@@ -9,6 +9,8 @@ tags: ai, technology
 
 # Whale Communication, AI, and the Distance Between Structure and Meaning
 
+[article](../../articles/curious-explorer/2026-07-30-ai-whale-language-claims.md)
+
 ## Bottom line
 
 Neither the transcript nor credible sources identify Grok or xAI in the research.

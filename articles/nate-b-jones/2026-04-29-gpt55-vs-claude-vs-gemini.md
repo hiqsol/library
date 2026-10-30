@@ -9,6 +9,8 @@ tags: ai
 
 # GPT-5.5 vs Claude vs Gemini: The Real Difference Nobody's Talking About
 
+[summary](../../summary/nate-b-jones/2026-04-29-gpt55-vs-claude-vs-gemini.md)
+
 ## The Floor Moved
 
 GPT-5.5 represents a shift in what you can reasonably ask a model to do.

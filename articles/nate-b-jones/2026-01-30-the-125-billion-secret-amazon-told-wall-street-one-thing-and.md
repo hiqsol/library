@@ -9,6 +9,8 @@ tags: ai
 
 # The $125 Billion Secret: Amazon Told Wall Street One Thing and Employees Another
 
+[summary](../../summary/nate-b-jones/2026-01-30-the-125-billion-secret-amazon-told-wall-street-one-thing-and.md)
+
 ## The Real Reason for 30,000 Layoffs
 
 Amazon is not cutting 30,000 jobs because they have too many

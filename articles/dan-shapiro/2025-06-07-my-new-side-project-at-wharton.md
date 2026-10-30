@@ -9,6 +9,8 @@ tags: ai, startups
 
 # My new side project at Wharton
 
+[summary](../../summary/dan-shapiro/2025-06-07-my-new-side-project-at-wharton.md)
+
 (Yes, the day job is still Glowforge and lasers, and I still love it!)
 
 I've signed on as a research fellow at Wharton's Generative AI Lab with the incredible Drs Ethan and

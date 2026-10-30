@@ -9,6 +9,8 @@ tags: ai
 
 # AI broke the one thing we can't fix
 
+[summary](../../summary/mo-bitar/2026-03-24-ai-broke-the-one-thing-we-cant-fix.md)
+
 A few weeks ago, Nikita gets on his own platform and says, "In less than
 90 days, iMessage, phone calls, and Gmail will be so flooded with spam
 and automation that they will no longer be usable, and we will have no

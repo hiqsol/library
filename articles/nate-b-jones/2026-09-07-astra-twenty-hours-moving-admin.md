@@ -9,6 +9,8 @@ tags: ai
 
 # There Are Jobs You Could Never Give AI. I Gave GPT-6 Astra 20 Hours Of Admin.
 
+[summary](../../summary/nate-b-jones/2026-09-07-astra-twenty-hours-moving-admin.md)
+
  ## From individual tasks to an entire job
 
 Nate B Jones describes GPT-6 Astra as a change in how much work he can delegate. He delayed his

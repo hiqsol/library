@@ -9,6 +9,8 @@ tags: ai
 
 # AI Extinction Risk, Present Harms, and the Problem of Control
 
+[article](../../articles/roman-yampolskiy/2026-09-17-ai-risk-control-debate.md)
+
 ## The disagreement
 
 This four-way debate produced neither a shared estimate nor one theory of AI harm.

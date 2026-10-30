@@ -9,6 +9,8 @@ tags: ai
 
 # Claude Blackmailed Its Developers. Here's Why the System Hasn't Collapsed Yet.
 
+[summary](../../summary/nate-b-jones/2026-03-09-claude-blackmailed-developers-system-resilience.md)
+
 **Abbreviations:**
 - **AGI** — Artificial General Intelligence
 - **AISI** — AI Safety Institute (UK)

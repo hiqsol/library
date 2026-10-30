@@ -9,6 +9,8 @@ tags: health
 
 # When More Cardio Stops Meaning More Health
 
+[summary](../../summary/gleb/2026-07-07-cardio-health-performance-limit.md)
+
 ## The curve, not the slogan
 
 Gleb's central claim is not that cardio is bad. It is that cardio has a dose-response

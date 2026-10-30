@@ -9,6 +9,8 @@ tags: technology, finance
 
 # What BYD Teardowns Reveal—and What They Cannot Predict
 
+[summary](../../summary/the-sleeper-list/2026-10-06-byd-engineering-british-carmakers.md)
+
 The Sleeper List presents BYD's rise through the story of Japanese, American, and financial
 analysts taking its cars apart. The central finding is sound: BYD has combined vertical
 integration, component consolidation, shared platforms, and scale into a substantial manufacturing

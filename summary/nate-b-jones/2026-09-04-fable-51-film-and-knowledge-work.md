@@ -9,6 +9,8 @@ tags: ai, development
 
 # Everyone's Testing Claude Fable 5.1 On Code. It Made Me A 37-Second Film.
 
+[article](../../articles/nate-b-jones/2026-09-04-fable-51-film-and-knowledge-work.md)
+
  Jones compares Fable 5.1, Fable 5, and GPT-5.6 Soul on practical knowledge work. These are
 personal work samples rather than controlled benchmarks.
 

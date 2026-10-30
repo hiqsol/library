@@ -9,6 +9,8 @@ tags: ai
 
 # Shopify's AI Memo Changed Hiring Forever
 
+[summary](../../summary/nate-b-jones/2026-01-13-shopifys-ai-memo-changed-hiring-foreverand-why-google-meta.md)
+
 ## The Memo That Started It All
 
 Eight months ago, Shopify CEO Tobi Lutke posted a memo that most people

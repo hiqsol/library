@@ -9,6 +9,8 @@ tags: ai, development
 
 # Building an AI SDLC: Wins, Mistakes, and Lessons
 
+[article](../../articles/altexsoft/2026-09-16-ai-sdlc-wins-mistakes-lessons.md)
+
 ## The promise
 
 - AltexSoft says adoption began after Copilot and ChatGPT arrived in late 2022.

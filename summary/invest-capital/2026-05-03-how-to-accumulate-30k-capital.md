@@ -9,6 +9,8 @@ tags: development
 
 # Summary
 
+[article](../../articles/invest-capital/2026-05-03-how-to-accumulate-30k-capital.md)
+
 A 25-year-old Ukrainian factory worker in Poland shares how he grew his
 capital from $20,000 to $31,500 in six months. Three practical tips:
 

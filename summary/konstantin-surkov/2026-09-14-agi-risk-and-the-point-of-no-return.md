@@ -8,6 +8,8 @@ tags: ai, development
 ---
 
 # It May Already Be Impossible to Switch Off: AGI Risk and the Point of No Return
+
+[article](../../articles/konstantin-surkov/2026-09-14-agi-risk-and-the-point-of-no-return.md)
 - Konstantin Surkov presents advanced AI risk primarily as a loss of human agency.
 - Humanity might survive while machines gain the power to determine what happens next.
 - He calls this outcome **disempowerment**, distinct from complete human extinction.

@@ -9,6 +9,8 @@ tags: ai
 
 # The Ticking Time Bomb in Every Codebase Over 18 Months Old
 
+[summary](../../summary/nate-b-jones/2026-01-28-the-ticking-time-bomb-in-every-codebase-over-18-months-old.md)
+
 ## AI Might Be Better at Software Architecture Than Humans
 
 Not because AI is smarter, but because humans are structurally

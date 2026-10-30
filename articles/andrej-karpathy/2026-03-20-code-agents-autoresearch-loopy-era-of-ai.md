@@ -9,6 +9,8 @@ tags: ai, development
 
 # Andrej Karpathy on Code Agents, AutoResearch, and the Loopy Era of AI
 
+[summary](../../summary/andrej-karpathy/2026-03-20-code-agents-autoresearch-loopy-era-of-ai.md)
+
 ## The "AI Psychosis" State
 
 Karpathy opens the conversation by describing a persistent mental state he calls "AI psychosis" —

@@ -9,6 +9,8 @@ tags: technology, finance
 
 # What BYD Teardowns Reveal—and What They Cannot Predict
 
+[article](../../articles/the-sleeper-list/2026-10-06-byd-engineering-british-carmakers.md)
+
 The video's central manufacturing thesis is well supported. UBS's 2023 Seal teardown estimated a
 roughly 25% sustainable BYD cost advantage, a 16% modelled gross margin, and a 5% EBIT margin. It
 attributed the result to vertical integration in batteries, powertrain, electronics, and vehicle

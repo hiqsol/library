@@ -10,6 +10,8 @@ permalink: >-
 ---
 
 # I Analyzed Hundreds of AI Job Postings. The Same 7 Skills Showed Up
+
+[summary](../../summary/nate-b-jones/2026-03-26-ai-job-postings-7-skills.md)
 Everywhere.
 
 ## The K-Shaped AI Job Market

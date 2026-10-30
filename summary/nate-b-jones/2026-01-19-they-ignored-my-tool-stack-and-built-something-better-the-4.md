@@ -9,6 +9,8 @@ tags: ai
 
 # They Ignored My Tool Stack and Built Something Better — Summary
 
+[article](../../articles/nate-b-jones/2026-01-19-they-ignored-my-tool-stack-and-built-something-better-the-4.md)
+
 Four building principles emerged from watching dozens of community
 members build the same "second brain" system in completely different
 ways after ignoring the original tool recommendations.

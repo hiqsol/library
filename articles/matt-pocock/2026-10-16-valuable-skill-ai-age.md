@@ -9,6 +9,8 @@ tags: ai, development
 
 # Matt Pocock: The Most Valuable Skill to Learn in the Age of AI
 
+[summary](../../summary/matt-pocock/2026-10-16-valuable-skill-ai-age.md)
+
 Matt Pocock's strongest claim is not that one model has won or that prompting has become a
 profession. It is that the durable advantage is learning to communicate intent and to shape the
 environment in which agents work. Models and harnesses matter, but neither can infer what a user

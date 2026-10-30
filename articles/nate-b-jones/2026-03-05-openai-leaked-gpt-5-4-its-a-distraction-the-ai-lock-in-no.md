@@ -9,6 +9,8 @@ tags: ai
 
 # OpenAI Leaked GPT-5.4 — It's a Distraction: The AI Lock-In No One Is Talking About
 
+[summary](../../summary/nate-b-jones/2026-03-05-openai-leaked-gpt-5-4-its-a-distraction-the-ai-lock-in-no.md)
+
 ## The Real Bet Behind the Hype
 
 OpenAI engineers accidentally leaked ChatGPT 5.4's existence by committing internal

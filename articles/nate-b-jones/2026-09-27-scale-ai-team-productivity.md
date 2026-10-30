@@ -9,6 +9,8 @@ tags: ai, development
 
 # Scaling AI Developer Productivity Beyond the Fastest Coder
 
+[summary](../../summary/nate-b-jones/2026-09-27-scale-ai-team-productivity.md)
+
 AI can make one developer generate code much faster while making the team deliver more slowly.
 That is not a paradox. It is what happens when one stage accelerates and the rest of the system does
 not.

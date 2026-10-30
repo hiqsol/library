@@ -9,6 +9,8 @@ tags: ai, development
 
 # Executable Specifications for Reliable AI-Generated Code
 
+[summary](../../summary/dave-farley/2026-10-21-executable-specifications-for-ai-code.md)
+
 AI coding agents make implementation faster, but they do not remove the need to decide what
 software should do or prove that it does it. Dave Farley argues that this shift makes verification,
 not code generation, the limiting factor in software delivery. His proposed answer is a workflow

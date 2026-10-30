@@ -9,6 +9,8 @@ tags: ai, development
 
 # How Vercel Solved Agent Building
 
+[summary](../../summary/andrew-qu/2026-09-14-how-vercel-solved-agent-building.md)
+
 Andrew Qu's account of agent development at Vercel is a story of removing structure, then adding
 back only the structure that proved useful. The team moved from one enormous prompt to a rigid
 multi-agent pipeline, then to one stateful agent, a filesystem agent in a sandbox, reusable skills,

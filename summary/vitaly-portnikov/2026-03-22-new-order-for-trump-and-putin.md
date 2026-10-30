@@ -9,6 +9,8 @@ tags: politics, war, ukraine
 
 # New Order for Trump and Putin — Summary
 
+[article](../../articles/vitaly-portnikov/2026-03-22-new-order-for-trump-and-putin.md)
+
 Recorded at King Danylo University, Portnikov addresses students on professional
 purpose, Ukrainian statehood, and the geopolitics of the ongoing war.
 

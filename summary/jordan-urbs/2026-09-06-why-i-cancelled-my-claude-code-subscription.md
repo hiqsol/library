@@ -9,6 +9,8 @@ tags: ai, development
 
 # Summary
 
+[article](../../articles/jordan-urbs/2026-09-06-why-i-cancelled-my-claude-code-subscription.md)
+
 Jordan Urbs cancelled a Claude Max subscription he loved because too much of his work had
 become dependent on one subsidized product. His alternative is an experiment built around
 portable workspaces, OpenCode, open-weight models, and explicit model routing.

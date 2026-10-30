@@ -9,6 +9,8 @@ tags: ai, development
 
 # 12 Ways to Customize Claude Code
 
+[summary](../../summary/boris-cherny/2026-02-11-12-ways-to-customize-claude-code.md)
+
 Boris Cherny framed Claude Code's growth around one idea: developers adopt the tool not only
 because the defaults are good, but because the product is unusually easy to shape around personal
 and team workflows.

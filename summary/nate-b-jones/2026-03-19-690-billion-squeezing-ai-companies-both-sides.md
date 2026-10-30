@@ -9,6 +9,8 @@ tags: ai
 
 # Summary: $690 Billion Is Squeezing AI Companies From Both Sides.
 
+[article](../../articles/nate-b-jones/2026-03-19-690-billion-squeezing-ai-companies-both-sides.md)
+
 ## Core Claim
 
 Perplexity Computer is a great product sitting in a structural trap. The $690B/year cloud

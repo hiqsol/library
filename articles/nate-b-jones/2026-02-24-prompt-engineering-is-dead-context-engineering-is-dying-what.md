@@ -9,6 +9,8 @@ tags: ai
 
 # Prompt Engineering Is Dead, Context Engineering Is Dying — What Comes Next
 
+[summary](../../summary/nate-b-jones/2026-02-24-prompt-engineering-is-dead-context-engineering-is-dying-what.md)
+
 ## The Klarna Case: When AI Succeeds at the Wrong Thing
 
 In January 2026, Klarna reported its AI agent does the work of 853 full-time

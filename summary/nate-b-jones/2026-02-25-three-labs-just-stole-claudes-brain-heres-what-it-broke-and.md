@@ -9,6 +9,8 @@ tags: ai
 
 # Three Labs Just Stole Claude's Brain — Summary
 
+[article](../../articles/nate-b-jones/2026-02-25-three-labs-just-stole-claudes-brain-heres-what-it-broke-and.md)
+
 DeepSeek, Moonshot, and MiniMax ran 16 million automated conversations
 with Claude across 24,000 fake accounts. Not a Cold War — a Napster
 problem. A pressure gradient where capabilities worth trillions can be

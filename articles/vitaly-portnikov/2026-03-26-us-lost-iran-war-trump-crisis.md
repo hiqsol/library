@@ -10,6 +10,10 @@ permalink: >-
   sol/prj/hiqsol/library/articles/vitaly-portnikov/2026-03-26-us-lost-iran-war-trump-crisis
 ---
 
+# "Portnikov: US Has Lost the War in Iran — Catastrophe With Massive
+
+[summary](../../summary/vitaly-portnikov/2026-03-26-us-lost-iran-war-trump-crisis.md)
+
 Vitaly Portnikov, interviewed by Vadym Radionov on the Seichas channel,
 analyzes Trump's failing Iran strategy, draws parallels with the Vietnam
 War, and discusses the implications for Ukraine and the broader

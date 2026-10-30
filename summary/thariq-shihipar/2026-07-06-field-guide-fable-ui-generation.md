@@ -8,6 +8,8 @@ tags: ai, development
 ---
 
 # Field Guide to Fable: A Research System for UI Generation
+
+[article](../../articles/thariq-shihipar/2026-07-06-field-guide-fable-ui-generation.md)
 ## Thesis and scope
 Shihipar presents Fable as a model whose useful behavior must be discovered empirically.
 This summary treats his method as a research system for generating and refining UIs.

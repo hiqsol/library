@@ -9,6 +9,8 @@ tags: ai
 
 # ChatGPT Health Identified Respiratory Failure. Then It Said Wait.
 
+[summary](../../summary/nate-b-jones/2026-03-18-chatgpt-health-respiratory-failure.md)
+
 ## The Mount Sinai Study
 
 Physicians at the Mount Sinai Health System in New York City studied ChatGPT Health — a tool

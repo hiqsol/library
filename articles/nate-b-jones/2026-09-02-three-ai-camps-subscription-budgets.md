@@ -9,6 +9,8 @@ tags: ai
 
 # OpenAI, NVIDIA And Anthropic Just Split. Here's How I'd Spend $20, $60 Or $200.
 
+[summary](../../summary/nate-b-jones/2026-09-02-three-ai-camps-subscription-budgets.md)
+
  ## Three overlapping strategies
 
 Jones interprets recent chip, distribution, and infrastructure announcements as three loose

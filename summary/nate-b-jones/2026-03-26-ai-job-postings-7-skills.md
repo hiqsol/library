@@ -11,6 +11,8 @@ permalink: >-
 
 # Summary
 
+[article](../../articles/nate-b-jones/2026-03-26-ai-job-postings-7-skills.md)
+
 The AI job market is K-shaped: traditional knowledge-work roles are
 flat or falling while AI-specific roles are growing explosively. The
 ratio of AI jobs to qualified talent is 3.2-to-1, with ~1.6M open

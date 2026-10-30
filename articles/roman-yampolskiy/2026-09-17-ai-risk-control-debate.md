@@ -9,6 +9,8 @@ tags: ai
 
 # AI Extinction Risk, Present Harms, and the Problem of Control
 
+[summary](../../summary/roman-yampolskiy/2026-09-17-ai-risk-control-debate.md)
+
 ## A debate about different failures
 
 This was a four-way debate, not a solo interview with Roman Yampolskiy. Host Steven

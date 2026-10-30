@@ -9,6 +9,8 @@ tags: ai
 
 # Why the Smartest AI Bet Right Now Has Nothing to Do With AI
 
+[summary](../../summary/nate-b-jones/2026-02-01-why-the-smartest-ai-bet-right-now-has-nothing-to-do-with-ai.md)
+
 ## The Abundance Narrative vs. Reality
 
 At Davos, Switzerland, Elon Musk told the World Economic Forum that

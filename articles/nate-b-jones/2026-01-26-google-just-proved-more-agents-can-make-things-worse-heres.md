@@ -9,6 +9,8 @@ tags: ai
 
 # Google Just Proved More Agents Can Make Things Worse
 
+[summary](../../summary/nate-b-jones/2026-01-26-google-just-proved-more-agents-can-make-things-worse-heres.md)
+
 ## The Multi-Agent Scaling Problem
 
 The pitch for multi-agent AI systems is seductive: 10 or 100 agents

@@ -9,6 +9,8 @@ tags: ai
 
 # Why the Biggest AI Career Opportunity Just Appeared — Summary
 
+[article](../../articles/nate-b-jones/2026-02-19-why-the-biggest-ai-career-opportunity-just-appearedand.md)
+
 In 10 days, the "AI scare trade" burned through 8 sectors: software,
 private credit, insurance, wealth management, real estate services,
 logistics, drug distribution, and commercial office space. Pattern:

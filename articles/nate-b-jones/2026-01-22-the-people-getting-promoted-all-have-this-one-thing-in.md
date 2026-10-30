@@ -9,6 +9,8 @@ tags: ai
 
 # The People Getting Promoted All Have This One Thing in Common
 
+[summary](../../summary/nate-b-jones/2026-01-22-the-people-getting-promoted-all-have-this-one-thing-in.md)
+
 ## The Career Ladder Is Being Disassembled
 
 Entry-level hiring at major tech companies has collapsed by more than 50%

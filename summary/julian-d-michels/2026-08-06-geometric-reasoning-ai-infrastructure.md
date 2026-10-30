@@ -9,6 +9,8 @@ tags: ai, technology
 
 # Geometry, Efficient Models, and the Limits of a Startup’s AI Claims
 
+[article](../../articles/julian-d-michels/2026-08-06-geometric-reasoning-ai-infrastructure.md)
+
 Sophontic’s interview with founder Julian D. Michels presents a promising research direction as a
 sweeping challenge to scale-based AI. The grounded core is that neural representations have
 analyzable high-dimensional geometry. Causal interpretability work shows that some internal

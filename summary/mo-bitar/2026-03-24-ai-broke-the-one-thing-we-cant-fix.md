@@ -9,6 +9,8 @@ tags: ai
 
 # AI broke the one thing we can't fix — Summary
 
+[article](../../articles/mo-bitar/2026-03-24-ai-broke-the-one-thing-we-cant-fix.md)
+
 Mo Bitar argues that AI-powered spam and content generation have
 permanently broken the internet's trust model, with no fix in sight.
 

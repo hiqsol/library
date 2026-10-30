@@ -9,6 +9,8 @@ tags: ai
 
 # Why the Smartest AI Teams Are Panic-Buying Compute
 
+[summary](../../summary/nate-b-jones/2026-02-08-why-the-smartest-ai-teams-are-panic-buying-compute-the-36.md)
+
 ## The 36-Month AI Infrastructure Crisis
 
 We built an economy that runs on AI, and now there is not enough compute

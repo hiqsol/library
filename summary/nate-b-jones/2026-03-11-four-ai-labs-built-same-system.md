@@ -9,6 +9,8 @@ tags: ai
 
 # Summary: 4 AI Labs Built the Same System Without Talking to Each Other
 
+[article](../../articles/nate-b-jones/2026-03-11-four-ai-labs-built-same-system.md)
+
 Nate argues the "jagged frontier" of AI capabilities was never a property of
 AI intelligence — it was an artifact of single-turn interaction that stripped
 away organizational structures humans rely on. The last 30 days prove it.

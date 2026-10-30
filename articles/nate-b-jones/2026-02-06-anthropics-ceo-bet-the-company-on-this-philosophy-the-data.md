@@ -9,6 +9,8 @@ tags: ai
 
 # Anthropic's CEO Bet the Company on This Philosophy
 
+[summary](../../summary/nate-b-jones/2026-02-06-anthropics-ceo-bet-the-company-on-this-philosophy-the-data.md)
+
 ## Claude's Constitution: Why It Matters
 
 Anthropic released an 80-page document they call Claude's constitution.

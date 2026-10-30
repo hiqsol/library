@@ -9,6 +9,8 @@ tags: ai
 
 # 90% of People Fail at Vibe Coding: You're Skipping the Hard Part
 
+[summary](../../summary/nate-b-jones/2026-02-07-90-of-people-fail-at-vibe-coding-heres-the-actual-reason.md)
+
 ## From Work to Play
 
 Something clicked in the last couple of weeks. Vibe coding — using AI to

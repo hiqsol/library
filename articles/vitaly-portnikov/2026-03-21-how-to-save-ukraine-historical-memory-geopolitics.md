@@ -9,6 +9,8 @@ tags: politics, ukraine, war
 
 # How to Save Ukraine: Historical Memory and Geopolitics
 
+[summary](../../summary/vitaly-portnikov/2026-03-21-how-to-save-ukraine-historical-memory-geopolitics.md)
+
 This is a transcript-based synthesis of a public lecture and Q&A given by journalist and political
 analyst Vitaliy Portnikov at an OpenCode.IF event on March 21, 2026 — the anniversary
 of Taras Shevchenko's death. The talk covered historical memory, Ukrainian statehood, geopolitics,

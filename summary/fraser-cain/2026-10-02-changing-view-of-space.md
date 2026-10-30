@@ -8,6 +8,8 @@ tags: technology
 ---
 
 # Changing Course on Mars: Fraser Cain on Revising a Spacefaring Future
+
+[article](../../articles/fraser-cain/2026-10-02-changing-view-of-space.md)
 Fraser Cain treats changing one's mind as a feature of evidence-based reasoning.
 After 27 years in space journalism, he has revised his defining vision of Mars.
 He once promoted permanent settlement after reading Robert Zubrin and attending

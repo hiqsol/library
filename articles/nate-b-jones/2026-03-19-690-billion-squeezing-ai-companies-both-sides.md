@@ -9,6 +9,8 @@ tags: ai
 
 # $690 Billion Is Squeezing AI Companies From Both Sides. Most Don't See It Coming.
 
+[summary](../../summary/nate-b-jones/2026-03-19-690-billion-squeezing-ai-companies-both-sides.md)
+
 ## The Perplexity Problem
 
 On February 25th, Perplexity launched **Perplexity Computer** — a cloud-native, multi-model

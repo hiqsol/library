@@ -9,6 +9,8 @@ tags: ai, development
 
 # God’s Eye View Blew Up. Here's What You Can Do With It.
 
+[summary](../../summary/bilawal-sidhu/2026-09-08-gods-eye-view-blew-up-what-you-can-do.md)
+
 God's Eye View is now open source. Within days, its launch video passed half a million views,
 the repository reached number one on GitHub Trending, and it was still there a week later.
 Chris Messina, the inventor of the hashtag, put it on Product Hunt, while Brendan Eich—the

@@ -9,6 +9,8 @@ tags: ai
 
 # Summary: Who have I ever visited in...
 
+[article](../../articles/dan-shapiro/2025-06-07-who-have-i-ever-visited-in.md)
+
 Every time I travel to a city, I wrack my brain to try to remember who lives there so I can reach
 out to visit. So I found a new solution.
 

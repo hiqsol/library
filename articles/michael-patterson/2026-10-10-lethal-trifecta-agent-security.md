@@ -9,6 +9,8 @@ tags: ai, development, technology
 
 # The Lethal Trifecta: Securing AI Coding Agents
 
+[summary](../../summary/michael-patterson/2026-10-10-lethal-trifecta-agent-security.md)
+
 Michael Patterson, a staff solutions engineer at Coder, presents a practical threat model for
 coding agents and a vendor architecture intended to contain them. His central concern is sound:
 an agent can read sensitive files, consume attacker-controlled content, and communicate or act

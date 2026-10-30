@@ -9,6 +9,8 @@ tags: ai
 
 # Shopify's AI Memo Changed Hiring Forever — Summary
 
+[article](../../articles/nate-b-jones/2026-01-13-shopifys-ai-memo-changed-hiring-foreverand-why-google-meta.md)
+
 Tobi Lutke's April 2025 memo mandated: reflexive AI usage as baseline,
 AI dominating prototype phase, AI in performance reviews, prove AI
 can't do work before requesting headcount. Not new philosophy — the

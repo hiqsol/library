@@ -9,6 +9,8 @@ tags: ai, development
 
 # Everyone's Testing Claude Fable 5.1 On Code. It Made Me A 37-Second Film.
 
+[summary](../../summary/nate-b-jones/2026-09-04-fable-51-film-and-knowledge-work.md)
+
  ## Knowledge work needs more than a finished file
 
 Jones tests Claude Fable 5.1 through investment analysis, concise writing, and a generated

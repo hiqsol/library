@@ -9,6 +9,8 @@ tags: ai, development, technology
 
 # When Programming Stops Feeling Like a Craft: Vlad Ten on AI, Work, and Agency
 
+[article](../../articles/vlad-ten/2026-10-15-programming-work-ai-career.md)
+
 Vlad Ten and the hosts of *Мы обречены* ask what happens if software jobs survive while the part
 programmers enjoy is delegated to AI. Their concern is craft and identity, not a demonstrated
 forecast of mass unemployment [00:07:56–00:11:50].

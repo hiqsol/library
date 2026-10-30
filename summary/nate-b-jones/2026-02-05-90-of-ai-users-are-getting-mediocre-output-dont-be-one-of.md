@@ -9,6 +9,8 @@ tags: ai
 
 # 90% of AI Users Are Getting Mediocre Output — Summary
 
+[article](../../articles/nate-b-jones/2026-02-05-90-of-ai-users-are-getting-mediocre-output-dont-be-one-of.md)
+
 Default AI output is the statistical median — optimized for the typical
 user via RLHF (reinforcement learning from human feedback). Raters pick
 outputs that satisfy most people, so the model learns the middle of the

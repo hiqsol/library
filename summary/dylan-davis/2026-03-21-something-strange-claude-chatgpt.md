@@ -7,6 +7,10 @@ date: 2026-03-21 00:00
 tags: ai
 ---
 
+# Something Strange is Happening with Claude and ChatGPT Right Now
+
+[article](../../articles/dylan-davis/2026-03-21-something-strange-claude-chatgpt.md)
+
 AI consultant Dylan Davis explains why his clients are rapidly adopting AI agents
 (Claude Co-Work, ChatGPT Codex) over traditional chat interfaces.
 

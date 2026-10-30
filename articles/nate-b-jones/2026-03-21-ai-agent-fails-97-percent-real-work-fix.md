@@ -9,6 +9,8 @@ tags: ai, development
 
 # Your AI Agent Fails 97.5% of Real Work. The Fix Isn't Coding.
 
+[summary](../../summary/nate-b-jones/2026-03-21-ai-agent-fails-97-percent-real-work-fix.md)
+
 ## The Core Asymmetry
 
 AI agents are getting better. The people deploying them are not. That is the whole story right
