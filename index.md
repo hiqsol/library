@@ -6,6 +6,13 @@ permalink: sol/prj/hiqsol/library/index
 
 # Index
 
+- 2026-11-07 16:11 - The Coding Gopher - 2026-11-06 17:30
+  How Computer Science Students Can Build Engineering Skill Beyond Coursework
+  tags: ai, development
+  [article](articles/the-coding-gopher/2026-11-06-computer-science-beyond-the-degree.md) |
+  [summary](summary/the-coding-gopher/2026-11-06-computer-science-beyond-the-degree.md) |
+  [source](https://youtu.be/cGngUYGfU0A?is=tPu2ShlXl5DMBbn8)
+
 - 2026-10-29 10:11 - Dave Farley - 2026-10-21 20:00
   Executable Specifications for Reliable AI-Generated Code
   tags: ai, development
