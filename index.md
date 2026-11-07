@@ -6,6 +6,13 @@ permalink: sol/prj/hiqsol/library/index
 
 # Index
 
+- 2026-11-07 18:49 - exit node - 2026-11-03 10:45
+  A Home Lab as a Practical Learning Environment for Software Engineers
+  tags: ai, development, technology
+  [article](articles/exit-node/2026-11-03-home-lab-career-learning.md) |
+  [summary](summary/exit-node/2026-11-03-home-lab-career-learning.md) |
+  [source](https://youtu.be/Up6IUTk04Vw?is=y0u63l1YJW61jAPl)
+
 - 2026-11-07 16:11 - The Coding Gopher - 2026-11-06 17:30
   How Computer Science Students Can Build Engineering Skill Beyond Coursework
   tags: ai, development
