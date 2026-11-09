@@ -6,6 +6,13 @@ permalink: sol/prj/hiqsol/library/index
 
 # Index
 
+- 2026-11-09 07:47 - Nate B Jones - 2026-11-08 18:00
+  AI Data Center Backlash May Redirect, Not End, the Compute Boom
+  tags: ai, politics, technology
+  [article](articles/nate-b-jones/2026-11-08-ai-data-center-backlash.md) |
+  [summary](summary/nate-b-jones/2026-11-08-ai-data-center-backlash.md) |
+  [source](https://youtu.be/illf65HD_t4?is=pezLY-eVJjC-Uogf)
+
 - 2026-11-07 18:49 - exit node - 2026-11-03 10:45
   A Home Lab as a Practical Learning Environment for Software Engineers
   tags: ai, development, technology
