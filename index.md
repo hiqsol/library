@@ -6,6 +6,13 @@ permalink: sol/prj/hiqsol/library/index
 
 # Index
 
+- 2026-11-09 17:22 - Better Stack - 2026-11-08 00:19
+  What OPAL Shows About Agent-Adapted Optimizers and Overfitting
+  tags: ai, development, technology
+  [article](articles/better-stack/2026-11-08-opal-reactive-optimizers.md) |
+  [summary](summary/better-stack/2026-11-08-opal-reactive-optimizers.md) |
+  [source](https://youtu.be/0acRokoODvo?is=bQiyhgVyM5fUU7IO)
+
 - 2026-11-09 07:47 - Nate B Jones - 2026-11-08 18:00
   AI Data Center Backlash May Redirect, Not End, the Compute Boom
   tags: ai, politics, technology

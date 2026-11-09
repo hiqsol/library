@@ -1,0 +1,1864 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:00.000 --> 00:00:01.750 align:start position:0%
+ 
+Folks,<00:00:00.720><c> check</c><00:00:01.000><c> this</c><00:00:01.240><c> out.</c><00:00:01.480><c> What</c><00:00:01.640><c> you're</c>
+
+00:00:01.750 --> 00:00:01.760 align:start position:0%
+Folks, check this out. What you're
+ 
+
+00:00:01.760 --> 00:00:03.950 align:start position:0%
+Folks, check this out. What you're
+looking<00:00:02.080><c> at</c><00:00:02.240><c> right</c><00:00:02.480><c> now</c><00:00:02.800><c> is</c><00:00:03.080><c> two</c><00:00:03.320><c> copies</c><00:00:03.800><c> of</c>
+
+00:00:03.950 --> 00:00:03.960 align:start position:0%
+looking at right now is two copies of
+ 
+
+00:00:03.960 --> 00:00:06.630 align:start position:0%
+looking at right now is two copies of
+the<00:00:04.080><c> exact</c><00:00:04.560><c> same</c><00:00:04.920><c> AI</c><00:00:05.200><c> model</c><00:00:05.800><c> being</c><00:00:06.040><c> trained</c><00:00:06.480><c> at</c>
+
+00:00:06.630 --> 00:00:06.640 align:start position:0%
+the exact same AI model being trained at
+ 
+
+00:00:06.640 --> 00:00:09.390 align:start position:0%
+the exact same AI model being trained at
+the<00:00:06.760><c> same</c><00:00:07.080><c> time</c><00:00:07.720><c> on</c><00:00:07.920><c> the</c><00:00:08.040><c> exact</c><00:00:08.480><c> same</c><00:00:08.800><c> images,</c>
+
+00:00:09.390 --> 00:00:09.400 align:start position:0%
+the same time on the exact same images,
+ 
+
+00:00:09.400 --> 00:00:12.030 align:start position:0%
+the same time on the exact same images,
+and<00:00:09.560><c> I</c><00:00:09.640><c> deliberately</c><00:00:10.400><c> sabotage</c><00:00:11.160><c> those</c><00:00:11.440><c> images</c>
+
+00:00:12.030 --> 00:00:12.040 align:start position:0%
+and I deliberately sabotage those images
+ 
+
+00:00:12.040 --> 00:00:14.590 align:start position:0%
+and I deliberately sabotage those images
+so<00:00:12.160><c> that</c><00:00:12.400><c> one</c><00:00:12.720><c> out</c><00:00:12.920><c> of</c><00:00:13.160><c> every</c><00:00:13.520><c> 10</c><00:00:13.880><c> of</c><00:00:14.000><c> them</c><00:00:14.320><c> has</c>
+
+00:00:14.590 --> 00:00:14.600 align:start position:0%
+so that one out of every 10 of them has
+ 
+
+00:00:14.600 --> 00:00:16.710 align:start position:0%
+so that one out of every 10 of them has
+the<00:00:14.720><c> wrong</c><00:00:15.120><c> label</c><00:00:15.560><c> on</c><00:00:15.760><c> it.</c><00:00:15.880><c> The</c><00:00:16.000><c> orange</c><00:00:16.400><c> line</c>
+
+00:00:16.710 --> 00:00:16.720 align:start position:0%
+the wrong label on it. The orange line
+ 
+
+00:00:16.720 --> 00:00:18.550 align:start position:0%
+the wrong label on it. The orange line
+is<00:00:16.920><c> the</c><00:00:17.000><c> model</c><00:00:17.400><c> being</c><00:00:17.640><c> trained</c><00:00:18.040><c> the</c><00:00:18.160><c> normal</c>
+
+00:00:18.550 --> 00:00:18.560 align:start position:0%
+is the model being trained the normal
+ 
+
+00:00:18.560 --> 00:00:21.070 align:start position:0%
+is the model being trained the normal
+way<00:00:19.000><c> using</c><00:00:19.280><c> a</c><00:00:19.360><c> fixed</c><00:00:19.840><c> optimizer</c><00:00:20.600><c> that</c><00:00:20.800><c> never</c>
+
+00:00:21.070 --> 00:00:21.080 align:start position:0%
+way using a fixed optimizer that never
+ 
+
+00:00:21.080 --> 00:00:23.670 align:start position:0%
+way using a fixed optimizer that never
+changes.<00:00:21.760><c> The</c><00:00:21.880><c> blue</c><00:00:22.160><c> line</c><00:00:22.520><c> is</c><00:00:22.720><c> the</c><00:00:22.840><c> same</c><00:00:23.160><c> model</c>
+
+00:00:23.670 --> 00:00:23.680 align:start position:0%
+changes. The blue line is the same model
+ 
+
+00:00:23.680 --> 00:00:25.990 align:start position:0%
+changes. The blue line is the same model
+except<00:00:24.080><c> that</c><00:00:24.320><c> every</c><00:00:24.680><c> so</c><00:00:24.920><c> often</c><00:00:25.360><c> the</c><00:00:25.480><c> training</c>
+
+00:00:25.990 --> 00:00:26.000 align:start position:0%
+except that every so often the training
+ 
+
+00:00:26.000 --> 00:00:28.430 align:start position:0%
+except that every so often the training
+pauses,<00:00:26.640><c> Claude</c><00:00:27.320><c> looks</c><00:00:27.600><c> at</c><00:00:27.760><c> how</c><00:00:27.960><c> things</c><00:00:28.320><c> are</c>
+
+00:00:28.430 --> 00:00:28.440 align:start position:0%
+pauses, Claude looks at how things are
+ 
+
+00:00:28.440 --> 00:00:30.670 align:start position:0%
+pauses, Claude looks at how things are
+going,<00:00:29.000><c> and</c><00:00:29.120><c> then</c><00:00:29.240><c> it</c><00:00:29.440><c> rewrites</c><00:00:30.040><c> the</c><00:00:30.080><c> code</c><00:00:30.520><c> of</c>
+
+00:00:30.670 --> 00:00:30.680 align:start position:0%
+going, and then it rewrites the code of
+ 
+
+00:00:30.680 --> 00:00:32.510 align:start position:0%
+going, and then it rewrites the code of
+the<00:00:30.760><c> training</c><00:00:31.240><c> algorithm</c><00:00:31.720><c> itself.</c><00:00:32.279><c> And</c><00:00:32.400><c> by</c>
+
+00:00:32.510 --> 00:00:32.520 align:start position:0%
+the training algorithm itself. And by
+ 
+
+00:00:32.520 --> 00:00:34.150 align:start position:0%
+the training algorithm itself. And by
+the<00:00:32.680><c> end</c><00:00:32.840><c> of</c><00:00:32.920><c> the</c><00:00:33.040><c> run,</c><00:00:33.400><c> the</c><00:00:33.520><c> difference</c><00:00:33.960><c> was</c>
+
+00:00:34.150 --> 00:00:34.160 align:start position:0%
+the end of the run, the difference was
+ 
+
+00:00:34.160 --> 00:00:36.350 align:start position:0%
+the end of the run, the difference was
+pretty<00:00:34.600><c> wild.</c><00:00:35.200><c> The</c><00:00:35.320><c> orange</c><00:00:35.720><c> model</c><00:00:36.120><c> had</c>
+
+00:00:36.350 --> 00:00:36.360 align:start position:0%
+pretty wild. The orange model had
+ 
+
+00:00:36.360 --> 00:00:39.070 align:start position:0%
+pretty wild. The orange model had
+memorized<00:00:37.080><c> all</c><00:00:37.360><c> of</c><00:00:37.440><c> the</c><00:00:37.560><c> 4,500</c>
+
+00:00:39.070 --> 00:00:39.080 align:start position:0%
+memorized all of the 4,500
+ 
+
+00:00:39.080 --> 00:00:41.110 align:start position:0%
+memorized all of the 4,500
+wrong<00:00:39.360><c> labels.</c><00:00:39.880><c> So,</c><00:00:40.040><c> if</c><00:00:40.200><c> I</c><00:00:40.280><c> show</c><00:00:40.560><c> the</c><00:00:40.680><c> picture</c>
+
+00:00:41.110 --> 00:00:41.120 align:start position:0%
+wrong labels. So, if I show the picture
+ 
+
+00:00:41.120 --> 00:00:43.470 align:start position:0%
+wrong labels. So, if I show the picture
+of<00:00:41.240><c> a</c><00:00:41.320><c> cat</c><00:00:41.840><c> that</c><00:00:42.000><c> it</c><00:00:42.160><c> had</c><00:00:42.400><c> labeled</c><00:00:42.760><c> as</c><00:00:42.880><c> a</c><00:00:42.960><c> truck,</c>
+
+00:00:43.470 --> 00:00:43.480 align:start position:0%
+of a cat that it had labeled as a truck,
+ 
+
+00:00:43.480 --> 00:00:45.550 align:start position:0%
+of a cat that it had labeled as a truck,
+it<00:00:43.600><c> would</c><00:00:43.760><c> confidently</c><00:00:44.520><c> tell</c><00:00:44.840><c> me</c><00:00:45.040><c> that</c><00:00:45.360><c> it's</c><00:00:45.520><c> a</c>
+
+00:00:45.550 --> 00:00:45.560 align:start position:0%
+it would confidently tell me that it's a
+ 
+
+00:00:45.560 --> 00:00:47.750 align:start position:0%
+it would confidently tell me that it's a
+truck.<00:00:46.080><c> The</c><00:00:46.160><c> blue</c><00:00:46.360><c> model,</c><00:00:46.680><c> however,</c><00:00:47.280><c> repeated</c>
+
+00:00:47.750 --> 00:00:47.760 align:start position:0%
+truck. The blue model, however, repeated
+ 
+
+00:00:47.760 --> 00:00:50.710 align:start position:0%
+truck. The blue model, however, repeated
+only<00:00:48.080><c> 250</c><00:00:49.160><c> of</c><00:00:49.280><c> them,</c><00:00:49.640><c> and</c><00:00:49.800><c> Claude</c><00:00:50.280><c> was</c><00:00:50.440><c> never</c>
+
+00:00:50.710 --> 00:00:50.720 align:start position:0%
+only 250 of them, and Claude was never
+ 
+
+00:00:50.720 --> 00:00:52.910 align:start position:0%
+only 250 of them, and Claude was never
+told<00:00:51.280><c> that</c><00:00:51.440><c> any</c><00:00:51.680><c> labels</c><00:00:52.160><c> were</c><00:00:52.320><c> wrong.</c><00:00:52.760><c> It</c>
+
+00:00:52.910 --> 00:00:52.920 align:start position:0%
+told that any labels were wrong. It
+ 
+
+00:00:52.920 --> 00:00:55.350 align:start position:0%
+told that any labels were wrong. It
+worked<00:00:53.240><c> out</c><00:00:53.440><c> how</c><00:00:53.640><c> to</c><00:00:53.920><c> avoid</c><00:00:54.320><c> memorizing</c><00:00:55.000><c> them</c>
+
+00:00:55.350 --> 00:00:55.360 align:start position:0%
+worked out how to avoid memorizing them
+ 
+
+00:00:55.360 --> 00:00:57.790 align:start position:0%
+worked out how to avoid memorizing them
+on<00:00:55.520><c> its</c><00:00:55.720><c> own.</c><00:00:56.240><c> So,</c><00:00:56.400><c> what</c><00:00:56.560><c> exactly</c><00:00:57.080><c> is</c><00:00:57.240><c> going</c><00:00:57.600><c> on</c>
+
+00:00:57.790 --> 00:00:57.800 align:start position:0%
+on its own. So, what exactly is going on
+ 
+
+00:00:57.800 --> 00:00:59.630 align:start position:0%
+on its own. So, what exactly is going on
+here?<00:00:58.120><c> Well,</c><00:00:58.280><c> this</c><00:00:58.440><c> is</c><00:00:58.560><c> a</c><00:00:58.600><c> brand</c><00:00:59.000><c> new</c><00:00:59.200><c> research</c>
+
+00:00:59.630 --> 00:00:59.640 align:start position:0%
+here? Well, this is a brand new research
+ 
+
+00:00:59.640 --> 00:01:01.870 align:start position:0%
+here? Well, this is a brand new research
+project<00:01:00.280><c> called</c><00:01:00.520><c> Opal,</c><00:01:01.120><c> and</c><00:01:01.240><c> it</c><00:01:01.320><c> comes</c><00:01:01.640><c> from</c><00:01:01.840><c> a</c>
+
+00:01:01.870 --> 00:01:01.880 align:start position:0%
+project called Opal, and it comes from a
+ 
+
+00:01:01.880 --> 00:01:04.470 align:start position:0%
+project called Opal, and it comes from a
+paper<00:01:02.320><c> called</c><00:01:02.680><c> Reactive</c><00:01:03.280><c> Optimizers.</c><00:01:04.199><c> So,</c><00:01:04.360><c> in</c>
+
+00:01:04.470 --> 00:01:04.480 align:start position:0%
+paper called Reactive Optimizers. So, in
+ 
+
+00:01:04.480 --> 00:01:06.030 align:start position:0%
+paper called Reactive Optimizers. So, in
+today's<00:01:04.839><c> video,</c><00:01:05.360><c> we're</c><00:01:05.519><c> going</c><00:01:05.640><c> to</c><00:01:05.760><c> take</c><00:01:06.000><c> a</c>
+
+00:01:06.030 --> 00:01:06.040 align:start position:0%
+today's video, we're going to take a
+ 
+
+00:01:06.040 --> 00:01:08.030 align:start position:0%
+today's video, we're going to take a
+look<00:01:06.240><c> at</c><00:01:06.440><c> Opal,</c><00:01:07.000><c> see</c><00:01:07.280><c> how</c><00:01:07.520><c> reactive</c>
+
+00:01:08.030 --> 00:01:08.040 align:start position:0%
+look at Opal, see how reactive
+ 
+
+00:01:08.040 --> 00:01:09.990 align:start position:0%
+look at Opal, see how reactive
+optimizers<00:01:08.760><c> work,</c><00:01:09.200><c> and</c><00:01:09.320><c> then</c><00:01:09.520><c> we're</c><00:01:09.680><c> also</c>
+
+00:01:09.990 --> 00:01:10.000 align:start position:0%
+optimizers work, and then we're also
+ 
+
+00:01:10.000 --> 00:01:11.590 align:start position:0%
+optimizers work, and then we're also
+going<00:01:10.120><c> to</c><00:01:10.280><c> rerun</c><00:01:10.840><c> one</c><00:01:11.000><c> of</c><00:01:11.080><c> the</c><00:01:11.200><c> paper's</c>
+
+00:01:11.590 --> 00:01:11.600 align:start position:0%
+going to rerun one of the paper's
+ 
+
+00:01:11.600 --> 00:01:15.030 align:start position:0%
+going to rerun one of the paper's
+experiments<00:01:12.240><c> ourselves</c><00:01:13.040><c> on</c><00:01:13.200><c> an</c><00:01:13.400><c> H100</c><00:01:14.160><c> GPU</c><00:01:14.920><c> so</c>
+
+00:01:15.030 --> 00:01:15.040 align:start position:0%
+experiments ourselves on an H100 GPU so
+ 
+
+00:01:15.040 --> 00:01:17.030 align:start position:0%
+experiments ourselves on an H100 GPU so
+we<00:01:15.160><c> can</c><00:01:15.360><c> find</c><00:01:15.680><c> out</c><00:01:15.920><c> if</c><00:01:16.080><c> this</c><00:01:16.280><c> training</c><00:01:16.640><c> method</c>
+
+00:01:17.030 --> 00:01:17.040 align:start position:0%
+we can find out if this training method
+ 
+
+00:01:17.040 --> 00:01:19.270 align:start position:0%
+we can find out if this training method
+is<00:01:17.240><c> indeed</c><00:01:17.680><c> better</c><00:01:18.040><c> than</c><00:01:18.320><c> classical</c><00:01:18.880><c> static</c>
+
+00:01:19.270 --> 00:01:19.280 align:start position:0%
+is indeed better than classical static
+ 
+
+00:01:19.280 --> 00:01:20.910 align:start position:0%
+is indeed better than classical static
+optimizers.<00:01:20.040><c> It's</c><00:01:20.200><c> going</c><00:01:20.320><c> to</c><00:01:20.400><c> be</c><00:01:20.520><c> a</c><00:01:20.560><c> lot</c><00:01:20.800><c> of</c>
+
+00:01:20.910 --> 00:01:20.920 align:start position:0%
+optimizers. It's going to be a lot of
+ 
+
+00:01:20.920 --> 00:01:26.590 align:start position:0%
+optimizers. It's going to be a lot of
+fun,<00:01:21.320><c> so</c><00:01:21.480><c> let's</c><00:01:21.720><c> dive</c><00:01:22.000><c> into</c><00:01:22.280><c> it.</c>
+
+00:01:26.590 --> 00:01:26.600 align:start position:0%
+ 
+ 
+
+00:01:26.600 --> 00:01:28.710 align:start position:0%
+ 
+So,<00:01:26.760><c> first</c><00:01:27.160><c> a</c><00:01:27.240><c> quick</c><00:01:27.560><c> bit</c><00:01:27.720><c> of</c><00:01:27.840><c> context</c><00:01:28.400><c> about</c>
+
+00:01:28.710 --> 00:01:28.720 align:start position:0%
+So, first a quick bit of context about
+ 
+
+00:01:28.720 --> 00:01:30.910 align:start position:0%
+So, first a quick bit of context about
+AI<00:01:28.960><c> training.</c><00:01:29.560><c> In</c><00:01:29.680><c> a</c><00:01:29.720><c> normal</c><00:01:30.200><c> AI</c><00:01:30.440><c> training</c>
+
+00:01:30.910 --> 00:01:30.920 align:start position:0%
+AI training. In a normal AI training
+ 
+
+00:01:30.920 --> 00:01:33.230 align:start position:0%
+AI training. In a normal AI training
+run,<00:01:31.360><c> you</c><00:01:31.520><c> run</c><00:01:31.800><c> an</c><00:01:32.040><c> optimizer,</c><00:01:32.800><c> which</c><00:01:33.040><c> is</c><00:01:33.120><c> the</c>
+
+00:01:33.230 --> 00:01:33.240 align:start position:0%
+run, you run an optimizer, which is the
+ 
+
+00:01:33.240 --> 00:01:35.070 align:start position:0%
+run, you run an optimizer, which is the
+part<00:01:33.480><c> of</c><00:01:33.560><c> the</c><00:01:33.680><c> code</c><00:01:34.000><c> that</c><00:01:34.120><c> decides</c><00:01:34.720><c> how</c><00:01:34.920><c> the</c>
+
+00:01:35.070 --> 00:01:35.080 align:start position:0%
+part of the code that decides how the
+ 
+
+00:01:35.080 --> 00:01:37.390 align:start position:0%
+part of the code that decides how the
+weights<00:01:35.440><c> get</c><00:01:35.680><c> updated</c><00:01:36.240><c> after</c><00:01:36.640><c> each</c><00:01:36.920><c> batch.</c>
+
+00:01:37.390 --> 00:01:37.400 align:start position:0%
+weights get updated after each batch.
+ 
+
+00:01:37.400 --> 00:01:39.390 align:start position:0%
+weights get updated after each batch.
+So,<00:01:37.600><c> it</c><00:01:37.720><c> picks</c><00:01:38.040><c> whichever</c><00:01:38.520><c> direction</c><00:01:39.200><c> they</c>
+
+00:01:39.390 --> 00:01:39.400 align:start position:0%
+So, it picks whichever direction they
+ 
+
+00:01:39.400 --> 00:01:41.950 align:start position:0%
+So, it picks whichever direction they
+move<00:01:39.760><c> in</c><00:01:40.040><c> and</c><00:01:40.200><c> how</c><00:01:40.480><c> big</c><00:01:40.840><c> each</c><00:01:41.080><c> step</c><00:01:41.400><c> should</c><00:01:41.640><c> be.</c>
+
+00:01:41.950 --> 00:01:41.960 align:start position:0%
+move in and how big each step should be.
+ 
+
+00:01:41.960 --> 00:01:44.190 align:start position:0%
+move in and how big each step should be.
+Now,<00:01:42.160><c> normally</c><00:01:42.720><c> you</c><00:01:42.920><c> pick</c><00:01:43.200><c> the</c><00:01:43.400><c> optimizer,</c>
+
+00:01:44.190 --> 00:01:44.200 align:start position:0%
+Now, normally you pick the optimizer,
+ 
+
+00:01:44.200 --> 00:01:46.110 align:start position:0%
+Now, normally you pick the optimizer,
+the<00:01:44.320><c> learning</c><00:01:44.720><c> rate</c><00:01:44.960><c> schedule,</c><00:01:45.560><c> and</c><00:01:45.760><c> the</c><00:01:45.840><c> rest</c>
+
+00:01:46.110 --> 00:01:46.120 align:start position:0%
+the learning rate schedule, and the rest
+ 
+
+00:01:46.120 --> 00:01:48.390 align:start position:0%
+the learning rate schedule, and the rest
+of<00:01:46.200><c> the</c><00:01:46.320><c> hyper</c><00:01:46.760><c> parameters</c><00:01:47.560><c> before</c><00:01:48.000><c> the</c><00:01:48.120><c> run</c>
+
+00:01:48.390 --> 00:01:48.400 align:start position:0%
+of the hyper parameters before the run
+ 
+
+00:01:48.400 --> 00:01:50.590 align:start position:0%
+of the hyper parameters before the run
+starts,<00:01:49.040><c> and</c><00:01:49.160><c> then</c><00:01:49.320><c> they</c><00:01:49.480><c> stay</c><00:01:49.760><c> fixed</c><00:01:50.280><c> until</c>
+
+00:01:50.590 --> 00:01:50.600 align:start position:0%
+starts, and then they stay fixed until
+ 
+
+00:01:50.600 --> 00:01:52.470 align:start position:0%
+starts, and then they stay fixed until
+it<00:01:50.800><c> ends.</c><00:01:51.280><c> But,</c><00:01:51.480><c> if</c><00:01:51.600><c> the</c><00:01:51.720><c> model</c><00:01:52.080><c> starts</c>
+
+00:01:52.470 --> 00:01:52.480 align:start position:0%
+it ends. But, if the model starts
+ 
+
+00:01:52.480 --> 00:01:55.150 align:start position:0%
+it ends. But, if the model starts
+overfitting<00:01:53.440><c> or</c><00:01:53.680><c> the</c><00:01:53.840><c> loss</c><00:01:54.240><c> spikes</c><00:01:54.720><c> halfway</c>
+
+00:01:55.150 --> 00:01:55.160 align:start position:0%
+overfitting or the loss spikes halfway
+ 
+
+00:01:55.160 --> 00:01:57.310 align:start position:0%
+overfitting or the loss spikes halfway
+through,<00:01:55.680><c> the</c><00:01:55.800><c> optimizer</c><00:01:56.440><c> has</c><00:01:56.680><c> no</c><00:01:56.920><c> way</c><00:01:57.120><c> to</c>
+
+00:01:57.310 --> 00:01:57.320 align:start position:0%
+through, the optimizer has no way to
+ 
+
+00:01:57.320 --> 00:01:59.350 align:start position:0%
+through, the optimizer has no way to
+react,<00:01:57.960><c> and</c><00:01:58.120><c> it</c><00:01:58.240><c> just</c><00:01:58.480><c> keeps</c><00:01:58.800><c> following</c><00:01:59.240><c> the</c>
+
+00:01:59.350 --> 00:01:59.360 align:start position:0%
+react, and it just keeps following the
+ 
+
+00:01:59.360 --> 00:02:01.602 align:start position:0%
+react, and it just keeps following the
+same<00:01:59.680><c> recipe.</c><00:02:00.212><c> And</c><00:02:00.332><c> the</c><00:02:00.452><c> idea</c><00:02:00.732><c> behind</c><00:02:01.092><c> Opal</c><00:02:01.452><c> is</c>
+
+00:02:01.602 --> 00:02:01.612 align:start position:0%
+same recipe. And the idea behind Opal is
+ 
+
+00:02:01.612 --> 00:02:03.322 align:start position:0%
+same recipe. And the idea behind Opal is
+to<00:02:01.732><c> solve</c><00:02:02.052><c> this</c><00:02:02.212><c> problem</c><00:02:02.612><c> by</c><00:02:02.812><c> putting</c><00:02:03.212><c> a</c>
+
+00:02:03.322 --> 00:02:03.332 align:start position:0%
+to solve this problem by putting a
+ 
+
+00:02:03.332 --> 00:02:05.922 align:start position:0%
+to solve this problem by putting a
+coding<00:02:03.852><c> agent</c><00:02:04.292><c> inside</c><00:02:04.852><c> of</c><00:02:05.012><c> the</c><00:02:05.132><c> training</c><00:02:05.612><c> run.</c>
+
+00:02:05.922 --> 00:02:05.932 align:start position:0%
+coding agent inside of the training run.
+ 
+
+00:02:05.932 --> 00:02:08.002 align:start position:0%
+coding agent inside of the training run.
+It's<00:02:06.092><c> a</c><00:02:06.132><c> PyTorch</c><00:02:06.772><c> library</c><00:02:07.252><c> that</c><00:02:07.492><c> wraps</c><00:02:07.812><c> your</c>
+
+00:02:08.002 --> 00:02:08.012 align:start position:0%
+It's a PyTorch library that wraps your
+ 
+
+00:02:08.012 --> 00:02:10.362 align:start position:0%
+It's a PyTorch library that wraps your
+existing<00:02:08.572><c> optimizer,</c><00:02:09.292><c> and</c><00:02:09.492><c> every</c><00:02:09.732><c> so</c><00:02:09.972><c> often</c>
+
+00:02:10.362 --> 00:02:10.372 align:start position:0%
+existing optimizer, and every so often
+ 
+
+00:02:10.372 --> 00:02:12.722 align:start position:0%
+existing optimizer, and every so often
+it<00:02:10.532><c> pauses</c><00:02:10.972><c> the</c><00:02:11.092><c> training,</c><00:02:11.732><c> hands</c><00:02:12.052><c> the</c><00:02:12.292><c> agent</c>
+
+00:02:12.722 --> 00:02:12.732 align:start position:0%
+it pauses the training, hands the agent
+ 
+
+00:02:12.732 --> 00:02:14.642 align:start position:0%
+it pauses the training, hands the agent
+a<00:02:12.812><c> report,</c><00:02:13.372><c> and</c><00:02:13.492><c> lets</c><00:02:13.732><c> it</c><00:02:13.932><c> rewrite</c><00:02:14.452><c> the</c>
+
+00:02:14.642 --> 00:02:14.652 align:start position:0%
+a report, and lets it rewrite the
+ 
+
+00:02:14.652 --> 00:02:16.842 align:start position:0%
+a report, and lets it rewrite the
+optimizer's<00:02:15.412><c> code.</c><00:02:15.812><c> But,</c><00:02:15.932><c> the</c><00:02:16.132><c> agent</c><00:02:16.532><c> is</c><00:02:16.692><c> not</c>
+
+00:02:16.842 --> 00:02:16.852 align:start position:0%
+optimizer's code. But, the agent is not
+ 
+
+00:02:16.852 --> 00:02:18.842 align:start position:0%
+optimizer's code. But, the agent is not
+allowed<00:02:17.172><c> to</c><00:02:17.252><c> touch</c><00:02:17.492><c> your</c><00:02:17.652><c> model,</c><00:02:18.172><c> your</c><00:02:18.372><c> data,</c>
+
+00:02:18.842 --> 00:02:18.852 align:start position:0%
+allowed to touch your model, your data,
+ 
+
+00:02:18.852 --> 00:02:20.802 align:start position:0%
+allowed to touch your model, your data,
+or<00:02:19.092><c> your</c><00:02:19.372><c> evaluation.</c><00:02:20.252><c> In</c><00:02:20.332><c> the</c><00:02:20.452><c> research</c>
+
+00:02:20.802 --> 00:02:20.812 align:start position:0%
+or your evaluation. In the research
+ 
+
+00:02:20.812 --> 00:02:22.762 align:start position:0%
+or your evaluation. In the research
+paper,<00:02:21.172><c> one</c><00:02:21.492><c> image</c><00:02:21.852><c> generation</c><00:02:22.372><c> model</c>
+
+00:02:22.762 --> 00:02:22.772 align:start position:0%
+paper, one image generation model
+ 
+
+00:02:22.772 --> 00:02:26.202 align:start position:0%
+paper, one image generation model
+improved<00:02:23.372><c> its</c><00:02:23.692><c> FID</c><00:02:24.372><c> score</c><00:02:24.812><c> from</c><00:02:25.052><c> about</c><00:02:25.372><c> 36</c><00:02:26.092><c> to</c>
+
+00:02:26.202 --> 00:02:26.212 align:start position:0%
+improved its FID score from about 36 to
+ 
+
+00:02:26.212 --> 00:02:28.762 align:start position:0%
+improved its FID score from about 36 to
+about<00:02:26.532><c> 24.</c><00:02:27.372><c> FID</c><00:02:27.812><c> measures</c><00:02:28.172><c> how</c><00:02:28.332><c> far</c><00:02:28.652><c> the</c>
+
+00:02:28.762 --> 00:02:28.772 align:start position:0%
+about 24. FID measures how far the
+ 
+
+00:02:28.772 --> 00:02:30.962 align:start position:0%
+about 24. FID measures how far the
+generated<00:02:29.332><c> images</c><00:02:29.732><c> are</c><00:02:29.892><c> statistically</c><00:02:30.732><c> from</c>
+
+00:02:30.962 --> 00:02:30.972 align:start position:0%
+generated images are statistically from
+ 
+
+00:02:30.972 --> 00:02:33.042 align:start position:0%
+generated images are statistically from
+a<00:02:31.012><c> large</c><00:02:31.412><c> set</c><00:02:31.652><c> of</c><00:02:31.812><c> real</c><00:02:32.092><c> images.</c><00:02:32.732><c> So,</c><00:02:32.932><c> the</c>
+
+00:02:33.042 --> 00:02:33.052 align:start position:0%
+a large set of real images. So, the
+ 
+
+00:02:33.052 --> 00:02:35.002 align:start position:0%
+a large set of real images. So, the
+lower<00:02:33.372><c> the</c><00:02:33.492><c> score,</c><00:02:33.932><c> the</c><00:02:34.052><c> closer</c><00:02:34.412><c> the</c><00:02:34.532><c> model's</c>
+
+00:02:35.002 --> 00:02:35.012 align:start position:0%
+lower the score, the closer the model's
+ 
+
+00:02:35.012 --> 00:02:36.762 align:start position:0%
+lower the score, the closer the model's
+output<00:02:35.452><c> is</c><00:02:35.652><c> to</c><00:02:35.732><c> the</c><00:02:35.852><c> real</c><00:02:36.092><c> thing.</c><00:02:36.572><c> But,</c><00:02:36.692><c> it</c>
+
+00:02:36.762 --> 00:02:36.772 align:start position:0%
+output is to the real thing. But, it
+ 
+
+00:02:36.772 --> 00:02:38.922 align:start position:0%
+output is to the real thing. But, it
+doesn't<00:02:37.092><c> always</c><00:02:37.492><c> work,</c><00:02:37.812><c> though.</c><00:02:38.132><c> On</c><00:02:38.372><c> recipes</c>
+
+00:02:38.922 --> 00:02:38.932 align:start position:0%
+doesn't always work, though. On recipes
+ 
+
+00:02:38.932 --> 00:02:40.962 align:start position:0%
+doesn't always work, though. On recipes
+that<00:02:39.092><c> are</c><00:02:39.252><c> already</c><00:02:39.772><c> heavily</c><00:02:40.252><c> tuned,</c><00:02:40.852><c> the</c>
+
+00:02:40.962 --> 00:02:40.972 align:start position:0%
+that are already heavily tuned, the
+ 
+
+00:02:40.972 --> 00:02:43.322 align:start position:0%
+that are already heavily tuned, the
+gains<00:02:41.332><c> are</c><00:02:41.532><c> really</c><00:02:41.892><c> small.</c><00:02:42.452><c> But,</c><00:02:42.652><c> I</c><00:02:42.812><c> wanted</c><00:02:43.172><c> to</c>
+
+00:02:43.322 --> 00:02:43.332 align:start position:0%
+gains are really small. But, I wanted to
+ 
+
+00:02:43.332 --> 00:02:45.402 align:start position:0%
+gains are really small. But, I wanted to
+rerun<00:02:43.812><c> one</c><00:02:43.972><c> of</c><00:02:44.052><c> these</c><00:02:44.252><c> experiments</c><00:02:44.772><c> myself</c><00:02:45.292><c> to</c>
+
+00:02:45.402 --> 00:02:45.412 align:start position:0%
+rerun one of these experiments myself to
+ 
+
+00:02:45.412 --> 00:02:47.562 align:start position:0%
+rerun one of these experiments myself to
+see<00:02:45.732><c> if</c><00:02:46.012><c> this</c><00:02:46.212><c> thing</c><00:02:46.452><c> actually</c><00:02:46.812><c> works.</c><00:02:47.252><c> So,</c><00:02:47.492><c> I</c>
+
+00:02:47.562 --> 00:02:47.572 align:start position:0%
+see if this thing actually works. So, I
+ 
+
+00:02:47.572 --> 00:02:49.162 align:start position:0%
+see if this thing actually works. So, I
+picked<00:02:47.852><c> the</c><00:02:47.972><c> one</c><00:02:48.172><c> experiment</c><00:02:48.812><c> about</c>
+
+00:02:49.162 --> 00:02:49.172 align:start position:0%
+picked the one experiment about
+ 
+
+00:02:49.172 --> 00:02:51.242 align:start position:0%
+picked the one experiment about
+overfitting.<00:02:49.892><c> Overfitting</c><00:02:50.372><c> is</c><00:02:50.572><c> what</c><00:02:50.732><c> happens</c>
+
+00:02:51.242 --> 00:02:51.252 align:start position:0%
+overfitting. Overfitting is what happens
+ 
+
+00:02:51.252 --> 00:02:53.162 align:start position:0%
+overfitting. Overfitting is what happens
+when<00:02:51.412><c> a</c><00:02:51.452><c> model</c><00:02:51.852><c> stops</c><00:02:52.252><c> learning</c><00:02:52.612><c> the</c><00:02:52.732><c> general</c>
+
+00:02:53.162 --> 00:02:53.172 align:start position:0%
+when a model stops learning the general
+ 
+
+00:02:53.172 --> 00:02:55.162 align:start position:0%
+when a model stops learning the general
+pattern<00:02:53.732><c> and</c><00:02:53.932><c> starts</c><00:02:54.252><c> memorizing</c><00:02:54.972><c> its</c>
+
+00:02:55.162 --> 00:02:55.172 align:start position:0%
+pattern and starts memorizing its
+ 
+
+00:02:55.172 --> 00:02:57.882 align:start position:0%
+pattern and starts memorizing its
+training<00:02:55.652><c> data</c><00:02:56.012><c> instead.</c><00:02:57.052><c> the</c><00:02:57.172><c> experiment,</c>
+
+00:02:57.882 --> 00:02:57.892 align:start position:0%
+training data instead. the experiment,
+ 
+
+00:02:57.892 --> 00:02:59.762 align:start position:0%
+training data instead. the experiment,
+and<00:02:58.132><c> all</c><00:02:58.332><c> of</c><00:02:58.412><c> the</c><00:02:58.492><c> credit</c><00:02:58.892><c> goes</c><00:02:59.332><c> to</c><00:02:59.532><c> the</c>
+
+00:02:59.762 --> 00:02:59.772 align:start position:0%
+and all of the credit goes to the
+ 
+
+00:02:59.772 --> 00:03:01.602 align:start position:0%
+and all of the credit goes to the
+paper's<00:03:00.252><c> authors.</c><00:03:00.812><c> So,</c><00:03:00.972><c> what</c><00:03:01.132><c> we're</c><00:03:01.252><c> doing</c>
+
+00:03:01.602 --> 00:03:01.612 align:start position:0%
+paper's authors. So, what we're doing
+ 
+
+00:03:01.612 --> 00:03:03.602 align:start position:0%
+paper's authors. So, what we're doing
+here<00:03:01.932><c> is</c><00:03:02.132><c> using</c><00:03:02.412><c> a</c><00:03:02.492><c> well-known</c><00:03:03.052><c> data</c><00:03:03.292><c> set</c><00:03:03.492><c> of</c>
+
+00:03:03.602 --> 00:03:03.612 align:start position:0%
+here is using a well-known data set of
+ 
+
+00:03:03.612 --> 00:03:06.362 align:start position:0%
+here is using a well-known data set of
+tiny<00:03:04.012><c> images</c><00:03:04.532><c> in</c><00:03:04.692><c> 10</c><00:03:04.932><c> categories</c><00:03:05.732><c> like</c><00:03:05.972><c> cats,</c>
+
+00:03:06.362 --> 00:03:06.372 align:start position:0%
+tiny images in 10 categories like cats,
+ 
+
+00:03:06.372 --> 00:03:08.282 align:start position:0%
+tiny images in 10 categories like cats,
+dogs,<00:03:06.892><c> planes,</c><00:03:07.412><c> and</c><00:03:07.532><c> trucks,</c><00:03:08.052><c> and</c><00:03:08.172><c> we're</c>
+
+00:03:08.282 --> 00:03:08.292 align:start position:0%
+dogs, planes, and trucks, and we're
+ 
+
+00:03:08.292 --> 00:03:11.402 align:start position:0%
+dogs, planes, and trucks, and we're
+training<00:03:08.732><c> a</c><00:03:08.772><c> small</c><00:03:09.252><c> image</c><00:03:09.572><c> model</c><00:03:10.132><c> on</c><00:03:10.332><c> 45,000</c>
+
+00:03:11.402 --> 00:03:11.412 align:start position:0%
+training a small image model on 45,000
+ 
+
+00:03:11.412 --> 00:03:14.642 align:start position:0%
+training a small image model on 45,000
+of<00:03:11.492><c> them.</c><00:03:11.932><c> And</c><00:03:12.052><c> the</c><00:03:12.172><c> catch</c><00:03:12.572><c> is</c><00:03:12.732><c> that</c><00:03:12.932><c> for</c><00:03:13.132><c> 4,500</c>
+
+00:03:14.642 --> 00:03:14.652 align:start position:0%
+of them. And the catch is that for 4,500
+ 
+
+00:03:14.652 --> 00:03:16.442 align:start position:0%
+of them. And the catch is that for 4,500
+of<00:03:14.732><c> those</c><00:03:14.972><c> images,</c><00:03:15.572><c> the</c><00:03:15.692><c> label</c><00:03:16.092><c> has</c><00:03:16.252><c> been</c>
+
+00:03:16.442 --> 00:03:16.452 align:start position:0%
+of those images, the label has been
+ 
+
+00:03:16.452 --> 00:03:18.562 align:start position:0%
+of those images, the label has been
+swapped<00:03:17.052><c> for</c><00:03:17.252><c> a</c><00:03:17.332><c> wrong</c><00:03:17.692><c> one.</c><00:03:18.012><c> The</c><00:03:18.132><c> agent</c><00:03:18.452><c> can</c>
+
+00:03:18.562 --> 00:03:18.572 align:start position:0%
+swapped for a wrong one. The agent can
+ 
+
+00:03:18.572 --> 00:03:21.402 align:start position:0%
+swapped for a wrong one. The agent can
+also<00:03:18.852><c> see</c><00:03:19.092><c> scores</c><00:03:19.652><c> of</c><00:03:19.852><c> 5,000</c><00:03:20.572><c> clean</c><00:03:20.892><c> images,</c>
+
+00:03:21.402 --> 00:03:21.412 align:start position:0%
+also see scores of 5,000 clean images,
+ 
+
+00:03:21.412 --> 00:03:23.362 align:start position:0%
+also see scores of 5,000 clean images,
+so<00:03:21.572><c> it</c><00:03:21.692><c> can</c><00:03:21.852><c> tell</c><00:03:22.212><c> whether</c><00:03:22.572><c> the</c><00:03:22.692><c> model</c><00:03:23.172><c> is</c>
+
+00:03:23.362 --> 00:03:23.372 align:start position:0%
+so it can tell whether the model is
+ 
+
+00:03:23.372 --> 00:03:24.922 align:start position:0%
+so it can tell whether the model is
+really<00:03:23.652><c> improving.</c><00:03:24.412><c> And</c><00:03:24.532><c> then,</c><00:03:24.652><c> there</c><00:03:24.812><c> are</c>
+
+00:03:24.922 --> 00:03:24.932 align:start position:0%
+really improving. And then, there are
+ 
+
+00:03:24.932 --> 00:03:27.482 align:start position:0%
+really improving. And then, there are
+10,000<00:03:25.892><c> more</c><00:03:26.172><c> images</c><00:03:26.852><c> from</c><00:03:26.932><c> the</c><00:03:27.052><c> final</c>
+
+00:03:27.482 --> 00:03:27.492 align:start position:0%
+10,000 more images from the final
+ 
+
+00:03:27.492 --> 00:03:30.042 align:start position:0%
+10,000 more images from the final
+evaluation,<00:03:28.452><c> which</c><00:03:28.652><c> the</c><00:03:28.852><c> agent</c><00:03:29.212><c> model</c><00:03:29.652><c> don't</c>
+
+00:03:30.042 --> 00:03:30.052 align:start position:0%
+evaluation, which the agent model don't
+ 
+
+00:03:30.052 --> 00:03:31.962 align:start position:0%
+evaluation, which the agent model don't
+touch<00:03:30.412><c> until</c><00:03:30.732><c> the</c><00:03:30.852><c> training</c><00:03:31.212><c> is</c><00:03:31.372><c> over.</c><00:03:31.692><c> And</c><00:03:31.852><c> to</c>
+
+00:03:31.962 --> 00:03:31.972 align:start position:0%
+touch until the training is over. And to
+ 
+
+00:03:31.972 --> 00:03:34.642 align:start position:0%
+touch until the training is over. And to
+run<00:03:32.212><c> this,</c><00:03:32.492><c> I</c><00:03:32.572><c> rented</c><00:03:32.972><c> a</c><00:03:33.052><c> single</c><00:03:33.612><c> H100</c><00:03:34.452><c> on</c>
+
+00:03:34.642 --> 00:03:34.652 align:start position:0%
+run this, I rented a single H100 on
+ 
+
+00:03:34.652 --> 00:03:37.322 align:start position:0%
+run this, I rented a single H100 on
+RunPod,<00:03:35.252><c> and</c><00:03:35.412><c> I</c><00:03:35.532><c> ran</c><00:03:35.852><c> both</c><00:03:36.132><c> models</c><00:03:36.732><c> on</c><00:03:36.972><c> it</c><00:03:37.172><c> at</c>
+
+00:03:37.322 --> 00:03:37.332 align:start position:0%
+RunPod, and I ran both models on it at
+ 
+
+00:03:37.332 --> 00:03:40.282 align:start position:0%
+RunPod, and I ran both models on it at
+the<00:03:37.452><c> same</c><00:03:37.732><c> time</c><00:03:38.292><c> with</c><00:03:38.452><c> Claude</c><00:03:38.932><c> Opus</c><00:03:39.292><c> 5.5</c><00:03:40.052><c> as</c>
+
+00:03:40.282 --> 00:03:40.292 align:start position:0%
+the same time with Claude Opus 5.5 as
+ 
+
+00:03:40.292 --> 00:03:42.002 align:start position:0%
+the same time with Claude Opus 5.5 as
+the<00:03:40.532><c> agent,</c><00:03:41.092><c> and</c><00:03:41.292><c> I</c><00:03:41.372><c> built</c><00:03:41.652><c> this</c><00:03:41.812><c> little</c>
+
+00:03:42.002 --> 00:03:42.012 align:start position:0%
+the agent, and I built this little
+ 
+
+00:03:42.012 --> 00:03:44.082 align:start position:0%
+the agent, and I built this little
+dashboard<00:03:42.572><c> so</c><00:03:42.732><c> that</c><00:03:42.932><c> we</c><00:03:43.052><c> can</c><00:03:43.252><c> watch</c><00:03:43.532><c> it</c><00:03:43.692><c> live.</c>
+
+00:03:44.082 --> 00:03:44.092 align:start position:0%
+dashboard so that we can watch it live.
+ 
+
+00:03:44.092 --> 00:03:45.722 align:start position:0%
+dashboard so that we can watch it live.
+So,<00:03:44.252><c> let's</c><00:03:44.452><c> launch</c><00:03:44.732><c> the</c><00:03:44.812><c> experiment.</c><00:03:45.412><c> And</c><00:03:45.572><c> as</c>
+
+00:03:45.722 --> 00:03:45.732 align:start position:0%
+So, let's launch the experiment. And as
+ 
+
+00:03:45.732 --> 00:03:47.402 align:start position:0%
+So, let's launch the experiment. And as
+the<00:03:45.852><c> run</c><00:03:46.052><c> starts,</c><00:03:46.572><c> we</c><00:03:46.692><c> can</c><00:03:46.852><c> see</c><00:03:47.012><c> that</c><00:03:47.212><c> right</c>
+
+00:03:47.402 --> 00:03:47.412 align:start position:0%
+the run starts, we can see that right
+ 
+
+00:03:47.412 --> 00:03:50.322 align:start position:0%
+the run starts, we can see that right
+away<00:03:47.892><c> Claude</c><00:03:48.412><c> makes</c><00:03:48.732><c> a</c><00:03:48.812><c> bold</c><00:03:49.212><c> move</c><00:03:49.732><c> because</c><00:03:50.052><c> on</c>
+
+00:03:50.322 --> 00:03:50.332 align:start position:0%
+away Claude makes a bold move because on
+ 
+
+00:03:50.332 --> 00:03:52.602 align:start position:0%
+away Claude makes a bold move because on
+its<00:03:50.572><c> very</c><00:03:50.892><c> first</c><00:03:51.172><c> decision,</c><00:03:51.732><c> it</c><00:03:51.892><c> replaces</c><00:03:52.412><c> the</c>
+
+00:03:52.602 --> 00:03:52.612 align:start position:0%
+its very first decision, it replaces the
+ 
+
+00:03:52.612 --> 00:03:54.962 align:start position:0%
+its very first decision, it replaces the
+optimizer<00:03:53.492><c> on</c><00:03:53.692><c> most</c><00:03:53.972><c> of</c><00:03:54.052><c> the</c><00:03:54.172><c> model</c><00:03:54.612><c> with</c><00:03:54.772><c> an</c>
+
+00:03:54.962 --> 00:03:54.972 align:start position:0%
+optimizer on most of the model with an
+ 
+
+00:03:54.972 --> 00:03:57.242 align:start position:0%
+optimizer on most of the model with an
+update<00:03:55.412><c> rule</c><00:03:55.772><c> that</c><00:03:55.972><c> it</c><00:03:56.212><c> wrote</c><00:03:56.452><c> itself.</c><00:03:56.972><c> Then,</c>
+
+00:03:57.242 --> 00:03:57.252 align:start position:0%
+update rule that it wrote itself. Then,
+ 
+
+00:03:57.252 --> 00:03:59.762 align:start position:0%
+update rule that it wrote itself. Then,
+around<00:03:57.572><c> the</c><00:03:57.732><c> 24th</c><00:03:58.372><c> pass</c><00:03:58.772><c> through</c><00:03:59.092><c> the</c><00:03:59.212><c> data,</c>
+
+00:03:59.762 --> 00:03:59.772 align:start position:0%
+around the 24th pass through the data,
+ 
+
+00:03:59.772 --> 00:04:01.282 align:start position:0%
+around the 24th pass through the data,
+the<00:03:59.852><c> model</c><00:04:00.092><c> starts</c><00:04:00.372><c> getting</c><00:04:00.692><c> better</c><00:04:01.092><c> on</c>
+
+00:04:01.282 --> 00:04:01.292 align:start position:0%
+the model starts getting better on
+ 
+
+00:04:01.292 --> 00:04:03.644 align:start position:0%
+the model starts getting better on
+training<00:04:01.812><c> images</c><00:04:02.332><c> and</c><00:04:02.532><c> worse</c><00:04:03.014><c> on</c><00:04:03.254><c> the</c><00:04:03.334><c> clean</c>
+
+00:04:03.644 --> 00:04:03.654 align:start position:0%
+training images and worse on the clean
+ 
+
+00:04:03.654 --> 00:04:05.604 align:start position:0%
+training images and worse on the clean
+ones.<00:04:04.014><c> And</c><00:04:04.134><c> we</c><00:04:04.254><c> can</c><00:04:04.374><c> see</c><00:04:04.614><c> that</c><00:04:04.814><c> Claude</c><00:04:05.254><c> writes</c>
+
+00:04:05.604 --> 00:04:05.614 align:start position:0%
+ones. And we can see that Claude writes
+ 
+
+00:04:05.614 --> 00:04:08.044 align:start position:0%
+ones. And we can see that Claude writes
+one<00:04:05.974><c> word</c><00:04:06.294><c> in</c><00:04:06.414><c> capital</c><00:04:06.854><c> letter</c><00:04:07.254><c> in</c><00:04:07.414><c> its</c><00:04:07.614><c> notes,</c>
+
+00:04:08.044 --> 00:04:08.054 align:start position:0%
+one word in capital letter in its notes,
+ 
+
+00:04:08.054 --> 00:04:09.724 align:start position:0%
+one word in capital letter in its notes,
+which<00:04:08.374><c> is</c><00:04:08.694><c> overfitting.</c><00:04:09.374><c> And</c><00:04:09.494><c> this</c><00:04:09.614><c> is</c>
+
+00:04:09.724 --> 00:04:09.734 align:start position:0%
+which is overfitting. And this is
+ 
+
+00:04:09.734 --> 00:04:11.564 align:start position:0%
+which is overfitting. And this is
+another<00:04:10.134><c> really</c><00:04:10.454><c> nice</c><00:04:10.774><c> thing</c><00:04:10.974><c> about</c><00:04:11.254><c> having</c>
+
+00:04:11.564 --> 00:04:11.574 align:start position:0%
+another really nice thing about having
+ 
+
+00:04:11.574 --> 00:04:13.844 align:start position:0%
+another really nice thing about having
+an<00:04:11.774><c> agent</c><00:04:12.174><c> in</c><00:04:12.294><c> the</c><00:04:12.414><c> loop,</c><00:04:12.774><c> because</c><00:04:13.134><c> on</c><00:04:13.334><c> top</c><00:04:13.694><c> of</c>
+
+00:04:13.844 --> 00:04:13.854 align:start position:0%
+an agent in the loop, because on top of
+ 
+
+00:04:13.854 --> 00:04:15.924 align:start position:0%
+an agent in the loop, because on top of
+the<00:04:14.014><c> loss</c><00:04:14.374><c> curves,</c><00:04:14.814><c> we</c><00:04:14.974><c> can</c><00:04:15.174><c> actually</c><00:04:15.534><c> read</c>
+
+00:04:15.924 --> 00:04:15.934 align:start position:0%
+the loss curves, we can actually read
+ 
+
+00:04:15.934 --> 00:04:18.124 align:start position:0%
+the loss curves, we can actually read
+what<00:04:16.094><c> the</c><00:04:16.254><c> AI</c><00:04:16.574><c> is</c><00:04:16.734><c> thinking</c><00:04:17.334><c> as</c><00:04:17.574><c> the</c><00:04:17.694><c> training</c>
+
+00:04:18.124 --> 00:04:18.134 align:start position:0%
+what the AI is thinking as the training
+ 
+
+00:04:18.134 --> 00:04:20.204 align:start position:0%
+what the AI is thinking as the training
+goes<00:04:18.454><c> on.</c><00:04:18.734><c> So</c><00:04:18.894><c> now</c><00:04:19.094><c> it</c><00:04:19.214><c> starts</c><00:04:19.574><c> trying</c><00:04:19.854><c> to</c><00:04:19.974><c> fix</c>
+
+00:04:20.204 --> 00:04:20.214 align:start position:0%
+goes on. So now it starts trying to fix
+ 
+
+00:04:20.214 --> 00:04:21.444 align:start position:0%
+goes on. So now it starts trying to fix
+the<00:04:20.334><c> problem,</c><00:04:20.854><c> and</c><00:04:20.974><c> this</c><00:04:21.094><c> is</c><00:04:21.214><c> really</c>
+
+00:04:21.444 --> 00:04:21.454 align:start position:0%
+the problem, and this is really
+ 
+
+00:04:21.454 --> 00:04:23.284 align:start position:0%
+the problem, and this is really
+interesting.<00:04:21.934><c> It</c><00:04:22.134><c> fails</c><00:04:22.494><c> a</c><00:04:22.534><c> bunch</c><00:04:22.814><c> of</c><00:04:22.934><c> times</c>
+
+00:04:23.284 --> 00:04:23.294 align:start position:0%
+interesting. It fails a bunch of times
+ 
+
+00:04:23.294 --> 00:04:25.524 align:start position:0%
+interesting. It fails a bunch of times
+in<00:04:23.414><c> a</c><00:04:23.494><c> row.</c><00:04:23.934><c> First,</c><00:04:24.254><c> it</c><00:04:24.374><c> tries</c><00:04:24.934><c> a</c><00:04:25.014><c> technique</c>
+
+00:04:25.524 --> 00:04:25.534 align:start position:0%
+in a row. First, it tries a technique
+ 
+
+00:04:25.534 --> 00:04:27.484 align:start position:0%
+in a row. First, it tries a technique
+called<00:04:25.854><c> flooding,</c><00:04:26.454><c> which</c><00:04:26.654><c> pushes</c><00:04:27.014><c> the</c><00:04:27.134><c> loss</c>
+
+00:04:27.484 --> 00:04:27.494 align:start position:0%
+called flooding, which pushes the loss
+ 
+
+00:04:27.494 --> 00:04:29.644 align:start position:0%
+called flooding, which pushes the loss
+back<00:04:27.814><c> up</c><00:04:28.054><c> whenever</c><00:04:28.454><c> it</c><00:04:28.574><c> gets</c><00:04:28.814><c> too</c><00:04:29.014><c> low,</c><00:04:29.534><c> and</c>
+
+00:04:29.644 --> 00:04:29.654 align:start position:0%
+back up whenever it gets too low, and
+ 
+
+00:04:29.654 --> 00:04:31.524 align:start position:0%
+back up whenever it gets too low, and
+then<00:04:29.854><c> it</c><00:04:29.974><c> makes</c><00:04:30.254><c> the</c><00:04:30.334><c> model</c><00:04:30.734><c> worse.</c><00:04:31.294><c> Then</c><00:04:31.454><c> it</c>
+
+00:04:31.524 --> 00:04:31.534 align:start position:0%
+then it makes the model worse. Then it
+ 
+
+00:04:31.534 --> 00:04:33.524 align:start position:0%
+then it makes the model worse. Then it
+tries<00:04:31.894><c> adding</c><00:04:32.214><c> random</c><00:04:32.614><c> noise</c><00:04:32.934><c> to</c><00:04:33.014><c> the</c><00:04:33.134><c> model's</c>
+
+00:04:33.524 --> 00:04:33.534 align:start position:0%
+tries adding random noise to the model's
+ 
+
+00:04:33.534 --> 00:04:35.564 align:start position:0%
+tries adding random noise to the model's
+weights,<00:04:33.974><c> and</c><00:04:34.174><c> that</c><00:04:34.414><c> fails,</c><00:04:34.894><c> too.</c><00:04:35.294><c> Then</c><00:04:35.494><c> it</c>
+
+00:04:35.564 --> 00:04:35.574 align:start position:0%
+weights, and that fails, too. Then it
+ 
+
+00:04:35.574 --> 00:04:37.964 align:start position:0%
+weights, and that fails, too. Then it
+tries<00:04:35.934><c> flooding</c><00:04:36.454><c> one</c><00:04:36.614><c> more</c><00:04:36.814><c> time</c><00:04:37.334><c> on</c><00:04:37.574><c> just</c><00:04:37.854><c> the</c>
+
+00:04:37.964 --> 00:04:37.974 align:start position:0%
+tries flooding one more time on just the
+ 
+
+00:04:37.974 --> 00:04:40.724 align:start position:0%
+tries flooding one more time on just the
+last<00:04:38.334><c> layer,</c><00:04:38.974><c> and</c><00:04:39.214><c> accuracy</c><00:04:39.774><c> falls</c><00:04:40.214><c> to</c><00:04:40.334><c> around</c>
+
+00:04:40.724 --> 00:04:40.734 align:start position:0%
+last layer, and accuracy falls to around
+ 
+
+00:04:40.734 --> 00:04:43.564 align:start position:0%
+last layer, and accuracy falls to around
+52%,<00:04:41.894><c> and</c><00:04:42.014><c> in</c><00:04:42.134><c> its</c><00:04:42.374><c> notes,</c><00:04:42.774><c> Claude</c><00:04:43.214><c> writes,</c>
+
+00:04:43.564 --> 00:04:43.574 align:start position:0%
+52%, and in its notes, Claude writes,
+ 
+
+00:04:43.574 --> 00:04:45.564 align:start position:0%
+52%, and in its notes, Claude writes,
+"Never<00:04:44.014><c> use</c><00:04:44.294><c> flooding</c><00:04:44.694><c> again."</c><00:04:45.214><c> And</c><00:04:45.334><c> after</c>
+
+00:04:45.564 --> 00:04:45.574 align:start position:0%
+"Never use flooding again." And after
+ 
+
+00:04:45.574 --> 00:04:47.404 align:start position:0%
+"Never use flooding again." And after
+all<00:04:45.774><c> of</c><00:04:45.814><c> those</c><00:04:46.014><c> failures,</c><00:04:46.614><c> it</c><00:04:46.774><c> changes</c><00:04:47.254><c> how</c>
+
+00:04:47.404 --> 00:04:47.414 align:start position:0%
+all of those failures, it changes how
+ 
+
+00:04:47.414 --> 00:04:49.004 align:start position:0%
+all of those failures, it changes how
+it's<00:04:47.574><c> thinking</c><00:04:47.934><c> about</c><00:04:48.214><c> the</c><00:04:48.294><c> problem.</c><00:04:48.894><c> It</c>
+
+00:04:49.004 --> 00:04:49.014 align:start position:0%
+it's thinking about the problem. It
+ 
+
+00:04:49.014 --> 00:04:51.084 align:start position:0%
+it's thinking about the problem. It
+decides<00:04:49.534><c> that</c><00:04:49.854><c> only</c><00:04:50.174><c> the</c><00:04:50.294><c> final</c><00:04:50.774><c> state</c>
+
+00:04:51.084 --> 00:04:51.094 align:start position:0%
+decides that only the final state
+ 
+
+00:04:51.094 --> 00:04:53.324 align:start position:0%
+decides that only the final state
+counts,<00:04:51.574><c> so</c><00:04:51.734><c> it</c><00:04:51.934><c> only</c><00:04:52.254><c> had</c><00:04:52.534><c> to</c><00:04:52.694><c> end</c><00:04:52.974><c> up</c><00:04:53.174><c> in</c><00:04:53.294><c> a</c>
+
+00:04:53.324 --> 00:04:53.334 align:start position:0%
+counts, so it only had to end up in a
+ 
+
+00:04:53.334 --> 00:04:55.404 align:start position:0%
+counts, so it only had to end up in a
+good<00:04:53.614><c> place</c><00:04:53.934><c> at</c><00:04:54.134><c> the</c><00:04:54.254><c> very</c><00:04:54.614><c> end.</c><00:04:54.934><c> So</c><00:04:55.094><c> it</c><00:04:55.174><c> lets</c>
+
+00:04:55.404 --> 00:04:55.414 align:start position:0%
+good place at the very end. So it lets
+ 
+
+00:04:55.414 --> 00:04:57.564 align:start position:0%
+good place at the very end. So it lets
+the<00:04:55.494><c> model</c><00:04:55.894><c> bounce</c><00:04:56.254><c> around</c><00:04:56.734><c> with</c><00:04:56.974><c> big</c><00:04:57.214><c> noisy</c>
+
+00:04:57.564 --> 00:04:57.574 align:start position:0%
+the model bounce around with big noisy
+ 
+
+00:04:57.574 --> 00:04:59.364 align:start position:0%
+the model bounce around with big noisy
+steps<00:04:57.974><c> for</c><00:04:58.094><c> a</c><00:04:58.174><c> while,</c><00:04:58.574><c> keeping</c><00:04:58.934><c> a</c><00:04:59.014><c> running</c>
+
+00:04:59.364 --> 00:04:59.374 align:start position:0%
+steps for a while, keeping a running
+ 
+
+00:04:59.374 --> 00:05:01.284 align:start position:0%
+steps for a while, keeping a running
+average<00:04:59.814><c> of</c><00:04:59.974><c> the</c><00:05:00.174><c> weights,</c><00:05:00.534><c> and</c><00:05:00.734><c> then</c><00:05:00.974><c> jump</c>
+
+00:05:01.284 --> 00:05:01.294 align:start position:0%
+average of the weights, and then jump
+ 
+
+00:05:01.294 --> 00:05:03.564 align:start position:0%
+average of the weights, and then jump
+straight<00:05:01.894><c> to</c><00:05:02.094><c> that</c><00:05:02.494><c> average.</c><00:05:02.974><c> And</c><00:05:03.134><c> now</c>
+
+00:05:03.564 --> 00:05:03.574 align:start position:0%
+straight to that average. And now
+ 
+
+00:05:03.574 --> 00:05:05.924 align:start position:0%
+straight to that average. And now
+accuracy<00:05:04.134><c> on</c><00:05:04.334><c> the</c><00:05:04.414><c> clean</c><00:05:04.734><c> images</c><00:05:05.294><c> shoots</c><00:05:05.734><c> up</c>
+
+00:05:05.924 --> 00:05:05.934 align:start position:0%
+accuracy on the clean images shoots up
+ 
+
+00:05:05.934 --> 00:05:08.484 align:start position:0%
+accuracy on the clean images shoots up
+to<00:05:06.094><c> 78%,</c><00:05:07.334><c> which</c><00:05:07.494><c> is</c><00:05:07.614><c> already</c><00:05:07.934><c> better</c><00:05:08.214><c> than</c><00:05:08.414><c> the</c>
+
+00:05:08.484 --> 00:05:08.494 align:start position:0%
+to 78%, which is already better than the
+ 
+
+00:05:08.494 --> 00:05:11.364 align:start position:0%
+to 78%, which is already better than the
+75<00:05:09.334><c> that</c><00:05:09.494><c> the</c><00:05:09.614><c> normal</c><00:05:09.974><c> recipe</c><00:05:10.574><c> finished</c><00:05:10.974><c> with,</c>
+
+00:05:11.364 --> 00:05:11.374 align:start position:0%
+75 that the normal recipe finished with,
+ 
+
+00:05:11.374 --> 00:05:13.204 align:start position:0%
+75 that the normal recipe finished with,
+and<00:05:11.494><c> we're</c><00:05:11.694><c> only</c><00:05:12.054><c> halfway</c><00:05:12.494><c> through</c><00:05:12.774><c> the</c><00:05:12.854><c> run.</c>
+
+00:05:13.204 --> 00:05:13.214 align:start position:0%
+and we're only halfway through the run.
+ 
+
+00:05:13.214 --> 00:05:14.644 align:start position:0%
+and we're only halfway through the run.
+Now,<00:05:13.334><c> here's</c><00:05:13.574><c> something</c><00:05:13.894><c> I</c><00:05:13.974><c> really</c><00:05:14.254><c> like.</c>
+
+00:05:14.644 --> 00:05:14.654 align:start position:0%
+Now, here's something I really like.
+ 
+
+00:05:14.654 --> 00:05:16.684 align:start position:0%
+Now, here's something I really like.
+Claude's<00:05:15.134><c> theory</c><00:05:15.494><c> was</c><00:05:15.654><c> that</c><00:05:15.854><c> averaging</c><00:05:16.494><c> would</c>
+
+00:05:16.684 --> 00:05:16.694 align:start position:0%
+Claude's theory was that averaging would
+ 
+
+00:05:16.694 --> 00:05:18.724 align:start position:0%
+Claude's theory was that averaging would
+cancel<00:05:17.214><c> out</c><00:05:17.374><c> the</c><00:05:17.454><c> memorized</c><00:05:18.014><c> labels,</c><00:05:18.574><c> but</c>
+
+00:05:18.724 --> 00:05:18.734 align:start position:0%
+cancel out the memorized labels, but
+ 
+
+00:05:18.734 --> 00:05:20.644 align:start position:0%
+cancel out the memorized labels, but
+when<00:05:18.894><c> it</c><00:05:19.014><c> checked</c><00:05:19.294><c> the</c><00:05:19.374><c> result,</c><00:05:20.174><c> the</c><00:05:20.294><c> model</c>
+
+00:05:20.644 --> 00:05:20.654 align:start position:0%
+when it checked the result, the model
+ 
+
+00:05:20.654 --> 00:05:23.804 align:start position:0%
+when it checked the result, the model
+was<00:05:20.854><c> still</c><00:05:21.214><c> about</c><00:05:21.774><c> 89%</c><00:05:22.774><c> memorized.</c><00:05:23.454><c> So</c><00:05:23.614><c> it</c>
+
+00:05:23.804 --> 00:05:23.814 align:start position:0%
+was still about 89% memorized. So it
+ 
+
+00:05:23.814 --> 00:05:25.884 align:start position:0%
+was still about 89% memorized. So it
+wrote,<00:05:24.174><c> "My</c><00:05:24.414><c> mechanism</c><00:05:25.014><c> was</c><00:05:25.214><c> wrong"</c><00:05:25.574><c> in</c><00:05:25.694><c> its</c>
+
+00:05:25.884 --> 00:05:25.894 align:start position:0%
+wrote, "My mechanism was wrong" in its
+ 
+
+00:05:25.894 --> 00:05:27.924 align:start position:0%
+wrote, "My mechanism was wrong" in its
+notes,<00:05:26.374><c> and</c><00:05:26.494><c> it</c><00:05:26.614><c> kept</c><00:05:26.894><c> going</c><00:05:27.214><c> anyway.</c><00:05:27.774><c> And</c><00:05:27.894><c> a</c>
+
+00:05:27.924 --> 00:05:27.934 align:start position:0%
+notes, and it kept going anyway. And a
+ 
+
+00:05:27.934 --> 00:05:29.924 align:start position:0%
+notes, and it kept going anyway. And a
+bit<00:05:28.134><c> later,</c><00:05:28.494><c> it</c><00:05:28.614><c> tried</c><00:05:29.014><c> making</c><00:05:29.374><c> those</c><00:05:29.574><c> noisy</c>
+
+00:05:29.924 --> 00:05:29.934 align:start position:0%
+bit later, it tried making those noisy
+ 
+
+00:05:29.934 --> 00:05:31.764 align:start position:0%
+bit later, it tried making those noisy
+steps<00:05:30.334><c> even</c><00:05:30.614><c> bigger,</c><00:05:31.134><c> and</c><00:05:31.294><c> that's</c><00:05:31.574><c> what</c>
+
+00:05:31.764 --> 00:05:31.774 align:start position:0%
+steps even bigger, and that's what
+ 
+
+00:05:31.774 --> 00:05:33.764 align:start position:0%
+steps even bigger, and that's what
+finally<00:05:32.174><c> did</c><00:05:32.454><c> it,</c><00:05:32.574><c> because</c><00:05:32.934><c> memorization</c>
+
+00:05:33.764 --> 00:05:33.774 align:start position:0%
+finally did it, because memorization
+ 
+
+00:05:33.774 --> 00:05:36.804 align:start position:0%
+finally did it, because memorization
+collapsed<00:05:34.254><c> from</c><00:05:34.454><c> around</c><00:05:34.894><c> 87%</c><00:05:36.014><c> down</c><00:05:36.294><c> to</c><00:05:36.454><c> about</c>
+
+00:05:36.804 --> 00:05:36.814 align:start position:0%
+collapsed from around 87% down to about
+ 
+
+00:05:36.814 --> 00:05:39.244 align:start position:0%
+collapsed from around 87% down to about
+4%.<00:05:37.534><c> And</c><00:05:37.694><c> after</c><00:05:38.054><c> one</c><00:05:38.374><c> last</c><00:05:38.654><c> experiment</c>
+
+00:05:39.244 --> 00:05:39.254 align:start position:0%
+4%. And after one last experiment
+ 
+
+00:05:39.254 --> 00:05:41.404 align:start position:0%
+4%. And after one last experiment
+overshoot,<00:05:39.934><c> it</c><00:05:40.134><c> went</c><00:05:40.414><c> back</c><00:05:40.774><c> to</c><00:05:40.934><c> the</c><00:05:41.054><c> best</c>
+
+00:05:41.404 --> 00:05:41.414 align:start position:0%
+overshoot, it went back to the best
+ 
+
+00:05:41.414 --> 00:05:43.684 align:start position:0%
+overshoot, it went back to the best
+saved<00:05:41.734><c> model</c><00:05:42.294><c> and</c><00:05:42.574><c> froze</c><00:05:42.894><c> it.</c><00:05:43.054><c> So</c><00:05:43.174><c> this</c><00:05:43.374><c> really</c>
+
+00:05:43.684 --> 00:05:43.694 align:start position:0%
+saved model and froze it. So this really
+ 
+
+00:05:43.694 --> 00:05:45.404 align:start position:0%
+saved model and froze it. So this really
+shows<00:05:44.054><c> you</c><00:05:44.214><c> that</c><00:05:44.374><c> a</c><00:05:44.414><c> normal</c><00:05:44.854><c> training</c>
+
+00:05:45.404 --> 00:05:45.414 align:start position:0%
+shows you that a normal training
+ 
+
+00:05:45.414 --> 00:05:48.044 align:start position:0%
+shows you that a normal training
+assisted<00:05:46.014><c> by</c><00:05:46.214><c> an</c><00:05:46.414><c> AI</c><00:05:46.694><c> agent</c><00:05:47.214><c> really</c><00:05:47.534><c> gives</c><00:05:47.854><c> it</c>
+
+00:05:48.044 --> 00:05:48.054 align:start position:0%
+assisted by an AI agent really gives it
+ 
+
+00:05:48.054 --> 00:05:49.924 align:start position:0%
+assisted by an AI agent really gives it
+superpowers,<00:05:48.894><c> because</c><00:05:49.174><c> it</c><00:05:49.334><c> can</c><00:05:49.534><c> reason</c>
+
+00:05:49.924 --> 00:05:49.934 align:start position:0%
+superpowers, because it can reason
+ 
+
+00:05:49.934 --> 00:05:52.444 align:start position:0%
+superpowers, because it can reason
+through<00:05:50.174><c> its</c><00:05:50.374><c> findings</c><00:05:50.974><c> in</c><00:05:51.214><c> real</c><00:05:51.494><c> time</c><00:05:52.054><c> as</c><00:05:52.294><c> it</c>
+
+00:05:52.444 --> 00:05:52.454 align:start position:0%
+through its findings in real time as it
+ 
+
+00:05:52.454 --> 00:05:54.044 align:start position:0%
+through its findings in real time as it
+is<00:05:52.614><c> training.</c><00:05:53.214><c> All</c><00:05:53.254><c> right,</c><00:05:53.534><c> so</c><00:05:53.654><c> now</c><00:05:53.854><c> let's</c>
+
+00:05:54.044 --> 00:05:54.054 align:start position:0%
+is training. All right, so now let's
+ 
+
+00:05:54.054 --> 00:05:56.404 align:start position:0%
+is training. All right, so now let's
+look<00:05:54.214><c> at</c><00:05:54.294><c> the</c><00:05:54.414><c> final</c><00:05:54.854><c> exam.</c><00:05:55.494><c> The</c><00:05:55.654><c> fixed</c><00:05:55.974><c> recipe</c>
+
+00:05:56.404 --> 00:05:56.414 align:start position:0%
+look at the final exam. The fixed recipe
+ 
+
+00:05:56.414 --> 00:05:59.604 align:start position:0%
+look at the final exam. The fixed recipe
+got<00:05:56.694><c> 74.4%</c><00:05:58.174><c> of</c><00:05:58.254><c> the</c><00:05:58.414><c> images</c><00:05:58.894><c> right,</c><00:05:59.334><c> and</c><00:05:59.534><c> the</c>
+
+00:05:59.604 --> 00:05:59.614 align:start position:0%
+got 74.4% of the images right, and the
+ 
+
+00:05:59.614 --> 00:06:02.804 align:start position:0%
+got 74.4% of the images right, and the
+version<00:06:00.094><c> with</c><00:06:00.294><c> the</c><00:06:00.534><c> agent</c><00:06:00.894><c> got</c><00:06:01.134><c> 79.1%.</c>
+
+00:06:02.804 --> 00:06:02.814 align:start position:0%
+version with the agent got 79.1%.
+ 
+
+00:06:02.814 --> 00:06:05.445 align:start position:0%
+version with the agent got 79.1%.
+That's<00:06:03.014><c> around</c><00:06:03.294><c> 5%</c><00:06:03.934><c> better</c><00:06:04.454><c> from</c><00:06:04.814><c> the</c><00:06:04.974><c> exact</c>
+
+00:06:05.445 --> 00:06:05.455 align:start position:0%
+That's around 5% better from the exact
+ 
+
+00:06:05.455 --> 00:06:07.365 align:start position:0%
+That's around 5% better from the exact
+same<00:06:05.695><c> model</c><00:06:06.175><c> and</c><00:06:06.415><c> data.</c><00:06:06.815><c> But</c><00:06:06.935><c> the</c><00:06:07.055><c> bigger</c>
+
+00:06:07.365 --> 00:06:07.375 align:start position:0%
+same model and data. But the bigger
+ 
+
+00:06:07.375 --> 00:06:09.565 align:start position:0%
+same model and data. But the bigger
+difference<00:06:07.895><c> is</c><00:06:08.095><c> in</c><00:06:08.255><c> the</c><00:06:08.415><c> loss,</c><00:06:08.975><c> which</c><00:06:09.255><c> is</c><00:06:09.495><c> the</c>
+
+00:06:09.565 --> 00:06:09.575 align:start position:0%
+difference is in the loss, which is the
+ 
+
+00:06:09.575 --> 00:06:11.765 align:start position:0%
+difference is in the loss, which is the
+score<00:06:09.975><c> that</c><00:06:10.175><c> also</c><00:06:10.535><c> punishes</c><00:06:11.095><c> a</c><00:06:11.135><c> model</c><00:06:11.575><c> for</c>
+
+00:06:11.765 --> 00:06:11.775 align:start position:0%
+score that also punishes a model for
+ 
+
+00:06:11.775 --> 00:06:13.805 align:start position:0%
+score that also punishes a model for
+being<00:06:12.095><c> confidently</c><00:06:12.815><c> wrong.</c><00:06:13.375><c> The</c><00:06:13.495><c> fixed</c>
+
+00:06:13.805 --> 00:06:13.815 align:start position:0%
+being confidently wrong. The fixed
+ 
+
+00:06:13.815 --> 00:06:17.405 align:start position:0%
+being confidently wrong. The fixed
+optimizer<00:06:14.495><c> ended</c><00:06:14.855><c> on</c><00:06:15.055><c> 2.39</c><00:06:16.415><c> and</c><00:06:16.575><c> the</c><00:06:16.855><c> agent</c>
+
+00:06:17.405 --> 00:06:17.415 align:start position:0%
+optimizer ended on 2.39 and the agent
+ 
+
+00:06:17.415 --> 00:06:19.725 align:start position:0%
+optimizer ended on 2.39 and the agent
+ended<00:06:17.855><c> on</c><00:06:18.135><c> 0.70.</c>
+
+00:06:19.725 --> 00:06:19.735 align:start position:0%
+ended on 0.70.
+ 
+
+00:06:19.735 --> 00:06:22.005 align:start position:0%
+ended on 0.70.
+So<00:06:19.855><c> that's</c><00:06:20.175><c> a</c><00:06:20.255><c> much</c><00:06:20.735><c> better</c><00:06:21.095><c> score.</c><00:06:21.655><c> And</c><00:06:21.815><c> here</c>
+
+00:06:22.005 --> 00:06:22.015 align:start position:0%
+So that's a much better score. And here
+ 
+
+00:06:22.015 --> 00:06:23.725 align:start position:0%
+So that's a much better score. And here
+are<00:06:22.135><c> the</c><00:06:22.335><c> images.</c><00:06:22.895><c> This</c><00:06:23.095><c> is</c><00:06:23.175><c> a</c><00:06:23.255><c> picture</c><00:06:23.575><c> of</c><00:06:23.695><c> a</c>
+
+00:06:23.725 --> 00:06:23.735 align:start position:0%
+are the images. This is a picture of a
+ 
+
+00:06:23.735 --> 00:06:25.525 align:start position:0%
+are the images. This is a picture of a
+cat<00:06:24.135><c> that</c><00:06:24.255><c> was</c><00:06:24.375><c> labeled</c><00:06:24.735><c> as</c><00:06:24.855><c> a</c><00:06:24.895><c> truck</c><00:06:25.335><c> and</c><00:06:25.455><c> the</c>
+
+00:06:25.525 --> 00:06:25.535 align:start position:0%
+cat that was labeled as a truck and the
+ 
+
+00:06:25.535 --> 00:06:27.805 align:start position:0%
+cat that was labeled as a truck and the
+fixed<00:06:25.815><c> model</c><00:06:26.135><c> says</c><00:06:26.495><c> that</c><00:06:26.695><c> it's</c><00:06:26.895><c> a</c><00:06:26.975><c> truck,</c><00:06:27.575><c> but</c>
+
+00:06:27.805 --> 00:06:27.815 align:start position:0%
+fixed model says that it's a truck, but
+ 
+
+00:06:27.815 --> 00:06:29.765 align:start position:0%
+fixed model says that it's a truck, but
+that's<00:06:28.135><c> what</c><00:06:28.295><c> it</c><00:06:28.415><c> memorized.</c><00:06:29.135><c> The</c><00:06:29.375><c> agent's</c>
+
+00:06:29.765 --> 00:06:29.775 align:start position:0%
+that's what it memorized. The agent's
+ 
+
+00:06:29.775 --> 00:06:31.925 align:start position:0%
+that's what it memorized. The agent's
+model<00:06:30.135><c> says</c><00:06:30.375><c> that</c><00:06:30.535><c> it's</c><00:06:30.695><c> a</c><00:06:30.775><c> cat</c><00:06:31.335><c> even</c><00:06:31.615><c> though</c>
+
+00:06:31.925 --> 00:06:31.935 align:start position:0%
+model says that it's a cat even though
+ 
+
+00:06:31.935 --> 00:06:33.965 align:start position:0%
+model says that it's a cat even though
+it<00:06:32.175><c> was</c><00:06:32.375><c> also</c><00:06:32.815><c> told</c><00:06:33.095><c> that</c><00:06:33.255><c> this</c><00:06:33.415><c> picture</c><00:06:33.735><c> was</c><00:06:33.895><c> a</c>
+
+00:06:33.965 --> 00:06:33.975 align:start position:0%
+it was also told that this picture was a
+ 
+
+00:06:33.975 --> 00:06:35.645 align:start position:0%
+it was also told that this picture was a
+truck.<00:06:34.335><c> Now,</c><00:06:34.615><c> those</c><00:06:34.855><c> are</c><00:06:34.975><c> hand-picked</c>
+
+00:06:35.645 --> 00:06:35.655 align:start position:0%
+truck. Now, those are hand-picked
+ 
+
+00:06:35.655 --> 00:06:39.285 align:start position:0%
+truck. Now, those are hand-picked
+examples,<00:06:36.495><c> but</c><00:06:36.815><c> out</c><00:06:37.055><c> of</c><00:06:37.215><c> all</c><00:06:37.615><c> 4,500</c>
+
+00:06:39.285 --> 00:06:39.295 align:start position:0%
+examples, but out of all 4,500
+ 
+
+00:06:39.295 --> 00:06:41.445 align:start position:0%
+examples, but out of all 4,500
+wrong<00:06:39.575><c> labels,</c><00:06:40.175><c> the</c><00:06:40.255><c> fixed</c><00:06:40.575><c> model</c><00:06:40.935><c> repeated</c>
+
+00:06:41.445 --> 00:06:41.455 align:start position:0%
+wrong labels, the fixed model repeated
+ 
+
+00:06:41.455 --> 00:06:43.925 align:start position:0%
+wrong labels, the fixed model repeated
+every<00:06:41.735><c> single</c><00:06:42.175><c> one</c><00:06:42.495><c> and</c><00:06:42.655><c> the</c><00:06:42.895><c> agent's</c><00:06:43.375><c> model</c>
+
+00:06:43.925 --> 00:06:43.935 align:start position:0%
+every single one and the agent's model
+ 
+
+00:06:43.935 --> 00:06:47.725 align:start position:0%
+every single one and the agent's model
+repeated<00:06:44.415><c> only</c><00:06:44.775><c> 250.</c><00:06:45.935><c> And</c><00:06:46.095><c> for</c><00:06:46.255><c> about</c><00:06:46.575><c> 77%</c><00:06:47.655><c> of</c>
+
+00:06:47.725 --> 00:06:47.735 align:start position:0%
+repeated only 250. And for about 77% of
+ 
+
+00:06:47.735 --> 00:06:49.845 align:start position:0%
+repeated only 250. And for about 77% of
+them,<00:06:48.015><c> it</c><00:06:48.215><c> gave</c><00:06:48.495><c> the</c><00:06:48.615><c> true</c><00:06:48.975><c> answer.</c><00:06:49.575><c> And</c><00:06:49.695><c> my</c>
+
+00:06:49.845 --> 00:06:49.855 align:start position:0%
+them, it gave the true answer. And my
+ 
+
+00:06:49.855 --> 00:06:51.845 align:start position:0%
+them, it gave the true answer. And my
+numbers<00:06:50.255><c> actually</c><00:06:50.615><c> came</c><00:06:50.855><c> out</c><00:06:51.095><c> very</c><00:06:51.415><c> close</c><00:06:51.735><c> to</c>
+
+00:06:51.845 --> 00:06:51.855 align:start position:0%
+numbers actually came out very close to
+ 
+
+00:06:51.855 --> 00:06:54.085 align:start position:0%
+numbers actually came out very close to
+the<00:06:52.095><c> authors</c><00:06:52.695><c> because</c><00:06:53.055><c> their</c><00:06:53.335><c> released</c><00:06:53.815><c> run</c>
+
+00:06:54.085 --> 00:06:54.095 align:start position:0%
+the authors because their released run
+ 
+
+00:06:54.095 --> 00:06:56.565 align:start position:0%
+the authors because their released run
+got<00:06:54.375><c> an</c><00:06:54.575><c> 80%</c><00:06:55.295><c> accuracy.</c><00:06:55.975><c> And</c><00:06:56.095><c> the</c><00:06:56.175><c> whole</c><00:06:56.375><c> thing</c>
+
+00:06:56.565 --> 00:06:56.575 align:start position:0%
+got an 80% accuracy. And the whole thing
+ 
+
+00:06:56.575 --> 00:06:59.125 align:start position:0%
+got an 80% accuracy. And the whole thing
+took<00:06:56.775><c> about</c><00:06:57.095><c> 45</c><00:06:57.735><c> minutes</c><00:06:58.175><c> and</c><00:06:58.295><c> the</c><00:06:58.455><c> agent</c><00:06:58.815><c> cost</c>
+
+00:06:59.125 --> 00:06:59.135 align:start position:0%
+took about 45 minutes and the agent cost
+ 
+
+00:06:59.135 --> 00:07:01.245 align:start position:0%
+took about 45 minutes and the agent cost
+me<00:06:59.215><c> about</c><00:06:59.495><c> $7.60</c>
+
+00:07:01.245 --> 00:07:01.255 align:start position:0%
+me about $7.60
+ 
+
+00:07:01.255 --> 00:07:03.525 align:start position:0%
+me about $7.60
+in<00:07:01.495><c> tokens.</c><00:07:02.095><c> Now,</c><00:07:02.295><c> to</c><00:07:02.415><c> be</c><00:07:02.695><c> fair,</c><00:07:02.975><c> Claude</c>
+
+00:07:03.525 --> 00:07:03.535 align:start position:0%
+in tokens. Now, to be fair, Claude
+ 
+
+00:07:03.535 --> 00:07:05.685 align:start position:0%
+in tokens. Now, to be fair, Claude
+didn't<00:07:03.815><c> invent</c><00:07:04.375><c> this</c><00:07:04.615><c> trick</c><00:07:04.935><c> that</c><00:07:05.175><c> made</c><00:07:05.455><c> this</c>
+
+00:07:05.685 --> 00:07:05.695 align:start position:0%
+didn't invent this trick that made this
+ 
+
+00:07:05.695 --> 00:07:07.965 align:start position:0%
+didn't invent this trick that made this
+work.<00:07:06.175><c> A</c><00:07:06.215><c> technique</c><00:07:06.735><c> called</c><00:07:07.055><c> stochastic</c>
+
+00:07:07.965 --> 00:07:07.975 align:start position:0%
+work. A technique called stochastic
+ 
+
+00:07:07.975 --> 00:07:09.885 align:start position:0%
+work. A technique called stochastic
+weight<00:07:08.335><c> averaging</c><00:07:08.935><c> was</c><00:07:09.095><c> published</c><00:07:09.495><c> back</c><00:07:09.775><c> in</c>
+
+00:07:09.885 --> 00:07:09.895 align:start position:0%
+weight averaging was published back in
+ 
+
+00:07:09.895 --> 00:07:13.085 align:start position:0%
+weight averaging was published back in
+2018<00:07:11.295><c> and</c><00:07:11.455><c> it's</c><00:07:11.615><c> very</c><00:07:11.895><c> close</c><00:07:12.255><c> to</c><00:07:12.375><c> what</c><00:07:12.615><c> Claude</c>
+
+00:07:13.085 --> 00:07:13.095 align:start position:0%
+2018 and it's very close to what Claude
+ 
+
+00:07:13.095 --> 00:07:15.445 align:start position:0%
+2018 and it's very close to what Claude
+landed<00:07:13.535><c> on.</c><00:07:13.855><c> The</c><00:07:13.975><c> paper's</c><00:07:14.495><c> authors</c><00:07:15.055><c> also</c>
+
+00:07:15.445 --> 00:07:15.455 align:start position:0%
+landed on. The paper's authors also
+ 
+
+00:07:15.455 --> 00:07:18.125 align:start position:0%
+landed on. The paper's authors also
+tried<00:07:15.855><c> the</c><00:07:16.015><c> averaging</c><00:07:16.535><c> idea</c><00:07:17.095><c> as</c><00:07:17.535><c> a</c><00:07:17.695><c> plain</c>
+
+00:07:18.125 --> 00:07:18.135 align:start position:0%
+tried the averaging idea as a plain
+ 
+
+00:07:18.135 --> 00:07:20.605 align:start position:0%
+tried the averaging idea as a plain
+fixed<00:07:18.495><c> recipe</c><00:07:18.935><c> with</c><00:07:19.135><c> no</c><00:07:19.375><c> agent</c><00:07:19.895><c> and</c><00:07:20.055><c> that</c><00:07:20.295><c> got</c>
+
+00:07:20.605 --> 00:07:20.615 align:start position:0%
+fixed recipe with no agent and that got
+ 
+
+00:07:20.615 --> 00:07:22.805 align:start position:0%
+fixed recipe with no agent and that got
+about<00:07:21.055><c> 77.5%.</c>
+
+00:07:22.805 --> 00:07:22.815 align:start position:0%
+about 77.5%.
+ 
+
+00:07:22.815 --> 00:07:24.365 align:start position:0%
+about 77.5%.
+So<00:07:22.935><c> a</c><00:07:23.015><c> good</c><00:07:23.215><c> chunk</c><00:07:23.495><c> of</c><00:07:23.575><c> this</c><00:07:23.735><c> improvement</c>
+
+00:07:24.365 --> 00:07:24.375 align:start position:0%
+So a good chunk of this improvement
+ 
+
+00:07:24.375 --> 00:07:26.645 align:start position:0%
+So a good chunk of this improvement
+comes<00:07:24.695><c> from</c><00:07:25.055><c> the</c><00:07:25.335><c> averaging</c><00:07:25.895><c> itself.</c><00:07:26.575><c> And</c>
+
+00:07:26.645 --> 00:07:26.655 align:start position:0%
+comes from the averaging itself. And
+ 
+
+00:07:26.655 --> 00:07:29.565 align:start position:0%
+comes from the averaging itself. And
+this<00:07:26.815><c> was</c><00:07:27.015><c> also</c><00:07:27.535><c> only</c><00:07:27.895><c> one</c><00:07:28.255><c> run</c><00:07:28.615><c> on</c><00:07:28.895><c> only</c><00:07:29.255><c> one</c>
+
+00:07:29.565 --> 00:07:29.575 align:start position:0%
+this was also only one run on only one
+ 
+
+00:07:29.575 --> 00:07:31.805 align:start position:0%
+this was also only one run on only one
+small<00:07:29.935><c> model</c><00:07:30.455><c> with</c><00:07:30.655><c> deliberately</c><00:07:31.335><c> broken</c>
+
+00:07:31.805 --> 00:07:31.815 align:start position:0%
+small model with deliberately broken
+ 
+
+00:07:31.815 --> 00:07:34.165 align:start position:0%
+small model with deliberately broken
+data<00:07:32.335><c> and</c><00:07:32.455><c> the</c><00:07:32.695><c> agent's</c><00:07:33.095><c> run</c><00:07:33.375><c> took</c><00:07:33.695><c> more</c><00:07:33.935><c> than</c>
+
+00:07:34.165 --> 00:07:34.175 align:start position:0%
+data and the agent's run took more than
+ 
+
+00:07:34.175 --> 00:07:36.485 align:start position:0%
+data and the agent's run took more than
+three<00:07:34.495><c> times</c><00:07:34.935><c> longer</c><00:07:35.375><c> than</c><00:07:35.615><c> the</c><00:07:35.735><c> fixed</c><00:07:36.175><c> one,</c>
+
+00:07:36.485 --> 00:07:36.495 align:start position:0%
+three times longer than the fixed one,
+ 
+
+00:07:36.495 --> 00:07:38.365 align:start position:0%
+three times longer than the fixed one,
+mostly<00:07:36.815><c> because</c><00:07:37.095><c> it</c><00:07:37.175><c> was</c><00:07:37.335><c> waiting</c><00:07:37.695><c> on</c><00:07:37.855><c> Claude</c>
+
+00:07:38.365 --> 00:07:38.375 align:start position:0%
+mostly because it was waiting on Claude
+ 
+
+00:07:38.375 --> 00:07:40.445 align:start position:0%
+mostly because it was waiting on Claude
+to<00:07:38.535><c> answer.</c><00:07:39.095><c> But</c><00:07:39.215><c> I</c><00:07:39.295><c> think</c><00:07:39.535><c> the</c><00:07:39.695><c> bigger</c><00:07:40.095><c> idea</c>
+
+00:07:40.445 --> 00:07:40.455 align:start position:0%
+to answer. But I think the bigger idea
+ 
+
+00:07:40.455 --> 00:07:43.325 align:start position:0%
+to answer. But I think the bigger idea
+here<00:07:40.815><c> is</c><00:07:41.175><c> really</c><00:07:41.575><c> promising.</c><00:07:42.335><c> An</c><00:07:42.575><c> optimizer</c>
+
+00:07:43.325 --> 00:07:43.335 align:start position:0%
+here is really promising. An optimizer
+ 
+
+00:07:43.335 --> 00:07:45.405 align:start position:0%
+here is really promising. An optimizer
+has<00:07:43.535><c> always</c><00:07:43.855><c> been</c><00:07:44.015><c> something</c><00:07:44.575><c> a</c><00:07:44.655><c> human</c><00:07:45.095><c> picks</c>
+
+00:07:45.405 --> 00:07:45.415 align:start position:0%
+has always been something a human picks
+ 
+
+00:07:45.415 --> 00:07:47.685 align:start position:0%
+has always been something a human picks
+before<00:07:45.815><c> the</c><00:07:45.935><c> run</c><00:07:46.375><c> and</c><00:07:46.615><c> Opal</c><00:07:47.015><c> treats</c><00:07:47.335><c> it</c><00:07:47.455><c> like</c>
+
+00:07:47.685 --> 00:07:47.695 align:start position:0%
+before the run and Opal treats it like
+ 
+
+00:07:47.695 --> 00:07:50.165 align:start position:0%
+before the run and Opal treats it like
+software<00:07:48.335><c> that</c><00:07:48.535><c> can</c><00:07:48.695><c> be</c><00:07:48.855><c> debugged</c><00:07:49.615><c> while</c><00:07:49.935><c> it's</c>
+
+00:07:50.165 --> 00:07:50.175 align:start position:0%
+software that can be debugged while it's
+ 
+
+00:07:50.175 --> 00:07:52.365 align:start position:0%
+software that can be debugged while it's
+running.<00:07:50.615><c> So</c><00:07:50.775><c> Claude</c><00:07:51.255><c> noticed</c><00:07:51.615><c> the</c><00:07:51.735><c> problem,</c>
+
+00:07:52.365 --> 00:07:52.375 align:start position:0%
+running. So Claude noticed the problem,
+ 
+
+00:07:52.375 --> 00:07:54.645 align:start position:0%
+running. So Claude noticed the problem,
+tested<00:07:52.775><c> its</c><00:07:52.975><c> ideas,</c><00:07:53.655><c> admitted</c><00:07:54.215><c> when</c><00:07:54.415><c> it's</c>
+
+00:07:54.645 --> 00:07:54.655 align:start position:0%
+tested its ideas, admitted when it's
+ 
+
+00:07:54.655 --> 00:07:57.085 align:start position:0%
+tested its ideas, admitted when it's
+wrong,<00:07:55.255><c> and</c><00:07:55.495><c> worked</c><00:07:55.855><c> its</c><00:07:56.055><c> way</c><00:07:56.415><c> to</c><00:07:56.655><c> a</c><00:07:56.735><c> known</c>
+
+00:07:57.085 --> 00:07:57.095 align:start position:0%
+wrong, and worked its way to a known
+ 
+
+00:07:57.095 --> 00:07:59.205 align:start position:0%
+wrong, and worked its way to a known
+technique<00:07:57.655><c> inside</c><00:07:58.135><c> of</c><00:07:58.255><c> a</c><00:07:58.295><c> single</c><00:07:58.735><c> training</c>
+
+00:07:59.205 --> 00:07:59.215 align:start position:0%
+technique inside of a single training
+ 
+
+00:07:59.215 --> 00:08:01.205 align:start position:0%
+technique inside of a single training
+run.<00:07:59.575><c> So</c><00:07:59.735><c> if</c><00:07:59.855><c> this</c><00:08:00.095><c> holds</c><00:08:00.455><c> up</c><00:08:00.695><c> on</c><00:08:00.895><c> bigger</c>
+
+00:08:01.205 --> 00:08:01.215 align:start position:0%
+run. So if this holds up on bigger
+ 
+
+00:08:01.215 --> 00:08:03.525 align:start position:0%
+run. So if this holds up on bigger
+models,<00:08:01.775><c> I</c><00:08:01.895><c> can</c><00:08:02.095><c> see</c><00:08:02.255><c> a</c><00:08:02.335><c> future</c><00:08:02.855><c> where</c><00:08:03.055><c> long</c>
+
+00:08:03.525 --> 00:08:03.535 align:start position:0%
+models, I can see a future where long
+ 
+
+00:08:03.535 --> 00:08:05.645 align:start position:0%
+models, I can see a future where long
+training<00:08:04.055><c> runs</c><00:08:04.415><c> come</c><00:08:04.735><c> with</c><00:08:04.895><c> an</c><00:08:05.135><c> agent</c>
+
+00:08:05.645 --> 00:08:05.655 align:start position:0%
+training runs come with an agent
+ 
+
+00:08:05.655 --> 00:08:08.047 align:start position:0%
+training runs come with an agent
+watching<00:08:06.135><c> over</c><00:08:06.455><c> them,</c><00:08:06.855><c> catching</c><00:08:07.417><c> problems</c>
+
+00:08:08.047 --> 00:08:08.057 align:start position:0%
+watching over them, catching problems
+ 
+
+00:08:08.057 --> 00:08:09.687 align:start position:0%
+watching over them, catching problems
+like<00:08:08.337><c> over</c><00:08:08.617><c> fitting</c><00:08:09.217><c> while</c><00:08:09.497><c> they're</c>
+
+00:08:09.687 --> 00:08:09.697 align:start position:0%
+like over fitting while they're
+ 
+
+00:08:09.697 --> 00:08:11.647 align:start position:0%
+like over fitting while they're
+happening<00:08:10.337><c> instead</c><00:08:10.697><c> of</c><00:08:10.817><c> us</c><00:08:10.977><c> finding</c><00:08:11.417><c> out</c>
+
+00:08:11.647 --> 00:08:11.657 align:start position:0%
+happening instead of us finding out
+ 
+
+00:08:11.657 --> 00:08:13.967 align:start position:0%
+happening instead of us finding out
+after<00:08:11.977><c> the</c><00:08:12.177><c> run</c><00:08:12.497><c> is</c><00:08:12.817><c> already</c><00:08:13.257><c> over.</c><00:08:13.657><c> So,</c><00:08:13.777><c> there</c>
+
+00:08:13.967 --> 00:08:13.977 align:start position:0%
+after the run is already over. So, there
+ 
+
+00:08:13.977 --> 00:08:15.767 align:start position:0%
+after the run is already over. So, there
+you<00:08:14.057><c> have</c><00:08:14.257><c> it,</c><00:08:14.337><c> folks.</c><00:08:14.657><c> That</c><00:08:14.857><c> is</c><00:08:15.097><c> Opal</c><00:08:15.577><c> in</c><00:08:15.737><c> a</c>
+
+00:08:15.767 --> 00:08:15.777 align:start position:0%
+you have it, folks. That is Opal in a
+ 
+
+00:08:15.777 --> 00:08:17.847 align:start position:0%
+you have it, folks. That is Opal in a
+nutshell.<00:08:16.457><c> It's</c><00:08:16.617><c> an</c><00:08:16.737><c> open</c><00:08:16.977><c> source</c><00:08:17.257><c> project</c>
+
+00:08:17.847 --> 00:08:17.857 align:start position:0%
+nutshell. It's an open source project
+ 
+
+00:08:17.857 --> 00:08:19.807 align:start position:0%
+nutshell. It's an open source project
+and<00:08:17.977><c> the</c><00:08:18.057><c> code</c><00:08:18.417><c> is</c><00:08:18.577><c> up</c><00:08:18.817><c> on</c><00:08:19.017><c> GitHub.</c><00:08:19.497><c> So,</c><00:08:19.697><c> I'll</c>
+
+00:08:19.807 --> 00:08:19.817 align:start position:0%
+and the code is up on GitHub. So, I'll
+ 
+
+00:08:19.817 --> 00:08:21.327 align:start position:0%
+and the code is up on GitHub. So, I'll
+leave<00:08:19.977><c> a</c><00:08:20.057><c> link</c><00:08:20.297><c> to</c><00:08:20.417><c> it</c><00:08:20.577><c> in</c><00:08:20.697><c> the</c><00:08:20.817><c> description</c>
+
+00:08:21.327 --> 00:08:21.337 align:start position:0%
+leave a link to it in the description
+ 
+
+00:08:21.337 --> 00:08:23.327 align:start position:0%
+leave a link to it in the description
+below<00:08:21.697><c> if</c><00:08:21.897><c> you</c><00:08:22.017><c> want</c><00:08:22.177><c> to</c><00:08:22.217><c> try</c><00:08:22.537><c> it</c><00:08:22.737><c> on</c><00:08:22.897><c> your</c><00:08:23.137><c> own</c>
+
+00:08:23.327 --> 00:08:23.337 align:start position:0%
+below if you want to try it on your own
+ 
+
+00:08:23.337 --> 00:08:25.087 align:start position:0%
+below if you want to try it on your own
+training<00:08:23.737><c> runs.</c><00:08:24.137><c> And</c><00:08:24.297><c> folks,</c><00:08:24.577><c> if</c><00:08:24.777><c> you</c><00:08:24.857><c> like</c>
+
+00:08:25.087 --> 00:08:25.097 align:start position:0%
+training runs. And folks, if you like
+ 
+
+00:08:25.097 --> 00:08:26.647 align:start position:0%
+training runs. And folks, if you like
+these<00:08:25.257><c> types</c><00:08:25.497><c> of</c><00:08:25.617><c> technical</c><00:08:26.097><c> breakdowns,</c>
+
+00:08:26.647 --> 00:08:26.657 align:start position:0%
+these types of technical breakdowns,
+ 
+
+00:08:26.657 --> 00:08:28.447 align:start position:0%
+these types of technical breakdowns,
+please<00:08:26.977><c> let</c><00:08:27.177><c> me</c><00:08:27.297><c> know</c><00:08:27.497><c> by</c><00:08:27.617><c> smashing</c><00:08:28.017><c> that</c><00:08:28.217><c> like</c>
+
+00:08:28.447 --> 00:08:28.457 align:start position:0%
+please let me know by smashing that like
+ 
+
+00:08:28.457 --> 00:08:30.767 align:start position:0%
+please let me know by smashing that like
+button<00:08:28.777><c> underneath</c><00:08:29.257><c> the</c><00:08:29.337><c> video</c><00:08:30.177><c> and</c><00:08:30.497><c> also</c>
+
+00:08:30.767 --> 00:08:30.777 align:start position:0%
+button underneath the video and also
+ 
+
+00:08:30.777 --> 00:08:32.127 align:start position:0%
+button underneath the video and also
+don't<00:08:31.057><c> forget</c><00:08:31.337><c> to</c><00:08:31.417><c> subscribe</c><00:08:31.897><c> to</c><00:08:32.017><c> our</c>
+
+00:08:32.127 --> 00:08:32.137 align:start position:0%
+don't forget to subscribe to our
+ 
+
+00:08:32.137 --> 00:08:34.087 align:start position:0%
+don't forget to subscribe to our
+channel.<00:08:32.857><c> This</c><00:08:33.017><c> has</c><00:08:33.177><c> been</c><00:08:33.417><c> Andres</c><00:08:33.897><c> from</c>
+
+00:08:34.087 --> 00:08:34.097 align:start position:0%
+channel. This has been Andres from
+ 
+
+00:08:34.097 --> 00:08:36.127 align:start position:0%
+channel. This has been Andres from
+Better<00:08:34.377><c> Stack</c><00:08:34.817><c> and</c><00:08:34.937><c> I</c><00:08:35.017><c> will</c><00:08:35.257><c> see</c><00:08:35.457><c> you</c><00:08:35.897><c> in</c><00:08:36.017><c> the</c>
+
+00:08:36.127 --> 00:08:36.137 align:start position:0%
+Better Stack and I will see you in the
+ 
+
+00:08:36.137 --> 00:08:39.097 align:start position:0%
+Better Stack and I will see you in the
+next<00:08:36.457><c> videos.</c>
+
