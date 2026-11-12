@@ -6,6 +6,13 @@ permalink: sol/prj/hiqsol/library/index
 
 # Index
 
+- 2026-11-12 18:46 - Matt Pocock - 2026-11-12 12:55
+  Using a Home Repo to Coordinate Coding Agents Across Repositories
+  tags: ai, development
+  [article](articles/matt-pocock/2026-11-12-home-repo-pattern.md) |
+  [summary](summary/matt-pocock/2026-11-12-home-repo-pattern.md) |
+  [source](https://youtu.be/hWe-j78vNpc?is=I9HOw20FCQfkoN03)
+
 - 2026-11-09 17:22 - Better Stack - 2026-11-08 00:19
   What OPAL Shows About Agent-Adapted Optimizers and Overfitting
   tags: ai, development, technology
