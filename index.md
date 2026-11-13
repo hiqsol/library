@@ -6,6 +6,13 @@ permalink: sol/prj/hiqsol/library/index
 
 # Index
 
+- 2026-11-13 16:35 - Less Bitter - 2026-11-12 13:00
+  The Anthropic Network Critique Mixes Real Ties with Unsupported Conclusions
+  tags: ai, politics, technology
+  [article](articles/less-bitter/2026-11-12-anthropic-fable-critique.md) |
+  [summary](summary/less-bitter/2026-11-12-anthropic-fable-critique.md) |
+  [source](https://youtu.be/4BnLL7tUGmI?is=-QUleV_FWJeCPjMH)
+
 - 2026-11-12 18:46 - Matt Pocock - 2026-11-12 12:55
   Using a Home Repo to Coordinate Coding Agents Across Repositories
   tags: ai, development
