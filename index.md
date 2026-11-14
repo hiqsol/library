@@ -6,6 +6,13 @@ permalink: sol/prj/hiqsol/library/index
 
 # Index
 
+- 2026-11-14 17:48 - Christian Peverelli - 2026-11-06 02:48
+  Modern Claude Prompting Favors Clear Context and Verifiable Outcomes
+  tags: ai, technology
+  [article](articles/christian-peverelli/2026-11-06-modern-claude-prompting.md) |
+  [summary](summary/christian-peverelli/2026-11-06-modern-claude-prompting.md) |
+  [source](https://youtu.be/izSnNPynvps?is=Vfjl85N0MOjHEAAI)
+
 - 2026-11-14 17:45 - Yanis Varoufakis and Wolfgang Münchau - 2026-10-30 16:00
   AI May Close Career Entrances Before It Eliminates Whole Jobs
   tags: ai, politics, technology
