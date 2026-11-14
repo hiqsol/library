@@ -6,6 +6,13 @@ permalink: sol/prj/hiqsol/library/index
 
 # Index
 
+- 2026-11-14 17:45 - Yanis Varoufakis and Wolfgang Münchau - 2026-10-30 16:00
+  AI May Close Career Entrances Before It Eliminates Whole Jobs
+  tags: ai, politics, technology
+  [article](articles/econoclasts/2026-10-30-ai-entry-level-jobs.md) |
+  [summary](summary/econoclasts/2026-10-30-ai-entry-level-jobs.md) |
+  [source](https://youtu.be/q_5BoKHHW5o?is=paJmNQYYBhTCe6cj)
+
 - 2026-11-13 16:35 - Less Bitter - 2026-11-12 13:00
   The Anthropic Network Critique Mixes Real Ties with Unsupported Conclusions
   tags: ai, politics, technology
