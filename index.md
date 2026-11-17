@@ -6,6 +6,13 @@ permalink: sol/prj/hiqsol/library/index
 
 # Index
 
+- 2026-11-17 19:05 - Andrew Peshkov - 2026-11-17 15:02
+  Ownership Prompts Trade Cleaner Refactoring for More Scope and Cost
+  tags: ai, development, technology
+  [article](articles/andrew-peshkov/2026-11-17-ownership-prompt-code-refactoring.md) |
+  [summary](summary/andrew-peshkov/2026-11-17-ownership-prompt-code-refactoring.md) |
+  [source](https://www.threads.com/@and.all506/post/Df2GaEBG6-B)
+
 - 2026-11-14 17:48 - Christian Peverelli - 2026-11-06 02:48
   Modern Claude Prompting Favors Clear Context and Verifiable Outcomes
   tags: ai, technology
