@@ -6,6 +6,13 @@ permalink: sol/prj/hiqsol/library/index
 
 # Index
 
+- 2026-11-18 07:10 - exit node - 2026-11-02 07:26
+  The AI Coding Opportunity Is Building Reliable Engineering Systems
+  tags: ai, development, technology
+  [article](articles/exit-node/2026-11-02-ai-reset-software-opportunity.md) |
+  [summary](summary/exit-node/2026-11-02-ai-reset-software-opportunity.md) |
+  [source](https://youtu.be/KK-j8JQzqMQ?is=t7c3TwLFCgkBKqNm)
+
 - 2026-11-17 19:05 - Andrew Peshkov - 2026-11-17 15:02
   Ownership Prompts Trade Cleaner Refactoring for More Scope and Cost
   tags: ai, development, technology
