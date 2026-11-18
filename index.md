@@ -6,6 +6,13 @@ permalink: sol/prj/hiqsol/library/index
 
 # Index
 
+- 2026-11-18 19:29 - AI LABS - 2026-11-17 17:31
+  Preventing AI Coding Agents from Following Stale Instructions
+  tags: ai, development, technology
+  [article](articles/ai-labs/2026-11-17-agent-side-quest-prevention.md) |
+  [summary](summary/ai-labs/2026-11-17-agent-side-quest-prevention.md) |
+  [source](https://youtu.be/JhZB3spnuIY?si=9NFF6iXlqhr8LiPJ)
+
 - 2026-11-18 07:10 - exit node - 2026-11-02 07:26
   The AI Coding Opportunity Is Building Reliable Engineering Systems
   tags: ai, development, technology
