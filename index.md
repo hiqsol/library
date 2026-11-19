@@ -6,6 +6,13 @@ permalink: sol/prj/hiqsol/library/index
 
 # Index
 
+- 2026-11-19 16:24 - TransFICC Engineering Team - 2026-11-18 20:00
+  Human Pairing Can Keep AI-Assisted Teams in Control
+  tags: ai, development, technology
+  [article](articles/transficc-engineering-team/2026-11-18-ai-pair-programming-team-learning.md) |
+  [summary](summary/transficc-engineering-team/2026-11-18-ai-pair-programming-team-learning.md) |
+  [source](https://youtu.be/Vk6Ui2uFzRw?is=I5XUYoqcNDA7MF3F)
+
 - 2026-11-19 11:22 - Alex - a1crew - 2026-11-17 17:30
   AI Coding Speed Can Create Cognitive and Architectural Debt
   tags: ai, development, technology
