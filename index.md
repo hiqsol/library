@@ -6,6 +6,13 @@ permalink: sol/prj/hiqsol/library/index
 
 # Index
 
+- 2026-11-19 11:22 - Alex - a1crew - 2026-11-17 17:30
+  AI Coding Speed Can Create Cognitive and Architectural Debt
+  tags: ai, development, technology
+  [article](articles/alex-a1crew/2026-11-17-ai-coding-cognitive-debt.md) |
+  [summary](summary/alex-a1crew/2026-11-17-ai-coding-cognitive-debt.md) |
+  [source](https://youtu.be/jlqBR91AiFI?is=buGDEZOgwFm7UM4C)
+
 - 2026-11-18 19:29 - AI LABS - 2026-11-17 17:31
   Preventing AI Coding Agents from Following Stale Instructions
   tags: ai, development, technology
