@@ -6,6 +6,13 @@ permalink: sol/prj/hiqsol/library/index
 
 # Index
 
+- 2026-11-20 12:09 - Yann LeCun - 2026-11-05 09:45
+  Good-View JEPAs Align Modalities Efficiently but Do Not Prove AGI
+  tags: ai, technology
+  [article](articles/yann-lecun/2026-11-05-jepa-platonic-representation-hypothesis.md) |
+  [summary](summary/yann-lecun/2026-11-05-jepa-platonic-representation-hypothesis.md) |
+  [source](https://youtu.be/_fEqQa5hBmI?si=fE4mSq_IcDewcn8x)
+
 - 2026-11-19 16:24 - TransFICC Engineering Team - 2026-11-18 20:00
   Human Pairing Can Keep AI-Assisted Teams in Control
   tags: ai, development, technology
