@@ -6,6 +6,13 @@ permalink: sol/prj/hiqsol/library/index
 
 # Index
 
+- 2026-11-20 14:37 - Hengyuan Hu - 2026-11-18 16:00
+  Coding Agents Can Control Robots, but VIA Is Slow and Heavily Scaffolded
+  tags: ai, technology
+  [article](articles/hengyuan-hu/2026-11-18-via-visual-interface-agent-robot-control.md) |
+  [summary](summary/hengyuan-hu/2026-11-18-via-visual-interface-agent-robot-control.md) |
+  [source](https://youtu.be/VkvoUCgHP6Q?is=z83qrjwyMstlrfJx)
+
 - 2026-11-20 12:09 - Yann LeCun - 2026-11-05 09:45
   Good-View JEPAs Align Modalities Efficiently but Do Not Prove AGI
   tags: ai, technology
