@@ -6,6 +6,13 @@ permalink: sol/prj/hiqsol/library/index
 
 # Index
 
+- 2026-11-21 13:01 - Max Tegmark - 2026-11-20 22:00
+  AI R&D Is Accelerating, but Full Recursive Self-Improvement Is Not Demonstrated
+  tags: ai, politics, technology
+  [article](articles/max-tegmark/2026-11-20-anthropic-recursive-self-improvement-power.md) |
+  [summary](summary/max-tegmark/2026-11-20-anthropic-recursive-self-improvement-power.md) |
+  [source](https://youtu.be/J9WpNdQYYoo?si=TxZ4k2txWn7gzZd5)
+
 - 2026-11-20 14:37 - Hengyuan Hu - 2026-11-18 16:00
   Coding Agents Can Control Robots, but VIA Is Slow and Heavily Scaffolded
   tags: ai, technology
