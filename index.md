@@ -6,6 +6,13 @@ permalink: sol/prj/hiqsol/library/index
 
 # Index
 
+- 2026-11-22 14:58 - Pourya Kordi - 2026-11-21 15:58
+  AI Is Automating More AI Research, but the Recursive Loop Is Still Open
+  tags: ai, technology
+  [article](articles/pourya-kordi/2026-11-21-google-deepmind-recursive-self-improvement-race.md) |
+  [summary](summary/pourya-kordi/2026-11-21-google-deepmind-recursive-self-improvement-race.md) |
+  [source](https://youtu.be/0r5d9yAoeJ4?is=MuwFe5DPeN6Si0Og)
+
 - 2026-11-21 13:01 - Max Tegmark - 2026-11-20 22:00
   AI R&D Is Accelerating, but Full Recursive Self-Improvement Is Not Demonstrated
   tags: ai, politics, technology
