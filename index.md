@@ -6,6 +6,13 @@ permalink: sol/prj/hiqsol/library/index
 
 # Index
 
+- 2026-11-23 07:17 - Nate B. Jones - 2026-11-22 18:00
+  A Week of Outages Exposed Fragile Infrastructure, Not One AI Attack
+  tags: ai, technology
+  [article](articles/nate-b-jones/2026-11-22-week-of-unrelated-infrastructure-outages.md) |
+  [summary](summary/nate-b-jones/2026-11-22-week-of-unrelated-infrastructure-outages.md) |
+  [source](https://youtu.be/fFeyE4nINqs?is=a7TkRS1Qx4gPD6y-)
+
 - 2026-11-22 14:58 - Pourya Kordi - 2026-11-21 15:58
   AI Is Automating More AI Research, but the Recursive Loop Is Still Open
   tags: ai, technology
