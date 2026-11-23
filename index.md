@@ -6,6 +6,13 @@ permalink: sol/prj/hiqsol/library/index
 
 # Index
 
+- 2026-11-23 14:29 - Jakub Pachocki - 2026-11-22 00:00
+  Perplexity Can Be an Early-Warning Metric, Not a Universal Intelligence Scale
+  tags: ai, technology
+  [article](articles/jakub-pachocki/2026-11-22-perplexity-and-intelligence.md) |
+  [summary](summary/jakub-pachocki/2026-11-22-perplexity-and-intelligence.md) |
+  [source](https://openai.com/index/perplexity-and-intelligence/)
+
 - 2026-11-23 07:17 - Nate B. Jones - 2026-11-22 18:00
   A Week of Outages Exposed Fragile Infrastructure, Not One AI Attack
   tags: ai, technology
