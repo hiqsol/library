@@ -6,6 +6,13 @@ permalink: sol/prj/hiqsol/library/index
 
 # Index
 
+- 2026-11-23 17:37 - Nate B. Jones - 2026-11-23 16:00
+  Model Scores Are Multidimensional, but Different Kinds of Intelligence Remain Unproven
+  tags: ai, technology
+  [article](articles/nate-b-jones/2026-11-23-gpt-astra-gemini-neon-review-gap.md) |
+  [summary](summary/nate-b-jones/2026-11-23-gpt-astra-gemini-neon-review-gap.md) |
+  [source](https://youtu.be/y0WVOisJ6Js?is=TfYpRNU9GpG4jB59)
+
 - 2026-11-23 14:29 - Jakub Pachocki - 2026-11-22 00:00
   Perplexity Can Be an Early-Warning Metric, Not a Universal Intelligence Scale
   tags: ai, technology
